@@ -3,7 +3,7 @@ layout: IT
 nr: 3
 publish: true
 permalink: outlook
-title: outlook
+title: IT ja äriõpetus
 ---
 <p>v 0.1 &nbsp; &nbsp; 19.12.2016 Priit Parmakson</p>
 
