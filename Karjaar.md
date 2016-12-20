@@ -7,6 +7,7 @@ publish: true
 ---
 
 # Karjääritee
+<a class='edit' href='https://github.com/agiil/IT/edit/master/Karjaar.md'><i class="material-icons">create</i></a>
 
 ## "AS IS" (praegune seis)
 - kogemus
@@ -32,3 +33,7 @@ publish: true
 - ettevõtjana jätkamine
 - palgatööle minemine
 - hübriidstrateegia: ettevõtlus töö kõrvalt
+
+- maailmapildi avardamine
+  - IT parem mõistmine
+- arusaamine, kuidas IT-d äris rakendada
