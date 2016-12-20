@@ -12,7 +12,7 @@
         {% if node.title != null %}
           {% if node.layout == "note" %}
             {% if node.publish == true %}
-              <p><a class="RibaElement{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></p>
+              <a class="RibaElement{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
             {% endif %}
           {% endif %}
         {% endif %}
