@@ -12,7 +12,8 @@
         {% if node.title != null %}
           {% if node.layout == "IT" %}
             {% if node.publish == true %}
-              <a class="RibaElement{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+              <a class="RibaElement{% if page.url == node.url %} active{% endif %}"
+                 href="{{ site.baseurl }}/{{ node.permalink }}">{{ node.title }}</a>
             {% endif %}
           {% endif %}
         {% endif %}
