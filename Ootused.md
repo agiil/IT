@@ -1,6 +1,7 @@
 ---
 layout: IT
 nr: 7
+publish: true
 title: Ootused
 permalink: Ootused
 ---
