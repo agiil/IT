@@ -6,7 +6,8 @@ permalink: outlook
 title: IT ja äriõpetus
 ---
 
-<h1 class='no_toc'>IT ja äriõpetus</h1>
+<h1 class='no_toc'>IT ja äriõpe</h1>
+<p class='inset'>Kriitiline pilguheit IT kohale äriõppes</p>
 
 <div style='width: 400px;'>
   <p style='margin-bottom: 0px;'><img src='img/LOOKOUT.jpg' style='width: 100%;'/></p>
