@@ -5,6 +5,6 @@ publish: true
 title: Ülevaade
 ---
 
-# IT ettevõtjale
+# IT ettevõtjale <i class="material-icons edit">create</i>
 
-Plokkskeemidest pilveteenuste ja Blockchain-ideni
+<p class='inset'>Plokkskeemidest pilveteenuste ja Blockchain-ideni</p>
