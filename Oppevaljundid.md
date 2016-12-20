@@ -2,6 +2,7 @@
 layout: IT
 nr: 5
 publish: true
+title: Õppeväljundid
 permalink: Oppevaljundid
 ---
 
