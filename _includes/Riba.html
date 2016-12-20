@@ -10,7 +10,7 @@
       {% assign pages_list = site.pages | sort:"nr" %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "note" %}
+          {% if node.layout == "IT" %}
             {% if node.publish == true %}
               <a class="RibaElement{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
             {% endif %}
