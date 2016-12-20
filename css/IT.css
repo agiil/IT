@@ -12,7 +12,7 @@ a[href] .edit { color: #E0E0E0; text-decoration:none; }
 /* ---- Riba ---- */
 .Riba {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 0 1rem 2rem 1rem;
   background-color: Azure;
 }
 @media (min-width: 48em) {
