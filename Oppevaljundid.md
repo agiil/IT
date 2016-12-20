@@ -7,6 +7,7 @@ permalink: Oppevaljundid
 ---
 
 # Õppeväljundid
+<a class='edit' href='https://github.com/agiil/IT/edit/master/Oppevaljundid.md'><i class="material-icons">create</i></a>
 
 ## Infohaldus
 - oskab korraldada info liikumist organisatsioonis organisatsiooni eesmärkidest lähtuvalt
@@ -25,9 +26,9 @@ permalink: Oppevaljundid
 - oskab arvestada IT rolli konkurentsianalüüsis
 - oskab kujundada IT-le tuginevat ärimudelit ja strateegiat
 
-## IT trendide jälgimine
-- teab tehnoloogiatrende käsitlevaid kvaliteetseid infoallikaid
-- omab ettekujutust tehnoloogia arengu hetkeseisust ühes valitud ärivaldkonnas
+## Trendide teadmine
+- teab IT-trende käsitlevaid kvaliteetseid infoallikaid
+- omab ettekujutust uue IT rakendamise hetkeseisust ühes valitud ärivaldkonnas
 
 <p class='inset'>Nt: O'Reilly Ideas, https://www.oreilly.com/ideas<br>
 McLarty (December 8, 2016) How can a big enterprise benefit from microservices?, https://www.oreilly.com/ideas/how-can-a-big-enterprise-benefit-from-microservices<br>
@@ -49,6 +50,8 @@ Forrester Research, https://go.forrester.com/</p>
 - oskab arvutada IT investeeringute tasuvust
 - oskab sisse osta IT teenuseid
 - oskab koostada IT arenduse lähteülesannet (tellimust)
+- oman ettekujutust IT riskidest
+  - teab riskijuhtimise ja keerukuse haldamise põhitehnikaid
 
 ## IT arenduse juhtimine
 - oskab olla hea äritellija IT-osakonnale või välistele IT-partneritele
@@ -66,6 +69,6 @@ kõrvalteemana:
 <p class='inset'>Agre, Phil (2003) How to Be a Leader in Your Field: A Guide for Students in Professional Schools,       http://polaris.gseis.ucla.edu/pagre/leader.html.</p>
 
 ## Sotsiaalne infotöötlus
-- oskab näha sotsiaalse informatsiooni tähtsust
-- arvestab seda töövoogude ja süsteemide disainimisel, töö korraldamisel
+- mõistab sotsiaalse, mitteformaalse informatsiooni tähtsust
+- oskab arvestada info sotsiaalsust töövoogude ja süsteemide disainimisel, töö korraldamisel
 
