@@ -1,3 +1,10 @@
+---
+layout: IT
+nr: 7
+title: Ootused
+permalink: Ootused
+---
+
 ##Ootused
 
 - saada konkreetseid teadmisi/meetodeid ettevõtte kasvuks, äri strateegiliseks laiendamiseks
