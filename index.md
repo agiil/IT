@@ -5,4 +5,7 @@ publish: true
 title: Ülevaade
 ---
 
-Ülevaade
+# IT ettevõtjale
+
+Plokkskeemist Blockchain-ni
+
