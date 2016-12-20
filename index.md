@@ -7,5 +7,4 @@ title: Ülevaade
 
 # IT ettevõtjale
 
-Plokkskeemist Blockchain-ni
-
+Plokkskeemidest pilveteenuste ja Blockchain-ideni
