@@ -6,10 +6,13 @@ permalink: Eesmark
 title: Õppeaine eesmärk
 ---
 
+# Eesmärk
+<a class='edit' href='https://github.com/agiil/IT/edit/master/Eesmark.md'><i class="material-icons">create</i></a>
+
 Õppeaine eesmärk on anda osalejatele tööturul väärtustatud oskused:
 
 - infohalduse korraldamine
-- äriprotsesside IT abil lahendamine
+- äriprotsessi toetamine ja teostamine IT abil
 - IT kui tootmisteguri juhtimine
 - arusaamine IT arengumehhanismidest
 - IT ettevõtte kasvu võimaldaja ja vahendina
