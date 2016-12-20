@@ -1,0 +1,10 @@
+# Üldised määratlused
+title: IT ettevõtjale
+baseurl: "https://agiil.github.io/IT"
+
+# Build settings
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
