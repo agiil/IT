@@ -5,7 +5,6 @@ publish: true
 permalink: outlook
 title: IT ja äriõpetus
 ---
-<p>v 0.1 &nbsp; &nbsp; 19.12.2016 Priit Parmakson</p>
 
 <h1 class='no_toc'>IT ja äriõpetus</h1>
 
@@ -14,8 +13,8 @@ title: IT ja äriõpetus
   <p class='caption'>Ai Weiwei. Photo by Gao Yuan</p>
 </div>
 
-<div id="piechart" style="position: absolute; left: 140px; top: 0px; 
-  width: 600px; height: 600px; z-index: -1; "></div>
+<!-- div id="piechart" style="position: absolute; left: 140px; top: 0px; 
+  width: 600px; height: 600px; z-index: -1; "></div -->
 
 * TOC
 {:toc}
