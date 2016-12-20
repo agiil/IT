@@ -5,6 +5,7 @@ publish: true
 title: Ülevaade
 ---
 
-# IT ettevõtjale <i class="material-icons edit">create</i>
+# IT ettevõtjale
+<a class='edit' href='https://github.com/agiil/IT/edit/master/index.md'><i class="material-icons">create</i></a>
 
 <p class='inset'>Plokkskeemidest pilveteenuste ja Blockchain-ideni</p>
