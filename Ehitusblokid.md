@@ -12,7 +12,7 @@ Ehitusblokid, ingl _building blocks_ - IT arhitektuuri kujundamise viis, kasutus
 
 Ehitusblokkide arhitektuuripõhimõte on kasutusel mitmete riikide rahvuslike e-taristute ehitamisel:
 
-- Norra rahvusliku e-taristu ehitusblokid ![](img/NO-National-Building-Blocks.PNG)
+- Norra rahvusliku e-taristu ehitusblokid <img src='img/NO-National-Building_Blocks.PNG' width=400 >
 - Soome [National Architecture for Digital Services](https://esuomi.fi/?lang=en)
 - Euroopa Liidu piiriülese e-taristu ehitusblokid: [CEF building blocks](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/CEF+building+blocks).
 
