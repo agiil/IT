@@ -16,8 +16,6 @@ Ehitusblokkide arhitektuuripõhimõte on kasutusel mitmete riikide rahvuslike e-
 
 ![](img/NO-National-Building_Blocks.PNG)
 
-<img src='img/NO-National-Building_Blocks.PNG' width=400 >
-
 - Soome [National Architecture for Digital Services](https://esuomi.fi/?lang=en)
 - Euroopa Liidu piiriülese e-taristu ehitusblokid: [CEF building blocks](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/CEF+building+blocks).
 
