@@ -14,6 +14,8 @@ Ehitusblokkide arhitektuuripõhimõte on kasutusel mitmete riikide rahvuslike e-
 
 - Norra rahvusliku e-taristu ehitusblokid
 
+![](img/NO-National-Building_Blocks.PNG)
+
 <img src='img/NO-National-Building_Blocks.PNG' width=400 >
 
 - Soome [National Architecture for Digital Services](https://esuomi.fi/?lang=en)
