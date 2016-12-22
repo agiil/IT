@@ -1,6 +1,17 @@
 - title: "IT ja äri"
   url: "/outlook"
 
+- title: "Õppest"
+  categories:
+    - title: "Ootused"
+      url: "/Ootused"
+    - title: "Karjäär"
+      url: "/Karjaar"
+    - title: "Tööpõhimõtted"
+      url: "/Toopohimotted"
+    - title: "Eesmärk"
+      url: "/Eesmark"
+
 - title: "Moisted"
   categories:
     - title: "Lihtsus"
