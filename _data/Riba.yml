@@ -1,0 +1,12 @@
+- title: "Home"
+  href: "/"
+
+- title: "Outlook"
+  href: "/outlook"
+
+- title: "Moisted"
+  subcategories:
+    - subtitle: "Lihtsus"
+      subhref: "#"
+    - subtitle: "Ehitusblokid"
+      subhref: "#"
