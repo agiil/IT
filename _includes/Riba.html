@@ -14,8 +14,8 @@
     {% for nav in site.data.Riba %}
       {% if nav.categories != null %}
         <li>
-          <a href="{{ site.baseurl }}{{ nav.url }}" class='closed' onclick='lylita()'>{{ nav.title }} ▼</a>
-          <ul>
+          <a href="{{ site.baseurl }}{{ nav.url }}" onclick='lylita()'>{{ nav.title }} ▼</a>
+          <ul class='closed'>
           {% for category in nav.categories %}
             <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></li>
           {% endfor %}
