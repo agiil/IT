@@ -7,12 +7,12 @@
       {{ site.title }} <i class='Anon'>&mdash; "Awesome stuff"</i>
     </p>
     <p class='inset'>Priit Parmakson</p>
-  </div>
-  
+  </div>  
   
 <nav>
   <ul>
     {% for nav in site.data.Riba %}
+    <p>{{ site.baseurl }} + {{ nav.url }}</p>
       {% if nav.categories != null %}
         <li>
           <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.title }} ▼</a>
