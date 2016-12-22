@@ -3,7 +3,7 @@ layout: IT
 nr: 6
 publish: true
 title: Tööpõhimõtted
-permalink: Toopohimõtted
+permalink: Toopohimotted
 ---
 
 # Tööpõhimõtted
