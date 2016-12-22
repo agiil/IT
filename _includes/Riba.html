@@ -9,7 +9,33 @@
     <p class='inset'>Priit Parmakson</p>
   </div>
   
-  <div class="RibaKleepuv">
+  
+<nav>
+  <ul>
+    {% for nav in site.data.Riba %}
+      {% if nav.subcategories != null %}
+        <li>
+          <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
+          <ul>
+          {% for subcategory in nav.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+          {% endfor %}
+          </ul>
+        </li>
+      {% elsif nav.title == page.title %}
+         <li class="active">
+           <a href="{{ nav.url }}">{{ nav.title }}</a>
+         </li>
+      {% else %} 
+        <li>
+          <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+  
+  <!-- div class="RibaKleepuv">
     <div class="RibaLoetelu">
       {% assign pages_list = site.pages | sort:"nr" %}
       {% for node in pages_list %}
@@ -24,5 +50,5 @@
       {% endfor %}
     </div>
     
-  </div>
+  </div -->
 </div>
