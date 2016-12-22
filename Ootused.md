@@ -1,12 +1,11 @@
 ---
 layout: IT
-nr: 7
 publish: true
 title: Ootused
 permalink: Ootused
 ---
 
-##Ootused
+## Ootused
 
 - saada konkreetseid teadmisi/meetodeid ettevõtte kasvuks, äri strateegiliseks laiendamiseks
 - saada konkreetseid teadmisi/meetodeid ettevõtte töö paremaks korraldamiseks
