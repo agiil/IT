@@ -1,3 +1,6 @@
+.closed {
+  display: none;
+}
 .Anon {
   font-family: 'Anonymous Pro';
 }
