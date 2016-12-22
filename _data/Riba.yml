@@ -1,12 +1,9 @@
-- title: "Home"
-  href: "/"
-
-- title: "Outlook"
-  href: "/outlook"
+- title: "IT ja äri"
+  url: "/outlook"
 
 - title: "Moisted"
-  subcategories:
-    - subtitle: "Lihtsus"
-      subhref: "#"
-    - subtitle: "Ehitusblokid"
-      subhref: "#"
+  categories:
+    - title: "Lihtsus"
+      url: "/Lihtsus"
+    - title: "Ehitusblokid"
+      url: "/Ehitusblokid"
