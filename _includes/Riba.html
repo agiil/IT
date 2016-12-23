@@ -11,11 +11,13 @@
   
 <nav>
   <ul>
+    {% assign id_count = '' %}
     {% for nav in site.data.Riba %}
       {% if nav.categories != null %}
-        <li>
+        {% assign id_count = id_count | append: 'x' %}
+        <li id="alam{{ id_count.size }}">
           <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.title }}</a> <span style='cursor: pointer;' onclick='lylita()'>▼</span>
-          <ul class='closed'>
+          <ul id="alamlist{{ id_count.size }}" class='closed'>
           {% for category in nav.categories %}
             <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></li>
           {% endfor %}
