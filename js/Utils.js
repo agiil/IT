@@ -1,6 +1,8 @@
 
 function lylita() {
   alert('siin');
+  var see = $(this);
+  alert('see leitud');
   alert($(this).css('color'));
   $(this).css('backgroundColor', 'Blue');
   $(this).parent().addClass('closed');
