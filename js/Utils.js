@@ -3,6 +3,12 @@ function lylita() {
   alert('siin');
   var see = $(this).parent().find('ul').first();
   alert('eesmärk leitud');
+  if (see.hasClass('closed')) {
+    alert('omab klassi closed');
+  }
+  else {
+    alert('ei oma klassi closed');
+  }
   alert(JSON.stringify(see));
   alert('nägid?');
   alert($(this).css('color'));
