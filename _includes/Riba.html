@@ -1,6 +1,6 @@
 <script>
   function lylita() {
-    var alam = $(this).parent().children('ul');
+    var alam = $(this).parent().find('ul').first();
     if (alam.hasClass('closed')) {
       alam.removeClass('closed')
     }
