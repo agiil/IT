@@ -16,7 +16,7 @@
       {% if nav.categories != null %}
         {% assign id_count = id_count | append: 'x' %}
         <li id="alam{{ id_count.size }}">
-          <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.title }}</a> <span style='cursor: pointer;' onclick='lylita()'>▼</span>
+          <a id="{{ id_count.size }}" href="{{ site.baseurl }}{{ nav.url }}">{{ nav.title }}</a> <span style='cursor: pointer;' onclick='lylita()'>▼</span>
           <ul id="alamlist{{ id_count.size }}" class='closed'>
           {% for category in nav.categories %}
             <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></li>
