@@ -15,17 +15,18 @@
     {% for nav in site.data.Riba %}
       {% if nav.categories != null %}
         {% assign id_count = id_count | append: 'x' %}
-        <li id="alam{{ id_count.size }}">
+        <li>
           <a 
             href="{{ site.baseurl }}{{ nav.url }}">{{ nav.title }}
-          </a> 
+          </a>
+          <!-- Alammenüü lüliti --> 
           <a
             id="{{ id_count.size }}"
             class="lyliti"
           >
             ▼
           </a>
-          <ul id="alamlist{{ id_count.size }}" class='closed'>
+          <ul id="alam{{ id_count.size }}" class='alammenyy'>
           {% for category in nav.categories %}
             <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></li>
           {% endfor %}
