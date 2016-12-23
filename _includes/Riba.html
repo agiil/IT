@@ -20,13 +20,13 @@
             href="{{ site.baseurl }}{{ nav.url }}">{{ nav.title }}
           </a>
           <!-- Alammenüü lüliti --> 
-          <a
+          <span
             id="{{ id_count.size }}"
             class="lyliti"
           >
             ▼
-          </a>
-          <ul id="alam{{ id_count.size }}" class='alammenyy'>
+          </span>
+          <ul id="alammenyy{{ id_count.size }}" class='alammenyy'>
           {% for category in nav.categories %}
             <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></li>
           {% endfor %}

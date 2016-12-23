@@ -6,7 +6,7 @@ function init() {
   // Bind toggling handler to submenu switches
   $('.lyliti').click(function() {
     var i = $(this).attr('id');
-    // alert('id=' + i);
+    alert('id=' + i);
     $('#alammenyy' + i).toggle();
   });
 }
