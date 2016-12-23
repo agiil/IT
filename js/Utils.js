@@ -1,6 +1,6 @@
 
 function lylita() {
-  alert('siin');
+  alert('parent id:' + $(this).parent().attr('id'));
   var see = $(this).parent().find('ul').first();
   alert('eesmärk leitud');
   if (see.hasClass('closed')) {
