@@ -2,9 +2,10 @@
 title: IT ettevõtjale
 baseurl: "https://agiil.github.io/IT"
 
-# Build settings
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+

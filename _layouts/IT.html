@@ -17,9 +17,14 @@
 
   </head>
   <body onload='init()'>
-    {% include Riba.html %}
+
+    {% if page.sidebar %}
+      {% include Riba.html %}
+    {% endif %}
+
     <div class='Tekst'>
       {{ content }}
     </div>
+
   </body>
 </html>
