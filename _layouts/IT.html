@@ -19,9 +19,12 @@
   <body onload='init()'>
     <!-- Flexbox -->
     <div id='Container'>
-
-      {% if page.sidebar %}
-        {% include Riba.html %}
+      {% if page.draft %}
+        {% include Ettevalmistuses.html %}
+      {% else %}  
+        {% if page.sidebar %}
+          {% include Riba.html %}
+        {% endif %}
       {% endif %}
 
       <div id='Tekst'>
