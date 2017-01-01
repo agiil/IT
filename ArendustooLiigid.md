@@ -1,6 +1,4 @@
 ---
-layout: IT
-nr: 2
 publish: true
 title: Arendustööde liigid, väljendatud võimetena
 permalink: ArendustooLiigid

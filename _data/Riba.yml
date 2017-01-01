@@ -1,6 +1,9 @@
 - title: "IT ja äri"
   url: "/outlook"
 
+- title:
+  url: "/Infoarhitektuur"
+
 - title: "Õppest"
   categories:
     - title: "Ootused"

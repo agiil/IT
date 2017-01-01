@@ -1,6 +1,4 @@
 ---
-layout: IT
-nr: 6
 publish: true
 permalink: Eesmark
 title: Õppeaine eesmärk

@@ -1,11 +1,10 @@
-# Üldised määratlused
 title: IT ettevõtjale
 baseurl: "https://agiil.github.io/IT"
 
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "" # Kõik failid
     values:
-      layout: "default"
-
+      layout: "IT"
+      
