@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Ülevaade
+sidebar: true
 ---
 
 # IT ettevõtjale
