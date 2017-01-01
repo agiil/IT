@@ -4,3 +4,4 @@ title: Infoarhitektuur
 
 ## Infoarhitektuur
 
+Žanrid:
