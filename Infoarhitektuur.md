@@ -1,7 +1,0 @@
----
-title: Infoarhitektuur
----
-
-## Infoarhitektuur
-
-Žanrid:
