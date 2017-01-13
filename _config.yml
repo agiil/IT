@@ -7,4 +7,5 @@ defaults:
       path: "" # Kõik failid
     values:
       layout: "IT"
-      
+      draft: "false"
+      sidebar: "true"

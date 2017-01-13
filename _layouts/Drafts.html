@@ -16,21 +16,18 @@
     <script src='{{ site.baseurl }}/js/Utils.js'></script>
 
   </head>
-  <body onload='init()'>
-    <!-- Flexbox -->
-    <div id='Container'>
-      {% if page.sidebar %}
-        {% include Riba.html %}
+  <body>
+
+    {{ content }}
+    
+    {% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if page.draft %}
+          <a href="{{ site.baseurl }}/{{ node.permalink }}">{{ node.title }}</a><br>
+        {% endif %}
       {% endif %}
-
-      <div id='Tekst'>
-        {{ content }}
-      </div>
-    </div>
-
-    <!-- Footer -->
-    <div style='margin-top: 4rem;'>
-     &nbsp;
-    </div>
+    {% endfor %}    
+        
   </body>
 </html>
