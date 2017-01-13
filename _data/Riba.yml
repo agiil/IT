@@ -1,3 +1,6 @@
+- title: "Korraldus"
+  url: "/Korraldus"
+
 - title: "1 Informatsioon"
   categories:
     - title: "Informatsioon"
@@ -6,6 +9,7 @@
     - url: "/Vaartus"
     - title: "Info kvaliteet"
     - url: "/Kvaliteet"
+
 - title: "2 Tehnoloogiad"
   categories:
     - title: "Tehnoloogiate (tarkvarade) hindamine ja valik"
@@ -14,6 +18,7 @@
     - url: "/"
     - title: "IT valitsemine (governance)"
     - url: "/"
+
 - title: "3 Infohaldus"
   categories:
     - title: "Infohaldus (information management)"
@@ -24,6 +29,7 @@
     - url: "/"
     - title: "Terviklik infohaldus"
     - url: "/"
+
 - title: "4 Protsessi disain"
   categories:
     - title: "IT-põhine äriprotsessi (-teenuse) disain"
@@ -42,6 +48,7 @@
     - url: "/"
     - title: "Lean IT"
     - url: "/"
+
 - title: "5 IT-teenuste sisseostmine"
   categories:
     - title: "IT-teenuste, sh arendustööde sisseostmine"
@@ -68,6 +75,7 @@
     - url: "/"
     - title: "Riskijuhtimine, infoturve jt aspektid"
     - url: "/"
+
 - title: "6 IT, innovatsioon ja strateegia"
   categories:
     - title: "IT-põhise äristrateegia kujundamine"
