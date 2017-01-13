@@ -1,76 +1,76 @@
-- title: 1 Informatsioon
+- title: "1 Informatsioon"
   categories:
-    - title: Informatsioon
+    - title: "Informatsioon"
     - url: "/Info"
-    - title: Väärtusloome infoühiskonnas
+    - title: "Väärtusloome infoühiskonnas"
     - url: "/Vaartus"
-    - title: Info kvaliteet
+    - title: "Info kvaliteet"
     - url: "/Kvaliteet"
-- title: 2 Tehnoloogiad
+- title: "2 Tehnoloogiad"
   categories:
-    - title: Tehnoloogiate (tarkvarade) hindamine ja valik
+    - title: "Tehnoloogiate (tarkvarade) hindamine ja valik"
     - url: "/"
-    - title: Ettevõtte IT arhitektuur
+    - title: "Ettevõtte IT arhitektuur"
     - url: "/"
-    - title: IT valitsemine (governance)
+    - title: "IT valitsemine (governance)"
     - url: "/"
-- title: 3 Infohaldus
+- title: "3 Infohaldus"
   categories:
-    - title: Infohaldus (information management)
+    - title: "Infohaldus (information management)"
     - url: "/"
-    - title: Töö IT-keskkonnas
+    - title: "Töö IT-keskkonnas"
     - url: "/"
-    - title: Efektiivse töövoo (workflow) kujundamine
+    - title: "Efektiivse töövoo (workflow) kujundamine"
     - url: "/"
-    - title: Terviklik infohaldus
+    - title: "Terviklik infohaldus"
     - url: "/"
-- title: 4 Protsessi disain
+- title: "4 Protsessi disain"
   categories:
-    - title: IT-põhine äriprotsessi (-teenuse) disain
+    - title: "IT-põhine äriprotsessi (-teenuse) disain"
     - url: "/"
-    - title: AS IS analüüs
+    - title: "AS IS analüüs"
     - url: "/"
-    - title: Protsessimudel
+    - title: "Protsessimudel"
     - url: "/"
-    - title: Protsessiparenduste, IT rakendamisvõimaluste väljaselgitamine ja hindamine
+    - title: "Protsessiparenduste, IT rakendamisvõimaluste väljaselgitamine ja hindamine"
     - url: "/"
-    - title: Sotsiaalne teostatavus
+    - title: "Sotsiaalne teostatavus"
     - url: "/"
-    - title: TO BE mudel
+    - title: "TO BE mudel"
     - url: "/"
-    - title: Automatiseerimine
+    - title: "Automatiseerimine"
     - url: "/"
-    - title: Lean IT 
+    - title: "Lean IT"
     - url: "/"
-- title: 5 IT-teenuste sisseostmine
+- title: "5 IT-teenuste sisseostmine"
   categories:
-    - title: IT-teenuste, sh arendustööde sisseostmine
+    - title: "IT-teenuste, sh arendustööde sisseostmine"
     - url: "/"
-    - title: IT-teenuste liigid
+    - title: "IT-teenuste liigid"
     - url: "/"
-    - title: Raamistikud ja standardid - ITIL, COBIT jt
+    - title: "Raamistikud ja standardid - ITIL, COBIT jt"
     - url: "/"
-    - title: Uued vormid - SaaS (software as a service), PaaS (platform as a service), IaaS (infrastructure as a service)
+    - title: "Uued vormid - SaaS (software as a service), PaaS (platform as a service), IaaS (infrastructure as a service)"
     - url: "/"
-    - title: IT-projektide ettevalmistamine
+    - title: "IT-projektide ettevalmistamine"
     - url: "/"
-    - title: Ärivajadused
+    - title: "Ärivajadused"
     - url: "/"
-    - title: Nõuete väljaselgitamine
+    - title: "Nõuete väljaselgitamine"
     - url: "/"
-    - title: Tasuvusanalüüs
+    - title: "Tasuvusanalüüs"
     - url: "/"
-    - title: IT-investeeringute portfell
+    - title: "IT-investeeringute portfell"
     - url: "/"
-    - title: Arendustöö korraldamine
+    - title: "Arendustöö korraldamine"
     - url: "/"
-    - title: Tarkvaraarenduse metoodikad (fundamentaalsed, agiilsed)
+    - title: "Tarkvaraarenduse metoodikad (fundamentaalsed, agiilsed)"
     - url: "/"
-    - title: Riskijuhtimine, infoturve jt aspektid
+    - title: "Riskijuhtimine, infoturve jt aspektid"
     - url: "/"
-- title: 6 IT, innovatsioon ja strateegia
+- title: "6 IT, innovatsioon ja strateegia"
   categories:
-    - title: IT-põhise äristrateegia kujundamine
+    - title: "IT-põhise äristrateegia kujundamine"
     - url: "/"
-    - title: IT strateegia
+    - title: "IT strateegia"
     - url: "/"
