@@ -6,7 +6,7 @@ permalink: Kasv
 # Ettevõtte kasv ja IT
 {: .no_toc}
 
--
+- TOC
 {:toc}
 
 ## Ettevõtluse põletavaim probleem
