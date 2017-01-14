@@ -17,7 +17,9 @@ h1, h2 {
   margin-top: 1em; }
 h1 { font-size: 170%; }  
 h2 { font-size: 130%; }
-h3 { text-decoration: underline; margin: 1em 0; }
+h3 { font-family: 'Times New Roman', serif;
+  font-size: 14pt; 
+  text-decoration: underline; margin: 1em 0; }
 
 /* Paragraphs and Lists */
 p { margin: 1em 0; }

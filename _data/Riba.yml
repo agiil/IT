@@ -13,7 +13,7 @@
 - title: "2 Tehnoloogiad"
   categories:
     - title: "Tehnoloogiate (tarkvarade) hindamine ja valik"
-      url: "/"
+      url: "/Tehno"
     - title: "Ettevõtte IT arhitektuur"
       url: "/"
     - title: "IT valitsemine (governance)"
@@ -73,8 +73,8 @@
       url: "/"
     - title: "Arendustöö korraldamine"
       url: "/"
-    - title: "Tarkvaraarenduse metoodikad (fundamentaalsed, agiilsed)"
-      url: "/"
+    - title: "Agiilne arendus"
+      url: "/Agiil"
     - title: "Riskijuhtimine, infoturve jt aspektid"
       url: "/"
 
