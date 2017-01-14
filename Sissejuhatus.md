@@ -10,13 +10,15 @@ __Ettevõte kui maagiline masin__. Hästitöötav IT on nagu maagiline jõud (se
 IT on huvitav ka intellektuaalselt ja esteetiliselt.
 {: .s}
 
-### See veebisait
+Käesolev veebisait täidab nii loengukonspekti, loenguslaidide kui ka teatmelise materjali rolli.
 
-on __elav dokument__ ja ühtlasi loengukonspekt (spetsifikatsioon) 
+Infotehnoloogiliselt on veebisait "teadmuse organiseerimise süsteem" (_knowledge organisation system_), vt [Äritaksonoomia](/IT/Takson).
+
+__Elava dokumendina__ täieneb materjal aeg-ajalt. Elavus on IT-s saanud väga oluliseks. Tarkvara valikul on üheks olulisemaks kriteeriumiks see, kas tarkvara arendatakse ja hooldatakse aktiivselt. Hea indikatsiooni selle kohta saab avalikust koodirepost (nt [GitHub](https://github.com/)).
+
+Veebimaterjali eesmärkideks on ajakohasus, olulisus ja jõudumööda ka entsüklopeedilisus (kõik oluline ja uus kajastatud). 
 
 > "Maybe your specs are out of date and don't reflect the product. My specs are updated frequently. The updating continues as the product is developed and new decisions are made. The spec always reflects our best collective understanding of how the product is going to work. The spec is only frozen when the product is code complete." What's a Spec?--Joel Spolsky
-
-Infotehnoloogiliselt on see veebisait "teadmuse organiseerimise süsteem" (_knowledge organisation system_), vt [Äritaksonoomia](/IT/Takson).
 
 ### Juhtmõte
 
