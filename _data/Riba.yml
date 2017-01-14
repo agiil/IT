@@ -1,3 +1,9 @@
+- title: "Sissejuhatus"
+  categories:
+    - title: "Sissejuhatus"  
+      url: "Sissejuhatus"
+    - title: "Ettevõtte kasv ja IT"
+      url: "Kasv"  
 
 - title: "1 Informatsioon"
   categories:
@@ -35,7 +41,7 @@
 - title: "4 Protsessi disain"
   categories:
     - title: "IT-põhine äriprotsessi (-teenuse) disain"
-      url:
+      url: "/Protsess"
     - title: "AS IS analüüs"
       url:
     - title: "Protsessimudel"
@@ -80,6 +86,8 @@
 
 - title: "6 IT, innovatsioon ja strateegia"
   categories:
+    - title: "Innovatsioon"
+      url: "/Innovatsioon"
     - title: "IT-põhise äristrateegia kujundamine"
       url:
     - title: "IT strateegia"

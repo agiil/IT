@@ -4,6 +4,59 @@ permalink: Monitooring
 ---
 
 # Tehnoloogiate monitooring
+{: .no_toc}
+
+- 
+{:toc}
+
+__Tehnoloogiatrend__ on uue, paljulubava tehnoloogia tulemine, populaarsuse võitmine.
+
+__Tehnoloogia reklaamlause__ on lühike lause, fraas või ka ainult sõna või tähtlühend, mis esitab kokkuvõtlikult, löövalt ja atraktiivselt uue tehnoloogia "lubaduse". Nt `connected everything`.
+
+Aktuaalseid IT-trende ja -reklaamlauseid
+
+  Factory of the Future (FoF)
+  asjade internet, Internet of Things (IoT)
+  smart cities
+  smart living environments
+  driverless cars
+  wearables
+  mobile health
+  agro-food
+  cyber physical systems
+  digital innovation hubs
+  silo-breaking research and innovation practices
+  non-centric architectural thinking
+  blockchain
+  software defined everything
+  new forms of search engines and data crawlers
+  personal data spaces
+  beyond IP
+  Smart Anything Everywhere
+  disappearing computers
+  fog and edge computing
+  robot-based innovation in services
+  innovation ecosystems
+  accessible to everyone, anytime on any device
+  emotional monitoring
+  take-up actions
+  multi-platform scenarios
+  disruptive usages of smart objects and digital companions
+  cross-cutting activities
+  active ageing
+  seamless services and experiences
+  R&I - research & innovation
+  future-proofing
+  Lifestyle management
+  Person as a platform (PaaP)
+  Connected everything
+  Killer capability
+  Journey to new marketplace
+  Creating amazing value
+  Maximum viable access
+
+
+## Tehnoloogiatrendide jälgimine teenusena
 
 [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
 [O'Reilly Ideas](https://www.oreilly.com/ideas)
