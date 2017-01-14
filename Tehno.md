@@ -45,6 +45,8 @@ Järeldus 2. Organisatsioonid tüüpiliselt omavad vaid ebaselget ülevaadet oma
 
 ## "Awesome stuff"
 
+__ahhetamapanev__, ingl _awesome_ ⟶ That’s awesome, man!
+
 IT is seen today inavoidable, often decisive ingredient of any great product or service (but this does not eliminate awesome inefficiencies in bureaucratic systems, among other things)
 
 ## Maagia
