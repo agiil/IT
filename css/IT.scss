@@ -1,6 +1,7 @@
 ---
- Front matter
 ---
+
+$mutedblue: #607D8B;
 
 /* Keha */
 body {
@@ -99,19 +100,19 @@ pre { margin-top: 1em; margin-bottom: 1em; }
 
 /* Lingid */
 a[href] {
-  color: #607D8B;
+  color: $mutedblue;
   text-decoration: none;
-  border-bottom: 1px solid #607D8B;
+  border-bottom: 1px solid $mutedblue;
   padding: 0 1px 0;
   margin: 0 -1px 0;
 }
 a:visited {
-  border-bottom-color: #607D8B;
+  border-bottom-color: $mutedblue;
 }
 
 a[href]:focus,
 a[href]:hover {
-  background: #607D8B;
+  background: $mutedblue;
   background: rgba(75%, 75%, 75%, .25);
   border-bottom-width: 3px;
   margin-bottom: -2px;

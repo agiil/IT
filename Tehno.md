@@ -25,6 +25,7 @@ Näiteks juba käesoleva väikese veebisaidi tegemisel on kasutatud tervet rida 
     - [Kramdown](https://kramdown.gettalong.org/) - Jekylli preprotsessor (eeltöötleja)
   - [HTML5](https://www.w3.org/TR/html5/) - universaalne veebikeel
   - [CSS3](https://www.w3.org/standards/techs/css#w3c_all) - veebi kujunduskeel
+  - [Sass](http://sass-lang.com/)
   - [Liquid](http://shopify.github.io/liquid/) - templiidikeel
   - [YAML](http://yaml.org/) - lihtne märgendkeel
   - [Sublime Text 3](http://docs.sublimetext.info/en/latest/index.html) - programmeerija tekstiredaktor
