@@ -7,11 +7,11 @@ permalink: Kasv
 {: .no_toc}
 
 -
-{: toc}
+{:toc}
 
 ## Ettevõtluse põletavaim probleem
 
-<p class='lead'>Mis on see põletav probleem, mis ettevõtjaid IT-ga seoses huvitab?</p>
+Mis on see põletav probleem, mis ettevõtjaid IT-ga seoses huvitab?
 
 See peaks olema midagi suuremat kui igapäevane IT-ga hakkamasaamine. Igapäevane IT-ga hakkamasaamine on oluline, kuid sellest jääks väheks.
 
