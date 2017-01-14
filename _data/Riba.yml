@@ -29,6 +29,8 @@
       url: "/"
     - title: "Terviklik infohaldus"
       url: "/"
+    - title: "Äritaksonoomia"
+      url: "/Takson"
 
 - title: "4 Protsessi disain"
   categories:
