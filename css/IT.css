@@ -57,7 +57,10 @@ nav ul { list-style-type: none; }
 
 /* Tekst */
 .lead { font-family: 'Anonymous Pro', sans-serif; }
-.disabled { color:#000000; opacity:0.38; } 
+.disabled { color:#000000; opacity:0.38; }
+
+/* Bibliograafia üksus */
+.ref { font-size: 12pt; }
 
 /* Redigeerimisnupp */
 .edit { 

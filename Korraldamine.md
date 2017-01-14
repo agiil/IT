@@ -60,5 +60,7 @@ ISO/IEC 20000 IT Service Management
 ISO/IEC 27000 Information Security Management Systems
 
 [1] Oberschneider, Paul (2016) Miks müüa takosid Aafrikas? 
+{: .ref}
 
 [2] Toomey, M & Juiz, C (2015) To Govern IT, or Not to Govern IT? Communications of the ACM.
+{: .ref}

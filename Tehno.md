@@ -7,7 +7,7 @@ permalink: Tehno
 
 __Tehnoloogia__ algses, antiik-Kreekast pärit tähenduses on oskus või kunst midagi produktiivset teha (kr τέχνη, techne, "oskus, kunst"; -λογία, -logia).
 
-Seetõttu on natuke taotoloogiline rääkida tehnoloogia rakendamisest. Tehnoloogia ongi see, kuidas tehakse.
+Seetõttu on natuke tautoloogiline rääkida tehnoloogia rakendamisest. Tehnoloogia ongi see, kuidas tehakse.
 
 Tarkvara kontekstis võib tehnoloogia tähendada suhteliselt spetsiifilisi asju. Näiteks [autocomplete](https://en.wikipedia.org/wiki/Autocomplete) ja [vihjesisestus](https://twitter.github.io/typeahead.js/examples/) on suhteliselt lihtsad ja väikesed, kasutajale võib-olla märkamatukski jäävad kasutajaliidese tehnoloogiad, mis siiski kasutajamugavust suuresti tõstavad.
 
@@ -37,4 +37,4 @@ Järeldus 1. Organisatsioonis kasutatakse tüüpiliselt arvukalt erinevaid infot
 
 Järeldus 2. Organisatsioonid tüüpiliselt omavad vaid ebaselget ülevaadet oma tehnoloogiakasutusest.
 
-  
+__IT "maagia"__ on olukord, kus IT töötab hästi ja kasulikult. 
