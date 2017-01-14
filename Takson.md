@@ -92,6 +92,17 @@ Lame loetelu (_flat list_)
 
 Hierarhiline loetelu
 
+Näiteks
 
+__kavatsev ettevõtja__ - ei oma veel, kuid plaanib
 
-Lippel, Helen (2014) Building a corporate taxonomy. in: Schopflin, Katharine. A Handbook for Corporate Information Professionals. London : Facet Publishing. 2014.
+__alustav ettevõtja__ - 
+
+__sariettevõtja__ - 
+
+__portfelliettevõtja__ - 
+
+__elustiiliettevõtja__ -
+
+__olude sunnil ettevõtja__ - 
+

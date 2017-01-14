@@ -12,6 +12,8 @@
   categories:
     - title: "Tehnoloogiate (tarkvarade) hindamine ja valik"
       url: "/Tehno"
+    - title: "Tehnoloogiate monitooring"
+      url: "/Monitooring"  
     - title: "IT arhitektuur"
       url: "/Arhi"
     - title: "IT korraldamine, juhtimine, valitsemine"
@@ -82,6 +84,9 @@
       url:
     - title: "IT strateegia"
       url:
+
+- title: "Kirjandus"
+  url: "/Kirjandus"
 
 - title: "Õppejõud"
   url: "/PP"
