@@ -1,9 +1,9 @@
 - title: "Sissejuhatus"
   categories:
     - title: "Sissejuhatus"  
-      url: "Sissejuhatus"
+      url: "/Sissejuhatus"
     - title: "Ettevõtte kasv ja IT"
-      url: "Kasv"  
+      url: "/Kasv"  
 
 - title: "1 Informatsioon"
   categories:
