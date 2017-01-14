@@ -77,6 +77,11 @@ Tarkvara on vaja enterprise-scale
 
 [ilus näide](http://integrator.poolparty.biz/sparqlingCocktails/cocktails)
 
+Tehniliselt keerukam: SKOS, RDF, semantiline veeb. Vt nt [Using SKOS to Express Faceted Classification on the Semantic Web](http://www.webpages.uidaho.edu/~mbolin/putkey.htm)
+{: .s}
+
+[The Accidental Taxonomist](http://accidental-taxonomist.blogspot.com.ee/2016/11/popular-topics-in-taxonomies.html) - taksonoomiablogi
+
 Masinloetavad taksonoomiad
 
 #### Kas taksonoomia koostamiseks on vaja erilisi oskusi? Kes taksonoomia koostab?
@@ -94,15 +99,48 @@ Hierarhiline loetelu
 
 Näiteks
 
-__kavatsev ettevõtja__ - ei oma veel, kuid plaanib
+- motivatsioonilt
+  - __loomult ettevõtja__ - sageli haridussüsteemist väljatõugatu, bürokraatlikesse hierarhiatesse mittesobiv inimene
+  - __olude sunnil ettevõtja__ - tegeleb ettevõtlusega, sest teisi valikuid ei ole
+- ettevõtte elutsükli aspektist
+  - __kavatsev ettevõtja__ - ei oma veel, kuid plaanib
+  - __alustav ettevõtja__ - ettevõte loodud, 0..6 kuud
+  - __sissetöötanud ettevõtja__ - ettevõtte vanus 1+ aasta
+  - __suure kogemusega ettevõtja__
+- ettevõtete arvu aspektis
+  - __ühe ettevõttega ettevõtja__
+  - __sariettevõtja__ - müünud või lõpetanud eelmise ettevõte, alustanud uut
+  - __portfelliettevõtja__ - mitme ettevõtte üheaegne omanik
+- ettevõtte strateegilise situatsiooni vaatepunktist
+  - __kasvav ettevõte__
+  - __püsimajäämise eest võitlev ettevõte__
+  - __stabiilne ettevõte__
+    - nn __elustiiliettevõtja__ - ei taotlegi kasvu
+    - __sundseisus ettevõte__ - konkurents, ressursid ei võimalda kasvada
+- omanike arvu ja sotsiaalse struktuuri aspektist
+  - __ainuomanik__
+  - __pereettevõtte__
+  - __sõprade ettevõte__
+  - __muud omanike struktuur__
+- majandustulemuste vaatepunktist
+  - __kasumlik ettevõte__
+  - __kahjumis ettevõte__
+- tegutsemise vaatepunktist
+  - __tegutsev ettevõte__
+  - nn __riiulifirma__
+- omaniku plaanide vaatepunktist
+  - __soovib alustada ettevõtlust
+    - töötav teises ettevõttes
+    - töötab avalikus sektoris
+    - õpib
+    - kaotanud töötu
+  - __soovib jätkata ettevõtjana__
+  - __ei soovi jätkata ettevõtjana__
+    - soovib asuda tööle avalikus sektoris
+    - soovib siirduda kunsti, sporti vm alale
+    - soovib pühenduda perekonnale
+- aususe vaatepunktist
+  - aus ettevõte
+  - ettevõtluse vormi kasutav kuritegevus
 
-__alustav ettevõtja__ - 
-
-__sariettevõtja__ - 
-
-__portfelliettevõtja__ - 
-
-__elustiiliettevõtja__ -
-
-__olude sunnil ettevõtja__ - 
 

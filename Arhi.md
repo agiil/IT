@@ -20,3 +20,6 @@ Ehitusblokkide arhitektuurile on rajatud ka suured pilveplatvormid, nt:
 - [Google Cloud](https://cloud.google.com/)
 - [Amazon Web Services](https://aws.amazon.com/)
 
+## IT-arhitektuuri kirjeldamine
+
+[“C4” meetod](http://static.codingthearchitecture.com/c4.pdf) 

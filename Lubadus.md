@@ -1,6 +1,6 @@
 ---
 title: Tehnoloogia lubadus ja selle täitmine
-permalink: Monitooring
+permalink: Lubadus
 ---
 
 # Tehnoloogia lubadus ja selle täitmine
