@@ -4,6 +4,10 @@ permalink: Takson
 ---
 
 ## Äritaksonoomia
+{: .no_toc}
+
+- TOC
+{:toc} 
 
 Äritaksonoomia, _corporate taxonomy_ 
 
