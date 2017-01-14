@@ -99,36 +99,36 @@ Hierarhiline loetelu
 
 ## Ettevõtja taksonoomia
 
-- ASPEKT: motivatsioon
+- 1 ASPEKT: motivatsioon
   - __loomult ettevõtja__ - sageli haridussüsteemist väljatõugatu, bürokraatlikesse hierarhiatesse mittesobiv inimene
   - __olude sunnil ettevõtja__ - tegeleb ettevõtlusega, sest teisi valikuid ei ole
-- ASPEKT: ettevõtte elutsükkel
+- 2 ASPEKT: ettevõtte elutsükkel
   - __kavatsev ettevõtja__ - ei oma veel, kuid plaanib
   - __alustav ettevõtja__ - ettevõte loodud, 0..6 kuud
   - __sissetöötanud ettevõtja__ - ettevõtte vanus 1+ aasta
   - __suure kogemusega ettevõtja__
-- ASPEKT: ettevõtete arv
+- 3 ASPEKT: ettevõtete arv
   - __ühe ettevõttega ettevõtja__
   - __sariettevõtja__ - müünud või lõpetanud eelmise ettevõte, alustanud uut
   - __portfelliettevõtja__ - mitme ettevõtte üheaegne omanik
-- ASPEKT: ettevõtte strateegiline situatsioon
+- 4 ASPEKT: ettevõtte strateegiline situatsioon
   - __kasvav ettevõte__
   - __püsimajäämise eest võitlev ettevõte__
   - __stabiilne ettevõte__
     - nn __elustiiliettevõtja__ - ei taotlegi kasvu
     - __sundseisus ettevõte__ - konkurents, ressursid ei võimalda kasvada
-- ASPEKT: omanike arv ja sotsiaalne struktuur
+- 5 ASPEKT: omanike arv ja sotsiaalne struktuur
   - __ainuomanik__
   - __pereettevõtte__
   - __sõprade ettevõte__
   - __muu omanike struktuur__
-- ASPEKT: majandustulemused
+- 6 ASPEKT: majandustulemused
   - __kasumlik ettevõte__
   - __kahjumis ettevõte__
-- ASPEKT: tegutsemine
+- 7 ASPEKT: tegutsemine
   - __tegutsev ettevõte__
   - nn __riiulifirma__
-- ASPEKT: omaniku plaanid
+- 8 ASPEKT: omaniku plaanid
   - __soovib alustada ettevõtlust__
     - __töötab teises ettevõttes__
     - __töötab avalikus sektoris__
@@ -140,9 +140,13 @@ Hierarhiline loetelu
     - __soovib siirduda kunsti, sporti vm alale__
     - __soovib pühenduda perekonnale__
     - __soovib aja maha võtta__
-- ASPEKT: ausus
+- 9 ASPEKT: ausus
   - __aus ettevõte__
   - __ettevõtluse vormis tegutsev kuritegevus__
+- 10 ASPEKT: reaalsus
+  - __reaalne ettevõte__
+  - __mänguettevõtte__ - aga: näitlejad on sageli ka edukad ettevõtjad
+  - __quasi-ettevõte__ - nominaalselt mitteettevõte, mille tegelik tegevus ei erine palju ettevõttest (nt sisuliselt ettevõttena tegutsev riigiasutus)
 
 
 
