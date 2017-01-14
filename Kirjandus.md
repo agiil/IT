@@ -24,3 +24,6 @@ permalink: Kirjandus
 [Rinzler2009] Rinzler, B. (2009). Telling Stories : A Short Path to Writing Better Software Requirements. Wiley.
 
 [Tate2015] Tate, M. (2015). Off-The-Shelf IT Solutions : A practitioner's guide to selection and procurement. Swindon, GB: BCS, The Chartered Institute for IT.
+
+metoodiline, võib isegi öelda, et liiga põhjalik protseduur valmistarkvarade valimiseks ettevõttesse. TL;DR: kandidaatide pikk nimekiri (_long list_), lühike nimekiri (_short list_)
+{: .a}
