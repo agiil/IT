@@ -21,7 +21,11 @@
               <!-- Alammenüü -->
               <ul id="alammenyy{{ id_count.size }}" class='alammenyy'>
               {% for category in nav.categories %}
-                <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></li>
+                {% if category.url %}
+                  <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></li>
+                {% else %}
+                  <li class='disabled'>{{ category.title }}</li>
+                {% endif %}
               {% endfor %}
               </ul>
           </li>

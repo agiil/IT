@@ -33,6 +33,7 @@ li { margin: 0.25em 0 0.5em; padding: 0; }
 nav ul { list-style-type: none; }
 
 .lead { font-family: 'Anonymous Pro', sans-serif; }
+.disabled { color:#000000; opacity:0.38; } 
 
 /* ---- Paigutus ---- */
 #Container {

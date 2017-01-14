@@ -5,16 +5,16 @@ permalink: Tehno
 
 # Tehnoloogiate (tarkvarade) hindamine ja valik
 
-Tehnoloogia algses, antiik-Kreekast pärit tähenduses on oskus või kunst midagi produktiivset teha (kr τέχνη, techne, "oskus, kunst"; -λογία, -logia).
+__Tehnoloogia__ algses, antiik-Kreekast pärit tähenduses on oskus või kunst midagi produktiivset teha (kr τέχνη, techne, "oskus, kunst"; -λογία, -logia).
 
 Seetõttu on natuke taotoloogiline rääkida tehnoloogia rakendamisest. Tehnoloogia ongi see, kuidas tehakse.
 
 Tarkvara kontekstis võib tehnoloogia tähendada suhteliselt spetsiifilisi asju. Näiteks [autocomplete](https://en.wikipedia.org/wiki/Autocomplete) ja [vihjesisestus](https://twitter.github.io/typeahead.js/examples/) on suhteliselt lihtsad ja väikesed, kasutajale võib-olla märkamatukski jäävad kasutajaliidese tehnoloogiad, mis siiski kasutajamugavust suuresti tõstavad.
 
-Infotehnoloogia (IT) on üldnimetus väga suurele tehnoloogiate perekonnale. 
-Konvergents e kokkukasvamine on nähtus, kus IT lõimub mõne teise valdkonnaga nii tihedalt, et IT eristamine muutub problemaatiliseks. Tormiliselt arenenud IT piirid ongi tänaseks hägustunud, arvutusmatemaatikast alguse saanud distsipliin on kokku kasvanud kommunikatsioonitehnoloogiatega. Seda väljendab vahel kasutatav mõiste "info- ja kommunikatsioonitehnoloogia" (IKT).
+__Infotehnoloogia__ (IT) on üldnimetus väga suurele tehnoloogiate perekonnale. 
+__Konvergents__ e kokkukasvamine on nähtus, kus IT lõimub mõne teise valdkonnaga nii tihedalt, et IT eristamine muutub problemaatiliseks. Tormiliselt arenenud IT piirid ongi tänaseks hägustunud, arvutusmatemaatikast alguse saanud distsipliin on kokku kasvanud kommunikatsioonitehnoloogiatega. Seda väljendab vahel kasutatav mõiste "info- ja kommunikatsioonitehnoloogia" (IKT).
 
-Tehnoloogiate kombineerimine on süsteemide ehitamisel hädavajalik.
+__Tehnoloogiate kombineerimine__ e kooskasutamine on süsteemide ehitamisel hädavajalik.
 
 Näiteks juba käesoleva väikese veebisaidi tegemisel on kasutatud tervet rida töövahendeid ja tehnoloogiaid:
 
