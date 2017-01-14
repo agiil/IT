@@ -72,9 +72,9 @@ SOAP (Simple Object Access Protocol) on lightweight; XML (Extensible Markup Lang
 
 ## Tehnoloogiatrendide jälgimine teenusena
 
-[ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
-[O'Reilly Ideas](https://www.oreilly.com/ideas)
-[Gartner](http://www.gartner.com/technology/home.jsp)
+- [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
+- [O'Reilly Ideas](https://www.oreilly.com/ideas)
+- [Gartner](http://www.gartner.com/technology/home.jsp)
 
 ## Mudelid
 

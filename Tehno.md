@@ -27,7 +27,7 @@ Näiteks juba käesoleva väikese veebisaidi tegemisel on kasutatud tervet rida 
   - [GitHub](https://github.com/) - versioonihaldustarkvara
   - [Git Bash](https://git-scm.com/downloads) - Git versioonihalduse tööriist
   - [Jekyll](https://jekyllrb.com/) - staatilise veebisaidi generaatorrakendus
-    - [Kramdown](https://kramdown.gettalong.org/) - Jekylli preprotsessor (eeltöötleja)
+    - [Kramdown](https://kramdown.gettalong.org/syntax.html) - Jekylli preprotsessor (eeltöötleja)
   - [HTML5](https://www.w3.org/TR/html5/) - universaalne veebikeel
   - [CSS3](https://www.w3.org/standards/techs/css#w3c_all) - veebi kujunduskeel
   - [Sass](http://sass-lang.com/)
