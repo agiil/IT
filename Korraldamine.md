@@ -54,6 +54,10 @@ juhtimine  juhtimine  ressursside   korraldus, juhtimine     omandi
 
 ```
 
+### IT organisatsioon
+
+[The Startup T-Shirt Phenomenon: Branding and Conway’s Law](https://blog.socialrank.com/2015/02/04/branding-and-conways-law/) on hea sissejuhatus teemasse.
+
 ISO/IEC 20000 IT Service Management
 
 ISO/IEC 27000 Information Security Management Systems

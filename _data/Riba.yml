@@ -18,12 +18,14 @@
   categories:
     - title: "Tehnoloogiate (tarkvarade) hindamine ja valik"
       url: "/Tehno"
-    - title: "Tehnoloogiate monitooring"
-      url: "/Monitooring"  
+    - title: "Tehnoloogia lubadus ja selle täitmine"
+      url: "/Lubadus"  
     - title: "IT arhitektuur"
       url: "/Arhi"
     - title: "IT korraldamine, juhtimine, valitsemine"
       url: "/Korraldamine"
+    - title: "Lihtne IT"
+      url: "/Lihtne"  
 
 - title: "3 Infohaldus"
   categories:
