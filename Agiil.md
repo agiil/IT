@@ -33,8 +33,21 @@ Vastus peitub osalt tarkvara tegemise olemuslikus keerukuses ja osalt organisats
 - planeerimine ja ennustamine põhinevad alati teatud eeldustele ja teadaolevale infole; inimene kipub üle hindama eelduste kehtivust ja teadaoleva info täielikkust ning paikapidavust
 - näiteks tulevasi kasutajaid küsitledes võib jääda mulje, et kasutajad teavat täpselt, mida nad tahavad. Tegelikult võib oma tahtmiste artikuleerimine olla pikk protsess; tahtmised muutuvad aja jooksul; inimeste eelistused muutuvad jne.
 
-### Kirjandus
+__[Agiilse tarkvaraarenduse manifest](http://agilemanifesto.org/iso/et/manifesto.html)__ on 2001. a tuntud agiilmõtlejate poolt kokku pandud 4-punktiline deklaratsioon, agiilliikumise ideoloogiline tüvitekst. Mõtet on orginaalsõnastused meelde jätta:
 
-Agiilarenduse manifest [Manifesto for Agile Software Development](http://agilemanifesto.org/) on 2001. a tuntud agiilmõtlejate poolt kokku pandud 4-punktiline deklaratsioon, mida loetakse kogu liikumise ideoloogiliseks alusdokumendiks.
+- __Individuals and interactions over processes and tools__
 
+inimesed ja nendevaheline suhtlus on tähtsam kui protsessid ja arendusvahendid
+
+- __Working software over comprehensive documentation__
+
+töötav tarkvara on olulisem kui kõikehõlmav dokumentatsioon
+
+- __Customer collaboration over contract negotiation__
+
+- koostöö kliendiga on loob rohkem väärtust kui läbirääkimised lepingute üle
+
+- __Responding to change over following a plan__
+
+reageerimine muutunud oludele on adekvaatsem kui algsest plaanist kinnihoidmine
 
