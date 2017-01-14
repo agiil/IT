@@ -1,6 +1,6 @@
-/* Body */
+/* Keha */
 body {
-  max-width: 50em; /* limit line length to 50em for readability   */
+  max-width: 50em; 
   margin: 0 0; 
   padding: 1.6em 1.5em 2em 1em; 
   line-height: 1.2;
@@ -9,7 +9,30 @@ body {
   color: #424242;  /* Grey 800 */
   }
 
-/* Headings */
+/* ---- Paigutus ---- */
+#Container { display: flex; }
+
+#Tekst {
+  flex-grow: 1; margin-left: 2rem;
+  max-width: 53rem; /* Teksti loetavuse huvides */
+}
+
+/* Külgriba */
+
+#Riba {
+  flex-grow: 0; width: 18rem;
+  padding: 0 1rem 2rem 1rem;
+  background-color: Azure;
+}
+.RibaElement { display: block; line-height: 1.75; }
+
+.lyliti {
+  cursor: pointer;
+  color: #FF5252; /* Material design A200 
+  https://material.io/guidelines/style/color.html#color-color-palette */
+}
+
+/* Pealdised */
 h1, h2, h3 { line-height: 1.2; }
 h1, h2 {
   font-weight: bold;
@@ -21,7 +44,7 @@ h3 { font-family: 'Times New Roman', serif;
   font-size: 14pt; font-weight: normal;
   text-decoration: underline; margin: 1em 0; }
 
-/* Paragraphs and Lists */
+/* Lõigud ja loetelud */
 p { margin: 1em 0; }
 
 li > p:first-child { margin-top: 0; }
@@ -32,106 +55,11 @@ li { margin: 0.25em 0 0.5em; padding: 0; }
 
 nav ul { list-style-type: none; }
 
+/* Tekst */
 .lead { font-family: 'Anonymous Pro', sans-serif; }
 .disabled { color:#000000; opacity:0.38; } 
 
-/* ---- Paigutus ---- */
-#Container {
-  display: flex;
-  /* flex-wrap: wrap; */
-}
-#Tekst {
-  flex-grow: 1; margin-left: 2rem;
-  max-width: 53rem; /* Teksti loetavuse huvides */
-}
-#Riba {
-  flex-grow: 0; width: 18rem;
-  padding: 0 1rem 2rem 1rem;
-  background-color: Azure;
-}
-
-/* ---- Teatepaneelid ---- */
-.block__note {
-  border-color:#0074d9; background-color:#e5f1fb;
-  color:#004b8d; padding:0 8px;
-  border:1px solid #0074d9;
-  border-radius:4px; font-size:85%;
-  margin-bottom:5px;
-}
-.block__note > p { margin:0 0 8px 0 }
-.block__note--heading {
-  font-weight:600; margin-top:8px;
-  line-height:1; font-size:18px
-}
-.block__tip {
-  border-color:#cab918;
-  background-color:#f9f8e7;
-  color:#837810;
-  padding:0 8px;
-  border:1px solid #cab918;
-  border-radius:4px;
-  font-size:85%;
-  margin-bottom:5px;
-}
-.block__tip > p {
-  margin:0 0 8px 0
-}
-.block__tip--heading {
-  font-weight:600;
-  margin-top:8px;
-  line-height:1;
-  font-size:18px
-}
-.block__warning {
-  border-color:#f44336;
-  background-color:#FFECEC;
-  color:#f44336;
-  padding:0 8px;
-  border:1px solid #ff851b;
-  border-radius:4px;
-  font-size:85%;
-  margin-bottom:5px;
-}
-.block__warning > p {
-  margin:0 0 8px 0
-}
-.block__warning--heading {
-  font-weight:600;
-  margin-top:8px;
-  line-height:1;
-  font-size:18px
-}
-.block__lead {
-  font-size:20px;
-}
-.block__lead > p {
-  margin-top:0
-}
-
-/* ---- ---- */
-
-.lyliti {
-  cursor: pointer;
-  color: #FF5252; /* Material design A200 
-  https://material.io/guidelines/style/color.html#color-color-palette */
-}
-.keel {
-  font-size: 16px;
-  font-weight: bold;
-  color: white;
-  background-color: #9E9E9E;
-  width: 2rem;
-  border-radius: 3px;
-  text-align: center;
-}
-.teine { 
-  font-size: 16px; 
-  font-family: 'Anonymous Pro', serif;
-}
-
-.Anon {
-  font-family: 'Anonymous Pro';
-}
+/* Redigeerimisnupp */
 .edit { 
   color: #E0E0E0; font-size: 24px; cursor: pointer;
   position: absolute; right: 5px; top: 5px;
@@ -139,49 +67,29 @@ nav ul { list-style-type: none; }
 }
 a[href] .edit { color: #E0E0E0; text-decoration:none; }
 
-.RibaElement {
-  display: block;
-  line-height: 1.75;
-}
-
-.inset { 
-  font-size: 16px; 
-  font-family: 'Anonymous Pro', serif;
-  margin-left: 2em; }
-.caption {
-  font-size: 10px; margin-top: 0px; text-align: right; }
+/* Plokktsitaat */
 blockquote { 
   font-style: italic; 
   font-family: 'Anonymous Pro', monospace;
   font-size: 16px;
   margin-left: 0;
 }
-.concept { 
-  text-decoration: underline;
-}
 
-/* Code */
+/* Kood; asciiflow joonised */
 pre, code, samp {
   font-family: 'Anonymous Pro', monospace;
-  font-size: 18px;
-  color: #FF8A65; 
-  overflow-y: hidden; 
-  overflow-x: hidden;
-  page-break-inside: avoid;
-  hyphens: none;
+  font-size: 16px;
+  overflow-y: hidden; overflow-x: hidden;
+  page-break-inside: avoid; hyphens: none;
   text-transform: none;
 }
 pre code,
 code code {
   font-size: 100%;
 }
-pre {
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
+pre { margin-top: 1em; margin-bottom: 1em; }
 
-
-/* Links */
+/* Lingid */
 a[href] {
   color: #607D8B;
   text-decoration: none;
