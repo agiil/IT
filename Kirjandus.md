@@ -3,9 +3,11 @@ title: Kirjandus
 permalink: Kirjandus
 ---
 
-# Kirjandus
+- TOC
+{:toc}
 
-[Ober2016] Oberschneider, Paul (2016) Miks müüa takosid Aafrikas? 
+# Viidatud kirjandus
+
 [Cooper2016] Cooper, B., Vlaskovits, P., & Ries, E. (2016). The Lean Entrepreneur : How Visionaries Create Products, Innovate with New Ventures, and Disrupt Markets. Wiley.
 
 [Carter2015] Carter, M & Grover, V (2015) Me, my self, and I(T): conceptualizing information technology identity and its implications. MIS Quarterly.
@@ -26,6 +28,8 @@ Autorid näitavad ulatusliku empiirilise andmestiku alusel, et tegevjuht (CEO) v
 
 [Measey2015] Measey, P. (Ed.). (2015). Agile Foundations : Principles, practices and frameworks. Swindon, GB: BCS, The Chartered Institute for IT.
 
+[Ober2016] Oberschneider, Paul (2016) Miks müüa takosid Aafrikas? 
+
 [Ries2011] Ries E (2011) The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Publishing Group.
 
 [Rinzler2009] Rinzler, B. (2009). Telling Stories : A Short Path to Writing Better Software Requirements. Wiley.
@@ -42,3 +46,19 @@ metoodiline, võib isegi öelda, et liiga põhjalik protseduur valmistarkvarade 
 
 [Toomey2015] Toomey, M & Juiz, C (2015) To Govern IT, or Not to Govern IT? Communications of the ACM.
 
+## IT ärirakendamise akadeemilisi ajakirju
+
+ - MIS Quarterly
+ - Information Systems Research
+ - Journal of Management Information Systems
+ - Academy of Management Review
+ - Electronic Journal of Information Systems Evaluation
+ - Government Information Quarterly
+ - Harvard Business Review
+ - IEEE Computer
+ - Information Systems Journal
+ - Information Technology & People
+ - International Journal of Information Management
+ - The Journal of Strategic Information Systems
+
+ Ajakirju saab lugeda EBSCO veebiteenuse abil.

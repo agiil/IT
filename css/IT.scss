@@ -8,13 +8,11 @@ $erepunane: #FF5252; /* Material design A200
 
 /* Keha */
 body {
-  max-width: 50em; 
-  margin: 0 0; 
+  max-width: 50em; margin: 0 0; 
   padding: 1.6em 1.5em 2em 1em; 
   line-height: 1.2;
   font-family: 'Times New Roman', serif;
-  font-size: 14pt; 
-  color: $grey800; 
+  font-size: 14pt; color: $grey800; 
   }
 
 /* ---- Paigutus ---- */
@@ -26,7 +24,6 @@ body {
 }
 
 /* Külgriba */
-
 #Riba {
   flex-grow: 0; width: 18rem;
   padding: 0 1rem 2rem 1rem;
@@ -72,7 +69,8 @@ nav ul { list-style-type: none; }
 .ref { font-size: 12pt; }
 /* Annotatsioon - bibliograafiaüksuse lühike kokkuvõte, iseloomustus
    või hinnang */
-.a { margin-left: 4em; font-style: italic; color: $mutedblue; }
+.a { margin-left: 4em; margin-top: 0;
+   font-style: italic; color: $mutedblue; }
 
 /* Allmärkus */
 .s { font-size: 10pt; }
