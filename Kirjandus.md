@@ -6,9 +6,6 @@ permalink: Kirjandus
 # Kirjandus
 
 [Ober2016] Oberschneider, Paul (2016) Miks müüa takosid Aafrikas? 
-
-[Toomey2015] Toomey, M & Juiz, C (2015) To Govern IT, or Not to Govern IT? Communications of the ACM.
-
 [Cooper2016] Cooper, B., Vlaskovits, P., & Ries, E. (2016). The Lean Entrepreneur : How Visionaries Create Products, Innovate with New Ventures, and Disrupt Markets. Wiley.
 
 [Esposito2013] Esposito, A., & Rogers, T. (2013). Ten Steps to ITSM Success : A Practitioner’s Guide to Enterprise IT Transformation. IT Governance Publishing.
@@ -17,13 +14,26 @@ permalink: Kirjandus
 
 [Lippel2014] Lippel, Helen (2014) Building a corporate taxonomy. in: Schopflin, Katharine. A Handbook for Corporate Information Professionals. London : Facet Publishing.
 
+[Masli2016] Masli et al (2016) Senior Executives’ IT Management Responsibilities: Serious IT-Related Deficiencies and CEO/CFO Turnover. [MIS Quarterly](http://www.misq.org/contents-40-3/), Vol 40, No 3.
+
+Autorid näitavad ulatusliku empiirilise andmestiku alusel, et tegevjuht (CEO) võib ettevõtte IT-s ilmnevate probleemide puhul küll ametist lahti saada, kuid IT spetsiifilisuse ja keerukuse tõttu on tippjuhil vähe võimalusi IT juhtimise seisu ettevõttes reaalselt mõjutada.
+{: .a}
+
 [Measey2015] Measey, P. (Ed.). (2015). Agile Foundations : Principles, practices and frameworks. Swindon, GB: BCS, The Chartered Institute for IT.
 
 [Ries2011] Ries E (2011) The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Publishing Group.
 
 [Rinzler2009] Rinzler, B. (2009). Telling Stories : A Short Path to Writing Better Software Requirements. Wiley.
 
+[Spolsky2000] Joel Spolsky (2000) [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/)
+
+4-osaline blogikirjutise sari tuntud arendusgurult ja ettevõtjalt spetsifitseerimisest (IT arenduses üliolulisest, paljudiskuteeritavast küsimusest)
+{: .a}
+
 [Tate2015] Tate, M. (2015). Off-The-Shelf IT Solutions : A practitioner's guide to selection and procurement. Swindon, GB: BCS, The Chartered Institute for IT.
 
 metoodiline, võib isegi öelda, et liiga põhjalik protseduur valmistarkvarade valimiseks ettevõttesse. TL;DR: kandidaatide pikk nimekiri (_long list_), lühike nimekiri (_short list_)
 {: .a}
+
+[Toomey2015] Toomey, M & Juiz, C (2015) To Govern IT, or Not to Govern IT? Communications of the ACM.
+
