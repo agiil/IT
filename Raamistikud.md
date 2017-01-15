@@ -3,9 +3,57 @@ title: Raamistikud
 permalink: Raamistikud
 ---
 
-COBIT 5 enterprise goals
+__Tootehaldus__ (_Product Management_)
+ 
+kogukond (community)
+: huvipooled (stakeholders), kes toodet kasutavad või tahaksid kasutusele võtta; kogemus näitab, et suuremat väärtust annavad tehnilised, kättpidi asja sees olevad inimesed
+kogukonna juhtimine
+: kogukonna tekkimisele ja koospüsimisele suunatud tegevused
+backlog
+: huvipoolte artikuleeritud, kokkukoondatud ja prioritiseeritud ettepanekud toote edasiarendamiseks
+backlogi pidamine
+prioritiseerimine
+: otsustusprotsess, millega seatakse backlogis olevad ettepanekud tähtsuse järjekorda; tähtsusjärjekord on aluseks ettepanekute teostamisele
+rahastamine
+prioritiseeritud ettepanekute teostamisele rahalise katte hankimine ja kokkuleppimine (küsimus „mida kelle raha eest?)
+juhid
+: huvipoolte juhtidel on kandev roll rahastamises
+kasutuse jälgimine
+: toote kasutuse kasvu jälgimine, soovitavalt sooritusindeksite (KPI-de) abil
+KPI
+: _key performance indicator_, sooritusindeks, toote toimivuse, kasutamise või kasu mõõdik
+reliis
+: toote uue versiooni väljalase; reliis peab olema kavandatud; peaks olema protsess reliiside ettevalmistamiseks
+kommunikatsiooniplaan
+: toote kasutamise hõlbustamisele suunatud tegevuste plaan, tavaliselt seotud reliisiga
+ 
 
-FINANCIAL
+
+Väljalase e reliis (Release)
+
+(võiks öelda ka "vabakslase"?)
+ 
+reliisi plaanimine
+: toimingud, kus määratakse tulevase reliisi koosseis, vajalikud taskid, täitjad, reliisi tähtaeg. Vormistatakse reliisiplaanina
+reliis
+: tarkvaratoote uus, tarvitamiseks valmis ja kasutajatele kättesaadavaks tehtud versioon
+relisiimine
+: reliisi saavutamisele suunatud tegevuste kompleks
+reliisiplaan
+: reliisi käigus märgitakse taskid tehtuks. Kui taskides selgub kõrvalekalle tavaolukorrast, lisatakse juurde taskid või kommentaarid tähistustega. Võib vormistada kontrollnimestuna (release checklist). Vrdl https://confluence.ria.ee/display/EID/Release+checklist
+reliisimall
+: kuna reliisimine on korduv tegevus, siis on otstarbekas koostada „master release plan“ e reliisiplaani templiit. Konkreetse reliisi plaan tehakse kui koopia masterist.
+task
+: reliisiplaanis olev töö või toiming
+reliisi kokkuvõte
+: lessons learned läbivaatus, millega vajadusel täiendatakse reliisimalli. Vrdl https://confluence.ria.ee/display/EID/Reliisid „Reliisimise pideva täiustamise punktid“
+
+
+[COBIT](https://en.wikipedia.org/wiki/COBIT)
+
+__COBIT 5 enterprise goals__
+
+Financial
 
 1. Stakeholder value of business investments
 2. Portfolio of competitive products and services
@@ -13,7 +61,7 @@ FINANCIAL
 4. Compliance with external laws and regulations
 5. Financial transparency
 
-CUSTOMER
+Customer
 
 6. Customer oriented service culture
 7.Business service continuity and availability
@@ -21,7 +69,7 @@ CUSTOMER
 9. Information based strategic decision making
 10. Optimisation of service delivery costs
 
-INTERNAL
+Internal
 
 11.Optimisation of business process functionality
 12. Optimisation of business process costs
@@ -29,12 +77,12 @@ INTERNAL
 14. Operational and staff productivity
 15. Compliance with internal policies
 
-LEARNING & GROWTH
+Learning & Growth
 
 16. Skilled and motivated people
 17. Product and business innovation culture
 
-COBIT 5 IT-related goals
+__COBIT 5 IT-related goals__
 
 FINANCIAL
 
