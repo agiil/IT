@@ -13,6 +13,10 @@ url: Profiil
 | stiilijuhend (_Style Guide_) | |
 | Todo-tarkvara | töö kavandamine, täitmise jälgimine | |
 
+![](img/Identity.PNG)
+
+[Carter2015]
+
 2..10 töötajat
 
 11..50 töötajat

@@ -8,9 +8,14 @@ permalink: Kirjandus
 [Ober2016] Oberschneider, Paul (2016) Miks müüa takosid Aafrikas? 
 [Cooper2016] Cooper, B., Vlaskovits, P., & Ries, E. (2016). The Lean Entrepreneur : How Visionaries Create Products, Innovate with New Ventures, and Disrupt Markets. Wiley.
 
+[Carter2015] Carter, M & Grover, V (2015) Me, my self, and I(T): conceptualizing information technology identity and its implications. MIS Quarterly.
+
+intrigeeriv teooria sellest, et arvutikasutus, "netisolek" on tasapisi muutunud inimese identiteedi (enesepildi) lahutamatuks osaks (kasutan Facebooki, järelikult olen)
+{: .a}
+
 [Esposito2013] Esposito, A., & Rogers, T. (2013). Ten Steps to ITSM Success : A Practitioner’s Guide to Enterprise IT Transformation. IT Governance Publishing.
 
-[Nightinggale2015] Nightingale, D. J., & Rhodes, D. H. (2015). Architecting the Future Enterprise. Cambridge, US: MIT Press.
+[Nightingale2015] Nightingale, D. J., & Rhodes, D. H. (2015). Architecting the Future Enterprise. Cambridge, US: MIT Press.
 
 [Lippel2014] Lippel, Helen (2014) Building a corporate taxonomy. in: Schopflin, Katharine. A Handbook for Corporate Information Professionals. London : Facet Publishing.
 
