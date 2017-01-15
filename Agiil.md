@@ -17,6 +17,9 @@ Agiilarendus, ingl k _agile development_ või ka lihtsalt _agile_, on 1980-ndate
 - ja vaadata, kuidas töötab
 - kui siis on veel jaksu, tahtmist ja reaalset vajadust, siis arendada edasi.
 
+Aga vastuargument: kas pooliku tootega välja minek ikka on hea mõte?
+{: .s}
+
 Nii on garanteeritud, et tekib töötav süsteem.
 
 Tänapäevaks on agiilmeetodid saanud tarkvaraarenduse peavooluks (_mainstream_), üldtunnustatud arendusmeetodiks. Praktika on kinnitanud, et agiilarenduses:

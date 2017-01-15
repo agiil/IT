@@ -107,8 +107,10 @@ __Ettevõtja taksonoomia__
   - __ühe ettevõttega ettevõtja__
   - __sariettevõtja__, _serial entrepreneur_ - müünud või lõpetanud eelmise ettevõte, alustanud uut
   - __portfelliettevõtja__ - mitme ettevõtte üheaegne omanik
-- 4 ASPEKT: ettevõtte strateegiline situatsioon
+- 4 ASPEKT: ettevõtte strateegiline seis ja suund
   - __kasvav ettevõte__
+    - __laia haardega__ ettevõtja
+    - __kitsa fookusega__ ettevõtja
   - __püsimajäämise eest võitlev ettevõte__
   - __stabiilne ettevõte__
     - nn __elustiiliettevõtja__ - ei taotlegi kasvu

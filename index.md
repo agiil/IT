@@ -7,6 +7,8 @@ permalink: /
 
 __Õppeaine eesmärk__ on valmistada kuulaja ette kompetentseks tegutsemiseks organisatsioonis efektiivse infohalduse korraldamisel, äriprotsesside IT abil teostamisel ja parendamisel, IT teenuste ja arenduste tellimisel, ettevõtte IT-arhitektuurile äripoole sisendi andmisel, IT lõimimisel äristrateegiatesse.
 
+__Juhtmõte__: IT oskuslik rakendamine on ettevõtte arengu (kasvu, efektiivsuse) üks peamisi vahendeid.
+
 Kursuse läbinu __oskab__:
 
 -  analüüsida äriprotsessi IT rakendamise vaatepunktist 

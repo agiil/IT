@@ -37,4 +37,3 @@ __Mõned vajalikud IT-terminid__.
 
 - "Hello, World!" - traditsiooniline [kõige lihtsam IT-rakendus](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).
 
-Vt ka [Arendussõnastik](https://agiil.github.io/sonastik/).
