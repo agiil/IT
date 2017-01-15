@@ -11,7 +11,8 @@ permalink: Lubadus
 
 __Tehnoloogiatrend__ on uue, paljulubava tehnoloogia tulemine, populaarsuse võitmine.
 
-__Tehnoloogia reklaamlause__ on lühike lause, fraas või ka ainult sõna või tähtlühend, mis esitab kokkuvõtlikult, löövalt ja atraktiivselt uue tehnoloogia "lubaduse". Nt `Connected Everything`.
+__Tehnoloogia reklaamlause__, [tagline](https://en.wikipedia.org/wiki/Tagline) on lühike lause, fraas või ka ainult sõna või tähtlühend, mis esitab kokkuvõtlikult, löövalt ja atraktiivselt uue tehnoloogia "lubaduse". Nt `Connected Everything`. 
+__Tehnoloogia reklaamlause__, ([tagline]()) on lühike lause, fraas või ka ainult sõna või tähtlühend, mis esitab kokkuvõtlikult, löövalt ja atraktiivselt uue tehnoloogia "lubaduse". Nt `Connected Everything`. 
 
 Aktuaalseid IT-trende ja -reklaamlauseid
 
@@ -48,6 +49,7 @@ Aktuaalseid IT-trende ja -reklaamlauseid
 - Journey to new marketplace
 - Creating amazing value
 - Maximum viable access
+- keeping everything up to date and in sync
 
 Veidi vanemaid:
 
@@ -72,6 +74,7 @@ SOAP (Simple Object Access Protocol) on lightweight; XML (Extensible Markup Lang
 
 ## Tehnoloogiatrendide jälgimine teenusena
 
+- [Redmonk](http://redmonk.com/), "the developer-focused industry analyst firm"
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
 - [O'Reilly Ideas](https://www.oreilly.com/ideas)
 - [Gartner](http://www.gartner.com/technology/home.jsp)

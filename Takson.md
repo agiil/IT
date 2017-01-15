@@ -109,7 +109,7 @@ Hierarhiline loetelu
   - __suure kogemusega ettevõtja__
 - 3 ASPEKT: ettevõtete arv
   - __ühe ettevõttega ettevõtja__
-  - __sariettevõtja__ - müünud või lõpetanud eelmise ettevõte, alustanud uut
+  - __sariettevõtja__, _serial entrepreneur_ - müünud või lõpetanud eelmise ettevõte, alustanud uut
   - __portfelliettevõtja__ - mitme ettevõtte üheaegne omanik
 - 4 ASPEKT: ettevõtte strateegiline situatsioon
   - __kasvav ettevõte__

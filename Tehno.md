@@ -17,6 +17,16 @@ Erinevate infotehnoloogiate tuummõisteks on kahtlemata __algoritm__.
 
 > An algorithm is a finite procedure, written in a fixed vocabulary, governed by precise instructions, moving in discrete steps and that sooner or later comes to an end. &mdash;David Berlinski, matemaatik
 
+IT tuumaks on __programmeerimine__. Kuid IT ei ole võrdu programmeerimisega.
+
+> Programming is only one of four core practices. The other three are systems thinking, modeling, and innovating. --- Wright (2010) Capstone Programming Courses Considered Harmful. Communications of the ACM
+
+__Süsteemne mõtlemine__
+
+__Modelleerimine__
+
+__Innovatsioon__
+
 __Konvergents__ e kokkukasvamine on nähtus, kus IT lõimub mõne teise valdkonnaga nii tihedalt, et IT eristamine muutub problemaatiliseks. Tormiliselt arenenud IT piirid ongi tänaseks hägustunud, arvutusmatemaatikast alguse saanud distsipliin on kokku kasvanud kommunikatsioonitehnoloogiatega. Seda väljendab vahel kasutatav mõiste "info- ja kommunikatsioonitehnoloogia" (IKT).
 
 __Tehnoloogiate kombineerimine__ e kooskasutamine on süsteemide ehitamisel hädavajalik.

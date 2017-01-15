@@ -28,4 +28,6 @@ __break things__ ⟶ Move fast and break things. Unless you are breaking stuff, 
 
 - TL;DR - üherealine kokkuvõte pikema teksti ees või selle asemel (lühend ingl _too long; didn’t read_)
 
+- "Hello, World!" - traditsiooniline [kõige lihtsam IT-rakendus](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).
+
 Vt ka [Arendussõnastik](https://agiil.github.io/sonastik/).

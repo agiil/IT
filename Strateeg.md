@@ -10,3 +10,6 @@ permalink: Strateeg
 > "Observe calmly; secure our position; cope with affairs calmly; hide our capacities and bide our time; be good at maintaining a low profile; and never claim leadership.” --- Deng Xiaoping (early 1990s)
 
 Deng Xiapingi kuulus 24-hieroglüüfi strateegia
+
+> "While Yahoo was busy enlarging its portfolio, a new generation of start-ups was focusing on perfecting one single product"
+

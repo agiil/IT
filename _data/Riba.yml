@@ -57,33 +57,29 @@
     - title: "TO BE mudel"
       url:
     - title: "Automatiseerimine"
-      url:
+      url: "/Automatiseerimine"
     - title: "Lean IT"
       url: "/Lean"
 
 - title: "5 IT-teenuste sisseostmine"
   categories:
     - title: "IT-teenuste, sh arendustööde sisseostmine"
-      url:
+      url: "/Sisseostmine"
     - title: "IT-teenuste liigid"
       url:
     - title: "Raamistikud ja standardid - ITIL, COBIT jt"
       url:
-    - title: "Uued vormid - SaaS (software as a service), PaaS (platform as a service), IaaS (infrastructure as a service)"
-      url:
+    - title: "Uued, as-a-Service tooted"
+      url: "/Uued"
     - title: "IT-projektide ettevalmistamine"
       url:
-    - title: "Ärivajadused"
-      url:
-    - title: "Nõuete väljaselgitamine"
+    - title: "Ärivajadused. Nõuete väljaselgitamine"
       url:
     - title: "Tasuvusanalüüs"
       url:
     - title: "IT-investeeringute portfell"
-      url:
-    - title: "Arendustöö korraldamine"
-      url:
-    - title: "Agiilne arendus"
+      url: "/Invest"
+    - title: "Arendustöö korraldamine. Agiilne arendus"
       url: "/Agiil"
     - title: "Riskijuhtimine, infoturve jt aspektid"
       url:
@@ -105,3 +101,6 @@
 
 - title: "Õppejõud"
   url: "/PP"
+
+- title: "Dangerous stuff"
+  url: "/Dangerous"  
