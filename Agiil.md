@@ -53,3 +53,7 @@ töötav tarkvara on olulisem kui kõikehõlmav dokumentatsioon
 
 reageerimine muutunud oludele on adekvaatsem kui algsest plaanist kinnihoidmine
 
+- [Scaled Agile Framework](http://www.scaledagileframework.com/)
+- [Comparing scaling agile frameworks](http://www.cio.com/article/2974436/agile-development/comparing-scaling-agile-frameworks.html)
+
+- [10 modern software engineering mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.624dxgpz1) 

@@ -5,6 +5,9 @@ permalink: Tehno
 
 # Tehnoloogiate (tarkvarade) hindamine ja valik
 
+- teab IT-trende käsitlevaid kvaliteetseid infoallikaid
+- omab ettekujutust uue IT rakendamise hetkeseisust ühes valitud ärivaldkonnas.
+
 __Tehnoloogia__ algses, antiik-Kreekast pärit tähenduses on oskus või kunst midagi produktiivset teha (kr τέχνη, techne, "oskus, kunst"; -λογία, -logia).
 
 Seetõttu on natuke tautoloogiline rääkida tehnoloogia rakendamisest. Tehnoloogia ongi see, kuidas tehakse.
@@ -31,7 +34,7 @@ __Konvergents__ e kokkukasvamine on nähtus, kus IT lõimub mõne teise valdkonn
 
 __Tehnoloogiate kombineerimine__ e kooskasutamine on süsteemide ehitamisel hädavajalik.
 
-Näiteks juba käesoleva väikese veebisaidi tegemisel on kasutatud tervet rida töövahendeid ja tehnoloogiaid:
+Näiteks juba käesoleva väikese veebisaidi tegemisel on kasutatud 15 erinevat töövahendit ja tehnoloogiat:
 
   - [Markdown](https://en.wikipedia.org/wiki/Markdown) - laialtlevinud märgendkeel
   - [GitHub](https://github.com/) - versioonihaldustarkvara
@@ -70,3 +73,13 @@ IT mehed ütlevad vahel, et miski töötab "automaagiliselt". Mida see tähendab
 
 > "Any sufficiently advanced technology is indistinguishable from magic." &mdash;Arthur C. Clarke
 
+__Tarkvara hindamine ja valimine__
+
+- [14 Free Business Tools to Make Your Startup more Successful in 2017](http://www.huffingtonpost.com/kathleen-maloney/14-free-business-tools-to_b_13718746.html)
+- [40 of the Best To-Do Apps for Personal Task Management](https://zapier.com/blog/best-todo-list-apps/)
+  - probleem: töödega unustamine, viivitamine ja hilinemine; lahendus: ToDo app (list and task manager software)
+    - [Google Keep](https://www.google.com/keep/)
+- vrdl edenemisaruannete (ingl progress report) tarkvarasid :
+  - [I Done This](https://home.idonethis.com/)
+  - [Weekdone.com](https://weekdone.com/)   
+- MUST HAVE, NICE TO HAVE

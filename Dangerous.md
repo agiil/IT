@@ -11,3 +11,4 @@ permalink: Dangerous
 - Ben-Ari M (2010) Objects Never? Well, Hardly Ever! Communications of the ACM.
 - Pike R (2012) [Go at Google: Language Design in the Service of Software Engineering](http://talks.golang.org/2012/splash.article)
 - Barker J (2013) [All evidence points to OOP being bullshit](http://pivotallabs.com/all-evidence-points-to-oop-being-bullshit/)
+- Agre, Phil (2003) [How to Be a Leader in Your Field: A Guide for Students in Professional Schools](http://polaris.gseis.ucla.edu/pagre/leader.html)

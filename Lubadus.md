@@ -68,6 +68,12 @@ Lihtne, kergekaaluline (_lightweight_), laiendatav - need on omadused, millega i
 
 SOAP (Simple Object Access Protocol) on lightweight; XML (Extensible Markup Language) on laiendatav; mõlemad tehnoloogiad on laialt levinud, kuid tänapäevasest vaatest mitte kõige lihtsamad ega ka laiendamise poolest kõige paremad. 
 
+__Muutuv IT__
+
+- IT arenguprotsess: üldiseloomustus
+- tööstusinternet, _industrial internet_
+- [The Debate Around “Do We Even Need CSS Anymore?”](https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/)
+
 __Tehnoloogiatrendide jälgimine teenusena__.
 
 - [Redmonk](http://redmonk.com/), "the developer-focused industry analyst firm"

@@ -7,11 +7,9 @@
 
 - title: "1 Informatsioon"
   categories:
-    - title: "Informatsioon"
-      url:
+    - title: "Informatsiooni väärtus ja kvaliteet"
+      url: "/Informatsioon"
     - title: "Väärtusloome infoühiskonnas"
-      url:
-    - title: "Info kvaliteet"
       url:
 
 - title: "2 Tehnoloogiad"
@@ -31,11 +29,11 @@
 
 - title: "3 Infohaldus"
   categories:
-    - title: "Infohaldus (information management)"
-      url:
+    - title: "Infohaldus (Information Management)"
+      url: "/Infohaldus"
     - title: "Töö IT-keskkonnas"
       url:
-    - title: "Efektiivse töövoo (workflow) kujundamine"
+    - title: "Efektiivse töövoo (Workflow) kujundamine"
       url:
     - title: "Terviklik infohaldus"
       url:
@@ -66,9 +64,9 @@
     - title: "IT-teenuste, sh arendustööde sisseostmine"
       url: "/Sisseostmine"
     - title: "IT-teenuste liigid"
-      url:
+      url: "/IT-teenused"
     - title: "Raamistikud ja standardid - ITIL, COBIT jt"
-      url:
+      url: "/Raamistikud"
     - title: "Uued, as-a-Service tooted"
       url: "/Uued"
     - title: "IT-projektide ettevalmistamine"
@@ -86,12 +84,10 @@
 
 - title: "6 IT, innovatsioon ja strateegia"
   categories:
-    - title: "Innovatsioon"
-      url: "/Innovatsioon"
     - title: "IT-põhise äristrateegia kujundamine"
       url: "/Strateeg"
-    - title: "IT strateegia"
-      url:
+    - title: "Innovatsioon"
+      url: "/Innovatsioon"
 
 - title: "Kirjandus"
   url: "/Kirjandus"
@@ -104,6 +100,9 @@
 
 - title: "Õppejõud"
   url: "/PP"
+
+- title: "Special projects"
+  url: "/Special"
 
 - title: "Dangerous stuff"
   url: "/Dangerous"  

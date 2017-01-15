@@ -35,5 +35,3 @@ __Mõned vajalikud IT-terminid__.
 
 - TL;DR - üherealine kokkuvõte pikema teksti ees või selle asemel (lühend ingl _too long; didn’t read_)
 
-- "Hello, World!" - traditsiooniline [kõige lihtsam IT-rakendus](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).
-

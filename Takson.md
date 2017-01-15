@@ -145,3 +145,8 @@ __Ettevõtja taksonoomia__
   - __reaalne ettevõte__
   - __mänguettevõtte__ - aga: näitlejad on sageli ka edukad ettevõtjad
   - __quasi-ettevõte__ - nominaalselt mitteettevõte, mille tegelik tegevus ei erine palju ettevõttest (nt sisuliselt ettevõttena tegutsev riigiasutus)
+  11 ASPEKT: kõrval
+  - __kõrval- v hübriidettevõtja__
+    - riigiametnik, ühtlasi ettevõtja
+    - palgatöötaja, ühtlasi ettevõtja
+

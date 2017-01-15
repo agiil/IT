@@ -6,3 +6,10 @@ permalink: Sisseostmine
 # IT-teenuste sisseostmine
 
 [Tagline](https://tagline.ru/) - digituru reitingud ja ülevaated
+
+__Koosloome__. ingl _co-creation_
+
+  - Demirezen, Kumar & Shetty (2016) Managing Co-Creation in Information Technology Projects: A Differential Games Approach. ISR, Vol 27, No 3
+    - "We study the relationship between a client and a vendor in value co-creation environments such as information technology projects. [..] Based on the results of our model, we present several other managerial insights."
+  - IT project as co-creation
+    - [https://en.wikipedia.org/wiki/Co-creation](https://en.wikipedia.org/wiki/Co-creation)

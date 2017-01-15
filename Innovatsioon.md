@@ -11,4 +11,8 @@ Mängimise ja disaini rakendamine riigivalitsemisel? [Experimentation with Serio
 
 Kõlab fantastiliselt, aga tänapäeva reaalsus ongi fantastiline.
 
-[OECD Innovatsiooniobservatoorium](https://www.oecd.org/governance/observatory-public-sector-innovation/home/) keskendub küll avaliku sektori uutele lahendustele, kuid suurt vahet ei ole. Ühe innovatsiooniga on kaardil ka Eesti.
+- Innovatsioon IT abil
+  - avalikus sektoris
+    - EL
+      - [Futurium](https://ec.europa.eu/futurium/en/egovernment4EU)
+      - [OECD Innovatsiooniobservatoorium](https://www.oecd.org/governance/observatory-public-sector-innovation/home/) keskendub küll avaliku sektori uutele lahendustele, kuid suurt vahet ei ole. Ühe innovatsiooniga on kaardil ka Eesti.
