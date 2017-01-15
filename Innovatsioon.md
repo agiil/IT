@@ -5,7 +5,7 @@ permalink: Innovatsioon
 
 # Innovatsioon
 
-Robotite kasutamine avalikus halduses? [Telepresence Robots in Government](https://www.oecd.org/governance/observatory-public-sector-innovation/innovations/page/telepresencerobotsingovernment.htm)
+"BlackRock's Robot Stock-Pickers Post Record Losses", teatab Bloomberg News. Eks robotil ole ka vahel halb päev. Canadas aga roboteid hakatud kasutama ka riigiasutustes. Vilgutavad tulesid ja sõidavad ringi. See ei ole libauudis, vaid OECD Observatory of Public Sector Innovation nupuke ([Telepresence Robots in Government](https://www.oecd.org/governance/observatory-public-sector-innovation/innovations/page/telepresencerobotsingovernment.htm)). Vantaa linn Soomes tahab roboteid rakendada finantsjuhtimises. Robotite kasutamine avalikus halduses? 
 
 Mängimise ja disaini rakendamine riigivalitsemisel? [Experimentation with Serious Games in Government](https://www.oecd.org/governance/observatory-public-sector-innovation/innovations/page/experimentationwithseriousgamesingovernment-impactforesightgame.htm)
 
