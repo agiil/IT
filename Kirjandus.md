@@ -6,7 +6,7 @@ permalink: Kirjandus
 - TOC
 {:toc}
 
-# Viidatud kirjandus
+## Viidatud kirjandus
 
 [Cooper2016] Cooper, B., Vlaskovits, P., & Ries, E. (2016). The Lean Entrepreneur : How Visionaries Create Products, Innovate with New Ventures, and Disrupt Markets. Wiley.
 

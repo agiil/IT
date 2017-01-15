@@ -9,9 +9,7 @@ __Ettevõte kui maagiline masin__. Hästitöötav IT on nagu maagiline jõud (se
 
 Ja muidugi on IT huvitav ka intellektuaalselt ja esteetiliselt.
 
-## Mis rolli veebisait täidab?
-
-Sait täidab nii loengukonspekti, loenguslaidide kui ka teatmelise materjali rolli.
+__Mis rolli veebisait täidab?__ Sait täidab nii loengukonspekti, loenguslaidide kui ka teatmelise materjali rolli.
 
 Infotehnoloogiliselt on veebisait "teadmuse organiseerimise süsteem" (_knowledge organisation system_), vt [Äritaksonoomia](/IT/Takson).
 
@@ -29,11 +27,11 @@ Näiteks on üks oluline teema __IT juhtimise__ (_management_) ja __IT valitsemi
 
 Õppejõule toimib veebisaid ka __platvormina__ kirjutamiseks ja tegutsemiseks praktikas.  
 
-## Juhtmõte
+__Juhtmõte__.
 
-__break things__ ⟶ Move fast and break things. Unless you are breaking stuff, you are not moving fast enough. --- Mark Zuckerberg.
+> Move fast and break things. Unless you are breaking stuff, you are not moving fast enough. --- Mark Zuckerberg.
 
-## Mõned vajalikud IT-terminid
+__Mõned vajalikud IT-terminid__.
 
 - TL;DR - üherealine kokkuvõte pikema teksti ees või selle asemel (lühend ingl _too long; didn’t read_)
 
