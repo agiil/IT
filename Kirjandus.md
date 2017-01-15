@@ -3,10 +3,12 @@ title: Kirjandus
 permalink: Kirjandus
 ---
 
+# Kirjandus
+
 - TOC
 {:toc}
 
-## Viidatud kirjandus
+__Viidatud allikad__
 
 [Cooper2016] Cooper, B., Vlaskovits, P., & Ries, E. (2016). The Lean Entrepreneur : How Visionaries Create Products, Innovate with New Ventures, and Disrupt Markets. Wiley.
 
@@ -46,7 +48,7 @@ metoodiline, võib isegi öelda, et liiga põhjalik protseduur valmistarkvarade 
 
 [Toomey2015] Toomey, M & Juiz, C (2015) To Govern IT, or Not to Govern IT? Communications of the ACM.
 
-## IT ärirakendamise akadeemilisi ajakirju
+__IT ärirakendamise akadeemilisi ajakirju__
 
  - MIS Quarterly
  - Information Systems Research

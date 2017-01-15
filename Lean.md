@@ -3,7 +3,7 @@ title: Sujuv IT (Lean IT)
 permalink: Lean
 ---
 
-## Sujuvus
+# Sujuv (Lean) IT
 
 - [The Most Graceful Freestyle Swimming by Shinji Takeuchi](https://youtu.be/rJpFVvho0o4)
 - [Alexander Popov swimming technique](https://youtu.be/CIzBaSiWdRA)

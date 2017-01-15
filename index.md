@@ -17,7 +17,7 @@ Kursuse läbinu __oskab__:
 -  kaardistada ettevõtte IT-arhitektuuri ja leida sealt lünki ning parandamist vajavaid kohti
 -  visioneerida IT-põhist ärimudelit. 
 
-OK, kõik see ei ole lihtne. Praktika teeb meistriks. Kuid algus on tehtud.
-{: .s} 
+<!-- OK, kõik see ei ole lihtne. Praktika teeb meistriks. Kuid algus on tehtud.
+{: .s} --> 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commonsi litsents" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Litsentseeritud <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commonsi Autorile viitamine 4.0 Rahvusvaheline litsentsiga</a>.

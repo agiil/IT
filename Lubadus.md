@@ -4,10 +4,6 @@ permalink: Lubadus
 ---
 
 # Tehnoloogia lubadus ja selle täitmine
-{: .no_toc}
-
-- 
-{:toc}
 
 __Tehnoloogiatrend__ on uue, paljulubava tehnoloogia tulemine, populaarsuse võitmine.
 
@@ -66,20 +62,20 @@ Veidi vanemaid:
 - 1980s
   - real-time processing
 
-## Tehnoloogia lubadus alati ei täitu
+__Tehnoloogia lubadus alati ei täitu__.
 
 Lihtne, kergekaaluline (_lightweight_), laiendatav - need on omadused, millega infotehnoloogiaid väga sageli välja pakutakse.
 
 SOAP (Simple Object Access Protocol) on lightweight; XML (Extensible Markup Language) on laiendatav; mõlemad tehnoloogiad on laialt levinud, kuid tänapäevasest vaatest mitte kõige lihtsamad ega ka laiendamise poolest kõige paremad. 
 
-## Tehnoloogiatrendide jälgimine teenusena
+__Tehnoloogiatrendide jälgimine teenusena__.
 
 - [Redmonk](http://redmonk.com/), "the developer-focused industry analyst firm"
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
 - [O'Reilly Ideas](https://www.oreilly.com/ideas)
 - [Gartner](http://www.gartner.com/technology/home.jsp)
 
-## Mudelid
+__Mudelid__.
 
 Igal uuringufirmal on oma meetod või mudel, millega tehnoloogiasuundi analüüsitakse ja ennustatakse ning tehnoloogiapakkujaid hinnatakse.
 
@@ -94,12 +90,12 @@ Igal uuringufirmal on oma meetod või mudel, millega tehnoloogiasuundi analüüs
 
 - Uuringufirma Gartner [Hype Cycle](https://en.wikipedia.org/wiki/Hype_cycle) on laialt tuntud tehnoloogia kasutuselevõtu mudel.
 
-## Tehnoloogia arengu lõputus?
+__Tehnoloogia arengu lõputus?__
 
 Tähelepanuväärne on Venemaa majandusteadlase [Glazjevi](https://en.wikipedia.org/wiki/Sergey_Glazyev) nn pikkade lainete teooria, vt ["Majandusarengu pikkade lainete tänapäevane teooria"](http://www.glazev.ru/upload/iblock/77b/77b8141cdfc1038b78520f79fc9acd40.pdf). Glazjev väidab, et igal sajandil on olnud oma domineeriv tehnoloogiline formatsioon (vn уклад). IT tormiline areng nihkuvat teisele plaanile, IT asemele tõusvat juhtrolli biotehnoloogia jt uued suunad.
 {: .s}
 
-## Soovitusi IT jälgimiseks
+__Soovitusi IT jälgimiseks__.
 
 - Kõige uuemat, ülikasulikku teavet leiab blogidest, mitte raamatutest
 

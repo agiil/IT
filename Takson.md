@@ -4,16 +4,12 @@ permalink: Takson
 ---
 
 ## Äritaksonoomia
-{: .no_toc}
-
-- TOC
-{:toc} 
 
 Äritaksonoomia, _corporate taxonomy_ 
 
 Taksonoomia koostaja peab olema osalt "compulsive organizer", osalt tehnoloog ja osalt diplomaat.
 
-### Mis on taksonoomia?
+__Mis on taksonoomia?__
 
 Taksonoomia on teabe rühmitamise vahend. Nimetuste korrastatud kogum, süsteem, mille abil saab sarnased üksused ühte koondada, eristada teistest ja nimetada rühmi kasutajatele arusaadavas keeles.
 
@@ -47,7 +43,7 @@ reguleeritud sõnastik (_controlled vocabulary). Nimetatakse mitut moodi: koodil
 
 Uusim suund on linkandmed vt nt [Taxonomy Bootcamp London 2016](http://www.taxonomybootcamp.com/London/2016/)
 
-#### Taksonoomia koostamine
+__Taksonoomia koostamine__
 
 Ei ole ainult loetelu koostamine
 
@@ -84,20 +80,20 @@ Tehniliselt keerukam: SKOS, RDF, semantiline veeb. Vt nt [Using SKOS to Express 
 
 Masinloetavad taksonoomiad
 
-#### Kas taksonoomia koostamiseks on vaja erilisi oskusi? Kes taksonoomia koostab?
+Kas taksonoomia koostamiseks on vaja erilisi oskusi? Kes taksonoomia koostab?
 
 Taksonoomia koostajat võib nimetada taksonomistiks. Suure taksonoomia haldamiseks on kindlasti eraldi haldaja rolli täitjat.
 
 Infoarhitekt.
 
-### Milleks taksonoomia?
+Milleks taksonoomia?
 
 Mõistete loetelu (_term list_)
 Lame loetelu (_flat list_)
 
 Hierarhiline loetelu
 
-## Ettevõtja taksonoomia
+__Ettevõtja taksonoomia__
 
 - 1 ASPEKT: motivatsioon
   - __loomult ettevõtja__ - sageli haridussüsteemist väljatõugatu, bürokraatlikesse hierarhiatesse mittesobiv inimene
@@ -147,7 +143,3 @@ Hierarhiline loetelu
   - __reaalne ettevõte__
   - __mänguettevõtte__ - aga: näitlejad on sageli ka edukad ettevõtjad
   - __quasi-ettevõte__ - nominaalselt mitteettevõte, mille tegelik tegevus ei erine palju ettevõttest (nt sisuliselt ettevõttena tegutsev riigiasutus)
-
-
-
-

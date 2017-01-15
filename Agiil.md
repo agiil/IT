@@ -24,8 +24,7 @@ Tänapäevaks on agiilmeetodid saanud tarkvaraarenduse peavooluks (_mainstream_)
 - saadav tarkvara vastab paremini kasutajate vajadustele
 - tähtaegade ja maksumuse risk on väiksem.
 
-
-### Miks agiilarendus on üldse teema?
+__Miks agiilarendus on üldse teema?__
 
 Vastus peitub osalt tarkvara tegemise olemuslikus keerukuses ja osalt organisatsiooni- ja inimese psühholoogias.
 

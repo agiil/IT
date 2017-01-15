@@ -3,6 +3,8 @@ title: IT arhitektuur
 permalink: Arhi
 ---
 
+# IT arhitektuur
+
 __Ehitusblokid__, ingl _building blocks_ on IT arhitektuuri kujundamise viis, kasutusel eelkõige suurtes süsteemides. Kavandatakse ja teostatakse rida komponente - "ehitusblokke" (taristulisi teenuseid), pöörates erilist tähelepanu komponentide kokkusobivusele (koostalitlusvõimele, ingl _interoperability_). Komponte kombineerides saab paindlikult ja kuluefektiivselt teha erinevaid lahendusi ja teenuseid.
 
 Ehitusblokkide arhitektuuripõhimõte on kasutusel mitmete riikide rahvuslike e-taristute ehitamisel:
@@ -20,6 +22,6 @@ Ehitusblokkide arhitektuurile on rajatud ka suured pilveplatvormid, nt:
 - [Google Cloud](https://cloud.google.com/)
 - [Amazon Web Services](https://aws.amazon.com/)
 
-## IT-arhitektuuri kirjeldamine
+__IT-arhitektuuri kirjeldamine__
 
 [“C4” meetod](http://static.codingthearchitecture.com/c4.pdf) 
