@@ -12,14 +12,18 @@ permalink: Ettevotja
 
 <ul>
   <li>
-    <span class="lyliti">1 motivatsioon</span>
+    <span id='01' class="lyliti">
+      1 motivatsioon <i class='material-icons'>add_circle</i>
+    </span>
     <ul id='alammenyy01'>
     - __loomult ettevõtja__ - sageli haridussüsteemist väljatõugatu, bürokraatlikesse hierarhiatesse mittesobiv inimene
     - __olude sunnil ettevõtja__ - tegeleb ettevõtlusega, sest teisi valikuid ei ole
     </ul>
   </li>
   <li>
-    <span class="lyliti">2 ettevõtte elutsükkel</span>
+    <span id='02' class="lyliti">
+      2 ettevõtte elutsükkel <i class='material-icons'>add_circle</i>
+    </span>
     <ul id='alammenyy02'>
     - __kavatsev ettevõtja__ - ei oma veel, kuid plaanib
     - __alustav ettevõtja__ - ettevõte loodud, 0..6 kuud
@@ -28,7 +32,9 @@ permalink: Ettevotja
     </ul>
   </li>
   <li>
-    <span class="lyliti">3 ettevõtete arv</span>
+    <span id='03' class="lyliti">
+      3 ettevõtete arv <i class='material-icons'>add_circle</i>
+    </span>
     <ul id='alammenyy03'>
     - __ühe ettevõttega ettevõtja__
     - __sariettevõtja__, _serial entrepreneur_ - müünud või lõpetanud eelmise ettevõte, alustanud uut
@@ -36,7 +42,9 @@ permalink: Ettevotja
     </ul>
   </li>
   <li>
-    <span class="lyliti">4 ettevõtte strateegiline seis ja suund</span>
+    <span id='04' class="lyliti">
+     4 ettevõtte strateegiline seis ja suund <i class='material-icons'>add_circle</i>
+    </span>
     <ul id='alammenyy04'>
     - __kasvav ettevõte__
       - __laia haardega__ ettevõtja
@@ -48,7 +56,9 @@ permalink: Ettevotja
     </ul>
   </li>
   <li>
-    <span class="lyliti">5 omanike arv ja sotsiaalne struktuur</span>
+    <span id='05' class="lyliti">
+      5 omanike arv ja sotsiaalne struktuur <i class='material-icons'>add_circle</i>
+    </span>
     <ul id='alammenyy05'>
     - __ainuomanik__
     - __pereettevõtte__
@@ -57,21 +67,27 @@ permalink: Ettevotja
     </ul>
   </li>
   <li>
-    <span class="lyliti">6 majandustulemused</span>
+    <span id='06' class="lyliti">
+      6 majandustulemused <i class='material-icons'>add_circle</i>
+    </span>
     <ul id='alammenyy06'>
     - __kasumlik ettevõte__
     - __kahjumis ettevõte__
     </ul>
   </li>
   <li>
-    <span class="lyliti">7 tegutsemine</span>
+    <span id='07' class="lyliti">
+      7 tegutsemine <i class='material-icons'>add_circle</i>
+    </span>
     <ul id='alammenyy07'>
     - __tegutsev ettevõte__
     - nn __riiulifirma__
     </ul>
   </li>
   <li>
-    <span class="lyliti">8 omaniku plaanid</span>
+    <span id='08' class="lyliti">
+      8 omaniku plaanid <i class='material-icons'>add_circle</i>
+    </span>
     <ul id='alammenyy08'>
     - __soovib alustada ettevõtlust__
       - __töötab teises ettevõttes__
@@ -87,14 +103,18 @@ permalink: Ettevotja
     </ul>
   </li>
   <li>
-    <span class="lyliti">9 ausus</span>
+    <span id='09' class="lyliti">
+      9 ausus <i class='material-icons'>add_circle</i>
+    </span>
     <ul id='alammenyy09'>
     - __aus ettevõte__
     - __ettevõtluse vormis tegutsev kuritegevus__
     </ul>
   </li>
   <li>
-    <span class="lyliti">10 reaalsus</span>
+    <span id='10' class="lyliti">
+      10 reaalsus <i class='material-icons'>add_circle</i>
+    </span>
     <ul id='alammenyy10'>
     - __reaalne ettevõte__
     - __mänguettevõtte__ - aga: näitlejad on sageli ka edukad ettevõtjad
