@@ -97,19 +97,19 @@ __Ettevõtja taksonoomia__
 
 <p><span><i class="material-icons ikoon">format_align_left</i></span></p>
 
-- 1 ASPEKT: motivatsioon
+- 1 motivatsioon
   - __loomult ettevõtja__ - sageli haridussüsteemist väljatõugatu, bürokraatlikesse hierarhiatesse mittesobiv inimene
   - __olude sunnil ettevõtja__ - tegeleb ettevõtlusega, sest teisi valikuid ei ole
-- 2 ASPEKT: ettevõtte elutsükkel
+- 2 ettevõtte elutsükkel
   - __kavatsev ettevõtja__ - ei oma veel, kuid plaanib
   - __alustav ettevõtja__ - ettevõte loodud, 0..6 kuud
   - __sissetöötanud ettevõtja__ - ettevõtte vanus 1+ aasta
   - __suure kogemusega ettevõtja__
-- 3 ASPEKT: ettevõtete arv
+- 3 ettevõtete arv
   - __ühe ettevõttega ettevõtja__
   - __sariettevõtja__, _serial entrepreneur_ - müünud või lõpetanud eelmise ettevõte, alustanud uut
   - __portfelliettevõtja__ - mitme ettevõtte üheaegne omanik
-- 4 ASPEKT: ettevõtte strateegiline seis ja suund
+- 4 ettevõtte strateegiline seis ja suund
   - __kasvav ettevõte__
     - __laia haardega__ ettevõtja
     - __kitsa fookusega__ ettevõtja
@@ -117,18 +117,18 @@ __Ettevõtja taksonoomia__
   - __stabiilne ettevõte__
     - nn __elustiiliettevõtja__ - ei taotlegi kasvu
     - __sundseisus ettevõte__ - konkurents, ressursid ei võimalda kasvada
-- 5 ASPEKT: omanike arv ja sotsiaalne struktuur
+- 5 omanike arv ja sotsiaalne struktuur
   - __ainuomanik__
   - __pereettevõtte__
   - __sõprade ettevõte__
   - __muu omanike struktuur__
-- 6 ASPEKT: majandustulemused
+- 6 majandustulemused
   - __kasumlik ettevõte__
   - __kahjumis ettevõte__
-- 7 ASPEKT: tegutsemine
+- 7 tegutsemine
   - __tegutsev ettevõte__
   - nn __riiulifirma__
-- 8 ASPEKT: omaniku plaanid
+- 8 omaniku plaanid
   - __soovib alustada ettevõtlust__
     - __töötab teises ettevõttes__
     - __töötab avalikus sektoris__
@@ -140,14 +140,14 @@ __Ettevõtja taksonoomia__
     - __soovib siirduda kunsti, sporti vm alale__
     - __soovib pühenduda perekonnale__
     - __soovib aja maha võtta__
-- 9 ASPEKT: ausus
+- 9 ausus
   - __aus ettevõte__
   - __ettevõtluse vormis tegutsev kuritegevus__
-- 10 ASPEKT: reaalsus
+- 10 reaalsus
   - __reaalne ettevõte__
   - __mänguettevõtte__ - aga: näitlejad on sageli ka edukad ettevõtjad
   - __quasi-ettevõte__ - nominaalselt mitteettevõte, mille tegelik tegevus ei erine palju ettevõttest (nt sisuliselt ettevõttena tegutsev riigiasutus)
-  11 ASPEKT: kõrval
+  11 kõrval
   - __kõrval- v hübriidettevõtja__
     - riigiametnik, ühtlasi ettevõtja
     - palgatöötaja, ühtlasi ettevõtja
