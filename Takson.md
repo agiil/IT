@@ -22,7 +22,7 @@ _Corporate taxonomy is hierarchical classification of entities of interest to an
         Rattariided
 ```
 
-Taksonoomiat võib nimetada mituti: __koodiloend__ (_code list_), __tesaurus__, __klassifikaator__, __klassifikatsioon__, __liigendusskeem__, __ontoloogia__.
+Taksonoomiat võib nimetada mitmeti: __koodiloend__ (_code list_), __tesaurus__, __klassifikaator__, __klassifikatsioon__, __liigendusskeem__, __ontoloogia__.
 
 Uuemal ajal öeldakse, et taksonoomia __teadmuse korrastamise süsteem__ (_knowledge organization system_).
 
@@ -36,7 +36,7 @@ Infotöötlus infosüsteemides tugineb suures osas taksonoomiatele. Infosüsteem
 
 Kuna taksonoomiad on alusandmed teiste andmete tootmiseks, siis peavad taksonoomiad olema ajakohased, täpsed ja täielikud. Teatmelise äriteabe kvaliteediga tegelev suund kannab inglise keeles nimetust [Master Data Management](http://www.earley.com/blog/why-taxonomy-critical-master-data-management-mdm) (__põhiandmete haldamine__).
 
-Taksonoomiad on andmete ühendamise (kooskasutamise) aluseks. Selle väljenduseks on __linkandmete__ [linked data](http://linkeddata.org/) trend.
+Taksonoomiad on andmete ühendamise (kooskasutamise) aluseks. Selle väljenduseks on __linkandmete__ [Linked Data](http://linkeddata.org/) trend.
 
 Taksonoomiad on organisatsioonis vajalikud mitmes vaates. Aitavad:
 
