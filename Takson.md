@@ -1,4 +1,5 @@
 ---
+sidebar: false
 title: Äritaksonoomia
 permalink: Takson
 ---
