@@ -22,7 +22,7 @@ _Corporate taxonomy is hierarchical classification of entities of interest to an
         Rattariided
 ```
 
-Taksonoomiat võib nimetada mitut moodi __koodiloend__ (_code list_), __tesaurus__, __klassifikaator__, __klassifikatsioon__, __liigendusskeem__, __ontoloogia__.
+Taksonoomiat võib nimetada mituti: __koodiloend__ (_code list_), __tesaurus__, __klassifikaator__, __klassifikatsioon__, __liigendusskeem__, __ontoloogia__.
 
 Uuemal ajal öeldakse, et taksonoomia __teadmuse korrastamise süsteem__ (_knowledge organization system_).
 
@@ -32,7 +32,7 @@ Taksonoomiad täidavad sageli nn __teatmelise teabe__ (_reference data_) rolli. 
 
 Taksonoomiad aitavad äritegevuse objekte ja toiminguid liigitada, asju õigetesse „lahtritesse“ paigutada ja on selle kaudu ärilogistika eelduseks.
 
-Infotöötlus infosüsteemides tugineb suures osas taksonoomiatele. Infosüsteemi või andmebaasi kontekstis nimetatakse taksonoomiat sageli kooditabeliks, -loendiks või klassifikaatoriks).
+Infotöötlus infosüsteemides tugineb suures osas taksonoomiatele. Infosüsteemi või andmebaasi kontekstis nimetatakse taksonoomiat sageli kooditabeliks, -loendiks või klassifikaatoriks.
 
 Kuna taksonoomiad on alusandmed teiste andmete tootmiseks, siis peavad taksonoomiad olema ajakohased, täpsed ja täielikud. Teatmelise äriteabe kvaliteediga tegelev suund kannab inglise keeles nimetust [Master Data Management](http://www.earley.com/blog/why-taxonomy-critical-master-data-management-mdm) (__põhiandmete haldamine__).
 
@@ -40,13 +40,13 @@ Taksonoomiad on andmete ühendamise (kooskasutamise) aluseks. Selle väljendusek
 
 Taksonoomiad on organisatsioonis vajalikud mitmes vaates. Aitavad:
 
-- teavet korrastada nii, et teave on kiiremini ja paremini otsitav, navigeeritav ja leitav
+- teavet korrastada, nii, et teave on kiiremini otsitav, navigeeritav ja leitav
   - vabatekstiotsing ei ole alati piisav
-- välja töötada protseduure, efektiivset, korratavat töövoogu (workflow)
+- välja töötada protseduure, efektiivset, korratavat töövoogu (_workflow_)
 - automatiseerida infotöötlust
-- kehtestada mitmesuguseid nõudeid
+- kehtestada mitmesuguseid nõudeid (_policy_)
 - hõlmata ja süstematiseerida teadmust ja teha see organisatsioonis taaskasutatavaks
-- välja töötada ja ühtlustada äriterminoloogiat, sellega tõhustada kommunikatsiooni nii organisatsiooni sees kui ka klientidega ja partneritega
+- luua ja ühtlustada äriterminoloogiat, sellega tõhustada kommunikatsiooni nii organisatsiooni sees kui ka klientidega ja partneritega
 - lõimida (integreerida) infosüsteeme.
 
 Tüüpilisi äritaksonoomiaid:
@@ -60,7 +60,7 @@ Tüüpilisi äritaksonoomiaid:
 - intraneti sisu taksonoomia
 - projektikaustade ja failide nimede süsteem, nt ehitus- või projekteerimisettevõttes.
 
-Taksonoomiaid kasutatakse ka teaduses, meditsiinis, sõjanduses, avalikus halduses jm. Mõned näited: 
+Taksonoomiaid kasutatakse erinevates valdkondades, lidaks ärile ka teaduses, meditsiinis, sõjanduses, avalikus halduses jm. Mõned näited: 
 
 - [Open Eligibility taxonomy](http://about.auntbertha.com/openeligibility)
 - [Taxonomy of Digital Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH)
@@ -68,9 +68,10 @@ Taksonoomiaid kasutatakse ka teaduses, meditsiinis, sõjanduses, avalikus haldus
 Taksonoomia elemendid
 
 - __klassid__ e __taksonid__
-  - eelisterminid (_preferred term_)
-  - sünonüümid
-- aspektid e tahud - spetsiaalne termin – __fassett__, ingl _facet_ - võimaldavad vältida paljutasemelist hierarhiat ja esitada taksonoomia "lamedamana".
+  - __eelisterminid__ (_preferred term_)
+  - __sünonüümid__
+- __"alammõiste-ülemmõiste"__ seosed, mis moodustavad __hierarhia__
+- __aspektid__ e __tahud__ - spetsiaalne termin – __fassett__, ingl _facet_ - võimaldavad vältida paljutasemelist hierarhiat ja esitada taksonoomia "lamedamana".
 
 Väikese taksonoomia tegemiseks ei ole vaja spetsiaalset tarkvara. Piisab tavalisest tekstiredaktorist. Suur taksonoomia võib sisaldada tuhandeid mõisteid; siis on eritarkvara vajalik.
 
@@ -81,8 +82,6 @@ __Andmehooldus__ ([data curation](https://en.wikipedia.org/wiki/Data_curation)) 
 __Andmehooldaja__ ([data steward](https://en.wikipedia.org/wiki/Data_steward)) on
 
 > "a person responsible for the management and fitness of data elements - both the content and metadata."
-
-
 
 __Masinloetav taksonoomia__ on selline taksonoomia, mis on esitatud vormis, mida programm suudab töödelda. Levinud vormis on JSON, XML, CSV, RDF, SKOS.
 
