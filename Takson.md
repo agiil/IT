@@ -95,6 +95,7 @@ Hierarhiline loetelu
 
 __Ettevõtja taksonoomia__
 
+<i class="material-icons ikoon">format-align-left</i> 
 - 1 ASPEKT: motivatsioon
   - __loomult ettevõtja__ - sageli haridussüsteemist väljatõugatu, bürokraatlikesse hierarhiatesse mittesobiv inimene
   - __olude sunnil ettevõtja__ - tegeleb ettevõtlusega, sest teisi valikuid ei ole

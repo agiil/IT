@@ -3,6 +3,7 @@
 
 $mutedblue: #607D8B;
 $grey800: #424242;
+$grey700: #616161; /* Ikoonides */
 $erepunane: #FF5252; /* Material design A200 
   https://material.io/guidelines/style/color.html#color-color-palette */
 
@@ -128,4 +129,4 @@ dt { font-weight: bold; }
 dd { margin-left: 4em; }
 
 /* //// Material design ikoonid //// */
-.ikoon { color: #00acc1; font-size: 48px !important; }
+.ikoon { color: $grey700; font-size: 36px !important; }
