@@ -52,7 +52,7 @@ permalink: Ettevotja
           <li><b>kitsa fookusega</b> ettevõtja</li>
         </ul>
       <li><b>püsimajäämise eest võitlev ettevõte</b></li>
-      <li><b>stabiilne ettevõte</b></li>
+      <li><b>stabiilne ettevõte</b>
         <ul>
           <li>nn <b>elustiiliettevõtja</b> - ei taotlegi kasvu</li>
           <li><b>sundseisus ettevõte</b> - konkurents, ressursid ei võimalda kasvada</li>
