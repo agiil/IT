@@ -3,152 +3,108 @@ title: Äritaksonoomia
 permalink: Takson
 ---
 
-## Äritaksonoomia
+# Äritaksonoomia
 
-Äritaksonoomia, _corporate taxonomy_ 
+__Äritaksonoomia__ on ettevõttele või organisatsioonile huvi pakkuvate asjade hierarhiline liigitus.
 
-Taksonoomia koostaja peab olema osalt "compulsive organizer", osalt tehnoloog ja osalt diplomaat.
+_Corporate taxonomy is hierarchical classification of entities of interest to an enterprise, organization or administration._
 
-__Mis on taksonoomia?__
+Äritaksonoomia on suhteliselt vähetuntud, kuid suure kasutuspotentsiaaliga teabe süstematiseerimise vahend.
 
-Taksonoomia on teabe rühmitamise vahend. Nimetuste korrastatud kogum, süsteem, mille abil saab sarnased üksused ühte koondada, eristada teistest ja nimetada rühmi kasutajatele arusaadavas keeles.
+```
+        Maanteerattad
+        Maastikurattad
+        Rattaosad
+          Hammasrattad
+        Rattariided
+```
 
-[Open Eligibility taxonomy](http://about.auntbertha.com/openeligibility)
+Taksonoomiat võib nimetada mitut moodi:
 
-[Taxonomy of Digital Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH)
+- koodiloend (code list)
+- tesaurus
+- klassifikaator
+- klassifikatsioon
+- liigendusskeem
+- ontoloogia.
 
-Taksonoomia on sisuliselt vahend teabe korrastamiseks ja haldamiseks.
+Uuem termin on __teadmuse korrastamise süsteem__ (_knowledge organization system_).
 
-Paljudes organisatsioonides tuleb töödelda suuri infokogumeid. Taksonoomia võimaldab korrastatust. 
+Olemuselt on taksonoomia:
 
-Vabatekstiotsing ei lahenda kõiki probleeme. Taksonoomia võimaldab struktuurne teave.
+- reguleeritud sõnastik (_controlled vocabulary_)
+- nimetuste korrastatud kogum, süsteem, mille abil saab sarnased asjad või nähtused ühte koondada, eristada teistest
+- ja nimetada rühmi kasutajatele arusaadavas keeles.
 
-Taksonoomia võimaldab teabe korrastada nii, et teave on paremini leitav. Veebisaidi navigatsioon. Teave on paremini leitav. Kuid mitte ainult.
+Taksonoomiad täidavad sageli nn __teatmelise teabe__ (_reference data_) rolli. See tähendab näiteks seda, et toote veebipoodi kaubavalikusse lisamise eelduseks on tootekategooriate süsteemi e taksonoomia olemasolu. Taksonoomiad aitavad äritegevuse objekte ja toiminguid liigitada, asju õigetesse „lahtritesse“ paigutada ja on selle kaudu ärilogistika eelduseks.
 
-Nt
+Infotöötlus infosüsteemides tugineb suures osas taksonoomiatele (nimetatakse tavaliselt kooditabeliteks, -loenditeks või klassifikaatoriteks).
 
-- veebipoes tootekategooriad (tootetaksonoomia)
-- organisatsioonide siseveebides
-- ehitus- või projekteerimisettevõtte projektikaustade ja failide nimede süsteem
-- dokumendihaldussüsteemis - dokumentide liigitamiseks ja süsteemseks hoidmiseks
-- e-teenustes ja tarkvararakendustes
-- infosüsteemide lõimimine (integreerimine, ühendamine)
-- andmekogumine koos töötlemise võimaldamiseks
+See teema kannab inglise keeles nimetust [Master Data Management](http://www.earley.com/blog/why-taxonomy-critical-master-data-management-mdm).
 
-Taksonoomiad võivad olla väga erinevad, kuid põhimõtted on samad.
+Taksonoomiad on andmete ühendamise (kooskasutamise) aluseks. See avaldub [linkandmete](http://linkeddata.org/) (_linked data_) trendis.
 
-reguleeritud sõnastik (_controlled vocabulary). Nimetatakse mitut moodi: koodiloend (_code list_), tesaurus, klassifikaator, klassifikatsioon, ontoloogia. Uuem populaarne termin on "teadmuse korrastamise süsteem" (_knowledge organization system_).
+Taksonoomiad on organisatsioonis vajalikud mitmes vaates. Aitavad:
 
-[Master Data Management](http://www.earley.com/blog/why-taxonomy-critical-master-data-management-mdm).
+- teavet korrastada nii, et teave on kiiremini ja paremini otsitav, navigeeritav ja leitav
+  - vabatekstiotsing ei ole alati piisav
+- välja töötada protseduure efektiivset, korratavat töövoogu (workflow)
+- automatiseerida infotöötlust
+- kehtestada mitmesuguseid nõudeid
+- hõlmata ja süstematiseerida teadmust ja teha see organisatsioonis taaskasutatavaks
+- välja töötada ja ühtlustada äriterminoloogiat, sellega tõhustada kommunikatsiooni nii organisatsiooni sees kui ka klientidega ja partneritega
+- lõimida (integreerida) infosüsteeme
 
-Uusim suund on linkandmed vt nt [Taxonomy Bootcamp London 2016](http://www.taxonomybootcamp.com/London/2016/)
+Tüüpilisi äritaksonoomiaid:
 
-__Taksonoomia koostamine__
+- veebipoe tootekategooriad – tootetaksonoomia
+- teenuste taksonoomia
+- protsesside taksonoomia
+- klientirühmade taksonoomia
+- dokumendiliikide taksonoomia
+- märgendite (_tag_) süsteem, nt veahaldus- või projektijuhtimissüsteemis
+- intraneti sisu taksonoomia
+- projektikaustade ja failide nimede süsteem, nt ehitus- või projekteerimisettevõttes
 
-Ei ole ainult loetelu koostamine
+Taksonoomiaid kasutatakse ka teaduses, meditsiinis, sõjanduses, avalikus halduses jm.
 
-Teha ise või kasutada mõnd olemasolevat.
+- [Open Eligibility taxonomy](http://about.auntbertha.com/openeligibility)
+- [Taxonomy of Digital Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH)
 
-Aspektid e fasetid (_Facets_)
+Taksonoomia elemendid
 
-Eelistermin (_Preferred Term_)
+- __klassid__ e __taksonid__
+  - eelisterminid (_preferred term_)
+  - sünonüümid
+- aspektid e tahud - spetsiaalne termin – __fassett__, ingl _facet_ - võimaldavad 
 
-[Data stewardship](http://insights.wired.com/profiles/blogs/data-stewardship-is-everybody-s-business-5-best-practices-for#axzz4Vh6iYU1s)
+Väikese taksonoomia tegemiseks ei ole vaja spetsiaalset tarkvara. Piisab tavalisest tekstiredaktorist. Suur taksonoomia võib sisaldada tuhandeid mõisteid; siis on eritarkvara vajalik.
 
-Sünonüümid
+__Andmehooldus__ [data curation](https://en.wikipedia.org/wiki/Data_curation) on
 
-Nt eesti.ee kategooriad
+> "a broad term used to indicate processes and activities related to the organization and integration of data collected from various sources, annotation of the data, and publication and presentation of the data such that the value of the data is maintained over time, and the data remains available for reuse and preservation."
 
-#### Mis takistab taksonoomiate kasutamist?
+__Andmehooldaja__ [data steward](https://en.wikipedia.org/wiki/Data_steward) on
 
-Juhtide arusaamatus ja eestvedajate puudus, märgib H. Lippell [1].
+> "a person responsible for the management and fitness of data elements - both the content and metadata."
 
-### Kas taksonoomia koostamiseks, kasutamiseks ja haldamiseks on vaja tarkvara?
+([data stewardship](http://insights.wired.com/profiles/blogs/data-stewardship-is-everybody-s-business-5-best-practices-for#axzz4Vh6iYU1s) on
 
-Piisab tekstiredaktorist.
+__Masinloetav taksonoomia__ on selline taksonoomia, mis on esitatud vormis, mida programm suudab töödelda. Levinud vormis on JSON, XML, CSV, RDF, SKOS.
 
-Tarkvara on vaja enterprise-scale
+Kes koostab taksonoomiaid? Taksonoomia koostaja tegutseb __taksonoomina__. Praktikas võib olla analüütik, infoarhitekt, sisutoimetaja vm.
 
-[PoolParty(https://www.poolparty.biz/taxonomy-thesaurus-management/), [taksonoomiat tutvustav video](https://www.youtube.com/watch?v=6VI0QAzz6LM)
+Suure taksonoomia haldamiseks on kindlasti inimest, kes täidaks haldaja rolli.
 
-[ilus näide](http://integrator.poolparty.biz/sparqlingCocktails/cocktails)
+Kirjanduses märgitakse, et taksonoomia koostaja peab olema osalt "compulsive organizer", osalt tehnoloog ja osalt diplomaat.
 
-Tehniliselt keerukam: SKOS, RDF, semantiline veeb. Vt nt [Using SKOS to Express Faceted Classification on the Semantic Web](http://www.webpages.uidaho.edu/~mbolin/putkey.htm)
-{: .s}
+Viiteid
 
-[The Accidental Taxonomist](http://accidental-taxonomist.blogspot.com.ee/2016/11/popular-topics-in-taxonomies.html) - taksonoomiablogi
+- [Taxonomy Bootcamp London 2016](http://www.taxonomybootcamp.com/London/2016/)
+- [The Accidental Taxonomist](http://accidental-taxonomist.blogspot.com.ee/2016/11/popular-topics-in-taxonomies.html) - taksonoomiablogi
 
-Masinloetavad taksonoomiad
+- - -
 
-Kas taksonoomia koostamiseks on vaja erilisi oskusi? Kes taksonoomia koostab?
+[Ettevõtja taksonoomia](/Ettevotja)
 
-Taksonoomia koostajat võib nimetada taksonomistiks. Suure taksonoomia haldamiseks on kindlasti eraldi haldaja rolli täitjat.
-
-Infoarhitekt.
-
-Milleks taksonoomia?
-
-Mõistete loetelu (_term list_)
-Lame loetelu (_flat list_)
-
-Hierarhiline loetelu
-
-__Ettevõtja taksonoomia__
-
-<p><span><i class="material-icons ikoon">format_align_left</i></span></p>
-
-- 1 motivatsioon
-  - __loomult ettevõtja__ - sageli haridussüsteemist väljatõugatu, bürokraatlikesse hierarhiatesse mittesobiv inimene
-  - __olude sunnil ettevõtja__ - tegeleb ettevõtlusega, sest teisi valikuid ei ole
-- 2 ettevõtte elutsükkel
-  - __kavatsev ettevõtja__ - ei oma veel, kuid plaanib
-  - __alustav ettevõtja__ - ettevõte loodud, 0..6 kuud
-  - __sissetöötanud ettevõtja__ - ettevõtte vanus 1+ aasta
-  - __suure kogemusega ettevõtja__
-- 3 ettevõtete arv
-  - __ühe ettevõttega ettevõtja__
-  - __sariettevõtja__, _serial entrepreneur_ - müünud või lõpetanud eelmise ettevõte, alustanud uut
-  - __portfelliettevõtja__ - mitme ettevõtte üheaegne omanik
-- 4 ettevõtte strateegiline seis ja suund
-  - __kasvav ettevõte__
-    - __laia haardega__ ettevõtja
-    - __kitsa fookusega__ ettevõtja
-  - __püsimajäämise eest võitlev ettevõte__
-  - __stabiilne ettevõte__
-    - nn __elustiiliettevõtja__ - ei taotlegi kasvu
-    - __sundseisus ettevõte__ - konkurents, ressursid ei võimalda kasvada
-- 5 omanike arv ja sotsiaalne struktuur
-  - __ainuomanik__
-  - __pereettevõtte__
-  - __sõprade ettevõte__
-  - __muu omanike struktuur__
-- 6 majandustulemused
-  - __kasumlik ettevõte__
-  - __kahjumis ettevõte__
-- 7 tegutsemine
-  - __tegutsev ettevõte__
-  - nn __riiulifirma__
-- 8 omaniku plaanid
-  - __soovib alustada ettevõtlust__
-    - __töötab teises ettevõttes__
-    - __töötab avalikus sektoris__
-    - __õpib__
-    - __kaotanud töökoha__
-  - __soovib jätkata ettevõtjana__
-  - __ei soovi jätkata ettevõtjana__
-    - __soovib asuda tööle avalikus sektoris__
-    - __soovib siirduda kunsti, sporti vm alale__
-    - __soovib pühenduda perekonnale__
-    - __soovib aja maha võtta__
-- 9 ausus
-  - __aus ettevõte__
-  - __ettevõtluse vormis tegutsev kuritegevus__
-- 10 reaalsus
-  - __reaalne ettevõte__
-  - __mänguettevõtte__ - aga: näitlejad on sageli ka edukad ettevõtjad
-  - __quasi-ettevõte__ - nominaalselt mitteettevõte, mille tegelik tegevus ei erine palju ettevõttest (nt sisuliselt ettevõttena tegutsev riigiasutus)
-  11 kõrval
-  - __kõrval- v hübriidettevõtja__
-    - riigiametnik, ühtlasi ettevõtja
-    - palgatöötaja, ühtlasi ettevõtja
 
