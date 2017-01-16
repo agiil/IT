@@ -6,7 +6,7 @@ permalink: Ettevotja
 
  
 
- <b>Ettevõtja taksonoomia<b>
+__Ettevõtja taksonoomia__
 
 <p><span><i class="material-icons ikoon">format_align_left</i></span></p>
 
@@ -125,7 +125,7 @@ permalink: Ettevotja
       10 reaalsus <i class='material-icons'>add_circle</i>
     </span>
     <ul id='alammenyy10' style='display: none;'>
-      <li><b>reaalne ettevõte</b</li>>
+      <li><b>reaalne ettevõte</b</li>
       <li><b>mänguettevõtte</b> - aga: näitlejad on sageli ka edukad ettevõtjad</li>
       <li><b>quasi-ettevõte</b> - nominaalselt mitteettevõte, mille tegelik tegevus ei erine palju ettevõttest (nt sisuliselt ettevõttena tegutsev riigiasutus)</li>
   </li>
