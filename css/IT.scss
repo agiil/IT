@@ -134,7 +134,7 @@ dd { margin-left: 4em; }
 /* Silt e tag */
 .tags { margin: 1em 0 0 0; 
   text-transform: uppercase;
-  color: $grey800;
+  color: #000; opacity: 0.38; /* Mat Desing Hint Text */
   font-family: 'Roboto', sans-serif;
   font-size: 9pt;
   letter-spacing: 2px;

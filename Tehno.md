@@ -84,6 +84,6 @@ __Tarkvara hindamine ja valimine__
   - [Weekdone.com](https://weekdone.com/)   
 - MUST HAVE, NICE TO HAVE
 
-<p class='tags'>[Tarkvara][Integratsioon][Näide]</p>
+<p class='tags'>[Tarkvara] [Integratsioon] [Näide]</p>
 
-[GrowthHackers Projects](https://projects.growthhackers.com/about-us), "agiilset kasvu toetav tarkvara" (_Agile Growth_), põhineb mõistele _Growth Hacking". Ilus esitlus, väga ilus kasutajaliides. Eesmärgid, ideebaas, teadmusbaas, eksperimentide haldus, dashboard. [Integratsioonid](https://projects.growthhackers.com/integrations) Slack-i, JIRA, Pivotali jt. Võib olla kasulik kasvule suunatud projektide läbiviimisel väikeses meeskonnas. $9/meeskonnaliige/kuus. 
+[GrowthHackers Projects](https://projects.growthhackers.com/about-us), "agiilset kasvu toetav tarkvara" (_Agile Growth_), põhineb mõistele _Growth Hacking_". Ilus esitlus, väga ilus kasutajaliides. Eesmärgid, ideebaas, teadmusbaas, eksperimentide haldus, dashboard. [Integratsioonid](https://projects.growthhackers.com/integrations) Slack-i, JIRA, Pivotali jt. Võib olla kasulik kasvule suunatud projektide läbiviimisel väikeses meeskonnas. $9/meeskonnaliige/kuus. 
