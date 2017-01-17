@@ -5,6 +5,10 @@ permalink: Strateeg
 
 # IT-põhise äristrateegia kujundamine
 
+<p class='tags'>Mõiste</p>
+__software-driven__, äri, mille tuumaks on IT.
+
+<p class='tags'>Oskus</p>
 - oskab koostada IT-põhist organisatsiooni strateegiat, leida võimalusi strateegia rikastamiseks IT elemendiga
 - oskab arvestada IT rolli konkurentsianalüüsis
 - oskab kujundada IT-le tuginevat ärimudelit ja strateegiat
