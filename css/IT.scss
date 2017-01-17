@@ -45,7 +45,7 @@ h1 { font-size: 130%;
   margin-top: 1em; }  
 
 /* Lõigud ja loetelud */
-p { margin: 1em 0; }
+p { margin: 0 0 1em 0; }
 
 li > p:first-child { margin-top: 0; }
 ul, ol { 
@@ -128,7 +128,7 @@ a[href]:active {
 dt { font-weight: bold; }
 dd { margin-left: 4em; }
 
-/* //// Material design ikoonid //// */
+/* Material design ikoonid */
 .ikoon { color: $grey700; font-size: 36px !important; }
 
 /* Silt e tag */
