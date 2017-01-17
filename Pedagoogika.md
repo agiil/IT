@@ -3,48 +3,56 @@ title: Pedagoogika
 permalink: Pedagoogika
 ---
 
+# Pedagoogika. Žanrid
 
-- [hashtag](https://en.wikipedia.org/wiki/Hashtag)
-  - nt #ThrowawayCode #TheSimplestThingThatCouldPossiblyWork
-- märkrida (trendisõna), _tagline_
-  - nt software-driven
-    - https://pivotal.io/
-  - nt pervasive computing    
-- loetelu
-  - liigendused, [outline](https://en.wikipedia.org/wiki/Outline_(list)
-  - taksonoomia
-- teema
-- võtmetähendusega mõiste (_key concept_)
-- võtmetähendusega oskus (_key skill_)
-- ülesanne, väljakutse (_challenge_)
-- probleem
+- __märkrida__, _tagline_
+
+<p class='tags'>Näide</p>
+"Accelerate your transition to a software-driven company" (https://pivotal.io/) 
+
+- __loetelu__, liigendus, taksonoomia
+
+- __teema__
+
+- __oskus__
+  - __võtmeoskus__, _key skill_
+
+- ülesanne, harjutus, väljakutse, _challenge_
+
+- __sage, tüüpiline probleem__
 
 __silt__ (_tag_), oluline kategoriseerimismeetod
 
-- järeldus (key takeaways)
-- oliline mõiste, termin
-- sõnaseletus
-  - nt <span class='term'>technology stack</span>, "tehnoloogiapinu", IT-süsteemis kasutatavate tarkvarade ja tehnoloogiate kogum. Vt nt [Uber techstack](http://techstacks.io/uber)
-- viide
-- tsitaat
-- juhtum
-- mõte
+- __järeldus__
+  - __oluline järeldus__, _key takeaway_
+
+- __mõiste__
+  - __oluline mõiste__, termin
+  - __võtmetähendusega mõiste__, _key concept_
+
+- __kirjandusviide__
+
+- __tsitaat__
+
+- __kuuldu__, _heard_
+
+- __juhtumikirjeldus__, _case study_
+
 - tähelepanek
+
 - üldistus
+
 - põhimõte
+
 - retooriline harjutusülesanne
-- harjutus
+
 - special project
+
 - Dangerous stuff
+
 - meetod
 
-__Tööpõhimõtted__
+- [hashtag](https://en.wikipedia.org/wiki/Hashtag)
+  - nt #ThrowawayCode #TheSimplestThingThatCouldPossiblyWork
 
-- vahetut suhtlust eelistatakse e-suhtlusele
-- oluliseks peetakse järjepidevust
-- kontakõppe sessioonide vahel e-suhtlus
-- oluline on juhtumianalüüs ja ka ise juhtumikirjelduste koostamine aine kuulajate kogemuse, avalike materjalide või infoallikatelt teabe kogumise kaudu
-
-## Professionaalsus
-
-Akadeemilisuse ja praktika seos
+- mõte

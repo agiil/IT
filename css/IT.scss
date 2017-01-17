@@ -4,8 +4,9 @@
 $mutedblue: #607D8B;
 $grey800: #424242;
 $grey700: #616161; /* Ikoonides */
-$erepunane: #FF5252; /* Material design A200 
-  https://material.io/guidelines/style/color.html#color-color-palette */
+$erepunane: #FF5252; /* Material design A200 */
+$pruun700: #5D4037;  
+/*  https://material.io/guidelines/style/color.html#color-color-palette */
 
 /* Keha */
 body {
@@ -134,7 +135,7 @@ dd { margin-left: 4em; }
 /* Silt e tag */
 .tags { margin: 1em 0 0 0; 
   text-transform: uppercase;
-  color: #000; opacity: 0.38; /* Mat Desing Hint Text */
+  color: $pruun700; 
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 8pt;
   letter-spacing: 2px;

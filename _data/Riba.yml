@@ -33,8 +33,8 @@
       url: "/Infohaldus"
     - title: "Töö IT-keskkonnas"
       url:
-    - title: "Efektiivse töövoo (Workflow) kujundamine"
-      url:
+    - title: "Sujuv töövoog (Streamlined Workflow)"
+      url: "/Workflow"
     - title: "Terviklik infohaldus"
       url:
     - title: "Äritaksonoomia"
