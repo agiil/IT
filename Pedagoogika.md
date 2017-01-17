@@ -6,7 +6,7 @@ permalink: Pedagoogika
 
 - [hashtag](https://en.wikipedia.org/wiki/Hashtag)
   - nt #ThrowawayCode #TheSimplestThingThatCouldPossiblyWork
-- trendisõna, _tagline_
+- märkrida (trendisõna), _tagline_
   - nt software-driven
     - https://pivotal.io/
   - nt pervasive computing    
@@ -18,6 +18,9 @@ permalink: Pedagoogika
 - võtmetähendusega oskus (_key skill_)
 - ülesanne, väljakutse (_challenge_)
 - probleem
+
+__silt__ (_tag_), oluline kategoriseerimismeetod
+
 - järeldus (key takeaways)
 - oliline mõiste, termin
 - sõnaseletus

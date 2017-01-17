@@ -130,3 +130,17 @@ dd { margin-left: 4em; }
 
 /* //// Material design ikoonid //// */
 .ikoon { color: $grey700; font-size: 36px !important; }
+
+/* Silt e tag */
+.tag:before {
+  content: '[';
+}
+.tag:after {
+  content: ']';
+}
+.tag { text-transformation: uppercase;
+  color: $erepunane;
+  font-family: 'Roboto', sans-serif;
+  font-size: 10pt;
+  font-stretch: expanded;
+}
