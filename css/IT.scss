@@ -132,15 +132,11 @@ dd { margin-left: 4em; }
 .ikoon { color: $grey700; font-size: 36px !important; }
 
 /* Silt e tag */
-.tag:before {
-  content: '[';
-}
-.tag:after {
-  content: ']';
-}
-.tag { text-transformation: uppercase;
-  color: $erepunane;
+.tags { margin: 1em 0 0 0; 
+  text-transform: uppercase;
+  color: $grey800;
   font-family: 'Roboto', sans-serif;
-  font-size: 10pt;
-  font-stretch: expanded;
+  font-size: 9pt;
+  letter-spacing: 2px;
 }
+
