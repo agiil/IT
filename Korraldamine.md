@@ -6,11 +6,9 @@ permalink: Korraldamine
 
 <div style='display: flex; margin-bottom: 2em;' >
   <div style='font-size:800%;'>IT</div>
-  <div  style='font-size:1340%; margin: 1em 0 0 1em;'>valitsemine,<br>
+  <div  style='font-size:140%; margin: 1.3em 0 0 1em;'>valitsemine,<br>
     juhtimine,<br>
     korraldamine<br>
-    haldamine<br>
-    teokstegemine<br>
   </div>
 </div>
 
@@ -24,13 +22,9 @@ ITGI on [IT Governance Institute](http://www.itgi.org/)  1998. a. ISACA loodud a
 
 __ISO 38500 Infotehnoloogia valitsemine__
 
-IT valitsemise tähtsaim rahvusvaheline standard on ISO/IEC 38500.
+IT valitsemise tähtsaim rahvusvaheline standard on ISO/IEC 38500 [ISO38500].
 
-[ISO 38500 Corporate governance of information technology](https://en.wikipedia.org/wiki/ISO/IEC_38500) (2008, uus väljanne 2015)
-
-ISO 38500 on tõlgitud ka eesti keelde.
-
-Infotehnoloogia valitsemine organisatsioonis. Eesti standard EVS-ISO/IEC 38500:2009.
+ISO 38500 on tõlgitud ka eesti keelde [ISO38500E].
 
 "Infotehnoloogia valitsemine organisatsioonis" on „printsiibipõhine üldtasemel nõustav standard“, öeldakse kümneleheküljelise standardi sissejuhatuses.
 
@@ -122,6 +116,7 @@ __Korraldamise kaitseks__
 Sõnadel on oma elukäik ja staatus. Üks tõuseb, teine vajub. "Ärikorraldus" on eesti keeles vastanud inglise keele _Business Administration_-le. Juhtimise (ja valitsemise) leviku puhul tekib küsimus: juhte on palju,  kes töö ära teeb? IT puhul on töö mitmeplaaniline ja kohati väga keeruline. Seda tööd on vaja muu kõrval ka korraldada. IT juhtimine kui IT inimeste juhtimine on vajalik, kuid keegi peab töö ka sisuliselt, tehnilises vaates ära korraldama. Sellised rollid on ilmunud: _Scrum Master_, _Lead Developer_.
 
 "IT korraldus" muude korralduste kõrvale:
+
 - ehituskorraldus (ehituse organiseerimine)
 - elukorraldus
 - juhtumikorraldus (sotsiaaltöö vorm)
@@ -141,4 +136,10 @@ Viited
 
 [AKIT] [Andmekaitse ja infoturbe seletussõnastik](http://akit.cyber.ee/) (Cybernetica AS)
 
+[ISO38500] [ISO 38500 Corporate governance of information technology](https://en.wikipedia.org/wiki/ISO/IEC_38500) (2008, uus väljanne 2015)
+
+[ISO38500E] Infotehnoloogia valitsemine organisatsioonis. Eesti standard EVS-ISO/IEC 38500:2009.
+
 [Masli2016] Masli et al (2016) Senior Executives’ IT Management Responsibilities: Serious IT-Related Deficiencies and CEO/CFO Turnover. [MIS Quarterly](http://www.misq.org/contents-40-3/), Vol 40, No 3.
+
+[Toomey2015] Toomey, M & Juiz, C (2015) To Govern IT, or Not to Govern IT? Communications of the ACM.
