@@ -4,15 +4,15 @@ title: IT korraldamine, juhtimine, valitsemine
 permalink: Korraldamine
 ---
 
-<div style='display: flex;' >
-  <div style='font-size:1340%;'>IT</div>
-  <div  style='font-size:1340%;'>valitsemine,<br>
+<div style='display: flex; margin-bottom: 2em;' >
+  <div style='font-size:800%;'>IT</div>
+  <div  style='font-size:1340%; margin: 1em 0 0 1em;'>valitsemine,<br>
     juhtimine,<br>
-    korraldamine
+    korraldamine<br>
+    haldamine<br>
+    teokstegemine<br>
   </div>
 </div>
-
-# IT valitsemine, juhtimine, korraldamine
 
 __IT valitsemise__ mõiste (_IT governance_) vajab kahtlemata selgitamist.
 
