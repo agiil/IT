@@ -6,7 +6,7 @@ permalink: Korraldamine
 
 <div style='display: flex; margin-bottom: 2em;' >
   <div style='font-size:800%;'>IT</div>
-  <div  style='font-size:140%; margin: 1.3em 0 0 1em;'>valitsemine,<br>
+  <div  style='font-size:140%; margin: 1.3em 0 0 1em; line-height: 1.4;'>valitsemine,<br>
     juhtimine,<br>
     korraldamine<br>
   </div>
@@ -26,11 +26,11 @@ IT valitsemise tähtsaim rahvusvaheline standard on ISO/IEC 38500 [ISO38500].
 
 ISO 38500 on tõlgitud ka eesti keelde [ISO38500E].
 
-"Infotehnoloogia valitsemine organisatsioonis" on „printsiibipõhine üldtasemel nõustav standard“, öeldakse kümneleheküljelise standardi sissejuhatuses.
+"Infotehnoloogia valitsemine organisatsioonis" on "printsiibipõhine üldtasemel nõustav standard", öeldakse kümneleheküljelise standardi sissejuhatuses.
 
 Tegelikult pakub ISO/IEC 38500 enamat kui IT valitsemise printsiipe (etteruttavalt: neid printsiipe on kuus).
 
-Standard „loob IT valitsemise sõnavara“ (lk 1), andes 18 termini määratlused.
+Standard "loob IT valitsemise sõnavara" (lk 1), andes 18 termini määratlused.
 
 Näiteks organisatsiooni valitsemine (_corporate governance_) defineeritakse kui „süsteem, millega organisatsioone suunatakse ja reguleeritakse“.
 
@@ -58,7 +58,7 @@ Ettevõtja Paul Oberschneider peab oluliseks vahet juhtimise ja korraldamise vah
 
 > "Nii korraldamine kui juhtimine on olulised, nad käivad õigupoolest käsikäes. Kuid need on kaks eraldi tegevust, millega tegelevad eri inimesed. Äris peab olema üks juht, hulk mänedžere ja korralik meeskond."
 
-> "Ettevõtjad pole mänedžerid. Sa ei taha mõlemat olla, kui soovid, et su äri oleks edukas. Väga paljud inimesed ajavad need asjad sassi [..] Ettevõtja on keegi, kes töötab välja visiooni, tunneb lõppmängu ning jagab visiooni meeskonna, investorite, pankurite ja klientidega. Ettevõtjad loovad muutusi, mänedžerid tagavad, et muutused saavad teosks. Mõlemat korraga teha on võimatu.""
+> "Ettevõtjad pole mänedžerid. Sa ei taha mõlemat olla, kui soovid, et su äri oleks edukas. Väga paljud inimesed ajavad need asjad sassi [..] Ettevõtja on keegi, kes töötab välja visiooni, tunneb lõppmängu ning jagab visiooni meeskonna, investorite, pankurite ja klientidega. Ettevõtjad loovad muutusi, mänedžerid tagavad, et muutused saavad teosks. Mõlemat korraga teha on võimatu."
 
 Selles käsituses juhi roll piirdub visiooni väljatöötamisega ja meeskonna kokkupanemisega. Juhi visiooni teevad teoks korraldajad (keda nimetatakse mänedžerideks). See kontseptsioon ei räägi juhtimistasandite hierarhiast. Juhte on organisatsioonis alati ainult üks.
 
