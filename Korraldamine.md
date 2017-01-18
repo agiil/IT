@@ -101,7 +101,7 @@ Masli et al [Masli2016] näitavad ulatusliku empiirilise andmestiku alusel, et t
 
 __Mitu mudelit, mille vahel valida__
 
-Võimalusi valitsemist, juhtimist ja teokstegemist ("eksekuutimist") suhtestada ja loogilisse süsteemi seada, on niisiis mitu. Kuhugi peab ära mahtuma ka IT haldamine.
+Võimalusi valitsemist, juhtimist ja teokstegemist ("eksekuutimist") suhtestada ja loogilisse süsteemi seada, on niisiis mitu. Kuhugi peab ära mahtuma ka IT haldamine. Ärgem unustage ka IT strateegilist juhtimist (mida loogiliselt peaksid täiendama IT operatiivjuhtimine ja IT taktika). "Tort" tuleb mitmekihiline.
 
 ```
    Visioon           Valitsemine          Visiooni
