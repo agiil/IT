@@ -5,7 +5,7 @@ permalink: Korraldamine
 ---
 
 <p class='tags'>TL;DR</p>
-„IT valitsemine“ osutub lähemal vaatlusel problemaatiliseks terminiks; seda tunnistavad ka termini propageerijad ise. Tegu võib olla ühe huvirühma loodud abstraktsiooniga, mille järele tegelikult pole erilistvajadust; samas võiks rohkem rääkida „IT korraldamisest“. 
+„IT valitsemine“ osutub lähemal vaatlusel problemaatiliseks terminiks; seda tunnistavad ka termini propageerijad ise. Tegu võib olla ühe huvirühma loodud abstraktsiooniga, mille järele tegelikult pole erilist vajadust; samas võiks rohkem rääkida „IT korraldamisest“. 
 
 <div style='display: flex; margin-bottom: 2em;' >
   <div style='font-size:800%;'>IT</div>
