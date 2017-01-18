@@ -68,7 +68,9 @@ __Miks IT-d on üldse vaja valitseda?__ IT _governance_ ei näe võimalust IT-l 
 
 > As reinforced repeatedly  through  major  government- and  private-sector  IT  failures,  control of  IT  must  be  performed  from  a  business perspective, not an IT perspective.
 
-Toomey & Juiz ütlevad, et IT valitsemine võib ärijuhile olla raske ja isegi ebameeldiv kohustus, kuid head alternatiivi ei ole. Omapäi jäetud IT ei saa oma valitsemisega hakkama. Hakkab elama oma elu, seadma oma eesmärke. Tulemuseks on ebakõla organisatsiooni ärieesmärkide ja IT tegevuse vahel.
+Toomey & Juiz ütlevad, et IT valitsemine võib ärijuhile olla raske ja isegi ebameeldiv kohustus, kuid head alternatiivi ei ole. Omapäi jäetud IT ei saa enese valitsemisega hakkama. Hakkab elama oma elu, seadma oma eesmärke, mis lähevad oma rada ega haaku enam organisatsiooni eesmärkidega. Tulemuseks on ebakõla või lõhe organisatsiooni ärieesmärkide ja IT tegevuse vahel.
+
+(Ohtlik asi see IT!)
 
 IT-d ei saa omapäi jätta juba IT tähtsuse pärast.
 
@@ -90,12 +92,15 @@ Toomey & Juiz märgivad siiski, et kuigi IT valitsemise kontseptsiooni propageer
 
 Senine IT valitsemise käsitlus on lähtunud __IT osakonna__ (_IT department_) vaatest., kus IT, selle arendamine ja käitamine oli kapseldunud osakonna seinte vahele. Tänapäeval ei ole IT enam kaugeltki mitte ainult IT osakonna asi. Äri ja IT eralduspiir on ähmastunud, nii tehnilises kui ka organisatsioonilises vaates. 
 
-See viib mõttele, kas tegu pole mitte ühe huvirühma (audiitorid) vajadustest lähtuva eristusega. Mõiste ja abstraktsioonikihiga, mille olemasolu on problemaatiline.
+See viib mõttele, kas tegu pole mitte ühe huvirühma (audiitorid) vajadustest lähtuva eristusega. Turu tekitamisega - millest ka IT haridusteenuste pakkujad on kinni haaranud.
+
+Mõiste ja abstraktsioonikihiga, mille olemasolu on problemaatiline. Kasutud abstraktsioonikihid on IT-s aga teadupärast kurjast.
 
 Masli et al [Masli2016] näitavad ulatusliku empiirilise andmestiku alusel, et tegevjuht (CEO) võib ettevõtte IT-s ilmnevate probleemide puhul küll ametist lahti saada, kuid IT spetsiifilisuse ja keerukuse tõttu on tippjuhil vähe võimalusi IT juhtimise seisu ettevõttes reaalselt mõjutada. Parim, mis ta teha saab, on luua IT juhiga (CIO) toimiv isiklik koostöösuhe. Muus peab ta IT-asjatundjat usaldama. Mis on loogiline, sest kuidas saakski ärijuht IT-d tundmata rohkem määrata?
 
 __Mitu mudelit__
 
+Võimalusi valitsemist, juhtimist ja teokstegemist ("eksekuutimist") suhtestada ja loogilisse süsteemi seada, on niisiis mitu. Kuhugi peab ära mahtuma ka IT haldamine.
 
 ```
    Visioon       Valitsemine      Visiooni
