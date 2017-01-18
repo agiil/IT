@@ -4,6 +4,14 @@ title: IT korraldamine, juhtimine, valitsemine
 permalink: Korraldamine
 ---
 
+<div style='display: flex;' >
+  <div style='font-size:1340%;'>IT</div>
+  <div  style='font-size:1340%;'>valitsemine,<br>
+    juhtimine,<br>
+    korraldamine
+  </div>
+</div>
+
 # IT valitsemine, juhtimine, korraldamine
 
 __IT valitsemise__ mõiste (_IT governance_) vajab kahtlemata selgitamist.
@@ -14,7 +22,7 @@ Autoriteetne AKIT ütleb, et infotehnoloogia valitsemine on:
 
 ITGI on [IT Governance Institute](http://www.itgi.org/)  1998. a. ISACA loodud asutus infotehnoloogia valitsemise uurimiseks ja arendamiseks. ISACA on IT audiitorite ühing. COBIT on hea valitsemis- (juhtimis-?)raamistik, kuid lähtub samuti auditeerimise vajadusest. Raamistikku hakati arendama, kuna finantsaudiitorid ei saanud IT-st aru. 
 
-## ISO 38500 Infotehnoloogia valitsemine 
+__ISO 38500 Infotehnoloogia valitsemine__
 
 IT valitsemise tähtsaim rahvusvaheline standard on ISO/IEC 38500.
 
