@@ -52,7 +52,7 @@ Juhatavad peaksid hindama IT-tegevusi, veendumaks, et inimkäitumised selgitatak
 
 Kuid asju, mida peaks hindama, välja selgitama ja asjakohaselt arvesse võtma, on palju. Nii IT-ga seotuid kui ka mitteseotuid asju. Põhimõtteliselt on kõik kõigega seotud. Aga juhatajate aeg ja mõtteenergia on alati piiratud. Standard paneb organisatsiooni juhatajale ainult kohustusi, kuid ei võta midagi vähemaks. 
 
-__Valitsemine on niisiis juhtimise ülene.__ IT-s on niisiis juhtimisest kõrgemal veel üks tegevus - valitsemine. Kas sama kehtib ka juhtimise kohta laiemalt, teistes valdkondades? 
+__Valitsemine juhtimise üle.__ IT-s on niisiis juhtimisest kõrgemal veel üks tegevus - valitsemine. Kas sama kehtib ka juhtimise kohta laiemalt, teistes valdkondades? 
 
 Ettevõtja Paul Oberschneider peab oluliseks vahet juhtimise ja korraldamise vahel. Ta kirjutab [Ober2016]: 
 
@@ -82,6 +82,7 @@ IT ei piirdu enam oma majja IT-taristu ehitamisega ja selle käitamisega. Pilvet
 IT valitsemine peaks keskenduma IT sooritusvõimele (_performance_) ja IT-võimekustele (_capabilities_), jättes IT administreerimise küsimused madalama taseme käsitleda.
 
 IT valitsemine peaks konkreetselt avalduma selles, et:
+
 - IT kasutamise aspekt on äristrateegia osa
 - IT-d ei võeta jooksva kuluna, investeeringuna; IT-investeering peab olema seotud ärilise sooritusvõimega (_IT-enabled business capability_)
 - IT käitamist (_operation_) võetakse igapäevase äri käitamise loomuliku osana.
@@ -90,7 +91,7 @@ __Kas IT valitsemine üldse eksisteerib?__
  
 Toomey & Juiz märgivad siiski, et kuigi IT valitsemise kontseptsiooni propageerijad on püüdnud hoida selget piiri IT valitsemise ja IT juhtimise vahel, on nii äripoole kui ka IT juhid tihti segaduses. Ei ole kerge aru saada, kus lõpeb 
 
-Senine IT valitsemise käsitlus on lähtunud __IT osakonna__ (_IT department_) vaatest., kus IT, selle arendamine ja käitamine oli kapseldunud osakonna seinte vahele. Tänapäeval ei ole IT enam kaugeltki mitte ainult IT osakonna asi. Äri ja IT eralduspiir on ähmastunud, nii tehnilises kui ka organisatsioonilises vaates. 
+Senine IT valitsemise käsitlus on lähtunud IT osakonna (_IT department_) vaatest., kus IT, selle arendamine ja käitamine oli kapseldunud osakonna seinte vahele. Tänapäeval ei ole IT enam kaugeltki mitte ainult IT osakonna asi. Äri ja IT eralduspiir on ähmastunud, nii tehnilises kui ka organisatsioonilises vaates. 
 
 See viib mõttele, kas tegu pole mitte ühe huvirühma (audiitorid) vajadustest lähtuva eristusega. Turu tekitamisega - millest ka IT haridusteenuste pakkujad on kinni haaranud.
 
@@ -98,23 +99,23 @@ Mõiste ja abstraktsioonikihiga, mille olemasolu on problemaatiline. Kasutud abs
 
 Masli et al [Masli2016] näitavad ulatusliku empiirilise andmestiku alusel, et tegevjuht (CEO) võib ettevõtte IT-s ilmnevate probleemide puhul küll ametist lahti saada, kuid IT spetsiifilisuse ja keerukuse tõttu on tippjuhil vähe võimalusi IT juhtimise seisu ettevõttes reaalselt mõjutada. Parim, mis ta teha saab, on luua IT juhiga (CIO) toimiv isiklik koostöösuhe. Muus peab ta IT-asjatundjat usaldama. Mis on loogiline, sest kuidas saakski ärijuht IT-d tundmata rohkem määrata?
 
-__Mitu mudelit__
+__Mitu mudelit, mille vahel valida__
 
 Võimalusi valitsemist, juhtimist ja teokstegemist ("eksekuutimist") suhtestada ja loogilisse süsteemi seada, on niisiis mitu. Kuhugi peab ära mahtuma ka IT haldamine.
 
 ```
-   Visioon       Valitsemine      Visiooni
-      +         (Governance)   väljatöötamine
-      |              +               +
-      |              |               |
-      v              v               v
-Teokstegemine   Juhtimine      Korraldamine
- (Execution)    (Management)         +
-                     +               |
-                     |               |
-                     v               v
-                Teokstegemine  Teokstegemine
-                (Execution)
+   Visioon           Valitsemine          Visiooni
+      +             (Governance)       väljatöötamine
+      |                  +                   +
+      |                  |                   |
+      v                  v                   v
+Teokstegemine       Juhtimine          Korraldamine
+ (Execution)        (Management)             +
+                         +                   |
+                         |                   |
+                         v                   v
+                    Teokstegemine      Teokstegemine
+                    (Execution)
 ```
 __Korraldamise kaitseks__
 
@@ -131,17 +132,19 @@ stabiliseerimine, rikastamine ja ajakohastamine)
 - suhtekorraldus (suhtlemine üldsusega ja teiste ettevõtetega)
 - töökorraldus
 - ärikorraldus
-- õppekorraldus
+- õppekorraldus.
 
-"Arenduskorraldus", aga mitte "arenduse juhtimine"; "IT teenuste korraldamine", aga mitte "IT teenuste haldamine"
+"Arenduskorraldus" -- aga mitte "arenduse juhtimine".
 
-"IT korraldaja" (arenduskorraldaja) jaamakorraldaja, juhtumikorraldaja, lendude korraldaja, liikluskorraldaja, maakorraldaja, müügikorraldaja, reisikorraldaja, suhtekorraldaja, veokorraldaja ja õppekorraldaja kõrvale.
+"IT teenuste korraldamine" -- aga mitte "IT teenuste haldamine".
+
+"IT korraldaja" (arenduskorraldaja) -- jaamakorraldaja, juhtumikorraldaja, lendude korraldaja, liikluskorraldaja, maakorraldaja, müügikorraldaja, reisikorraldaja, suhtekorraldaja, veokorraldaja ja õppekorraldaja kõrvale.
 
 Viited
 
-[AKIT] [Andmekaitse ja infoturbe seletussõnastik](http://akit.cyber.ee/) (Cybernetica AS)
+[AKIT] Cybernetica AS. [Andmekaitse ja infoturbe seletussõnastik](http://akit.cyber.ee/).
 
-[ISO38500] [ISO 38500 Corporate governance of information technology](https://en.wikipedia.org/wiki/ISO/IEC_38500) (2008, uus väljanne 2015)
+[ISO38500] [ISO 38500 Corporate governance of information technology](https://en.wikipedia.org/wiki/ISO/IEC_38500) (2008, uus väljanne 2015).
 
 [ISO38500E] Infotehnoloogia valitsemine organisatsioonis. Eesti standard EVS-ISO/IEC 38500:2009.
 
