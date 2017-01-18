@@ -37,6 +37,8 @@ __silt__ (_tag_), oluline kategoriseerimismeetod
 
 __teema__
 
+__TL;DR__
+
 __tsitaat__
 
 

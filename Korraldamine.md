@@ -4,6 +4,9 @@ title: IT korraldamine, juhtimine, valitsemine
 permalink: Korraldamine
 ---
 
+<p class='tags'>TL;DR</p>
+„IT valitsemine“ osutub lähemal vaatlusel problemaatiliseks terminiks; seda tunnistavad ka termini propageerijad ise. Tegu võib olla ühe huvirühma loodud abstraktsiooniga, mille järele tegelikult pole erilistvajadust; samas võiks rohkem rääkida „IT korraldamisest“. 
+
 <div style='display: flex; margin-bottom: 2em;' >
   <div style='font-size:800%;'>IT</div>
   <div  style='font-size:140%; margin: 1.3em 0 0 1em; line-height: 1.4;'>valitsemine,<br>
