@@ -5,56 +5,56 @@ permalink: Pedagoogika
 
 # Pedagoogika. Žanrid
 
-__märkrida__, _tagline_
+__dangerous stuff__
 
-<p class='tags'>Näide</p>
-"Accelerate your transition to a software-driven company" (https://pivotal.io/) 
+__eriprojekt__, _special project_
 
-__loetelu__, liigendus, taksonoomia
+__iseseisev tegevus__, nt veebiotsing, <p class='tags'>Iseseisvalt</p>
 
-__teema__
-
-__oskus__
-
-  __võtmeoskus__, _key skill_
-
-ülesanne, harjutus, väljakutse, _challenge_
-
-__sage, tüüpiline probleem__
-
-__silt__ (_tag_), oluline kategoriseerimismeetod
+__juhtumikirjeldus__, _case study_
 
 __järeldus__
 
 __oluline järeldus__, _key takeaway_
 
-__mõiste__
-
-__oluline mõiste__, termin
-
-__võtmetähendusega mõiste__, _key concept_
-
 __kirjandusviide__
-
-__kirjeldus__
-
-__tsitaat__
 
 __kuuldu__, _heard_
 
-__juhtumikirjeldus__, _case study_
+__loetelu__, liigendus, taksonoomia
+
+__märkrida__, _tagline_, nt "Accelerate your transition to a software-driven company" (https://pivotal.io/) 
+
+__mõiste__
+
+__oluline mõiste__, võtmetähendusega mõiste, _key concept_, termin, <p class='tags'>Oluline mõiste</p>
+
+__oskus__
+
+  __võtmeoskus__, _key skill_
+
+__probleem__, __väljakutse__, _challenge_
+
+__tarkvara__, tarkvarasoovitus, <span class='tags'>Tarkvara</span>
+
+__tüüpiline probleem__
+
+__silt__ (_tag_), oluline kategoriseerimismeetod
+
+__teema__
+
+__tsitaat__
+
+
+- - -
+
+kirjeldus
 
 tähelepanek
 
 üldistus
 
 põhimõte
-
-retooriline harjutusülesanne
-
-special project
-
-Dangerous stuff
 
 meetod
 

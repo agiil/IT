@@ -5,7 +5,8 @@ $mutedblue: #607D8B;
 $grey800: #424242;
 $grey700: #616161; /* Ikoonides */
 $erepunane: #FF5252; /* Material design A200 */
-$pruun700: #5D4037;  
+$pruun700: #5D4037;
+$sinine700: #1976D2;  
 /*  https://material.io/guidelines/style/color.html#color-color-palette */
 
 /* Keha */
@@ -50,9 +51,10 @@ p { margin: 0 0 1em 0; }
 
 li > p:first-child { margin-top: 0; }
 ul, ol { 
-  font-family: 'Anonymous Pro', sans-serif;
   margin-left: 0; padding-left: 2em; }
 li { margin: 0.25em 0 0.5em; padding: 0; }
+
+nav > ul, ol { font-family: 'Anonymous Pro', sans-serif; }
 
 nav ul { list-style-type: none; }
 
@@ -141,3 +143,5 @@ dd { margin-left: 4em; }
   letter-spacing: 2px;
 }
 
+/* Iseseisvalt */
+.ise { color: $sinine700; }

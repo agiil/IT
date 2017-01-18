@@ -6,6 +6,7 @@ permalink: Takson
 
 # Äritaksonoomia
 
+<p class='tags'>Oluline mõiste</p>
 __Äritaksonoomia__ on ettevõttele või organisatsioonile huvi pakkuvate asjade hierarhiline liigitus.
 
 _Corporate taxonomy is hierarchical classification of entities of interest to an enterprise, organization or administration._
@@ -28,6 +29,13 @@ Taksonoomiat võib nimetada mitmeti: __koodiloend__ (_code list_), __tesaurus__,
 Uuemal ajal öeldakse, et taksonoomia __teadmuse korrastamise süsteem__ (_knowledge organization system_).
 
 Olemuselt on taksonoomia __reguleeritud sõnastik__ (_controlled vocabulary_); nimetuste korrastatud kogum, süsteem, mille abil saab sarnased asjad või nähtused ühte koondada, eristada teistest ja nimetada rühmi kasutajatele arusaadavas keeles.
+
+<p class='tags'>Iseseisvalt</p>
+Guugelda `startup taxonomy` ja uuri, kuidas idufirmade ärimudeleid on liigitatud
+{: .ise}
+
+<p class='tags'>Näide</p>
+Hartmann P et al (2014) [A Taxonomy of Data-driven Business Models used by Start-up Firms](http://cambridgeservicealliance.eng.cam.ac.uk/resources/Downloads/Monthly%20Papers/2014_March_DataDrivenBusinessModels.pdf)
 
 Taksonoomiad täidavad sageli nn __teatmelise teabe__ (_reference data_) rolli. Näiteks toote veebipoodi kaubavalikusse lisamise eelduseks on tootekategooriate süsteemi e taksonoomia olemasolu.
 
@@ -61,12 +69,13 @@ Tüüpilisi äritaksonoomiaid:
 - intraneti sisu taksonoomia
 - projektikaustade ja failide nimede süsteem, nt ehitus- või projekteerimisettevõttes.
 
-Taksonoomiaid kasutatakse erinevates valdkondades, lidaks ärile ka teaduses, meditsiinis, sõjanduses, avalikus halduses jm. Mõned näited: 
+Taksonoomiaid kasutatakse erinevates valdkondades, lidaks ärile ka teaduses, meditsiinis, sõjanduses, avalikus halduses jm.
 
+<p class='tags'>Näide</p>
 - [Open Eligibility taxonomy](http://about.auntbertha.com/openeligibility)
 - [Taxonomy of Digital Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH)
 
-Taksonoomia elemendid
+Taksonoomia elemendid:
 
 - __klassid__ e __taksonid__
   - __eelisterminid__ (_preferred term_)
@@ -74,7 +83,12 @@ Taksonoomia elemendid
 - __"alammõiste-ülemmõiste"__ seosed, mis moodustavad __hierarhia__
 - __aspektid__ e __tahud__ - spetsiaalne termin – __fassett__, ingl _facet_ - võimaldavad vältida paljutasemelist hierarhiat ja esitada taksonoomia "lamedamana".
 
-Väikese taksonoomia tegemiseks ei ole vaja spetsiaalset tarkvara. Piisab tavalisest tekstiredaktorist. Suur taksonoomia võib sisaldada tuhandeid mõisteid; siis on eritarkvara vajalik.
+__"Mõistetes ja nimetustes kokkuleppimine"__ võib olla keeruline protsess. Inimesed on harjunud asju omamoodi nimetama. Tihti mõistetakse ka samade sõnade all erinevaid asju. Terminoloogiat ja üldse keelekasutust ei tuleks üritada jõuga kehtestada. Võimaluse jätmine asju mitut moodi nimetada, s.t sünonüümide lubamine, aitab vaidlusi vältida. Eelistermini määramine jätab vabadust ja samas võimaldab ka täpsust.
+
+<p class='tags'>Näide</p>
+Kas organisatsioon pakub teenuseid, tooteid või mõlemaid? Teenuspõhine lähenemine näeb kõike teenustena. Traditsioonilises käsituses on toode kliendile antav kasulik füüsiline asi. Keeles puudub üldnimetus tootele ja teenusele. Võib-olla polegi aga see vahetegemine oluline? Digimajanduses võib asja nimetada nii teenuseks kui ka tooteks.
+
+Väikese taksonoomia tegemiseks ei ole vaja spetsiaalset tarkvara. Piisab tavalisest tekstiredaktorist. Suur taksonoomia võib sisaldada tuhandeid mõisteid; siis on eritarkvara vajalik. Head ja lihtsat vahendit siiski  turul ei ole. 
 
 __Andmehooldus__ ([data curation](https://en.wikipedia.org/wiki/Data_curation)) on
 
