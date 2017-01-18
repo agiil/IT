@@ -9,33 +9,27 @@ __dangerous stuff__
 
 __eriprojekt__, _special project_
 
-__iseseisev tegevus__, nt veebiotsing, <p class='tags'>Iseseisvalt</p>
+__iseseisev tegevus__, nt veebiotsing, silt `Iseseisvalt`
 
 __juhtumikirjeldus__, _case study_
 
-__järeldus__
-
-__oluline järeldus__, _key takeaway_
+__järeldus__, __oluline järeldus__, _key takeaway_
 
 __kirjandusviide__
 
-__kuuldu__, _heard_
+__praktikas kuuldu__, _heard_
 
 __loetelu__, liigendus, taksonoomia
 
 __märkrida__, _tagline_, nt "Accelerate your transition to a software-driven company" (https://pivotal.io/) 
 
-__mõiste__
+__mõiste__, __oluline mõiste__, võtmetähendusega mõiste, _key concept_, termin, silt `Oluline mõiste`
 
-__oluline mõiste__, võtmetähendusega mõiste, _key concept_, termin, <p class='tags'>Oluline mõiste</p>
-
-__oskus__
-
-  __võtmeoskus__, _key skill_
+__oskus__, __võtmeoskus__, _key skill_
 
 __probleem__, __väljakutse__, _challenge_
 
-__tarkvara__, tarkvarasoovitus, <span class='tags'>Tarkvara</span>
+__tarkvara__, tarkvarasoovitus, silt `Tarkvara`
 
 __tüüpiline probleem__
 

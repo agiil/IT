@@ -49,6 +49,12 @@ Mitte ainult süsteemne mõtlemine, vaid ka süsteemne tegutsemine!
 
 __Konvergents__ e kokkukasvamine on nähtus, kus IT lõimub mõne teise valdkonnaga nii tihedalt, et IT eristamine muutub problemaatiliseks. Tormiliselt arenenud IT piirid ongi tänaseks hägustunud, arvutusmatemaatikast alguse saanud distsipliin on kokku kasvanud kommunikatsioonitehnoloogiatega. Seda väljendab vahel kasutatav mõiste "info- ja kommunikatsioonitehnoloogia" (IKT).
 
+<p class='tags'>Praktikas kuuldu</p>
+> "Olen aastatega jõudnud järeldusele, et tehnoloogia valik on üleüldse kõige raskem ülesanne, mis IT valdkonnas võib ette tulla. Asjade õige nimetamine on peaaegu lahendamatu probleem, siis tuleb tükk tühja maad ja alles siis tuleb tehnoloogia valiku probleem."
+
+EE-EARVE on väga hea lahendus - lihtne, elegantne ja kasutatav. Kui veel leiduks kaks osapoolt, kes selle kasutusele võtaks...
+
+
 __Tehnoloogiate kombineerimine__ e kooskasutamine on süsteemide ehitamisel hädavajalik.
 
 <p class='tagid'>Mõiste</p>
