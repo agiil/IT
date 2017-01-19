@@ -83,26 +83,11 @@ Käesoleva väikese veebisaidi tegemisel on kasutatud 15 erinevat töövahendit 
   - [Google Material Design ikoonid](https://material.io/icons/)
   - [Google Fonts](https://fonts.google.com/)
 
-Järeldus 1. Organisatsioonis kasutatakse tüüpiliselt arvukalt erinevaid infotehnoloogiaid.
+<p class='tags'>Järeldus</p>
+Organisatsioonis kasutatakse tüüpiliselt arvukalt erinevaid infotehnoloogiaid.
 
-Järeldus 2. Organisatsioonid tüüpiliselt omavad vaid ebaselget ülevaadet oma tehnoloogiakasutusest.
-
-__"Awesome stuff"__
-
-__ahhetamapanev__, ingl _awesome_ ⟶ That’s awesome, man!
-
-IT is seen today inavoidable, often decisive ingredient of any great product or service (but this does not eliminate awesome inefficiencies in bureaucratic systems, among other things)
-
-__IT "maagia"__ on olukord, kus IT töötab hästi ja kasulikult.
-
-IT mehed ütlevad vahel, et miski töötab "automaagiliselt". Mida see tähendab? Vt [https://en.wikipedia.org/wiki/Magic_(programming)](https://en.wikipedia.org/wiki/Magic_(programming))
-{: .s } 
-
-[Service Magic: Practicing the Art of Amazing Your Guests](http://ritzcarltonleadershipcenter.com/2016/02/service-magic-practicing-the-art-of-amazing-your-guests/)
-
-> "Service magic, like stage magic, is a set of skills developed through desire and mastered through thought and determination." &mdash;
-
-> "Any sufficiently advanced technology is indistinguishable from magic." &mdash;Arthur C. Clarke
+<p class='tags'>Järeldus</p>
+Organisatsioonid tüüpiliselt omavad vaid ebaselget ülevaadet oma tehnoloogiakasutusest.
 
 __Tarkvara hindamine ja valimine__
 

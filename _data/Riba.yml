@@ -1,7 +1,8 @@
 - title: "Sissejuhatus"
   categories:
-    - title: "Sissejuhatus"  
-      url: "/Sissejuhatus"
+    - title: "Veebisaidist"  
+      url: "/Veebisaidist"
+    - title: "Maagi"  
     - title: "Ettevõtte kasv ja IT"
       url: "/Kasv"  
 

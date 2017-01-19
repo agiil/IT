@@ -19,6 +19,12 @@ Kursuse läbinu __oskab__:
 -  kaardistada ettevõtte IT-arhitektuuri ja leida sealt lünki ning parandamist vajavaid kohti
 -  visioneerida IT-põhist ärimudelit. 
 
+__Tugidistsipliinid__. Millistele ainetele või teadusaladele see kursus tugineb?
+
+Süsteemkäsitlus, _The Systems Approach_. Käsitluse analüütilisus ja süsteemsus on eesmärgiks. Selleks aga, et käsitlus ei jääks mehaaniliseks, on referentsdistsipliiniks ka kunst.
+
+__Põhiküsimused__. Meid huvitab IT praktiline kasutamine. Siin on palju huvitavaid küsimusi; paljudele ei olegi lihtsaid lahendusi. IT-s endas on palju lahendamata küsimusi. Ka neist tuleb möödaminnes juttu.
+
 <!-- OK, kõik see ei ole lihtne. Praktika teeb meistriks. Kuid algus on tehtud.
 {: .s} --> 
 
