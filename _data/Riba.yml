@@ -2,7 +2,8 @@
   categories:
     - title: "Veebisaidist"  
       url: "/Veebisaidist"
-    - title: "Maagi"  
+    - title: "Maagia"
+      url: "/Maagia"  
     - title: "Ettevõtte kasv ja IT"
       url: "/Kasv"  
 
