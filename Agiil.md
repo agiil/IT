@@ -57,3 +57,5 @@ reageerimine muutunud oludele on adekvaatsem kui algsest plaanist kinnihoidmine
 - [Comparing scaling agile frameworks](http://www.cio.com/article/2974436/agile-development/comparing-scaling-agile-frameworks.html)
 
 - [10 modern software engineering mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.624dxgpz1) 
+
+Erder & Pureur (2016) What's the Architect's Role in an Agile, Cloud-Centric World?. IEEE Software
