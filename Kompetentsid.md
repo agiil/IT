@@ -4,6 +4,15 @@ permalink: Kompetentsid
 sidebar: false
 ---
 
+# Süsteemiarenduse kompetentsid
+
+Vrdl: [EU ICT Professional Profiles](http://relaunch.ecompetences.eu/wp-content/uploads/2013/12/EU_ICT_Professional_Profiles_CWA_updated_by_e_CF_3.0.pdf)
+
+<p class='tags'>Hinnang</p>
+Tundub väga "enterprisy" ja "waterfally". Kas idufirmades on need ametid adekvaatsed? USAs ei ole sellist riiklikku klassifikatsiooni. Kas USAs on seetõttu kehvemas seisus?
+
+Vrdl [Lau, E (2015) The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107).
+
 __Ennustamisvõime__ (_Estimation_)
 - võime hinnata realistlikult tööde mahtu, inimeste võimet asju ära teha, tähtaegu, kestusi
 

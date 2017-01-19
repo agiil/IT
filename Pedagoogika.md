@@ -9,6 +9,8 @@ __dangerous stuff__
 
 __eriprojekt__, _special project_
 
+__hinnang__
+
 __iseseisev tegevus__, nt veebiotsing, silt `Iseseisvalt`
 
 __juhtumikirjeldus__, _case study_
