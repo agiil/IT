@@ -30,3 +30,6 @@ __Tähistused__
 <p class='tags'>TL;DR</p>
 - TL;DR - üherealine kokkuvõte pikema teksti ees või selle asemel (lühend ingl _too long; didn’t read_).
 - Hashtag (#) tähistab trendi.
+
+@ - pöördumine inimese poole
+

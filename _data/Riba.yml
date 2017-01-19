@@ -26,7 +26,7 @@
       url: "/Arhi"
     - title: "IT valitsemine, juhtimine, korraldamine"
       url: "/Korraldamine"
-    - title: "Lihtne IT"
+    - title: "Lihtne ja keeruline IT"
       url: "/Lihtne"  
 
 - title: "3 Infohaldus"
@@ -35,7 +35,7 @@
       url: "/Infohaldus"
     - title: "Töö IT-keskkonnas"
       url:
-    - title: "Sujuv töövoog (Streamlined Workflow)"
+    - title: "Sujuv töövoog, sujuv IT"
       url: "/Workflow"
     - title: "Terviklik infohaldus"
       url:
@@ -58,8 +58,6 @@
       url:
     - title: "Automatiseerimine"
       url: "/Automatiseerimine"
-    - title: "Lean IT"
-      url: "/Lean"
 
 - title: "5 IT-teenuste sisseostmine"
   categories:
@@ -67,6 +65,8 @@
       url: "/Sisseostmine"
     - title: "IT-teenuste liigid"
       url: "/IT-teenused"
+    - title: "Süsteemiarenduse kompetentsid"
+      url: "/Kompetentsid"  
     - title: "Raamistikud ja standardid - ITIL, COBIT jt"
       url: "/Raamistikud"
     - title: "Uued, as-a-Service tooted"

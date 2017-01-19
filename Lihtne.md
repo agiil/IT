@@ -1,9 +1,9 @@
 ---
-title: Lihtne IT
+title: Lihtne ja keeruline IT
 permalink: Lihtne
 ---
 
-# Lihtne või keerukas IT?
+# Lihtne ja keeruline IT
 
 __Lihtsaim IT__
 
@@ -33,3 +33,34 @@ __One-liner__. Programmeerimiskeeles Python on heaks programmeerimistavaks iga m
 Lihtsuse hoidmine nõuab jõupingutust
 
 Tehniline näide. HTTP2 on uus versioon põhilisest veebiprotokollist. HTTP2 on kiirem, kuid [sõnumid ei ole enam inimloetavad](https://news.ycombinator.com/item?id=9038613).
+
+Siia üks väike võrdlus kõrvale:
+
+agiilne (F-Secure näitel, 
+http://www.sciencedirect.com/science/article/pii/S0950584914002043) 
+RIA
+- eepik (epic)
+  - featuur (feature)
+    - kasutuslugu (user story)
+      - ülesanne (task)
+
+eepik - high-level goal of the product for the multi-release time horizon
+featuur – eepiku osa, mis teostatav ühe reliisitsükliga
+kasutuslugu – featuuri osa, funktsionaalsuse väike tükk, kasutaja vaatepunktist
+task – tehniline ülesanne, mida on vaja kasutusloo teostamiseks
+
+Võtmesõna seejuures on reliis (release). 
+
+On inimesi, kes reliisivad kord aastas või veel harvemini. Avaarenduse gurud Eric S. Raymond ja Martin Paljak aga ütlevad, et „Release early, release often“.
+
+Millal sina viimati reliisisid?
+  - strateegia
+  - tööplaan
+    - tegevuskava
+      - arenduse iteratsioon
+        - minihanke
+          - etapp
+            - tööpakett
+              - omadus/nõue
+
+reliis tüüpiliselt kord aasta-paari järel
