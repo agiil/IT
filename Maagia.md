@@ -18,30 +18,32 @@ Vähem tuntud, kuid sama tähelepanuväärne on Ritz-Carltoni [teenindusfilosoof
 - ainsa firmana võitnud kaks korda USA rahvusliku kvaliteediauhinna
 - "The Ritz-Carlton Mystique"
 - [Service Magic: Practicing the Art of Amazing Your Guests](http://ritzcarltonleadershipcenter.com/2016/02/service-magic-practicing-the-art-of-amazing-your-guests/)
-- vt ka [How Ritz-Carlton Maintains its Mystique](https://www.bloomberg.com/news/articles/2007-02-13/how-ritz-carlton-maintains-its-mystiquebusinessweek-business-news-stock-market-and-financial-advice)
+- vt ka [How Ritz-Carlton Maintains its Mystique](https://www.bloomberg.com/news/articles/2007-02-13/how-ritz-carlton-maintains-its-mystiquebusinessweek-business-news-stock-market-and-financial-advice).
 
 Teenusel on kaks poolt:
 
 -  mehaaniline, tänapäeval suuresti - infotehnoloogiline ("data-driven side of service")
-- emotsionaalne ("Ritz-Carlton Mystique")
+- emotsionaalne ("Ritz-Carlton Mystique").
 
-__Hea IT automaagilisusest__
+__Hea IT automaagilisus__
 
 Ka IT-teenustes on oma maagia. Väga hästi töötav IT-süsteem jõuab maagiale päris lähedale.
 
 IT "maagia" on olukord, kus IT töötab väga hästi ja kasulikult.
 
-Öeldakse, et IT-süsteem töötab [automaagiliselt](https://en.wikipedia.org/wiki/Magic_(programming).
+Öeldakse, et IT-süsteem töötab [automaagiliselt](https://en.wikipedia.org/wiki/Magic_(programming)).
 
-> "Eluaegse laenu sai automaagiliselt ja panka minemata" -- Margo, 2016, Twitter
+> "Eluaegse laenu sai automaagiliselt ja panka minemata" -- Twitter
 
-> "Tänases unenäos kandsin prille, mis automaagiliselt asendasid igasuguse võõrkeelse teksti või sildi eestikeelsega" -- Argo Ideon, 2012, Twitter
+> "Tänases unenäos kandsin prille, mis automaagiliselt asendasid igasuguse võõrkeelse teksti või sildi eestikeelsega" -- Twitter
 
-> "Kas keegi oskab kommenteerida kuidas dividendid tavaliselt kontole jõuavad, kas selleks tuleb mingeid pabereid täita või toimub asi automaagiliselt?" - Tarkinvestor foorum
+> "Kuidas dividendid tavaliselt kontole jõuavad, kas selleks tuleb mingeid pabereid täita või toimub asi automaagiliselt?" - Tarkinvestor foorum
 
 Automaagilisus tähendab seda, et IT teeb töö meie eest ära. Nähtamatult, ilma meid tülitamata, koormamata. Ilma, et peaksime aru saama, kuidas IT seda teeb.
 
-IT nähtamatus (#DisappearingIT) võib muutuda ka probleemiks. Inimene on harjunud väärtustama materiaalset. Tahab käegakatsutavat asja, "nänni". On nõus maksma, kui näeb, mille eest maksab. IT jookseb aga taustal.
+IT nähtamatus (#DisappearingIT, vt nt [Dreamworks2015]) võib muutuda ka probleemiks. Inimene on harjunud väärtustama materiaalset. Tahab käegakatsutavat asja, "nänni". On nõus maksma, kui näeb, mille eest maksab.
+
+IT jookseb aga taustal, mõnigi kord nähtamatult. Mõned olulised hotelli  IT-süsteemid (_revenue management_, vt nt [https://en.wikipedia.org/wiki/Revenue_management](https://en.wikipedia.org/wiki/Revenue_management)) ei paista külalisele üldse välja.
 
 IT väärtus seega avaldub mitte ainult paigaldatavate jubinate ja kastidena, vaid keskkonnana, hajusa struktuurina, taristuna, õigemini taristu või taustal jooksva protsessi - raskesti tajutava - efektina. Mis näibki inimesele maagiana.
 
@@ -53,9 +55,9 @@ IT-teenusel kavandamisel peaks mõtlema, kas tegu on lihtsa teenusega või taham
 
 Kas IT-teenus on midagi, mida inimene kasutab eriliste emotsioonideta või peaks ta teenusest vaimustuma?
 
-Järeldus siit võiks olla, et IT-teenuse kvaliteet ei ole pelgalt "objektiivsed" SLA mõõdikud (SLA - teenustaseme kokkulepe, _service level agreement_), vaid kvaliteet on ka - ja võib-olla isegi eelkõige - inimese meeltes tekkiv kuvand, emotsionaalne konfiguratsioon.
+Järeldus siit võiks olla, et IT-teenuse kvaliteet ei ole pelgalt "objektiivsed" SLA mõõdikud ([SLA](https://en.wikipedia.org/wiki/Service-level_agreement) - teenustaseme kokkulepe, _service level agreement_), vaid kvaliteet on ka - ja võib-olla isegi eelkõige - inimese meeltes tekkiv kuvand, emotsionaalne konfiguratsioon.
 
-__Kuidas siis seda IT maagilist kvaliteeti saavutada?__
+__Kuidas siis IT-s maagilist kvaliteeti saavutada?__
 
 > "Service magic, like stage magic, is a set of skills developed through desire and mastered through thought and determination."
 
@@ -63,6 +65,12 @@ __Kuidas siis seda IT maagilist kvaliteeti saavutada?__
 
 "Awesome stuff" - öeldakse, kui mõni veebisait, tarkvarateek, -raamistik või tööriist on kõrge kvaliteediga. Kuigi sellel on iroonia varjund, on see tähelepanuväärne. Ahhetamapanevalt häid teeke, töövahendeid ja süsteeme ongi IT-s palju. Kuid samas on ka ahhetamapanevaid  näiteid IT halvastitöötamisest. 
 
-__IT kui maagiline masin__. Kõik vähegi võimekad tarkvarasüsteemid on taandatavad Turingu masinale. IT on suur masinavärk. Kusagil toimub üleminek, millest Arthur Clarke kirjutas. IT-masinavärgile elu sissepuhumine võib-olla ongi IT suur väljakutse.
+__IT kui maagiline masin__
+
+Kõik vähegi võimekad tarkvarasüsteemid on taandatavad Turingu masinale. IT on suur masinavärk. Kusagil toimub üleminek, millest Arthur Clarke kirjutas. IT-masinavärgile elu sissepuhumine võib-olla ongi IT suur väljakutse.
 
 Nii nagu kirjanduses, nii ka elus ei ole ühtainsat õiget positsiooni. [Maagiline realism](https://et.wikipedia.org/wiki/Maagiline_realism), on üks paljudest kirjandusvooludest (Borges, Márquez, eesti kirjanikest Heinsaar). Seletamatud, ebatavalised ja  maagilised sündmused mängivad maagilise realismi kirjanduses olulist rolli. Maagiline IT, konkreetsemalt - automaagilised IT-teenused - väärivad tähelepanu.
+
+Viited
+
+[Dreamworks2015] [How DreamWorks Animation’s ‘Invisible’ IT Infrastructure Enables Creativity](https://www.hpematter.com/issue-no-7-fall-2015/heres-how-dreamworks-invisible-it-infrastructure-enables-creativity)
