@@ -1,8 +1,27 @@
 ---
-title: Süsteemiarenduse kompetentsid
-permalink: Kompetentsid
+title: IT-inimesed
+permalink: Inimesed
 sidebar: false
 ---
+
+<p><i class="material-icons ikoon">help_circle</i></p>
+<p><i class="material-icons ikoon">help_circle</i> Kas teie organisatsioonis on IT-töötajaid? Milliseid ametinimetusi nad kannavad? Kas ametinimetused vastavad tegelikult tööle?</p>
+
+Blank, S (2010)[Job Titles That Can Sink Your Startup](https://steveblank.com/2010/09/13/job-titles-that-can-sink-your-startup/)
+
+Alustavas ettevõttes ei ole vaja müügi- (VP Sales), vaid kliendiarendusdirektorit (VP Customer Development).
+{: .a}
+
+Coyier, C (2013) [Job Titles in the Web Industry](https://css-tricks.com/job-titles-in-the-web-industry/)
+
+Artikkel selgitab, millised IT-ametid ja -rollid on veebisüsteemide arenduses levinud ja mille poolest need üksteisest erinevad. Veebikujundaja? Veebidisainer? Full Stack Developer?
+{: .a}
+
+__Eksootilisi ameti- ja rollinimetusi__ (_Job Titles_):
+- Developer Advocate
+- Community Manager
+
+_Noorem-, Vanem-, Juhtiv-__ (_Junior, Senior, Lead_). Vt [How do you define a junior developer?](https://news.ycombinator.com/item?id=12557149)
 
 # Süsteemiarenduse kompetentsid
 

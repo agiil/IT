@@ -1,9 +1,9 @@
 ---
-title: Tehnoloogia lubadus ja selle täitmine
+title: Tehnoloogiatrendide jälgimine
 permalink: Lubadus
 ---
 
-# Tehnoloogia lubadus ja selle täitmine
+# Tehnoloogiatrendide jälgimine
 
 __Tehnoloogiatrend__ on uue, paljulubava tehnoloogia tulemine, populaarsuse võitmine.
 
@@ -80,6 +80,7 @@ __Tehnoloogiatrendide jälgimine teenusena__.
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
 - [O'Reilly Ideas](https://www.oreilly.com/ideas)
 - [Gartner](http://www.gartner.com/technology/home.jsp)
+- [Cisco Radar](https://techradar.cisco.com/)
 
 __Mudelid__.
 
