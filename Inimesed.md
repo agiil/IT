@@ -6,15 +6,9 @@ sidebar: false
 
 <p><i class="material-icons ikoon">help_circle</i> Kas teie organisatsioonis on IT-töötajaid? Milliseid ametinimetusi nad kannavad? Kas ametinimetused vastavad tegelikult tööle?</p>
 
-Blank, S (2010) [Job Titles That Can Sink Your Startup](https://steveblank.com/2010/09/13/job-titles-that-can-sink-your-startup/)
+Blank, S (2010) [Job Titles That Can Sink Your Startup](https://steveblank.com/2010/09/13/job-titles-that-can-sink-your-startup/) -- Alustavas ettevõttes ei ole vaja müügi- (VP Sales), vaid kliendiarendusdirektorit (VP Customer Development).
 
-Alustavas ettevõttes ei ole vaja müügi- (VP Sales), vaid kliendiarendusdirektorit (VP Customer Development).
-{: .a}
-
-Coyier, C (2013) [Job Titles in the Web Industry](https://css-tricks.com/job-titles-in-the-web-industry/)
-
-Artikkel selgitab, millised IT-ametid ja -rollid on veebisüsteemide arenduses levinud ja mille poolest need üksteisest erinevad. Veebikujundaja? Veebidisainer? Full Stack Developer?
-{: .a}
+Coyier, C (2013) [Job Titles in the Web Industry](https://css-tricks.com/job-titles-in-the-web-industry/) -- Artikkel selgitab, millised IT-ametid ja -rollid on veebisüsteemide arenduses levinud ja mille poolest need üksteisest erinevad. Veebikujundaja? Veebidisainer? Full Stack Developer?
 
 __Eksootilisi ameti- ja rollinimetusi__ (_Job Titles_):
 
