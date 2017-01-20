@@ -8,9 +8,22 @@ permalink: Sujuv
 
 # Sujuv töövoog
 
-Töövoosüsteemid (_Workflow_)
+Töövoosüsteemid (_Workflow Engine_)
 
-JIRA versus Trello: https://news.ycombinator.com/item?id=13356318. 
+<p class='tags'>Tarkvara</p>
+[JIRA](https://www.atlassian.com/software/jira) on IT-organisatsioonides populaarne töövoosüsteem. [Building an awesome JIRA workflow: concepts and examples](https://blogs.atlassian.com/2013/10/building-workflow-awesome/) õpetab töövoo projekteerimist.
+
+Märkus. Töövoos liikuvaks asjaks (menetlusobjektiks) on JIRA-s _issue_ - mis võib tähistada nii tarkvaras avastatud bugi, kliendi küsimust kui ka arendusülesannet. Teistes töövoosüsteemides võib terminoloogia erineda.
+
+__Töövoo visualiseerimine__ on töövoosüsteemide hinnatud omadus. Laialt kasutatakse __kanban__-laudu.
+
+<p class='tags'>Tarkvara</p>    
+[Trello](https://trello.com/) on populaarne, lihtne kaartide ja töölaua metafooril põhinev tööde planeerimise ja edenemise jälgimise süsteem.
+
+<p class='tags'>Also</p>
+[JIRA ja Trello võrdlus](https://news.ycombinator.com/item?id=13356318).
+
+<p><i class="material-icons ikoon">help_circle</i>Kas teie organisatsioonis kasutatakse töövoo mõistet? Millises töölõigus võiks töövoo selgem kokkuleppimine kõige kiiremat efekti anda? Kas organisatsioonis on tarkvara, mis seda töövoogu toetaks? Kas suudate töövoo joonisena või samm-sammulise tegevuste loeteluna visandada?</p> 
 
 # Sujuv (Lean) IT
 

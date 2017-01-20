@@ -5,6 +5,8 @@ permalink: Pedagoogika
 
 # Pedagoogika. Žanrid
 
+__also__
+
 __dangerous stuff__
 
 __eriprojekt__, _special project_
@@ -18,6 +20,8 @@ __juhtumikirjeldus__, _case study_
 __järeldus__, __oluline järeldus__, _key takeaway_
 
 __kirjandusviide__
+
+__küsimus__
 
 __praktikas kuuldu__, _heard_
 

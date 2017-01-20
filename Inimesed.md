@@ -10,10 +10,7 @@ Blank, S (2010) [Job Titles That Can Sink Your Startup](https://steveblank.com/2
 
 Coyier, C (2013) [Job Titles in the Web Industry](https://css-tricks.com/job-titles-in-the-web-industry/) -- Artikkel selgitab, millised IT-ametid ja -rollid on veebisüsteemide arenduses levinud ja mille poolest need üksteisest erinevad. Veebikujundaja? Veebidisainer? Full Stack Developer?
 
-__Eksootilisi ameti- ja rollinimetusi__ (_Job Titles_):
-
-- Developer Advocate
-- Community Manager
+__Eksootilisi ameti- ja rollinimetusi__ (_Job Titles_): Developer Advocate; Community Manager.
 
 __Noorem-, Vanem-, Juhtiv-__ (_Junior, Senior, Lead_). Vt [How do you define a junior developer?](https://news.ycombinator.com/item?id=12557149)
 
