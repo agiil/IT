@@ -129,3 +129,8 @@ LEARNING & GROWTH
 
 16. Competent and motivated business and IT personnel
 17. Knowledge, expertise and initiatives for business innovation
+
+Practical IT Service Management : A Concise Guide for Busy Executives. By: Thejendra BS. Edition: 2nd ed. Ely, Cambridgeshire, U.K. : IT Governance Publishing. 2014. eBook. (EBSCO Book Collection)
+
+Ten Steps to ITSM Success : A Practitioner's Guide to Enterprise IT Transformation
+By: Esposito, Angelo; Rogers, Timothy. Ely, Cambridgeshire : IT Governance Publishing. 2013. eBook.

@@ -43,6 +43,8 @@ __Kirjutamine__
 - võime valida, vajadusel moodustada uusi, täpseid oskussõnu (termineid)
 - võime luua, pidada ja rakendada projektis v tootes vajalikku terminisüsteemi (sõnastikku)
 
+vt Warne, H (2012) [Writing matters](https://henrikwarne.com/2012/08/22/top-5-surprises-when-starting-out-as-a-software-developer/)
+
 __Kontseptsiooni loov analüüs__
 - analüüs, mis ei piirdu teabe kogumise ja süstematiseerimisega, vaid sünteesib teavet, lisab orginaalse idee ja jõuab välja tervikliku lahendusettepanekuni (tegevuskava vms)
 
