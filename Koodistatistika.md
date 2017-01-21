@@ -56,14 +56,20 @@ __Waterfall versus Agile, sama funktsionaalsuse teostamine__
 
 *MVP, _Minimal Viable Product_, minimaalne toimiv lahendus
 
-- Arvutus näitavad, et agiilarendus võib sama funktsionaalsuse anda 10-15 korda odavamalt ja 10-20 korda kiiremalt
-- Asi ei tarvitse olla 10X kiiremates programmeerijates, vaid selles, et *agiilne projekt sunnib Tellijat teisiti tegutsema*{: .u}
+- Arvutus näitavad, et *agiilarendus võib sama funktsionaalsuse anda 10-15 korda odavamalt ja 10-20 korda kiiremalt*{: .u}
+- Asi ei tarvitse olla 10X kiiremates programmeerijates - tõenäoliselt ei olegi -  vaid selles, et *agiilne projekt sunnib Tellijat teisiti tegutsema*{: .u}
 
 <p class='tags'>Also</p>
 [10X software engineer](https://www.quora.com/topic/10X-Engineers)
 
 __Ambitsioonitase__
 
+<div style='display: flex; width: 300px; height: 400px; align-items: flex-end; margin: 2em 4em;'>
+  <div style='flex: 1; height: 50px; background-color: #C5E1A5;'>Basic</div>
+  <div style='flex: 1; height: 150px; background-color: #FFF59D;'>Nice to Have</div>
+  <div style='flex: 1; height: 250px; background-color: #FFCC80;'>Äge</div>
+  <div style='flex: 1; height: 350px; background-color: #FFAB91;'>Ülikõva</div>
+</div>
 
 __Codemonkeyism__
 
