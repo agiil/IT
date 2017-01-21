@@ -90,10 +90,10 @@ __Dokumentatsiooni kvaliteet__
 4- hea, vajalik suur Tellija osalus
 3 - vastuvõetav, suure Tellijapoolse tagaajamisega 
 
-- kvaliteetdokumentatsioon ei teki muu arendustöö kõrvalt, vaja eraldi inimest
+- *kvaliteetdokumentatsioon ei teki muu arendustöö kõrvalt, vaja eraldi inimest*{: .u}
 - inimene teeb kvaliteetset dokumentatsiooni, kui
-  - tal on selleks talenti
-  - talle antakse selleks aega
+  - *tal on selleks talenti*{: .u}
+  - *talle antakse selleks aega*{: .u}
 
 <!-- p><span id='L1' class="lyliti">Suhtarvud
  <i class='material-icons'>add_circle</i></span></p>
