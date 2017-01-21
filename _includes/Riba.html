@@ -19,7 +19,7 @@
                 {{ nav.title }} <i class='material-icons'>add_circle</i>
               </span>
               <!-- Alammenüü -->
-              <ul id="alammenyy{{ id_count.size }}" class='alammenyy'>
+              <ul id="lylitatav{{ id_count.size }}" class='alammenyy'>
               {% for category in nav.categories %}
                 {% if category.url %}
                   <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></li>

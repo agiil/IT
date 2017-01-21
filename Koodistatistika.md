@@ -18,5 +18,10 @@ __Koodistatistika e mida raha eest saime?__
 | Kaustu         | 58          |            | 273          |
 | Maksumus       | €31,580     | €19,900    | €35,800      |
 
+<span id='L1' class="lyliti">Suhtarvud
+ <i class='material-icons'>add_circle</i></span>
 
-
+<div id='lylitatavL1'>
+  lülitatav
+</div>
+  
