@@ -16,6 +16,7 @@ Sisukord
 - Kust tekib keerukus?
 - Minimeeri vaheprodukti
 - Mis töötab? (dokumentatsioon)
+- Mis töötab (hankimine)
 
 __Mida siis raha eest saime? (koodistatistika)__
 
@@ -77,7 +78,7 @@ sama funktsionaalsus, pärast kosemudeli ebaõnnestumist
 
 __Vali jõukohane raskus__
 
-<div style='display: flex; width: 300px; height: 400px; align-items: flex-end; margin: 2em 4em;'>
+<div style='display: flex; width: 300px; height: 350px; align-items: flex-end; margin: 2em 4em;'>
   <div style='flex: 1; height: 50px; background-color: #C5E1A5;'>Basic</div>
   <div style='flex: 1; height: 150px; background-color: #FFF59D;'>Nice to Have</div>
   <div style='flex: 1; height: 250px; background-color: #FFCC80;'>Äge</div>
@@ -182,6 +183,8 @@ __Mis töötab? (dokumentatsioon)__
 - inimene teeb kvaliteetset dokumentatsiooni, kui
   - *tal on selleks talenti*{: .u}
   - *talle antakse selleks aega*{: .u}
+
+__Mis töötab (hankimine)__
 
 
 
