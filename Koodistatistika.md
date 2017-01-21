@@ -44,7 +44,34 @@ __Koodistatistika 2__
 - Alice Cooper (1973) [No More Mr Nice Guy](https://youtu.be/KN6ngThqMEs)
 - Glover, R (2003) [No More Mr Nice Guy](https://www.amazon.com/No-More-Mr-Nice-Guy/dp/0762415339). A Proven Plan For Getting What You Want in Love, Sex, And Life.
 
-__Järeldused__
+~~Järeldused~~
+
+__Waterfall versus Agile, sama funktsionaalsuse teostamine__
+
+|           |  Waterfall | Agiilne |
+|-----------|------------|---------|
+| Eesmärk   | "Täisvärk" | MVP* |
+| Maksumus | *€190,000*{: .c} | *€10,000*{: .c} |
+| Teostatud | ei (katkestatud) | jah |
+| Aeg | 9 kuud (katkestatud) | 2 nädalat |
+| Tulemus kasutatav | õppetunnina, koodi kasutamine problemaatiline | jah |
+
+*MVP, _Minimal Viable Product_, minimaalne toimiv lahendus
+
+~~Järeldused~~
+
+- Arvutus näitavad, et agiilarendus võib sama funktsionaalsuse anda 10-15 korda odavamalt ja 10-20 korda kiiremalt
+- Asi ei tarvitse olla 10X kiiremates programmeerijates, vaid selles, et ~~agiilne projekt sunnib Tellijat teisiti tegutsema~~
+
+<p class='tags'>Also</p>
+[10X software engineer](https://www.quora.com/topic/10X-Engineers)
+
+__Ambitsioonitase__
+
+
+__Codemonkeyism__
+
+
 
 USA Föderaalvalitsus ostab IT-de 80 mlrd $ aastas; kasutust leiab ainult 1/3 tarkvarast.
 
