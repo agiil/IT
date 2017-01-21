@@ -17,8 +17,8 @@ __Koodistatistika e mida raha eest saime?__
 | Faile          | 125         |            | 3374         |
 | Kaustu         | 58          |            | 273          |
 | Maksumus       | *€31,580*{: .c}  | *€19,900*{: .c} | *€35,800*{: .c}  |
-| €/LOC          | €16         | €0.93      | €0.80        |
-| €/Kasutuslugu  | €5300       |            | €6000        |
+| €/LOC          | *€16*{: .c} | *€0.93*{: .c} | *€0.80*{: .c} |
+| €/Kasutuslugu  | *€5300*{: .c} |            | *€6000*{: .c} |
 | LOC/Kasutuslugu| 333         |            | 7500         |
 
 <p class='tags' style='margin-top: 2em;'>Also</p>
