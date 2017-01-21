@@ -41,6 +41,8 @@ IT "maagia" on olukord, kus IT töötab väga hästi ja kasulikult.
 
 Automaagilisus tähendab seda, et IT teeb töö meie eest ära. Nähtamatult, ilma meid tülitamata, koormamata. Ilma, et peaksime aru saama, kuidas IT seda teeb.
 
+> "React and Angular can get very confusing for a first timer in front end. The official tutorials leave out a lot of magic happening behind the scenes. I tried to complete the official angular tutorial and even after completing it, though I could build an app, I still didn't feel confident that I had a good understanding of Angular." --- Hacker News
+
 IT nähtamatus (#DisappearingIT, vt nt [Dreamworks2015]) võib muutuda ka probleemiks. Inimene on harjunud väärtustama materiaalset. Tahab käegakatsutavat asja, "nänni". On nõus maksma, kui näeb, mille eest maksab.
 
 IT jookseb aga taustal, mõnigi kord nähtamatult. Mõned olulised hotelli  IT-süsteemid (_revenue management_, vt nt [https://en.wikipedia.org/wiki/Revenue_management](https://en.wikipedia.org/wiki/Revenue_management)) ei paista külalisele üldse välja.

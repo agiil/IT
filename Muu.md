@@ -3,6 +3,8 @@ title: Muu
 permalink: Muu
 ---
 
+__n±2 põhimõte__ (IT arhitektuuris) Selleks, et oma kihis efektiivselt tegutseda, peab aru saama, mis toimub kaks kihti ülalpool ja kaks kihti allpool.
+
 
 __IT organisatsioon__
 

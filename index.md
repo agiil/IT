@@ -21,7 +21,13 @@ Kursuse läbinu __oskab__:
 
 __Tugidistsipliinid__. Millistele ainetele või teadusaladele see kursus tugineb?
 
-Süsteemkäsitlus, _The Systems Approach_. Käsitluse analüütilisus ja süsteemsus on eesmärgiks. Selleks aga, et käsitlus ei jääks mehaaniliseks, on referentsdistsipliiniks ka kunst.
+Süsteemkäsitlus, _The Systems Approach_. Käsitluse analüütilisus ja süsteemsus on eesmärgiks.
+
+<!--  Referentsdistsipliinid: kunst, sport.
+
+IT - elatise teenimise vahend
+
+ -->
 
 __Põhiküsimused__. Meid huvitab IT praktiline kasutamine. Siin on palju huvitavaid küsimusi; paljudele ei olegi lihtsaid lahendusi. IT-s endas on palju lahendamata küsimusi. Ka neist tuleb möödaminnes juttu.
 

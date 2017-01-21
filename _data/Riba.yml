@@ -1,21 +1,16 @@
 - title: "Sissejuhatus"
   categories:
-    - title: "Veebisaidist"  
+    - title: "Veebisaidi kasutamine"  
       url: "/Veebisaidist"
     - title: "Maagia"
       url: "/Maagia"  
     - title: "Ettevõtte kasv ja IT"
       url: "/Kasv"  
 
-- title: "1 Informatsioon"
+- title: "1 Informatsioon ja tehnoloogia"
   categories:
     - title: "Informatsiooni väärtus ja kvaliteet"
       url: "/Informatsioon"
-    - title: "Väärtusloome infoühiskonnas"
-      url:
-
-- title: "2 Tehnoloogiad"
-  categories:
     - title: "Ettevõtte IT-profiil"
       url: "/Profiil"
     - title: "Tehnoloogiate (tarkvarade) hindamine ja valik"
