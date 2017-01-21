@@ -24,8 +24,9 @@ __Koodistatistika e mida raha eest saime?__
 
 <div id='lylitatavL1' -->
 
-| Olulisus       | MUST HAVE   | MUST HAVE  | NICE TO HAVE |
+|                |             |            |              |
 |----------------|:-----------:|:----------:|:------------:|
+| Olulisus       | MUST HAVE   | MUST HAVE  | NICE TO HAVE |
 |                | (essential) | (almost) | |              |
 | €/LOC          | €16         | €0.93      | €0.80        |
 | €/Kasutuslugu  | €5300       |            | €6000        |
