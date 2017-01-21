@@ -6,12 +6,23 @@ permalink:
 
 # Mida raha eest saime?
 
+Sisukord
+
+- Koodistatistika 1
+- Koodistatistika 2
+- Waterfall versus Agile
+- Ambitsioonitase
+- Codemonkeyism
+- Kust tekib keerukus?
+- Minimise WIP
+- Dokumentatsiooni kvaliteet
+
 __Koodistatistika 1__
 
 |    | [DHX Etalonteostus](https://github.com/e-gov/DHX-etalon) | [DVK täiendamine](https://github.com/e-gov/DVK) | [DHX Adapter](https://github.com/e-gov/DHX-adapter) |
 |----------------|:-----------:|:----------:|:------------:|
 | Olulisus       | MUST HAVE   | MUST HAVE  | NICE TO HAVE |
-|                | (essential) | (almost) | |              |
+|                | (essential) | (almost)   |              |
 | Kasutuslugusid | 6           | N/A        | 6            |
 | Testilugusid   | 9           | 33         | 34           |
 | Dok-n, ridu    | 1130        | N/A        | 5200         |
@@ -74,10 +85,39 @@ __Ambitsioonitase__
 __Codemonkeyism__
 
 
+__Kus tekib keerukus?__
+
+- Keerukus tekib juba haridussüsteemis
+  - mentaliteet "Rohkem on parem"
+  - samas kvaliteedist libisetakse üle
+
+<p><span id='L1' class="lyliti">näide
+ <i class='material-icons'>add_circle</i></span></p>
+
+<div id='lylitatavL1'>
+  <img src='img/Koodid.PNG'>
+</div>
+
+- tulemuseks on inimesed 'not capable of simple'
+
+- Ilmingud: mahu pärast genereeritud projektiplaanid, arendusdokumendid
+- Näide: äÄriprotsessi kirjeldus 80 lk. See ei ole kasutatav
+
+_If I Had More Time, I Would Have Written a Shorter Letter -- Blaise Pascal (1657)_
+
+- Lihtsus ei teki iseenesest 
+- Lihtsuse saavutamine nõuab jõupingutust
+- Lihtsus võib nõuda rohkem oskust kui keerukus
+  - _One-liner_-i kirjutamine pole lihtne
+- Lihtsuse hoidmine nõuab jõupingutust
+- *Lihtsusele pürgiva jõu olemasolu pn projekti õnnestumise eeldus*{: .u}
+
+__Minimise WIP__
 
 USA Föderaalvalitsus ostab IT-de 80 mlrd $ aastas; kasutust leiab ainult 1/3 tarkvarast.
 
 > End users fail entirely to use nearly 45% of features procured and rarely use another 19% percent of those features. -- Balter, B (2011) Toward a More Agile Government: The Case for Rebooting Federal IT Procurement. _Public Contract Law Journal_.
+
 
 __Dokumentatsiooni kvaliteet__
 
@@ -94,11 +134,6 @@ __Dokumentatsiooni kvaliteet__
 - inimene teeb kvaliteetset dokumentatsiooni, kui
   - *tal on selleks talenti*{: .u}
   - *talle antakse selleks aega*{: .u}
-
-<!-- p><span id='L1' class="lyliti">Suhtarvud
- <i class='material-icons'>add_circle</i></span></p>
-
-<div id='lylitatavL1' -->
 
 
 

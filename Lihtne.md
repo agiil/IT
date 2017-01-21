@@ -24,9 +24,9 @@ Inimene ei vaja 122+ viisi filtrite loomiseks (Jira).
 
 Jira ja Trello kohta vt ka [https://techcrunch.com/2017/01/09/atlassian-acquires-trello/](https://techcrunch.com/2017/01/09/atlassian-acquires-trello/).
 
-Lihtsuse saavutamine nõuab jõupingutust
-
-Lihtsus võib nõuda rohkem oskust kui keerukus
+- Lihtsuse saavutamine nõuab jõupingutust
+- Lihtsus võib nõuda rohkem oskust kui keerukus
+  - _One-liner_-i kirjutamine pole lihtne
 
 __One-liner__. Programmeerimiskeeles Python on heaks programmeerimistavaks iga mooduli kirjeldamine üherealise tekstiga, nn [doctring-iga](https://www.python.org/dev/peps/pep-0257/). Üherealist programmikirjeldust, mis oleks informatiivne ja sisukas, ei olegi nii lihtne koostada! ([Python](https://www.python.org/) on huvitav mitte ainult kui populaarne programmeerimiskeel, vaid keele arenduse omapärase valitsemismudeli (_governance model_) poolest).
 
