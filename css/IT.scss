@@ -55,9 +55,13 @@ ul { list-style: none; margin: 0 0 1em 0;
 ul > li:before { display: inline-block;
     content: "-"; width: 1em; margin-left: -1em; }
 
+/ * Külgriba loetelud */
 nav > ul, nav > ol { font-family: 'Anonymous Pro', sans-serif; }
-
 nav ul { list-style-type: none; }
+
+/ * Tabelid */
+table { table-layout: fixed;
+    width: 100%; }
 
 /* Tekst */
 .disabled { color:#000000; opacity:0.38; }
