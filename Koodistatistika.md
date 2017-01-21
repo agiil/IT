@@ -4,20 +4,20 @@ title: Koodistatistika
 permalink: 
 ---
 
-# Mida raha eest saime?
+# Õppetunnid
 
 Sisukord
 
-- Koodistatistika 1
-- Koodistatistika 2
-- Waterfall versus Agile
-- Ambitsioonitase
+- Mida siis raha eest saime? (koodistatistika)
+- Odav tarkvara? (koodistatistika)
+- Kosemudeliga või agiilselt?
+- Vali jõukohane raskus
 - Codemonkeyism
 - Kust tekib keerukus?
-- Minimise WIP
-- Dokumentatsiooni kvaliteet
+- Minimeeri vaheprodukti
+- Mis töötab? (dokumentatsioon)
 
-__Koodistatistika 1__
+__Mida siis raha eest saime? (koodistatistika)__
 
 |    | [DHX Etalonteostus](https://github.com/e-gov/DHX-etalon) | [DVK täiendamine](https://github.com/e-gov/DVK) | [DHX Adapter](https://github.com/e-gov/DHX-adapter) |
 |----------------|:-----------:|:----------:|:------------:|
@@ -34,7 +34,7 @@ __Koodistatistika 1__
 | €/Kasutuslugu  | *€5300*{: .c} |            | *€6000*{: .c} |
 | LOC/Kasutuslugu| 333         |            | 7500         |
 
-__Koodistatistika 2__
+__Odav tarkvara? (koodistatistika)__
 
 |                | Projekt A (üks moodul) | Projekt B   | Projekt C |
 |----------------|:----------------------:|:-----------:|:---------:|
@@ -55,9 +55,11 @@ __Koodistatistika 2__
 - Alice Cooper (1973) [No More Mr Nice Guy](https://youtu.be/KN6ngThqMEs)
 - Glover, R (2003) [No More Mr Nice Guy](https://www.amazon.com/No-More-Mr-Nice-Guy/dp/0762415339). A Proven Plan For Getting What You Want in Love, Sex, And Life.
 
-__Waterfall versus Agile, sama funktsionaalsuse teostamine__
+__Kosemudeliga või agiilselt?
 
-|           |  Waterfall | Agiilne |
+sama funktsionaalsus, pärast kosemudeli ebaõnnestumist
+
+|           |  Kosemudeliga | Agiilselt |
 |-----------|:----------:|:-------:|
 | Eesmärk   | "Täisvärk" | MVP* |
 | Maksumus | *€190,000*{: .c} | *€10,000*{: .c} |
@@ -73,7 +75,7 @@ __Waterfall versus Agile, sama funktsionaalsuse teostamine__
 <p class='tags'>Also</p>
 [10X software engineer](https://www.quora.com/topic/10X-Engineers)
 
-__Ambitsioonitase__
+__Vali jõukohane raskus__
 
 <div style='display: flex; width: 300px; height: 400px; align-items: flex-end; margin: 2em 4em;'>
   <div style='flex: 1; height: 50px; background-color: #C5E1A5;'>Basic</div>
@@ -82,10 +84,13 @@ __Ambitsioonitase__
   <div style='flex: 1; height: 350px; background-color: #FFAB91;'>Ülikõva</div>
 </div>
 
+- Ambitsioonitase on äärmiselt oluline
+- Teeme kõigepealt baastaseme ära, siis täiendame ja alles seejärel viime asja ägedaks ja ülikõvaks - kui veel tahtmist, ressurssi ja tegelikku vajadust tolleks momendiks jagub.
+
 __Codemonkeyism__
 
 |                            | Projekt A | Projekt B |
-|----------------------------|-----------|-----------|
+|----------------------------|:---------:|:---------:|
 | Programmeerimine           |  C        |  B/A      |
 | Infohaldus                 |  C        |   C       |
 | Joonis                     |  C        |  C/A      |
@@ -120,6 +125,8 @@ __Kus tekib keerukus?__
 
 - Keerukus tekib juba haridussüsteemis
   - mentaliteet "Rohkem on parem"
+  - Eesti kultuuris puudub lihtsuseguru
+  - Eesti IT-s puudub oma Standish Group
 
 <p><span id='L1' class="lyliti">näide
  <i class='material-icons'>add_circle</i></span></p>
@@ -144,14 +151,23 @@ _If I Had More Time, I Would Have Written a Shorter Letter -- Blaise Pascal (165
 - Lihtsuse hoidmine nõuab jõupingutust
 - *Lihtsusele pürgiva jõu olemasolu pn projekti õnnestumise eeldus*{: .u}
 
-__Minimise WIP__
+__Minimeeri vaheprodukti__
 
 USA Föderaalvalitsus ostab IT-de 80 mlrd $ aastas; kasutust leiab ainult 1/3 tarkvarast.
 
 > End users fail entirely to use nearly 45% of features procured and rarely use another 19% percent of those features. -- Balter, B (2011) Toward a More Agile Government: The Case for Rebooting Federal IT Procurement. _Public Contract Law Journal_.
 
-
-__Dokumentatsiooni kvaliteet__
+- Vaheprodukt (_WIP, Work-In-Progress_):
+  - strateegia, tegevuskava, raamistik, juhend
+  - arhitektuurne mudel, äriprotsessi kirjeldus jne 
+  - üleminekukava
+  - igasugune projekti- ja arendusdokumentatsioon
+- Lõpp-produkt (_End Product_):
+  - töötav tarkvara, mida ka tegelikult kasutatakse  
+- Minimeeri töösolevat produkti (_minimise WIP_)
+- Projekti- ja arendusdokumentatsiooni rohkus ainult suurendab WIP-i  
+  
+__Mis töötab? (dokumentatsioon)__
 
 |               | Projekt A | Projekt B | Project C | Projekt D | Projekt E |
 |---------------|:---------:|:---------:|:---------:|:---------:|:---------:|   
