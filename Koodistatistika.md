@@ -44,8 +44,6 @@ __Koodistatistika 2__
 - Alice Cooper (1973) [No More Mr Nice Guy](https://youtu.be/KN6ngThqMEs)
 - Glover, R (2003) [No More Mr Nice Guy](https://www.amazon.com/No-More-Mr-Nice-Guy/dp/0762415339). A Proven Plan For Getting What You Want in Love, Sex, And Life.
 
-~~Järeldused~~
-
 __Waterfall versus Agile, sama funktsionaalsuse teostamine__
 
 |           |  Waterfall | Agiilne |
@@ -58,10 +56,8 @@ __Waterfall versus Agile, sama funktsionaalsuse teostamine__
 
 *MVP, _Minimal Viable Product_, minimaalne toimiv lahendus
 
-~~Järeldused~~
-
 - Arvutus näitavad, et agiilarendus võib sama funktsionaalsuse anda 10-15 korda odavamalt ja 10-20 korda kiiremalt
-- Asi ei tarvitse olla 10X kiiremates programmeerijates, vaid selles, et ~~agiilne projekt sunnib Tellijat teisiti tegutsema~~
+- Asi ei tarvitse olla 10X kiiremates programmeerijates, vaid selles, et *agiilne projekt sunnib Tellijat teisiti tegutsema*{: .u}
 
 <p class='tags'>Also</p>
 [10X software engineer](https://www.quora.com/topic/10X-Engineers)
@@ -80,15 +76,13 @@ USA Föderaalvalitsus ostab IT-de 80 mlrd $ aastas; kasutust leiab ainult 1/3 ta
 __Dokumentatsiooni kvaliteet__
 
 |               | Projekt A | Projekt B | Project C | Projekt D | Projekt E |
-|---------------|-----------|-----------|-----------|-----------|-----------|   
-| Dok kvaliteet |  3+       |    5     |    3      |    4-      |   5+      |
+|---------------|:---------:|:---------:|:---------:|:---------:|:---------:|   
+| Dok kvaliteet |  3+       |    5      |    3      |    4-     |   5+      |
 | Eraldi dok-ja |   ei      |   jah     |   ei      |    ei     |  jah      |
 
 5+ suurepärane, üle ootuste, Tellija osalusvajadus minimaalne
 4- hea, vajalik suur Tellija osalus
 3 - vastuvõetav, suure Tellijapoolse tagaajamisega 
-
-Järeldused
 
 - kvaliteetdokumentatsioon ei teki muu arendustöö kõrvalt, vaja eraldi inimest
 - inimene teeb kvaliteetset dokumentatsiooni, kui
