@@ -84,24 +84,56 @@ __Ambitsioonitase__
 
 __Codemonkeyism__
 
+|                            | Projekt A | Projekt B |
+|----------------------------|-----------|-----------|
+| Programmeerimine           |  C        |  B/A      |
+| Infohaldus                 |  C        |   C       |
+| Joonis                     |  C        |  C/A      |
+| Kaardistav analüüs         |  B        |   B       |
+| Kontseptsiooni loov analüüs|  C        |   B       |
+| Optimeeriv analüüs         |  C        |   A       |
+| Originaalne mõtlemine      |  C        |   B       |
+| Probleemi analüüs          |  C        |   A       |
+| Protsessi v töövoo kujundamine |  C |  C | 
+| Kasutajaliides             |  C        |   C       |
+| Lihtsus                    |  C        |   C/A     |
+| Kavast kinnipidamine       |  C        |   B       |
+| Kirjutamine                |  C        |   B/A     |      
+| Raporteerimine             |  C        |   C       |
+| Selgitamine                |  C        |   A/C     |
+| Spetsifitseerimine         |  C        |   C/A     |
+| Tegevuskava koostamine     |  C        |   C       |
+| Muutuste eestvedaja        |  C        |   C       |
+
+C- nõrk, vajalik Tellija tugev järelevalve ja osade asjade ise ette- või ärategemine; B - hea; A - väga hea
+
+- Eesti IT-firmade* võime tööd korraldada on madal
+- Töökorralduslikud oskused ei ole aastatega tõusnud, pigem vastupidi
+- Oskuste profiilid on ebaühtlased; vajalikud kompetentsid tavaliselt kaetud ebaühtlaselt
+- Võimekaid, häid spetsialiste ei osata täie efektiivsusega rakendada - ebakompetentne juhtimine
+- Tellijal ei jää muud üle, kui nõrgad kompetentsid oma tööga täita
+- IT-arenduse tuumaks peetakse firmades koodi kirjutamist; tarkvaraarendus on aga ainult üks element; paralleelselt peaks käima äriprotsesside ja töövoogude arendus ja muutuste eestvedamine; organisatsiooniliste muutuste juhtimise oskusi IT-firmadel pole.
+
+*kindlasti on tugevaid, välisturule või erasektorile töötavaid ettevõtteid, kelle suhtes väide ei kehti 
 
 __Kus tekib keerukus?__
 
 - Keerukus tekib juba haridussüsteemis
   - mentaliteet "Rohkem on parem"
-  - samas kvaliteedist libisetakse üle
 
 <p><span id='L1' class="lyliti">näide
  <i class='material-icons'>add_circle</i></span></p>
 
-<div id='lylitatavL1'>
+<div id='lylitatavL1' style='display: none;'>
+  - 11-kohaline tudengi identifikaator<br>
+  - <i>heavyweight</i> hindamissüsteemid
   <img src='img/Koodid.PNG'>
 </div>
 
 - tulemuseks on inimesed 'not capable of simple'
 
 - Ilmingud: mahu pärast genereeritud projektiplaanid, arendusdokumendid
-- Näide: äÄriprotsessi kirjeldus 80 lk. See ei ole kasutatav
+- Näide: Äriprotsessi kirjeldus 80 lk. See ei ole kasutatav
 
 _If I Had More Time, I Would Have Written a Shorter Letter -- Blaise Pascal (1657)_
 
