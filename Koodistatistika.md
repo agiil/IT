@@ -4,7 +4,7 @@ title: Koodistatistika
 permalink: 
 ---
 
-__Koodistatistika e mida raha eest saime?__
+__Koodistatistika: Mida me raha eest saime?__
 
 |    | [DHX Etalonteostus](https://github.com/e-gov/DHX-etalon) | [DVK täiendamine](https://github.com/e-gov/DVK) | [DHX Adapter](https://github.com/e-gov/DHX-adapter) |
 |----------------|:-----------:|:----------:|:------------:|
@@ -30,4 +30,22 @@ __Koodistatistika e mida raha eest saime?__
  <i class='material-icons'>add_circle</i></span></p>
 
 <div id='lylitatavL1' -->
+
+__Koodistatistika: Kui kasutatavat me raha eest saime?__
+
+|                | Projekt A (üks moodul) | Projekt B   | Projekt C |
+|----------------|------------------------|-------------|-----------|
+| Meetod         | Waterfall              | Waterfall   | Agiilne   |
+| Koodiridu (LOC)| ca 30 000              | 5000        | 4000      |
+| Maksumus       | *€11,500*              | *€150,000*{: .c} | *€10,000*{: .c} |
+| €/LOC          | *€0.33*{: .c}          | *€30*{: .c} | *€3*{: .c}|
+| Kasutuslugusid | ca 8                   | n/a         | 8 + 2     |
+| Dokumentatsioon| jah                    | jah         | ei        |
+| Dok kvaliteet  | kehv                   | suurepärane |           |
+| Kasutatav      | ei                     | jah         | jah       |
+| Üldkvaliteet   | kehv                   | suurepärane | väga hea  |
+
+
+
+
 
