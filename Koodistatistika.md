@@ -26,7 +26,7 @@ __Koodistatistika 1__
 __Koodistatistika 2__
 
 |                | Projekt A (üks moodul) | Projekt B   | Projekt C |
-|----------------|------------------------|-------------|-----------|
+|----------------|:----------------------:|:-----------:|:---------:|
 | Meetod         | Waterfall              | Waterfall   | Agiilne   |
 | Eesmärk        | täislahendus           | täislahendus| MVP*      |
 | Koodiridu (LOC)| ca 30 000              | 5000        | 4000      |
@@ -47,7 +47,7 @@ __Koodistatistika 2__
 __Waterfall versus Agile, sama funktsionaalsuse teostamine__
 
 |           |  Waterfall | Agiilne |
-|-----------|------------|---------|
+|-----------|:----------:|:-------:|
 | Eesmärk   | "Täisvärk" | MVP* |
 | Maksumus | *€190,000*{: .c} | *€10,000*{: .c} |
 | Teostatud | ei (katkestatud) | jah |
