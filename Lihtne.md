@@ -64,3 +64,9 @@ Millal sina viimati reliisisid?
               - omadus/nõue
 
 reliis tüüpiliselt kord aasta-paari järel
+
+- Paigaldamine on lihtne
+- Konfigureerimine on lihtne
+- Pääsuhaldus on lihtne
+
+Ei ole lihtne?

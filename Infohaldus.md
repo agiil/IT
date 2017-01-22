@@ -1,9 +1,10 @@
 ---
+sidebar: false
 title: Infohaldus (Information Management)
 permalink: Infohaldus
 ---
 
-# Infohaldus (Information Management)
+# 3.1 Infohaldus (Information Management)
 
 <p class='tags'>Oskused</p>
 - oskab korraldada info liikumist organisatsioonis organisatsiooni eesmärkidest lähtuvalt

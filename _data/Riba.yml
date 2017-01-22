@@ -26,15 +26,11 @@
 
 - title: "3 Infohaldus"
   categories:
-    - title: "Infohaldus (Information Management)"
+    - title: "1 Infohaldus (Information Management)"
       url: "/Infohaldus"
-    - title: "Töö IT-keskkonnas"
-      url:
-    - title: "Sujuv töövoog, sujuv IT"
+    - title: "2 Sujuv töövoog (Streamlined Workflow)"
       url: "/Workflow"
-    - title: "Terviklik infohaldus"
-      url:
-    - title: "Äritaksonoomia"
+    - title: "3 Äritaksonoomia (Corporate Taxonomy)"
       url: "/Takson"
 
 - title: "4 Äri- ja tööprotsessi disain"

@@ -1,12 +1,12 @@
 ---
 sidebar: false
-title: Sujuv töövoog, sujuv IT
+title: 2 Sujuv töövoog (Streamlined Workflow)
 permalink: Sujuv
 ---
 
 [Sublime Text 3 Snippets](https://webdevstudios.com/2016/08/16/snippets-saved-life-how-sublime-text-3-snippets-changed-everything/)
 
-# Sujuv töövoog
+# 2 Sujuv töövoog (Streamlined Workflow)
 
 Töövoosüsteemid (_Workflow Engine_)
 
