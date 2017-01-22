@@ -123,11 +123,11 @@ C- nõrk, vajalik Tellija tugev järelevalve ja osade asjade ise ette- või ära
 
 Rida probleeme:
 
-- Eesti IT-firmade* võime tööd korraldada on madal
-- Töökorralduslikud oskused ei ole aastatega tõusnud, pigem vastupidi
-- Oskuste profiilid on ebaühtlased; vajalikud kompetentsid tavaliselt kaetud ebaühtlaselt
-- Võimekaid, häid spetsialiste ei osata täie efektiivsusega rakendada - ebakompetentne juhtimine
-- Tellijal ei jää muud üle, kui nõrgad kompetentsid oma tööga täita
+- eesti IT-firmade* võime tööd korraldada on madal
+- töökorralduslikud oskused ei ole aastatega tõusnud, pigem vastupidi
+- oskuste profiilid on ebaühtlased; vajalikud kompetentsid tavaliselt kaetud ebaühtlaselt
+- võimekaid, häid spetsialiste ei osata täie efektiivsusega rakendada - ebakompetentne juhtimine
+- tellijal ei jää muud üle, kui nõrgad kompetentsid oma tööga täita
 - IT-arenduse tuumaks peetakse firmades koodi kirjutamist; tarkvaraarendus on aga ainult üks element; paralleelselt peaks käima äriprotsesside ja töövoogude arendus ja muutuste eestvedamine; organisatsiooniliste muutuste juhtimise oskusi IT-firmadel pole.
 
 *kindlasti on tugevaid, välisturule või erasektorile töötavaid ettevõtteid, kelle suhtes väide ei kehti 
