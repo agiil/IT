@@ -22,6 +22,11 @@
     <div id='Container'>
       {% if page.sidebar %}
         {% include Riba.html %}
+      {% else %}
+        <p style='margin-bottom: 2em;'>
+          <a href='{{ site.baseurl }}'>
+            Infotehnoloogia ettevõtjale</a>
+        </p>  
       {% endif %}
 
       <div id='Tekst'>
