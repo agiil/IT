@@ -62,7 +62,7 @@ __Odav tarkvara? (koodistatistika)__
 - Alice Cooper (1973) [No More Mr Nice Guy](https://youtu.be/KN6ngThqMEs)
 - Glover, R (2003) [No More Mr Nice Guy](https://www.amazon.com/No-More-Mr-Nice-Guy/dp/0762415339). A Proven Plan For Getting What You Want in Love, Sex, And Life.
 
-__Kosemudeliga või agiilselt?
+__Kosemudeliga või agiilselt?__
 
 Sama funktsionaalsus, pärast kosemudeli ebaõnnestumist:
 
@@ -76,9 +76,9 @@ Sama funktsionaalsus, pärast kosemudeli ebaõnnestumist:
 
 *MVP, _Minimal Viable Product_, minimaalne toimiv lahendus
 
-Arvutus näitavad, et *agiilarendus võib sama funktsionaalsuse anda 10-15 korda odavamalt ja 10-20 korda kiiremalt*{: .u}
+Arvutus näitavad, et *agiilarendus võib sama funktsionaalsuse anda 10-15 korda odavamalt ja 10-20 korda kiiremalt.*{: .u}
 
-Asi ei tarvitse olla 10X kiiremates programmeerijates - tõenäoliselt ei olegi -  vaid selles, et *agiilne projekt sunnib Tellijat teisiti tegutsema*{: .u}
+Asi ei tarvitse olla 10X kiiremates programmeerijates - tõenäoliselt ei olegi -  vaid selles, et *agiilne projekt sunnib Tellijat teisiti tegutsema.*{: .u}
 
 <p class='tags'>Also</p>
 [10X software engineer](https://www.quora.com/topic/10X-Engineers)
@@ -193,6 +193,7 @@ __Mis töötab? (dokumentatsioon)__
 *Kvaliteetdokumentatsioon ei teki muu arendustöö kõrvalt, vaja eraldi inimest*{: .u}
 
 Inimene teeb kvaliteetset dokumentatsiooni, kui
+
   - *tal on selleks talenti*{: .u}
   - *talle antakse selleks aega.*{: .u}
 
