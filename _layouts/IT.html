@@ -18,11 +18,11 @@
 
   </head>
   <body onload='init()'>
+    {% if page.permalink == '/' %}
+      {% include Statistika.html %}
+    {% endif %}
     <!-- Flexbox -->
     <div id='Container'>
-      {% if page.permalink == '/' %}
-        {% include Statistika.html %}
-      {% endif %}
       {% if page.sidebar %}
         {% include Riba.html %}
       {% else %}
