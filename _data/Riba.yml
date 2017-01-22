@@ -1,8 +1,6 @@
 - title: "0 Sissejuhatus"
   categories:
-    - title: "0.1 Ainekaart"  
-      url: "/Ainekaart"
-    - title: "0.2 Ettevõtte kasv ja IT"
+    - title: "0.1 Ettevõtte kasv ja IT"
       url: "/Kasv"  
 
 - title: "1 Informatsioon ja tehnoloogia"

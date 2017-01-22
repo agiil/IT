@@ -9,7 +9,7 @@ $pruun700: #5D4037;
 $sinine700: #1976D2;  
 /*  https://material.io/guidelines/style/color.html#color-color-palette */
 
-/* Keha */
+/* ---- Keha -------- */
 body {
   max-width: 50em; margin: 0 0; 
   padding: 1.6em 1.5em 2em 1em; 
@@ -26,7 +26,7 @@ body {
   max-width: 53rem; /* Teksti loetavuse huvides */
 }
 
-/* Külgriba */
+/* ---- Külgriba ------- */
 #Riba {
   flex-grow: 0; width: 18rem;
   padding: 0 1rem 2rem 1rem;
@@ -67,11 +67,13 @@ table, th, td { border: 1px solid black; }
 
 /* Tekst */
 .disabled { color:#000000; opacity:0.38; }
+
 /* Allkriipsutus */
 .u { text-decoration: underline; }
 
 /* Bibliograafiaüksus */
 .ref { font-size: 12pt; }
+
 /* Annotatsioon - bibliograafiaüksuse lühike kokkuvõte, iseloomustus
    või hinnang */
 .a { margin-left: 2em; margin-top: 0;
