@@ -132,7 +132,7 @@ Rida probleeme:
 
 *kindlasti on tugevaid, välisturule või erasektorile töötavaid ettevõtteid, kelle suhtes väide ei kehti 
 
-__Kus tekib keerukus?__
+__Kust tekib keerukus?__
 
 Keerukus tekib juba haridussüsteemis
   - mentaliteet "Rohkem on parem"
