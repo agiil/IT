@@ -52,7 +52,7 @@ __Odav tarkvara? (koodistatistika)__
 | €/LOC          | *€0.33*{: .c}          | *€30*{: .c} | *€3*{: .c}|
 | Kasutuslugusid | ca 8                   | n/a         | 8 + 2     |
 | Dokumentatsioon| jah                    | jah         | ei        |
-| Dok kvaliteet  | kehv                   | suurepärane |           |
+| Dok-ni kvaliteet  | kehv                   | suurepärane |           |
 | Kasutatav      | ei                     | jah         | jah       |
 | Üldkvaliteet   | kehv                   | suurepärane | väga hea  |
 
@@ -119,7 +119,7 @@ __Codemonkeyism__
 | Tegevuskava koostamine     |  C        |   C       |
 | Muutuste eestvedaja        |  C        |   C       |
 
-C- nõrk, vajalik Tellija tugev järelevalve ja osade asjade ise ette- või ärategemine; B - hea; A - väga hea.
+C- nõrk, vajalik Tellija tugev järelevalve ja osade asjade ise ette- või ärategemine; B - hea; A - väga hea, üle ootuste.
 
 Rida probleeme:
 
