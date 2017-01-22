@@ -5,7 +5,13 @@ permalink: /
 
 <p style='margin-bottom: 4em;'>&nbsp;</p>
 
-Ajakohane ülevaade IT rakendamisest organisatsioonis, fookusega töövoogude ja äriprotsesside IT-ga toetamisel, tarkvara ja IT-teenuste targal sisseostmisel ja IT-põhisel strateegial.
+Ajakohane ülevaade IT rakendamisest organisatsioonis,
+
+fookusega töövoogude ja äriprotsesside IT-ga toetamisel,
+
+tarkvara ja IT-teenuste targal sisseostmisel ja IT-põhisel
+
+strateegial.
 
 > In our industry, if you can imagine something, you can build it. — Ray Ozzie, Chief Software Architect, Microsoft 2005-2010
 
