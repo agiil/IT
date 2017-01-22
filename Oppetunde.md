@@ -20,15 +20,17 @@ Sisukord
 
 __Mida siis raha eest saime? (koodistatistika)__
 
-Praktika näitab, et tehnilisi küsimusi ei õnnestu hoida lahus ärilistest. IT-ga on võimalik teha kõike, aga kui hakkame tegema, siis selgub, et kõik maksab. Seetõttu on oluline analüüsida, mida arendusraha kulutamine annab. Ei saa öelda, et arendusökonoomikale ei ole tähelepanu pööratud. Kuid see keeruline külg vajaks veelgi enamat. 
+Praktika näitab, et tehnilisi küsimusi ei õnnestu hoida lahus ärilistest.
+
+IT-ga on võimalik teha kõike, aga kui hakkame tegema, siis selgub, et kõik maksab. Seetõttu on oluline analüüsida, mida arendusraha kulutamine annab.  
 
 |    | [DHX Etalonteostus](https://github.com/e-gov/DHX-etalon) | [DVK täiendamine](https://github.com/e-gov/DVK) | [DHX Adapter](https://github.com/e-gov/DHX-adapter) |
 |----------------|:-----------:|:----------:|:------------:|
 | Olulisus       | MUST HAVE   | MUST HAVE  | NICE TO HAVE |
-|                | (essential) | (almost)   |              |
-| Kasutuslugusid | 6           | N/A        | 6            |
+|                |             | (peaaegu)  |              |
+| Kasutuslugusid | 6           | n/a        | 6            |
 | Testilugusid   | 9           | 33         | 34           |
-| Dok-n, ridu    | 1130        | N/A        | 5200         |
+| Dok-n, ridu    | 1130        | n/a        | 6250         |
 | Koodiridu (LOC)| 2000        | 21 400     | 45 000       |
 | Faile          | 125         |            | 3374         |
 | Kaustu         | 58          |            | 273          |
@@ -41,7 +43,7 @@ __Odav tarkvara? (koodistatistika)__
 
 |                | Projekt A (üks moodul) | Projekt B   | Projekt C |
 |----------------|:----------------------:|:-----------:|:---------:|
-| Meetod         | Waterfall              | Waterfall   | Agiilne   |
+| Meetod         | Kosemudel              | Kosemudel   | Agiilne   |
 | Eesmärk        | täislahendus           | täislahendus| MVP*      |
 | Koodiridu (LOC)| ca 30 000              | 5000        | 4000      |
 | Maksumus       | *€11,500*{: .c}        | *€150,000*{: .c} | *€10,000*{: .c} |
@@ -80,11 +82,11 @@ sama funktsionaalsus, pärast kosemudeli ebaõnnestumist
 
 __Vali jõukohane raskus__
 
-<div style='display: flex; width: 300px; height: 350px; align-items: flex-end; margin: 2em 4em;'>
-  <div style='flex: 1; height: 50px; background-color: #C5E1A5;'>Basic</div>
-  <div style='flex: 1; height: 150px; background-color: #FFF59D;'>Nice to Have</div>
-  <div style='flex: 1; height: 250px; background-color: #FFCC80;'>Äge</div>
-  <div style='flex: 1; height: 350px; background-color: #FFAB91;'>Ülikõva</div>
+<div style='display: flex; width: 300px; height: 355px; align-items: flex-end; margin: 2em 4em;'>
+  <div style='flex: 1; height: 50px; text-align: center: border: 1px solid #C5E1;'>Basic</div>
+  <div style='flex: 1; height: 150px; text-align: center: border: 1px solid #C5E1;'>Nice to Have</div>
+  <div style='flex: 1; height: 250px; text-align: center: border: 1px solid #C5E1;'>Äge</div>
+  <div style='flex: 1; height: 350px; text-align: center: border: 1px solid #C5E1;'>Ülikõva</div>
 </div>
 
 - Ambitsioonitase on äärmiselt oluline
@@ -130,20 +132,9 @@ __Kus tekib keerukus?__
   - mentaliteet "Rohkem on parem"
   - Eesti kultuuris puudub lihtsuseguru
   - Eesti IT-s puudub oma Standish Group
-
-<p><span id='L1' class="lyliti">näide
- <i class='material-icons'>add_circle</i></span></p>
-
-<div id='lylitatavL1' style='display: none;'>
-  - 11-kohaline tudengi identifikaator<br>
-  - <i>heavyweight</i> hindamissüsteemid
-  <img src='img/Koodid.PNG'>
-</div>
-
-- tulemuseks on inimesed 'not capable of simple'
-
+- Tulemuseks on inimesed 'not capable of simple'
 - Ilmingud: mahu pärast genereeritud projektiplaanid, arendusdokumendid
-- Näide: Äriprotsessi kirjeldus 80 lk. See ei ole kasutatav
+- Äriprotsessi kirjeldus 80 lk. See ei ole kasutatav
 
 _If I Had More Time, I Would Have Written a Shorter Letter -- Blaise Pascal (1657)_
 
@@ -156,7 +147,7 @@ _If I Had More Time, I Would Have Written a Shorter Letter -- Blaise Pascal (165
 
 __Minimeeri vaheprodukti__
 
-USA Föderaalvalitsus ostab IT-de 80 mlrd $ aastas; kasutust leiab ainult 1/3 tarkvarast.
+USA Föderaalvalitsus ostab IT-d 80 mlrd $ aastas; kasutust leiab ainult 1/3 tarkvarast.
 
 > End users fail entirely to use nearly 45% of features procured and rarely use another 19% percent of those features. -- Balter, B (2011) Toward a More Agile Government: The Case for Rebooting Federal IT Procurement. _Public Contract Law Journal_.
 
@@ -188,5 +179,5 @@ __Mis töötab? (dokumentatsioon)__
 
 __Mis töötab (hankimine)__
 
-
+Nordeconi projektijuht: "Allhankijate probleeme? Ei ole. Kui tahad järgmine kord ka tööd saada, siis teed korralikult"
 

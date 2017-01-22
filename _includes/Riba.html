@@ -21,7 +21,7 @@
               <!-- Alammenüü -->
               <ul id="lylitatav{{ id_count.size }}" class='alammenyy'>
               {% for category in nav.categories %}
-                {% if category.url %}
+                {% if category.pub %}
                   <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></li>
                 {% else %}
                   <li class='disabled'>{{ category.title }}</li>

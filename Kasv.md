@@ -1,6 +1,7 @@
 ---
 title: 0.1 Ettevõtte kasv ja IT
 permalink: Kasv
+sidebar: false
 ---
 
 # 0.1 Ettevõtte kasv ja IT
