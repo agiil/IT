@@ -143,7 +143,7 @@ Tulemuseks on inimesed 'not capable of simple'.
 
 Ilmingud:
   - mahu pärast genereeritud projektiplaanid, arendusdokumendid
-  - äriprotsessi kirjeldus 80 lk. See ei ole kasutatav
+  - äriprotsessi kirjeldus 80 lk. See ei ole kasutatav.
 
 _If I Had More Time, I Would Have Written a Shorter Letter -- Blaise Pascal (1657)_
 
