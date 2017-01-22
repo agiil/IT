@@ -44,7 +44,7 @@ __Veebisait__ täidab ühtaegu loengukonspekti, loenguslaidide kui (loodetavalt)
 
 Infotehnoloogiliselt võib saiti liigitada "teadmuse organiseerimise süsteemiks" (_knowledge organisation system_), vt [Äritaksonoomia](/IT/Takson).
 
-__Elava dokumendina__ materjal täieneb. Kursuse  [Kanban-lauaga](https://github.com/agiil/IT/projects/1) (_Kanban board_) võib tutvuda GitHub-is.
+__[Elava dokumendina](https://agiil.github.io/sonastik/#elav)__ materjal täieneb. Kursuse  [Kanban-lauaga](https://github.com/agiil/IT/projects/1) (_Kanban board_) võib tutvuda GitHub-is.
 
 Õppejõule toimib veebisaid ka __platvormina__ kirjutamiseks ja tegutsemiseks praktikas.  
 

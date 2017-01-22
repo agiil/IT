@@ -36,7 +36,9 @@ Autorid näitavad ulatusliku empiirilise andmestiku alusel, et tegevjuht (CEO) v
 
 [Rinzler2009] Rinzler, B. (2009). Telling Stories : A Short Path to Writing Better Software Requirements. Wiley.
 
-[Spolsky2000] Joel Spolsky (2000) [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/)
+[Rockart1979] Rockart, J (1979). Chief exec­utives define their own data needs. _Har­vard Business Review_.
+
+[Spolsky2000] Joel Spolsky (2000) [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/).
 
 4-osaline blogikirjutise sari tuntud arendusgurult ja ettevõtjalt spetsifitseerimisest (IT arenduses üliolulisest, paljudiskuteeritavast küsimusest)
 {: .a}

@@ -94,15 +94,15 @@ __Võtteid infohalduse parendamiseks
 
 Ülalesitatud põhimõtted võivad tunduda liiga üldised, et neist praktilist kasu oleks. Siiski, kui mõtleme, mis on organisatsiooni infohalduses tegelikud kitsaskohad ja kuidas neid lahendada, siis leiab põhimõtetest küll tuge.
 
-<p class='ise'><i class="material-icons ikoon">help_circle</i><b>Dokumentide arvu vähendamine</b>. Mõelge mõnele oma projektile või korduvale toimingule. Loendage dokumendid, mis selles tekivad. Kas dokumentide arvu saaks vähendada (võib-olla lähedase funktsiooniga dokumente ühitades või mõnda isegi ära jättes), ilma, et töö kvaliteet kannataks?</p>
+<p class='action'><i class="material-icons ikoon">help_circle</i><b>Dokumentide arvu vähendamine</b>. Mõelge mõnele oma projektile või korduvale toimingule. Loendage dokumendid, mis selles tekivad. Kas dokumentide arvu saaks vähendada (võib-olla lähedase funktsiooniga dokumente ühitades või mõnda isegi ära jättes), ilma, et töö kvaliteet kannataks?</p>
 
-<p class='ise'><i class="material-icons ikoon">help_circle</i><b>Teabe prioritiseerimine</b>. Loetlege kümmekond dokumendi- või teabetüüpi, millega tööl kokku puutute. Prioritiseerige need dokumenditüübid. Leidke 2-3 kõige tähtsamat, olgu need kategooria A; määrake kategooria B (olulised) ja C (väheolulised) dokumendi.</p>
+<p class='action'><i class="material-icons ikoon">help_circle</i><b>Teabe prioritiseerimine</b>. Loetlege kümmekond dokumendi- või teabetüüpi, millega tööl kokku puutute. Prioritiseerige need dokumenditüübid. Leidke 2-3 kõige tähtsamat, olgu need kategooria A; määrake kategooria B (olulised) ja C (väheolulised) dokumendi.</p>
 
-<p class='ise'><i class="material-icons ikoon">help_circle</i><b>E-posti asendamine efektiivsema kanaliga</b>. Mõned IT idufirmad on loobunud e-posti kasutamiseks organisatsiooni sisesuhtluses, väites, et e-post on ebaefektiivne. Selle asemel kasutatakse <a href='https://slack.com/'>Slack-i</a> vm vahendeid. Kas teie organisatsioonis kasutatakse palju e-posti? Kas osa e-postiga vahetatavast teabest võiks käia mõne teise kanali kaudu?</p>
+<p class='action'><i class="material-icons ikoon">help_circle</i><b>E-posti asendamine efektiivsema kanaliga</b>. Mõned IT idufirmad on loobunud e-posti kasutamiseks organisatsiooni sisesuhtluses, väites, et e-post on ebaefektiivne. Selle asemel kasutatakse <a href='https://slack.com/'>Slack-i</a> vm vahendeid. Kas teie organisatsioonis kasutatakse palju e-posti? Kas osa e-postiga vahetatavast teabest võiks käia mõne teise kanali kaudu?</p>
 
-<p class='ise'><i class="material-icons ikoon">help_circle</i><b>Failinimede süsteem</b>. Kas teie organisatsioonis hoitakse teavet failidena? Koostage põhimõtete süsteem failinimede valikuks.</p>
+<p class='action'><i class="material-icons ikoon">help_circle</i><b>Failinimede süsteem</b>. Kas teie organisatsioonis hoitakse teavet failidena? Koostage põhimõtete süsteem failinimede valikuks.</p>
 
-<p class='ise'><i class="material-icons ikoon">help_circle</i><b>Kaustade süsteem</b>. Teie organisatsioon tegeleb projektidega? Koostage kaustade tüüpskeem projektidokumentatsiooni hoidmiseks.</p>
+<p class='action'><i class="material-icons ikoon">help_circle</i><b>Kaustade süsteem</b>. Teie organisatsioon tegeleb projektidega? Koostage kaustade tüüpskeem projektidokumentatsiooni hoidmiseks.</p>
 
 __Mis takistab?__
 

@@ -152,8 +152,10 @@ dd { margin-left: 4em; }
   letter-spacing: 2px;
 }
 
-/* Iseseisvalt */
-.ise { color: $pruun700; }
+/* Tegevus */
+.action { border: 1px solid Aquamarine; border-radius: 8px; 
+  background-color: Azure; padding: 10px; 
+}
 
 /* Cash */
 .c { color: $erepunane; }

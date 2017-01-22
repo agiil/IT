@@ -2,7 +2,8 @@
   categories:
     - title: "0.1 Ettevõtte kasv ja IT"
       url: "/Kasv"  
-
+    - title: "Kliendiuuringu IT"
+      url: "/Klient"
 - title: "1 Informatsioon ja tehnoloogia"
   categories:
     - title: "1.1 Informatsiooni väärtus ja kvaliteet"
@@ -43,15 +44,15 @@
 - title: "4 IT-teenuste sisseostmine"
   categories:
     - title: "4.1 IT-arenduse õppetunde"
-      url: "Oppetunde"
+      url: "/Oppetunde"
     - title: "4.2 IT-teenuste, sh arendustööde sisseostmine"
       url: "/Sisseostmine"
     - title: "4.3 IT protsessid ja teenused"
       url: "/IT-teenused"
     - title: "4.4 IT-inimesed"
       url: "/Inimesed"  
-    - title: "4.5 Ärivajadused. Nõuete väljaselgitamine"
-      url:
+    - title: "4.5 Ärinõuded ja infovajadused"
+      url: "/Nouded"
     - title: "4.6 IT-investeeringute portfell"
       url: "/Invest"
     - title: "4.7 Arendustöö korraldamine. Agiilne arendus"
