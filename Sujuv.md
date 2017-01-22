@@ -4,9 +4,9 @@ title: 2.2 Sujuv töövoog (Streamlined Workflow)
 permalink: Sujuv
 ---
 
-[Sublime Text 3 Snippets](https://webdevstudios.com/2016/08/16/snippets-saved-life-how-sublime-text-3-snippets-changed-everything/)
-
 # 2.2 Sujuv töövoog (Streamlined Workflow)
+
+<p class='action'><i class="material-icons ikoon">help_circle</i>Kas võite oma organisatsioonist tuua näite tööst, mis sujus väga hästi?</p>
 
 Töövoosüsteemid (_Workflow Engine_)
 
@@ -37,4 +37,5 @@ Sujuvust (ingl _smooth_) võib defineerida kui mittevajaliku vältimist tööpro
 
 Engineering culture: Spotify [http://vimeo.com/85490944]() [http://vimeo.com/94950270]()
 
- 
+[Sublime Text 3 Snippets](https://webdevstudios.com/2016/08/16/snippets-saved-life-how-sublime-text-3-snippets-changed-everything/)
+
