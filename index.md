@@ -5,13 +5,17 @@ permalink: /
 
 <p style='margin-bottom: 4em;'>&nbsp;</p>
 
-Ajakohane ülevaade IT rakendamisest organisatsioonis,
+"Infotehnoloogia ettevõtjale" on
 
-fookusega töövoogude ja äriprotsesside IT-ga toetamisel,
+ajakohane ülevaade IT rakendamisest organisatsioonis,
 
-tarkvara ja IT-teenuste targal sisseostmisel ja IT-põhisel
+fookusega *infohalduse parendamisel*{: .u},
 
-strateegial.
+*töövoo ja äriprotsessi IT-ga toetamisel*{: .u},
+
+*tarkvara ja IT-teenuste targal sisseostmisel*{: .u}
+
+ja *IT-põhisel strateegial*{: .u}.
 
 > In our industry, if you can imagine something, you can build it. — Ray Ozzie, Chief Software Architect, Microsoft 2005-2010
 
