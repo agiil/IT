@@ -7,7 +7,7 @@ __Veebisait__ täidab ühtaegu loengukonspekti, loenguslaidide kui (loodetavalt)
 
 Infotehnoloogiliselt võib saiti liigitada "teadmuse organiseerimise süsteemiks" (_knowledge organisation system_), vt [Äritaksonoomia](/IT/Takson).
 
-__Elava dokumendina__ täieneb materjal aeg-ajalt.
+__Elava dokumendina__ materjal täieneb. Kursuse  [Kanban-lauaga](https://github.com/agiil/IT/projects/1) (_Kanban board_) võib tutvuda GitHub-is.
 
 Õppejõule toimib veebisaid ka __platvormina__ kirjutamiseks ja tegutsemiseks praktikas.  
 
@@ -28,8 +28,7 @@ __Juhtmõte__
 __Tähistused__
 
 <p class='tags'>TL;DR</p>
-- TL;DR - üherealine kokkuvõte pikema teksti ees või selle asemel (lühend ingl _too long; didn’t read_).
-- Hashtag (#) tähistab trendi.
+TL;DR - üherealine kokkuvõte pikema teksti ees või selle asemel (lühend ingl _too long; didn’t read_).
 
-@ - pöördumine inimese poole
-
+<p class='tags'>Also</p>
+Viide sama teemat, võimalik, et teisest vaatepunktist käsitlevale allikale

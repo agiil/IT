@@ -35,6 +35,8 @@ __oskus__, __võtmeoskus__, _key skill_
 
 __probleem__, __väljakutse__, _challenge_
 
+__tabel__
+
 __tarkvara__, tarkvarasoovitus, silt `Tarkvara`
 
 __tüüpiline probleem__

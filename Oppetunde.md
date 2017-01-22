@@ -1,10 +1,10 @@
 ---
 sidebar: false
-title: Koodistatistika
-permalink: 
+title: IT-arenduse õppetunde
+permalink: Oppetunde
 ---
 
-# Õppetunnid
+# IT-arenduse õppetunde
 
 Sisukord
 
@@ -19,6 +19,8 @@ Sisukord
 - Mis töötab (hankimine)
 
 __Mida siis raha eest saime? (koodistatistika)__
+
+Praktika näitab, et tehnilisi küsimusi ei õnnestu hoida lahus ärilistest. IT-ga on võimalik teha kõike, aga kui hakkame tegema, siis selgub, et kõik maksab. Seetõttu on oluline analüüsida, mida arendusraha kulutamine annab. Ei saa öelda, et arendusökonoomikale ei ole tähelepanu pööratud. Kuid see keeruline külg vajaks veelgi enamat. 
 
 |    | [DHX Etalonteostus](https://github.com/e-gov/DHX-etalon) | [DVK täiendamine](https://github.com/e-gov/DVK) | [DHX Adapter](https://github.com/e-gov/DHX-adapter) |
 |----------------|:-----------:|:----------:|:------------:|
