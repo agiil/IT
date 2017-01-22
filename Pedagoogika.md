@@ -22,8 +22,6 @@ __järeldus__, __oluline järeldus__, _key takeaway_
 
 __kirjandusviide__
 
-__küsimus__
-
 __praktikas kuuldu__, _heard_
 
 __loetelu__, liigendus, taksonoomia
@@ -39,6 +37,10 @@ __probleem__, __väljakutse__, _challenge_
 __tabel__
 
 __tarkvara__, tarkvarasoovitus, silt `Tarkvara`
+
+__tarkvara ülevaade__ silt `Tarkvara ülevaade`
+
+__tegevus__, _action_
 
 __tüüpiline probleem__
 

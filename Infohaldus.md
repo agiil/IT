@@ -58,7 +58,7 @@ Mis on nende nähtuste põhjuseks? Üheks põhjuseks on kindlasti ka see, et inf
 
 See nähtused on viinud selleni, et viimasel ajal on hakatud rõhutama tervikliku infohalduse (_Information Management_, ka _Information Governance_) vajalikkust.
 
-<p><i class="material-icons ikoon">help_circle</i>Ettevõte tegutseb konsultatiivse, projektimüügiga. Juhataja tahab, et kogu suhtlus klientidega saaks fikseeritud. Kuidas seda saavutada?</p>
+<p class='action'><i class="material-icons ikoon">help_circle</i>Ettevõte tegutseb konsultatiivse, projektimüügiga. Juhataja tahab, et kogu suhtlus klientidega saaks fikseeritud. Kuidas seda saavutada?</p>
 
 Lahenduseks võib olla kliendihaldussüsteemi (CRM-süsteemi, _Customer Relationship Managemen_) hankimine. Mõneski firmas võib see olla parim lahendus. Samas on palju organisatsioone, kus ühe süsteemi hankimisega nii suurt probleemi ära ei lahenda. Seda mitmel põhjusel. Teavet võib olla nii palju ja suhtlust läbi nii paljude kanalite, et kogu informatsiooni hõlmamine ühtsesse süsteemi ei ole praktiliselt võimalik. Ja isegi kui see saavutatakse, peab teave olema ülesleitav.Teine moment on olulise eristamine ebaolulisest. Juhataja ei väljenda end päris täpselt. Teda ei huvita kõikvõimalik teave, vaid ikkagi ainult oluline teave. Olulisus tähendab aga erinevatele inimestele erinevatel aegadel erinevaid asju. Info nappusest võib niiviisi jõuda väheolulise teabe ülekülluseni.
 
