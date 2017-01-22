@@ -135,6 +135,7 @@ Rida probleeme:
 __Kust tekib keerukus?__
 
 Keerukus tekib juba haridussüsteemis
+
   - mentaliteet "Rohkem on parem"
   - Eesti kultuuris puudub lihtsuseguru
   - Eesti IT-s puudub oma Standish Group.
@@ -142,6 +143,7 @@ Keerukus tekib juba haridussüsteemis
 Tulemuseks on inimesed 'not capable of simple'.
 
 Ilmingud:
+
   - mahu pärast genereeritud projektiplaanid, arendusdokumendid
   - äriprotsessi kirjeldus 80 lk. See ei ole kasutatav.
 
@@ -152,7 +154,8 @@ Lihtsus ei teki iseenesest.
 Lihtsuse saavutamine nõuab jõupingutust.
 
 Lihtsus võib nõuda rohkem oskust kui keerukus.
-  - _One-liner_-i kirjutamine pole lihtne
+
+  - _One-liner_-i kirjutamine pole lihtne.
 
 Lihtsuse hoidmine nõuab jõupingutust.
 
@@ -167,12 +170,14 @@ Kasutust leiab ainult 1/3 ostetud tarkvarast.
 > End users fail entirely to use nearly 45% of features procured and rarely use another 19% percent of those features. -- Balter, B (2011) Toward a More Agile Government: The Case for Rebooting Federal IT Procurement. _Public Contract Law Journal_.
 
 Vaheprodukt (_WIP, Work-In-Progress_):
+
   - strateegia, tegevuskava, raamistik, juhend
   - arhitektuurne mudel, äriprotsessi kirjeldus jne 
   - üleminekukava
   - igasugune projekti- ja arendusdokumentatsioon.
 
 - Lõpp-produkt (_End Product_):
+
   - töötav tarkvara, mida ka tegelikult kasutatakse.
 
 Minimeeri töösolevat produkti (_minimise WIP_).
