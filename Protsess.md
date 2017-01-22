@@ -1,5 +1,5 @@
 ---
-title: Protsess
+title: 3.1 IT-põhine äriprotsessi (-teenuse) disain
 permalink: Protsess
 ---
 

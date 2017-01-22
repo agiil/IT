@@ -1,6 +1,6 @@
 ---
 sidebar: false
-title: 2 Sujuv töövoog (Streamlined Workflow)
+title: 2.2 Sujuv töövoog (Streamlined Workflow)
 permalink: Sujuv
 ---
 

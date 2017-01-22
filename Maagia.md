@@ -1,6 +1,6 @@
 ---
 sidebar: false
-title: IT maagia
+title: 1.2 IT maagia
 permalink: Maagia
 ---
 

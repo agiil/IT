@@ -1,9 +1,9 @@
 ---
-title: Ettevõtte kasv ja IT
+title: 0.1 Ettevõtte kasv ja IT
 permalink: Kasv
 ---
 
-# 0.2 Ettevõtte kasv ja IT
+# 0.1 Ettevõtte kasv ja IT
 {: .no_toc}
 
 - TOC

@@ -1,6 +1,6 @@
 ---
-title: Tehnoloogiatrendide jälgimine
-permalink: Lubadus
+title: 1.4 Tehnoloogiatrendide jälgimine
+permalink: Trendid
 ---
 
 # 1.4 Tehnoloogiatrendide jälgimine

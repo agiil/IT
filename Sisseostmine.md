@@ -1,5 +1,5 @@
 ---
-title: Sisseostmine
+title: 4.2 Sisseostmine
 permalink: Sisseostmine
 ---
 

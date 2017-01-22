@@ -1,6 +1,6 @@
 ---
 sidebar: false
-title: IT-arenduse õppetunde
+title: 4.1 IT-arenduse õppetunde
 permalink: Oppetunde
 ---
 

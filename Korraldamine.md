@@ -1,6 +1,6 @@
 ---
 sidebar: false
-title: IT korraldamine, juhtimine, valitsemine
+title: 1.7 IT korraldamine, juhtimine, valitsemine
 permalink: Korraldamine
 ---
 

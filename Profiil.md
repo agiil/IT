@@ -1,5 +1,5 @@
 ---
-title: Ettevõtte IT-profiil
+title: 1.3 Ettevõtte IT-profiil
 url: Profiil
 ---
 

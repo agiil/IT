@@ -1,5 +1,5 @@
 ---
-title: Lihtne ja keeruline IT
+title: 1.8 Lihtne ja keeruline IT
 permalink: Lihtne
 ---
 

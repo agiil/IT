@@ -1,9 +1,9 @@
 ---
-title: Kliendiuuringu IT
+title: 0.2 Kliendiuuringu IT
 permalink: Klient
 ---
 
-# Kliendiuuringu IT
+# 0.2 Kliendiuuringu IT
 
 <p class='tags'>Tarkvara ülevaade</p>
 [Best Survey Software | 2017 Reviews of the Most Popular Systems](http://www.capterra.com/survey-software/).

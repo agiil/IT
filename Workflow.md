@@ -1,7 +1,7 @@
 ---
-title: Sujuv töövoog (Streamlined Workflow)
+title: 2.2 Sujuv töövoog (Streamlined Workflow)
 permalink: Workflow
 ---
 
-# Sujuv töövoog (Streamlined Workflow)
+# 2.2 Sujuv töövoog (Streamlined Workflow)
 
