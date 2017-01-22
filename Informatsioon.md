@@ -3,7 +3,7 @@ title: Informatsiooni väärtus ja kvaliteet
 permalink: Informatsioon
 ---
 
-__Informatsioon__
+# 1.1 Informatsioon
 
 - väärtusloome infoühiskonnas
   - püsiväärtus kiiresti muutuvas keskkonnas

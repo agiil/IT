@@ -1,9 +1,9 @@
 ---
-title: Innovatsioon
+title: 5.2 Innovatsioon
 permalink: Innovatsioon
 ---
 
-# Innovatsioon
+# 5.2 Innovatsioon
 
 "BlackRock's Robot Stock-Pickers Post Record Losses", teatab Bloomberg News. Eks robotil ole ka vahel halb päev. Canadas aga roboteid hakatud kasutama ka riigiasutustes. Vilgutavad tulesid ja sõidavad ringi. See ei ole libauudis, vaid OECD Observatory of Public Sector Innovation nupuke ([Telepresence Robots in Government](https://www.oecd.org/governance/observatory-public-sector-innovation/innovations/page/telepresencerobotsingovernment.htm)). Vantaa linn Soomes tahab roboteid rakendada finantsjuhtimises. Robotite kasutamine avalikus halduses? 
 

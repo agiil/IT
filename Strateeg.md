@@ -1,9 +1,9 @@
 ---
-title: IT-põhise äristrateegia kujundamine
+title: 5.1 IT-põhise äristrateegia kujundamine
 permalink: Strateeg
 ---
 
-# IT-põhise äristrateegia kujundamine
+# 5.1 IT-põhise äristrateegia kujundamine
 
 <p class='tags'>Mõiste</p>
 __software-driven__, äri, mille tuumaks on IT.

@@ -3,7 +3,7 @@ title: Sisseostmine
 permalink: Sisseostmine
 ---
 
-# IT-teenuste sisseostmine
+# 4.2 IT-teenuste sisseostmine
 
 [Tagline](https://tagline.ru/) - digituru reitingud ja ülevaated
 

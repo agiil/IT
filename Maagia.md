@@ -4,7 +4,7 @@ title: IT maagia
 permalink: Maagia
 ---
 
-# IT maagia
+# 1.2 IT maagia
 
 __Teeninduse maagia__
 

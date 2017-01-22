@@ -7,7 +7,7 @@ permalink: Korraldamine
 <p class='tags'>TL;DR</p>
 „IT valitsemine“ osutub lähemal vaatlusel problemaatiliseks terminiks; seda tunnistavad ka termini propageerijad ise. Tegu võib olla ühe huvirühma loodud abstraktsiooniga, mille järele tegelikult pole erilist vajadust; samas võiks rohkem rääkida „IT korraldamisest“. 
 
-# IT valitsemine, juhtimine, korraldamine
+# 1.7 IT valitsemine, juhtimine, korraldamine
 
 __IT valitsemise__ mõiste (_IT governance_) vajab kahtlemata selgitamist.
 

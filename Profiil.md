@@ -3,7 +3,7 @@ title: Ettevõtte IT-profiil
 url: Profiil
 ---
 
-# Ettevõtte IT-profiil
+# 1.3 Ettevõtte IT-profiil
 
 1 töötaja
 

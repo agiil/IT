@@ -3,7 +3,7 @@ title: Lihtne ja keeruline IT
 permalink: Lihtne
 ---
 
-# Lihtne ja keeruline IT
+# 1.8 Lihtne ja keeruline IT
 
 __Lihtsaim IT__
 

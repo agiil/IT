@@ -3,7 +3,7 @@ title: Protsess
 permalink: Protsess
 ---
 
-# IT-põhine äriprotsessi (-teenuse) disain
+# 3.1 IT-põhine äriprotsessi (-teenuse) disain
 
 - oskab kirjeldada, modelleerida suvalist äri-, töö-, teenindus- või tarbimisprotsessi (AS IS)
 - oskab leida protsessi parendusvõimalusi

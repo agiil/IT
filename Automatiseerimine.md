@@ -3,7 +3,7 @@ title: Automatiseerimine
 permalink: Automatiseerimine
 ---
 
-# Automatiseerimine
+# 3.3 Automatiseerimine
 
 ```
 if (oskame_struktureerida_masinale) {

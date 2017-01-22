@@ -1,10 +1,10 @@
 ---
 sidebar: false
-title: 3 Äritaksonoomia
+title: 2.3 Äritaksonoomia
 permalink: Takson
 ---
 
-# 3 Äritaksonoomia
+# 2.3 Äritaksonoomia
 
 <p class='tags'>Oluline mõiste</p>
 __Äritaksonoomia__ on ettevõttele või organisatsioonile huvi pakkuvate asjade hierarhiline liigitus.

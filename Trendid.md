@@ -3,7 +3,7 @@ title: Tehnoloogiatrendide jälgimine
 permalink: Lubadus
 ---
 
-# Tehnoloogiatrendide jälgimine
+# 1.4 Tehnoloogiatrendide jälgimine
 
 __Tehnoloogiatrend__ on uue, paljulubava tehnoloogia tulemine, populaarsuse võitmine.
 

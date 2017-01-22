@@ -3,7 +3,7 @@ title: Tehnoloogiate (tarkvarade) hindamine ja valik
 permalink: Tehno
 ---
 
-# Tehnoloogiate (tarkvarade) hindamine ja valik
+# 1.5 Tehnoloogiate (tarkvarade) hindamine ja valik
 
 - teab IT-trende käsitlevaid kvaliteetseid infoallikaid
 - omab ettekujutust uue IT rakendamise hetkeseisust ühes valitud ärivaldkonnas.

@@ -6,7 +6,7 @@ permalink: Sujuv
 
 [Sublime Text 3 Snippets](https://webdevstudios.com/2016/08/16/snippets-saved-life-how-sublime-text-3-snippets-changed-everything/)
 
-# 2 Sujuv töövoog (Streamlined Workflow)
+# 2.2 Sujuv töövoog (Streamlined Workflow)
 
 Töövoosüsteemid (_Workflow Engine_)
 

@@ -4,7 +4,7 @@ title: IT-arenduse õppetunde
 permalink: Oppetunde
 ---
 
-# IT-arenduse õppetunde
+# 4.1 IT-arenduse õppetunde
 
 Sisukord
 

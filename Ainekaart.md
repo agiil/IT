@@ -1,7 +1,37 @@
 ---
-title: Veebisaidi kasutamine
-permalink: Veebisaidist
+sidebar: false
+title: 0.1 Ainekaart
+permalink: Ainekaart
 ---
+
+# Ainekaart
+
+> In our industry, if you can imagine something, you can build it. — Ray Ozzie, Chief Software Architect, Microsoft 2005-2010
+
+
+__Õppeaine eesmärk__ on valmistada kuulaja ette kompetentseks tegutsemiseks organisatsioonis efektiivse infohalduse korraldamisel, äriprotsesside IT abil teostamisel ja parendamisel, IT teenuste ja arenduste tellimisel, ettevõtte IT-arhitektuurile äripoole sisendi andmisel, IT lõimimisel äristrateegiatesse.
+
+__Juhtmõte__: IT oskuslik rakendamine on ettevõtte arengu (kasvu, efektiivsuse) üks peamisi vahendeid.
+
+__Oskused__. Kursuse läbinu oskab:
+
+-  analüüsida äriprotsessi IT rakendamise vaatepunktist 
+-  leida võimalusi automatiseerimiseks ja inimtöö toetamiseks IT-ga
+-  süstemaatiliselt hinnata tarkvaralahenduste sobivust
+-  püstitada ärinõudeid IT-le
+-  täita „targa tellija“ rolli tarkvaraarenduses, sh agiilses
+-  kaardistada ettevõtte IT-arhitektuuri ja leida sealt lünki ning parandamist vajavaid kohti
+-  visioneerida IT-põhist ärimudelit. 
+
+Need on keerulised asjad, kus oskus saab tulla ainult läbi praktika. Kursusega on aga vähemalt alus tehtud, nii mõistete kui ka praktilise katsetuse tasandil.
+
+__Tugidistsipliinid__. Ükski teadus ei seisa omaette. IT rakendamine tugineb eelkõige süsteemkäsitlusele (_The Systems Approach_), teadusele süsteemidest.
+
+Märkus. "IT rakendamine" on natuke tautoloogiline, sest tehnoloogia ongi teadmise rakendamine, kunst midagi teha.
+
+<!--  Referentsdistsipliinid: kunst, sport. IT - elatise teenimise vahend -->
+
+__Põhiküsimused__. IT praktilisel kasutamisel organisatsiooni kontekstis tekib palju mitmesuguseid huvitavaid ja keerulisi küsimusi. Paljudele ei olegi lihtsaid lahendusi. IT-s endas on palju lahendamata küsimusi. Ka neist tuleb möödaminnes juttu.
 
 __Veebisait__ täidab ühtaegu loengukonspekti, loenguslaidide kui (loodetavalt) ka teatmelise materjali rolli.
 
@@ -31,4 +61,6 @@ __Tähistused__
 TL;DR - üherealine kokkuvõte pikema teksti ees või selle asemel (lühend ingl _too long; didn’t read_).
 
 <p class='tags'>Also</p>
-Viide sama teemat, võimalik, et teisest vaatepunktist käsitlevale allikale
+Viide sama teemat, võimalik, et teisest vaatepunktist käsitlevale allikale.
+
+

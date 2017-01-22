@@ -1,8 +1,10 @@
 ---
-title: IT-inimesed
+title: 4.4 IT-inimesed
 permalink: Inimesed
 sidebar: false
 ---
+
+# 4.4 IT-inimesed
 
 <p><i class="material-icons ikoon">help_circle</i> Kas teie organisatsioonis on IT-töötajaid? Milliseid ametinimetusi nad kannavad? Kas ametinimetused vastavad tegelikult tööle?</p>
 

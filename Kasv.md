@@ -3,7 +3,7 @@ title: Ettevõtte kasv ja IT
 permalink: Kasv
 ---
 
-# Ettevõtte kasv ja IT
+# 0.2 Ettevõtte kasv ja IT
 {: .no_toc}
 
 - TOC
