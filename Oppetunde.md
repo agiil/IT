@@ -22,7 +22,9 @@ __Mida siis raha eest saime? (koodistatistika)__
 
 Praktika näitab, et tehnilisi küsimusi ei õnnestu hoida lahus ärilistest.
 
-IT-ga on võimalik teha kõike, aga kui hakkame tegema, siis selgub, et kõik maksab. Seetõttu on oluline analüüsida, mida arendusraha kulutamine annab.  
+IT-ga on võimalik teha kõike, aga kui hakkame tegema, siis selgub, et kõik maksab.
+
+Seetõttu on oluline analüüsida, mida arendusraha kulutamine annab. Mõned elementaarsed arvutused ühe projekti kolme etapi kohta:
 
 |    | [DHX Etalonteostus](https://github.com/e-gov/DHX-etalon) | [DVK täiendamine](https://github.com/e-gov/DVK) | [DHX Adapter](https://github.com/e-gov/DHX-adapter) |
 |----------------|:-----------:|:----------:|:------------:|
@@ -62,7 +64,7 @@ __Odav tarkvara? (koodistatistika)__
 
 __Kosemudeliga või agiilselt?
 
-sama funktsionaalsus, pärast kosemudeli ebaõnnestumist
+Sama funktsionaalsus, pärast kosemudeli ebaõnnestumist:
 
 |           |  Kosemudeliga | Agiilselt |
 |-----------|:----------:|:-------:|
@@ -74,8 +76,9 @@ sama funktsionaalsus, pärast kosemudeli ebaõnnestumist
 
 *MVP, _Minimal Viable Product_, minimaalne toimiv lahendus
 
-- Arvutus näitavad, et *agiilarendus võib sama funktsionaalsuse anda 10-15 korda odavamalt ja 10-20 korda kiiremalt*{: .u}
-- Asi ei tarvitse olla 10X kiiremates programmeerijates - tõenäoliselt ei olegi -  vaid selles, et *agiilne projekt sunnib Tellijat teisiti tegutsema*{: .u}
+Arvutus näitavad, et *agiilarendus võib sama funktsionaalsuse anda 10-15 korda odavamalt ja 10-20 korda kiiremalt*{: .u}
+
+Asi ei tarvitse olla 10X kiiremates programmeerijates - tõenäoliselt ei olegi -  vaid selles, et *agiilne projekt sunnib Tellijat teisiti tegutsema*{: .u}
 
 <p class='tags'>Also</p>
 [10X software engineer](https://www.quora.com/topic/10X-Engineers)
@@ -83,14 +86,15 @@ sama funktsionaalsus, pärast kosemudeli ebaõnnestumist
 __Vali jõukohane raskus__
 
 <div style='display: flex; width: 300px; height: 355px; align-items: flex-end; margin: 2em 4em;'>
-  <div style='flex: 1; height: 50px; text-align: center: border: 1px solid #C5E1;'>Basic</div>
+  <div style='flex: 1; height: 50px; text-align: center: border: 1px solid #8BC34A;'>Basic</div>
   <div style='flex: 1; height: 150px; text-align: center: border: 1px solid #C5E1;'>Nice to Have</div>
-  <div style='flex: 1; height: 250px; text-align: center: border: 1px solid #C5E1;'>Äge</div>
-  <div style='flex: 1; height: 350px; text-align: center: border: 1px solid #C5E1;'>Ülikõva</div>
+  <div style='flex: 1; height: 250px; text-align: center: border: 1px solid #FF9800;'>Äge</div>
+  <div style='flex: 1; height: 350px; text-align: center: border: 1px solid #FF5722;'>Ülikõva</div>
 </div>
 
-- Ambitsioonitase on äärmiselt oluline
-- Teeme kõigepealt baastaseme ära, siis täiendame ja alles seejärel viime asja ägedaks ja ülikõvaks - kui veel tahtmist, ressurssi ja tegelikku vajadust tolleks momendiks jagub.
+Ambitsioonitase on äärmiselt oluline.
+
+Teeme kõigepealt baastaseme ära, siis täiendame ja alles seejärel viime asja ägedaks ja ülikõvaks - kui veel tahtmist, ressurssi ja tegelikku vajadust tolleks momendiks jagub.
 
 __Codemonkeyism__
 
@@ -115,7 +119,9 @@ __Codemonkeyism__
 | Tegevuskava koostamine     |  C        |   C       |
 | Muutuste eestvedaja        |  C        |   C       |
 
-C- nõrk, vajalik Tellija tugev järelevalve ja osade asjade ise ette- või ärategemine; B - hea; A - väga hea
+C- nõrk, vajalik Tellija tugev järelevalve ja osade asjade ise ette- või ärategemine; B - hea; A - väga hea.
+
+Rida probleeme:
 
 - Eesti IT-firmade* võime tööd korraldada on madal
 - Töökorralduslikud oskused ei ole aastatega tõusnud, pigem vastupidi
@@ -128,38 +134,50 @@ C- nõrk, vajalik Tellija tugev järelevalve ja osade asjade ise ette- või ära
 
 __Kus tekib keerukus?__
 
-- Keerukus tekib juba haridussüsteemis
+Keerukus tekib juba haridussüsteemis
   - mentaliteet "Rohkem on parem"
   - Eesti kultuuris puudub lihtsuseguru
-  - Eesti IT-s puudub oma Standish Group
-- Tulemuseks on inimesed 'not capable of simple'
-- Ilmingud: mahu pärast genereeritud projektiplaanid, arendusdokumendid
-- Äriprotsessi kirjeldus 80 lk. See ei ole kasutatav
+  - Eesti IT-s puudub oma Standish Group.
+
+Tulemuseks on inimesed 'not capable of simple'.
+
+Ilmingud:
+  - mahu pärast genereeritud projektiplaanid, arendusdokumendid
+  - äriprotsessi kirjeldus 80 lk. See ei ole kasutatav
 
 _If I Had More Time, I Would Have Written a Shorter Letter -- Blaise Pascal (1657)_
 
-- Lihtsus ei teki iseenesest 
-- Lihtsuse saavutamine nõuab jõupingutust
-- Lihtsus võib nõuda rohkem oskust kui keerukus
+Lihtsus ei teki iseenesest.
+
+Lihtsuse saavutamine nõuab jõupingutust.
+
+Lihtsus võib nõuda rohkem oskust kui keerukus.
   - _One-liner_-i kirjutamine pole lihtne
-- Lihtsuse hoidmine nõuab jõupingutust
-- *Lihtsusele pürgiva jõu olemasolu pn projekti õnnestumise eeldus*{: .u}
+
+Lihtsuse hoidmine nõuab jõupingutust.
+
+*Lihtsusele pürgiva jõu olemasolu on projekti õnnestumise eeldus.*{: .u}
 
 __Minimeeri vaheprodukti__
 
-USA Föderaalvalitsus ostab IT-d 80 mlrd $ aastas; kasutust leiab ainult 1/3 tarkvarast.
+80 mlrd $ aastas - ostab IT-d USA föderaalvalitsus.
+
+Kasutust leiab ainult 1/3 ostetud tarkvarast.
 
 > End users fail entirely to use nearly 45% of features procured and rarely use another 19% percent of those features. -- Balter, B (2011) Toward a More Agile Government: The Case for Rebooting Federal IT Procurement. _Public Contract Law Journal_.
 
-- Vaheprodukt (_WIP, Work-In-Progress_):
+Vaheprodukt (_WIP, Work-In-Progress_):
   - strateegia, tegevuskava, raamistik, juhend
   - arhitektuurne mudel, äriprotsessi kirjeldus jne 
   - üleminekukava
-  - igasugune projekti- ja arendusdokumentatsioon
+  - igasugune projekti- ja arendusdokumentatsioon.
+
 - Lõpp-produkt (_End Product_):
-  - töötav tarkvara, mida ka tegelikult kasutatakse  
-- Minimeeri töösolevat produkti (_minimise WIP_)
-- Projekti- ja arendusdokumentatsiooni rohkus ainult suurendab WIP-i  
+  - töötav tarkvara, mida ka tegelikult kasutatakse.
+
+Minimeeri töösolevat produkti (_minimise WIP_).
+
+Projekti- ja arendusdokumentatsiooni rohkus ainult suurendab WIP-i.
   
 __Mis töötab? (dokumentatsioon)__
 
@@ -172,10 +190,11 @@ __Mis töötab? (dokumentatsioon)__
 4- hea, vajalik suur Tellija osalus
 3 - vastuvõetav, suure Tellijapoolse tagaajamisega 
 
-- *kvaliteetdokumentatsioon ei teki muu arendustöö kõrvalt, vaja eraldi inimest*{: .u}
-- inimene teeb kvaliteetset dokumentatsiooni, kui
+*Kvaliteetdokumentatsioon ei teki muu arendustöö kõrvalt, vaja eraldi inimest*{: .u}
+
+Inimene teeb kvaliteetset dokumentatsiooni, kui
   - *tal on selleks talenti*{: .u}
-  - *talle antakse selleks aega*{: .u}
+  - *talle antakse selleks aega.*{: .u}
 
 __Mis töötab (hankimine)__
 
