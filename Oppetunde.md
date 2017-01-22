@@ -123,18 +123,18 @@ C- nõrk, vajalik Tellija tugev järelevalve ja osade asjade ise ette- või ära
 
 Rida probleeme:
 
-- eesti IT-firmade* võime tööd korraldada on madal
+- Eesti IT-firmade* võime tööd korraldada on madal
 - töökorralduslikud oskused ei ole aastatega tõusnud, pigem vastupidi
 - oskuste profiilid on ebaühtlased; vajalikud kompetentsid tavaliselt kaetud ebaühtlaselt
 - võimekaid, häid spetsialiste ei osata täie efektiivsusega rakendada - ebakompetentne juhtimine
 - tellijal ei jää muud üle, kui nõrgad kompetentsid oma tööga täita
 - IT-arenduse tuumaks peetakse firmades koodi kirjutamist; tarkvaraarendus on aga ainult üks element; paralleelselt peaks käima äriprotsesside ja töövoogude arendus ja muutuste eestvedamine; organisatsiooniliste muutuste juhtimise oskusi IT-firmadel pole.
 
-*kindlasti on tugevaid, välisturule või erasektorile töötavaid ettevõtteid, kelle suhtes väide ei kehti 
+*kindlasti on tugevaid, välisturule või erasektorile töötavaid ettevõtteid, kelle suhtes väide ei kehti.
 
 __Kust tekib keerukus?__
 
-Keerukus tekib juba haridussüsteemis
+Keerukus tekib juba haridussüsteemis.
 
   - mentaliteet "Rohkem on parem"
   - Eesti kultuuris puudub lihtsuseguru
@@ -174,9 +174,9 @@ Vaheprodukt (_WIP, Work-In-Progress_):
   - strateegia, tegevuskava, raamistik, juhend
   - arhitektuurne mudel, äriprotsessi kirjeldus jne 
   - üleminekukava
-  - igasugune projekti- ja arendusdokumentatsioon.
+  - projekti- ja arendusdokumentatsioon.
 
-- Lõpp-produkt (_End Product_):
+Lõpp-produkt (_End Product_):
 
   - töötav tarkvara, mida ka tegelikult kasutatakse.
 
@@ -191,11 +191,9 @@ __Mis töötab? (dokumentatsioon)__
 | Dok kvaliteet |  3+       |    5      |    3      |    4-     |   5+      |
 | Eraldi dok-ja |   ei      |   jah     |   ei      |    ei     |  jah      |
 
-5+ suurepärane, üle ootuste, Tellija osalusvajadus minimaalne
-4- hea, vajalik suur Tellija osalus
-3 - vastuvõetav, suure Tellijapoolse tagaajamisega 
+5+ suurepärane, üle ootuste, Tellija osalusvajadus minimaalne; 4- hea, vajalik suur Tellija osalus; 3 - vastuvõetav, suure Tellijapoolse tagaajamisega. 
 
-*Kvaliteetdokumentatsioon ei teki muu arendustöö kõrvalt, vaja eraldi inimest*{: .u}
+*Kvaliteetdokumentatsioon ei teki muu arendustöö kõrvalt, vaja eraldi inimest.*{: .u}
 
 Inimene teeb kvaliteetset dokumentatsiooni, kui
 
@@ -204,5 +202,5 @@ Inimene teeb kvaliteetset dokumentatsiooni, kui
 
 __Mis töötab (hankimine)__
 
-Nordeconi projektijuht: "Allhankijate probleeme? Ei ole. Kui tahad järgmine kord ka tööd saada, siis teed korralikult"
+Nordeconi projektijuht: "Allhankijate probleeme? Ei ole. Kui tahad järgmine kord ka tööd saada, siis teed korralikult".
 
