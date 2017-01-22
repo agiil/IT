@@ -94,7 +94,7 @@ __Võtteid infohalduse parendamiseks
 
 Ülalesitatud põhimõtted võivad tunduda liiga üldised, et neist praktilist kasu oleks. Siiski, kui mõtleme, mis on organisatsiooni infohalduses tegelikud kitsaskohad ja kuidas neid lahendada, siis leiab põhimõtetest küll tuge.
 
-<p class='ise'><i class="material-icons ikoon">help_circle</i><b>Dokumentide arvu vähendamine</b>. Mõelge mõnele oma projektile või toimingule. Loendage dokumendid, mis selles tekitav. Kas dokumentide arvu saaks vähendada (võib-olla lähedase funktsiooniga dokumente ühitades või mõnda isegi ära jättes), ilma, et töö kvaliteet kannataks?</p>
+<p class='ise'><i class="material-icons ikoon">help_circle</i><b>Dokumentide arvu vähendamine</b>. Mõelge mõnele oma projektile või korduvale toimingule. Loendage dokumendid, mis selles tekivad. Kas dokumentide arvu saaks vähendada (võib-olla lähedase funktsiooniga dokumente ühitades või mõnda isegi ära jättes), ilma, et töö kvaliteet kannataks?</p>
 
 <p class='ise'><i class="material-icons ikoon">help_circle</i><b>Teabe prioritiseerimine</b>. Loetlege kümmekond dokumendi- või teabetüüpi, millega tööl kokku puutute. Prioritiseerige need dokumenditüübid. Leidke 2-3 kõige tähtsamat, olgu need kategooria A; määrake kategooria B (olulised) ja C (väheolulised) dokumendi.</p>
 
