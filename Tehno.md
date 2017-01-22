@@ -1,4 +1,5 @@
 ---
+sidebar: false
 title: Tehnoloogiate (tarkvarade) hindamine ja valik
 permalink: Tehno
 ---
