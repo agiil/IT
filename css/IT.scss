@@ -168,3 +168,6 @@ dd { margin-left: 4em; }
 .tabel { border-collapse: collapse;
   > table, td, th { border: 1px solid black; }
 }
+.ei, .jah { text-align: center; }
+.ei { background-color: #ef9a9a; } /* Red 200 */
+.jah { background-color: #C8E6C9; } /* Green 100 */
