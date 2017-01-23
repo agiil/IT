@@ -163,3 +163,8 @@ dd { margin-left: 4em; }
 
 /* Cash */
 .c { color: $erepunane; }
+
+/* Tabel */
+.tabel { border-collapse: collapse;
+  > table, td, th { border: 1px solid black; }
+}
