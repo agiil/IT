@@ -36,7 +36,28 @@ NE
 
 ```
 
-IT tuumaks on __programmeerimine__. Kuid IT ei ole võrdu programmeerimisega.
+```
+      ARENDAMINE
+           +
+    +------+------+
+    |             +
+TARKVARA      PROTSESSI
+arendamine    arendamine
+
+
+                    ARENDAMINE
+                         +
+                         |
+    +------------+-------+------+--------------+
+    +            +              +              +
+TARKVARA     PROTSESSI    ORGANISATSIOONI  JURIIDIKA
+arendamine   arendamine   arendamine       arendamine
+
+
+```
+
+
+IT tuumaks on __programmeerimine__. Kuid IT ei võrdu programmeerimisega.
 
 > Programming is only one of four core practices. The other three are systems thinking, modeling, and innovating. --- Wright (2010) Capstone Programming Courses Considered Harmful. Communications of the ACM
 
@@ -103,4 +124,55 @@ __Tarkvara hindamine ja valimine__
 
 <p class='tags'>[Tarkvara] [Integratsioon] [Näide]</p>
 
-[GrowthHackers Projects](https://projects.growthhackers.com/about-us), "agiilset kasvu toetav tarkvara" (_Agile Growth_), põhineb mõistele _Growth Hacking_". Ilus esitlus, väga ilus kasutajaliides. Eesmärgid, ideebaas, teadmusbaas, eksperimentide haldus, dashboard. [Integratsioonid](https://projects.growthhackers.com/integrations) Slack-i, JIRA, Pivotali jt. Võib olla kasulik kasvule suunatud projektide läbiviimisel väikeses meeskonnas. $9/meeskonnaliige/kuus. 
+[GrowthHackers Projects](https://projects.growthhackers.com/about-us), "agiilset kasvu toetav tarkvara" (_Agile Growth_), põhineb mõistele _Growth Hacking_". Ilus esitlus, väga ilus kasutajaliides. Eesmärgid, ideebaas, teadmusbaas, eksperimentide haldus, dashboard. [Integratsioonid](https://projects.growthhackers.com/integrations) Slack-i, JIRA, Pivotali jt. Võib olla kasulik kasvule suunatud projektide läbiviimisel väikeses meeskonnas. $9/meeskonnaliige/kuus.
+
+__Hindamistabel__
+
+|                 | Lihtsus | Ilu  | Worklow tugi | Tasuta |
+|-----------------|:-------:|:----:|:------------:|:------:|
+| JIRA            |         |      |              |        |
+| Pivotal Tracker |         |      |              |        |
+| Trello          |         |      |              |        |
+| GitHub          |         |      |              |        |
+{: .tabel}
+
+
+<table>
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Lihtne</td>
+<td>Ilus</td>
+<td>Workflow tugi</td>
+<td>Tasuta</td>
+</tr>
+<tr>
+<td><strong>JIRA</strong></td>
+<td class='ei'>ei</td>
+<td class='ei'>ei</td>
+<td class='jah'>jah</td>
+<td class='ei'>ei</td>
+</tr>
+<tr>
+<td><strong>Pivotal Tracker</strong></td>
+<td class='ei'>&nbsp;</td>
+<td class='ei'>ei</td>
+<td class='ei'>&nbsp;</td>
+<td class='jah'>jah</td>
+</tr>
+<tr>
+<td><strong>Trello</strong></td>
+<td class='jah'>jah</td>
+<td class='jah'>jah</td>
+<td class='ei'>&nbsp;</td>
+<td class='jah'>jah</td>
+</tr>
+<tr>
+<td><strong>GitHub</strong></td>
+<td class='jah'>jah</td>
+<td class='ei'>ei</td>
+<td class='ei'>ei</td>
+<td class='jah'>jah</td>
+</tr>
+</tbody>
+</table> 

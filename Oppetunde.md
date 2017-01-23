@@ -86,10 +86,10 @@ Asi ei tarvitse olla 10X kiiremates programmeerijates - tõenäoliselt ei olegi 
 __Vali jõukohane raskus__
 
 <div style='display: flex; width: 300px; height: 355px; align-items: flex-end; margin: 2em 4em;'>
-  <div style='flex: 1; height: 50px; text-align: center: border: 1px solid #8BC34A;'>Basic</div>
-  <div style='flex: 1; height: 150px; text-align: center: border: 1px solid #C5E1;'>Nice to Have</div>
-  <div style='flex: 1; height: 250px; text-align: center: border: 1px solid #FF9800;'>Äge</div>
-  <div style='flex: 1; height: 350px; text-align: center: border: 1px solid #FF5722;'>Ülikõva</div>
+  <div style='flex: 1; height: 50px; text-align: center; border: 1px solid #3F51B5;'>Basic</div>
+  <div style='flex: 1; height: 150px; text-align: center; border: 1px solid #8BC34A;'>Nice to Have</div>
+  <div style='flex: 1; height: 250px; text-align: center; border: 1px solid #FF9800;'>Äge</div>
+  <div style='flex: 1; height: 350px; text-align: center; border: 1px solid #FF5722;'>Ülikõva</div>
 </div>
 
 Ambitsioonitase on äärmiselt oluline.
