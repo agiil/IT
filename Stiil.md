@@ -18,6 +18,10 @@ permalink: Stiil
 
 __Hindamistabel__
 
+- Tabeli moodustamiseks: [https://html-online.com/editor/](https://html-online.com/editor/)
+- ei - stiiliga `ei`
+- jah - stiiliga `jah`
+
 |                 | Lihtsus | Ilu  | Worklow tugi | Tasuta |
 |-----------------|:-------:|:----:|:------------:|:------:|
 | JIRA            |         |      |              |        |
@@ -62,7 +66,7 @@ __Hindamistabel__
 <td class='jah'>jah</td>
 <td class='ei'>ei</td>
 <td class='ei'>ei</td>
-<td>&nbsp;</td>
+<td class='jah'>jah</td>
 </tr>
 </tbody>
 </table>
