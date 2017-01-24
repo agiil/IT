@@ -46,6 +46,8 @@ __tüüpiline probleem__
 
 __silt__ (_tag_), oluline kategoriseerimismeetod
 
+<p class='tags'>Praktikas kuuldu</p>
+
 __teema__
 
 __TL;DR__

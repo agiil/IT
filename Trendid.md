@@ -5,6 +5,17 @@ permalink: Trendid
 
 # 1.4 Tehnoloogiatrendide jälgimine
 
+- teab IT-trende käsitlevaid kvaliteetseid infoallikaid
+- omab ettekujutust uue IT rakendamise hetkeseisust ühes valitud ärivaldkonnas.
+
+__Tehnoloogia__ algses, antiik-Kreekast pärit tähenduses on oskus või kunst midagi produktiivset teha (kr τέχνη, techne, "oskus, kunst"; -λογία, -logia).
+
+Seetõttu on natuke tautoloogiline rääkida tehnoloogia rakendamisest. Tehnoloogia ongi see, kuidas tehakse.
+
+Tarkvara kontekstis võib tehnoloogia tähendada suhteliselt spetsiifilisi asju. Näiteks [autocomplete](https://en.wikipedia.org/wiki/Autocomplete) ja [vihjesisestus](https://twitter.github.io/typeahead.js/examples/) on suhteliselt lihtsad ja väikesed, kasutajale võib-olla märkamatukski jäävad kasutajaliidese tehnoloogiad, mis siiski kasutajamugavust suuresti tõstavad.
+
+__Infotehnoloogia__ (IT) on üldnimetus väga suurele tehnoloogiate perekonnale.
+
 __Tehnoloogiatrend__ on uue, paljulubava tehnoloogia tulemine, populaarsuse võitmine.
 
 __Tehnoloogia reklaamlause__, [tagline](https://en.wikipedia.org/wiki/Tagline) on lühike lause, fraas või ka ainult sõna või tähtlühend, mis esitab kokkuvõtlikult, löövalt ja atraktiivselt uue tehnoloogia "lubaduse". Nt `Connected Everything`. 

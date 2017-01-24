@@ -5,126 +5,66 @@ permalink: Tehno
 ---
 
 # 1.5 Tehnoloogiate (tarkvarade) hindamine ja valik
+ 
+_Küsimus millist tarkvara kasutada__ on oluline mitmel põhjusel. Hea tarkvaraga võib töö olla 10-20-40% ja enamgi kiirem, mugavam, kvaliteetsem. Hea tarkvara sobib hästi kokku teiste tarkvaradega. Head tarkvara on kerge kasutama õppida, hallata ja kohandada.
 
-- teab IT-trende käsitlevaid kvaliteetseid infoallikaid
-- omab ettekujutust uue IT rakendamise hetkeseisust ühes valitud ärivaldkonnas.
+Tarkvara valiku otsuseid tehakse suuremas organisatsioonis aastas vähemalt 4-5 tükki aastas. Sageli on nende otsuste mõju oluline. 
 
-__Tehnoloogia__ algses, antiik-Kreekast pärit tähenduses on oskus või kunst midagi produktiivset teha (kr τέχνη, techne, "oskus, kunst"; -λογία, -logia).
+<p class='tags'>Näide</p>
+Organisatsioonis kasutati aastaid kõrvuti kahte andmebaasisüsteemi: Oracle (tasuline) ja PostgreSQL (vabavara). Iga-aastased Oracle litsentsitasud olid suhteliselt suured. Kulude kokkuhoidmise eesmärgil otsustati üle minna ainult PostgreSQL-le. Otsus oli siiski problemaatiline, sest süsteemiadministraator väitis, et Oracle andmebaasi haldamine on oluliselt kergem.
 
-Seetõttu on natuke tautoloogiline rääkida tehnoloogia rakendamisest. Tehnoloogia ongi see, kuidas tehakse.
+Tarkvara valikut tehakse praktikas mitmel viisil.
 
-Tarkvara kontekstis võib tehnoloogia tähendada suhteliselt spetsiifilisi asju. Näiteks [autocomplete](https://en.wikipedia.org/wiki/Autocomplete) ja [vihjesisestus](https://twitter.github.io/typeahead.js/examples/) on suhteliselt lihtsad ja väikesed, kasutajale võib-olla märkamatukski jäävad kasutajaliidese tehnoloogiad, mis siiski kasutajamugavust suuresti tõstavad.
+__Analüütiline valikuprotsess_ võib anda parima tulemuse, kuid ainult siis, kui protsessi läbitegemiseks on piisavalt aega ja kompetentsi. Professionaalne tarkvaravalija [Tate2015] tegutseb metoodiliselt: kaardistab kasutajate vajadused, pöörates tähelepanu erinevate kasutajarühmade esindatusele; vajadused  artikuleeritakse selgepiirilisteks nõueteks (_Requirements_ etapp); väljaselgitatud vajadustele lisanduvad hinna- ja tehnoloogilised kaalutlused (nt kokkusobivus teiste tarkvaradega), neist moodustub valikukriteeriumite loetelu; järgmiseks sammuks on turul pakutavate tarkvara-kandidaatide väljaselgitamine ja uurimine vajadustele ning valikukriteeriumitele vastavuse vaatest. Tarkvara valik on mitmekriteeriumiline otsustusprobleem. Juhtub, et ükski kandidaatidest ei vasta ideaalselt kõigile nõuetele. Siis kasutatakse kandidaatide pingerea koostamiseks mõnda otsustusmeetodit (kaalutud punktikeskmine vms).
 
-__Infotehnoloogia__ (IT) on üldnimetus väga suurele tehnoloogiate perekonnale. 
+Analüütiline valikuprotsess ei anna siiski alati head tulemust. Esiteks peab organisatsioon olema võimeline süstemaatilist, objektiivset protsessi läbi tegema; kaugeltki alati ei ole see võimekus olemas. Kõik olulised kriteeriumid tuleb välja selgitada. Kriteeriumite suhtelist tähtsust tuleb hinnata. Hinnangud põhinevad tihti eeldustel. Hinnang, mis on tehtud valedel eeldustel, on parimal juhul kasutu, halvemal juhul - eksitav. Näiteks seatakse tarkvara valikul sageli eesmärgiks infotehnoloogilise keskkonna ühtlustamine, "loomaaia" piiramine. Usutakse, et kui kõik hakkavad kasutama sama töövahendit, siis ühtlustuvad ja korrastuvad ka tööprotsessid ja paraneb kommunikatsioon - rääkimata standardse tarkvara madalamatest hooldus- ja hankimiskuludest. Kahjuks reaalsus nii lihtne ei ole. Universaalset tööriista on raske leida, sageli seda ei olegi. Protsessid võivad olla küll väliselt sarnased, kuid detailitasandil siiski nii spetsiifilised, et nõuavad erinevaid töövahendeid.
 
-Erinevate infotehnoloogiate tuummõisteks on kahtlemata __algoritm__.
+<p class='tags'>Näide</p>
+Tarkvaraarendusega ja IT-teenustega tegelevas organisatsioonis otsustati, et kogu teavet hakatakse hoidma Confluence-is. [Atlassiani Confluence](https://www.atlassian.com/software/confluence) on hea tarkvara, kuid sobib siiski ainult teatud liiki dokumentatsiooni töötlemiseks.
 
-> An algorithm is a finite procedure, written in a fixed vocabulary, governed by precise instructions, moving in discrete steps and that sooner or later comes to an end. &mdash;David Berlinski, matemaatik
+Teiseks võib süstemaatiline protsess kujuneda töömahukaks ja aeganõudvaks.
 
-IT alussambad
+<p class='tags'>Näide</p>
+Turul on kümneid, kui mitte sadu [märkmete tegemise tarkvarasid](https://en.wikipedia.org/wiki/Comparison_of_notetaking_software). Kes jõuab neid süstemaatiliselt võrrelda?
 
-```
-              IT ALUSSAMBAD
-                    +
-                    |
-   +----------+-----+---+----------+
-   |          |         |          |
-   +          +         +          +
-PROGRAM-  MODELLEE- SÜSTEEMNE INNOVATSIOON
-MEERIMI-  RIMINE    MÕTLEMINE
-NE
+<p class='tags'>Näide</p>
+Kaks koostööpartnerit otsustasid, et võtavad kumbki kasutusele sama tarkvara. Sobivat tarkvara valiti süstemaatiliselt. Osteti konsultant, kes tegi põhjaliku, mitmekuulise analüüsi. Jõuti juba peaaegu otsuseni, kui viimasel hetkel üks partner loobus, sisuliselt poliitilisel põhjusel. 
 
-```
+Kolmandaks ei saa tootekirjelduste põhjal alati õiget pilti tarkvara tegelikust kasutatavusest. Valikumeetodit võib täiendada tarkvara testkasutusega.
 
-```
-      ARENDAMINE
-           +
-    +------+------+
-    |             +
-TARKVARA      PROTSESSI
-arendamine    arendamine
+__Tarkvara testkasutus__ on üldlevinud praktika. Tarkvaratootjad pakuvad tarkvara testimiseks mitmesuguseid võimalusi: tasuta katsetamine piiratud perioodi jooksul (_Free Trial_), piiratud funktsionaalsusega versiooni kasutamine (_Free Tier_).
 
+<p class='tags'>Näide</p>
+Organisatsioon otsustas, et valib uue tööplaanimise ja tööaja arvestuse tarkvara nii, et laseb kuni neljal firmal paigaldada oma toote testversioon. Töötajatel on vabadus valida, millist kasutada. Valitakse see, mis "jääb ellu".
 
-                    ARENDAMINE
-                         +
-                         |
-    +------------+-------+------+--------------+
-    +            +              +              +
-TARKVARA     PROTSESSI    ORGANISATSIOONI  JURIIDIKA
-arendamine   arendamine   arendamine       arendamine
+__Õige otsustustasand__. Juhtkond ei ole õige tasand otsustama, millist vikitarkvara kasutatakse. Samas ei tohiks see otsus tulla ka IT osakonna süsteemiadministraatorilt. Tarkvara valikult peaks lähtuma tarkvara tegelike kasutajate arvamusest, kuid ühitades seda organisatsiooni tervikvaatega.
 
+Tarkvara valides peetakse tavaliselt silmas laiemaid töökorralduslikke ja ärilisi eesmärke. See on õige, kuid seos töö- ja äriprotsessides taotletavate muutustega tuleb ka läbi mõelda.
 
-```
+__Tarkvara tulek organisatsiooni on innovatsiooniprotsess__. Innovatsioon ei ole alati planeeritud ja süstemaatiline. Võib-olla ongi kaootiline, üksikisiku initsiatiivist lähtuv tarkvara kasutuselevõtmise protsess valdav. Keegi on kuulnud heast tarkvarast, toob selle teadmise organisatsiooni, paigaldab tarkvara oma arvutisse või hakkab pilveteenust kasutama.
 
+<p class='tags'>Näited</p>
+1) Asutuses kasutati suurel hulgal .NET tarkvara. Algas sellest, et programmeerija tundis seda. 2) Suures tarkvarasüsteemis programmeeriti üks moodul Ruby-keeles (mis konteksti arvestades ei olnud hea valik). Miks? Programmeerijale meeldis Ruby.
 
-IT tuumaks on __programmeerimine__. Kuid IT ei võrdu programmeerimisega.
+Huvitav miks, kuid __tarkvara valik__ võtab vahel poliitilise või isegi "usuküsimuse" varjundi. Võib-olla on põhjus selles, et kasutajal tekib sügav emotsionaalne side oma tarkvara. Võib-olla alahinnatakse ümberõppimise psühholoogilist kulu. Võib-olla ka selles, et nii nagu muud tooted, on tarkvara tugevalt bränditud.
 
-> Programming is only one of four core practices. The other three are systems thinking, modeling, and innovating. --- Wright (2010) Capstone Programming Courses Considered Harmful. Communications of the ACM
-
-__Süsteemne mõtlemine__
-
-__Modelleerimine__
-
-__Innovatsioon__
-
-Mitte ainult süsteemne mõtlemine, vaid ka süsteemne tegutsemine!
-
-__Konvergents__ e kokkukasvamine on nähtus, kus IT lõimub mõne teise valdkonnaga nii tihedalt, et IT eristamine muutub problemaatiliseks. Tormiliselt arenenud IT piirid ongi tänaseks hägustunud, arvutusmatemaatikast alguse saanud distsipliin on kokku kasvanud kommunikatsioonitehnoloogiatega. Seda väljendab vahel kasutatav mõiste "info- ja kommunikatsioonitehnoloogia" (IKT).
+__Tegelik kasutuselevõtt__. Tarkvara valik on ainult eelmäng tegelikule kasutuselevõtule. Tihti libisetakse sellest üle, kuid tegelikult on tarkvara kasutuselevõtmine pikk ja keeruline protsess. Tarkvara kasutuselevõttu mõjutavaid tegureid on palju uuritud ja loodud mitmesuguseid teooriaid. Tuntuim neist on tehnoloogia kasutuselevõtu mudel [Technology Acceptance Model, TAM]](https://en.wikipedia.org/wiki/Technology_acceptance_model). TAM-st on mitmeid variatsioone. Kriitikud väidavad siiski, et teooria on triviaalne.
 
 <p class='tags'>Praktikas kuuldu</p>
 > "Olen aastatega jõudnud järeldusele, et tehnoloogia valik on üleüldse kõige raskem ülesanne, mis IT valdkonnas võib ette tulla. Asjade õige nimetamine on peaaegu lahendamatu probleem, siis tuleb tükk tühja maad ja alles siis tuleb tehnoloogia valiku probleem."
 
-EE-EARVE on väga hea lahendus - lihtne, elegantne ja kasutatav. Kui veel leiduks kaks osapoolt, kes selle kasutusele võtaks...
+__Praktilised valikumeetodid__
 
+Üldistust teha on raske. Tarkvara valikuks ei ole ühte universaalset protsessi.
 
-__Tehnoloogiate kombineerimine__ e kooskasutamine on süsteemide ehitamisel hädavajalik.
+Osta teadmine sisse - kas turuülevaate või konsultatsiooniteenuse näol. Lihtsamate tarkvarade võrdlusi leiab kergesti (vt all), põhjalikumad analüüsid on tasulised (nt Gartner).
 
-<p class='tagid'>Mõiste</p>
-__Tehnoloogiapinu__ (_technology stack_) on protsessi, lahenduse või keskkonna loomiseks väljavalitud tehnoloogiate (või tehnoloogiaid teostavate tööriistade, tarkvararakenduste või teenuste) kogum. Tehnoloogiapinus olevad tehnoloogiad peavad üksteisega "rääkima", moodustades toimiva, efektiivse ja väärtustloova terviku. Pinu kokkupanek võib olla strateegilise kaaluga otsus.
-
-<p class='tags'>Näide</p>
-[Uber techstack](http://techstacks.io/uber); 
-[MEAN](http://mean.io/), "an opinionated fullstack javascript framework" koosneb 4 osatehnoloogiast: MongoDB, Express, AngularJS, Node.js; [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)), populaarne veebiarenduspinu: Linux, Apache HTTP server, MySQL, PHP.
-
-<p class='tags'>Näide</p>
-Käesoleva väikese veebisaidi tegemisel on kasutatud 15 erinevat töövahendit ja tehnoloogiat:
-
-  - [Markdown](https://en.wikipedia.org/wiki/Markdown) - laialtlevinud märgendkeel
-  - [GitHub](https://github.com/) - versioonihaldustarkvara
-  - [Git Bash](https://git-scm.com/downloads) - Git versioonihalduse tööriist
-  - [Jekyll](https://jekyllrb.com/) - staatilise veebisaidi generaatorrakendus
-    - [Kramdown](https://kramdown.gettalong.org/syntax.html) - Jekylli preprotsessor (eeltöötleja)
-  - [HTML5](https://www.w3.org/TR/html5/) - universaalne veebikeel
-  - [CSS3](https://www.w3.org/standards/techs/css#w3c_all) - veebi kujunduskeel
-  - [Sass](http://sass-lang.com/)
-  - [Liquid](http://shopify.github.io/liquid/) - templiidikeel
-  - [YAML](http://yaml.org/) - lihtne märgendkeel
-  - [Sublime Text 3](http://docs.sublimetext.info/en/latest/index.html) - programmeerija tekstiredaktor
-    - [GitSavvy](https://github.com/divmain/GitSavvy) - tekstiredaktori Sublime Text 3 ja Giti lõimetis
-  - [asciiFlow]() - lihtne jooniste redaktor
-  - [Google Material Design ikoonid](https://material.io/icons/)
-  - [Google Fonts](https://fonts.google.com/)
-
-<p class='tags'>Järeldus</p>
-Organisatsioonis kasutatakse tüüpiliselt arvukalt erinevaid infotehnoloogiaid.
-
-<p class='tags'>Järeldus</p>
-Organisatsioonid tüüpiliselt omavad vaid ebaselget ülevaadet oma tehnoloogiakasutusest.
-
-__Tarkvara hindamine ja valimine__
-
-- [14 Free Business Tools to Make Your Startup more Successful in 2017](http://www.huffingtonpost.com/kathleen-maloney/14-free-business-tools-to_b_13718746.html)
-- [40 of the Best To-Do Apps for Personal Task Management](https://zapier.com/blog/best-todo-list-apps/)
-  - probleem: töödega unustamine, viivitamine ja hilinemine; lahendus: ToDo app (list and task manager software)
-    - [Google Keep](https://www.google.com/keep/)
-- vrdl edenemisaruannete (ingl progress report) tarkvarasid :
+<p class='tags'>Tarkvara</p>
+__"Teha"-tarkvara__. [40 of the Best To-Do Apps for Personal Task Management](https://zapier.com/blog/best-todo-list-apps/). Probleem: töödega unustamine, viivitamine ja hilinemine; lahendus: ToDo app (_List and Task Manager_);
+__Edenemisaruannete__ (_Progress Report_) tarkvarasid :
   - [I Done This](https://home.idonethis.com/)
   - [Weekdone.com](https://weekdone.com/)   
-- MUST HAVE, NICE TO HAVE
-
-<p class='tags'>[Tarkvara] [Integratsioon] [Näide]</p>
-
-[GrowthHackers Projects](https://projects.growthhackers.com/about-us), "agiilset kasvu toetav tarkvara" (_Agile Growth_), põhineb mõistele _Growth Hacking_". Ilus esitlus, väga ilus kasutajaliides. Eesmärgid, ideebaas, teadmusbaas, eksperimentide haldus, dashboard. [Integratsioonid](https://projects.growthhackers.com/integrations) Slack-i, JIRA, Pivotali jt. Võib olla kasulik kasvule suunatud projektide läbiviimisel väikeses meeskonnas. $9/meeskonnaliige/kuus.
+- [14 Free Business Tools to Make Your Startup more Successful in 2017](http://www.huffingtonpost.com/kathleen-maloney/14-free-business-tools-to_b_13718746.html)
 
 __Hindamistabel__
 
