@@ -6,14 +6,14 @@ permalink: Tehno
 
 # 1.5 Tehnoloogiate (tarkvarade) hindamine ja valik
 
-<p class='action'><i class="material-icons ikoon">Suur organisatsioon (mitu tuhat töötajat, erinevates allstruktuurides) hangib tööaja planeerimise ja tööaja arvestuse jaoks vajalikku tarkvara.<br>
+<p class='action'><i class="material-icons ikoon">help_circle</i>Suur organisatsioon (mitu tuhat töötajat, erinevates allstruktuurides) hangib tööaja planeerimise ja tööaja arvestuse jaoks vajalikku tarkvara.<br>
 <br>
 Eesmärgiks on seatud: - veenduda, et pakkujal on piisava funktsionaalsusega standardne toode/teenus; - veenduda, et pakkuja toodet on võimalik paigaldada ja hallata tellija keskkonnas (arvestades tellija turvanõudeid); veenduda, et pakutav toode on koosvõimeline tellija spetsiifiliste vajaduste jaoks loodud rakendustega; leida allüksuste ülene ühine maksimaalne standardne funktsionaalsus, mida on võimalik katta hangitava tootega.<br>
 <br>
 Leiti pakkuja, kes oli nõus oma tarkvara testkasutuseks andma. Testkasutuse käigus selgus, et:<br>
 - loobumine kasutusel olevatest senistest lahendustest nõuab töörutiinide ümbertegemist;<br>
 - algselt kasutajate püstitatud nõuded on vastuolulised;<br>
-- kasutajad kaaluvad loobumist spetsiifilistest nõuetest, et kasutada standardset lahendust.</i></p>
+- kasutajad kaaluvad loobumist spetsiifilistest nõuetest, et kasutada standardset lahendust.</p>
  
 __Küsimus millist tarkvara kasutada__ on oluline mitmel põhjusel. Hea tarkvaraga võib töö olla 10-20-40% ja enamgi kiirem, mugavam, kvaliteetsem. Hea tarkvara sobib hästi kokku teiste tarkvaradega. Head tarkvara on kerge kasutama õppida, hallata ja kohandada.
 
