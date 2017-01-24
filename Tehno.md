@@ -6,11 +6,16 @@ permalink: Tehno
 
 # 1.5 Tehnoloogiate (tarkvarade) hindamine ja valik
 
-<p class='action'><i class="material-icons ikoon">help_circle</i>Suur organisatsioon (mitu tuhat töötajat, erinevates allstruktuurides) hangib tööaja planeerimise ja tööaja arvestuse jaoks vajalikku tarkvara.<br>
+<p class='action'><i class="material-icons ikoon">help_circle</i>Suur organisatsioon (mitu tuhat töötajat, erinevates allstruktuurides) hangib tööaja planeerimise ja tööaja arvestuse jaoks tarkvara. See on strateegiline otsus, mida eksimise korral on raske tagasi pöörata. Kuidas toimida?<br>
 <br>
-Eesmärgiks on seatud: - veenduda, et pakkujal on piisava funktsionaalsusega standardne toode/teenus; - veenduda, et pakkuja toodet on võimalik paigaldada ja hallata tellija keskkonnas (arvestades tellija turvanõudeid); veenduda, et pakutav toode on koosvõimeline tellija spetsiifiliste vajaduste jaoks loodud rakendustega; leida allüksuste ülene ühine maksimaalne standardne funktsionaalsus, mida on võimalik katta hangitava tootega.<br>
+Leiti pakkuja, kes oli nõus oma tarkvara testkasutuseks andma.<br>
 <br>
-Leiti pakkuja, kes oli nõus oma tarkvara testkasutuseks andma. Testkasutuse käigus selgus, et:<br>
+Testkasutuse eesmärgiks seati:<br>
+- veenduda, et pakkujal on piisava funktsionaalsusega standardne toode/teenus;<br>
+- veenduda, et pakkuja toodet on võimalik paigaldada ja hallata tellija keskkonnas (arvestades tellija turvanõudeid);<br>
+- veenduda, et pakutav toode on koosvõimeline tellija spetsiifiliste vajaduste jaoks loodud rakendustega; leida allüksuste ülene ühine maksimaalne standardne funktsionaalsus, mida on võimalik katta hangitava tootega.<br>
+<br>
+ Testkasutuse käigus selgus, et:<br>
 - loobumine kasutusel olevatest senistest lahendustest nõuab töörutiinide ümbertegemist;<br>
 - algselt kasutajate püstitatud nõuded on vastuolulised;<br>
 - kasutajad kaaluvad loobumist spetsiifilistest nõuetest, et kasutada standardset lahendust.</p>
@@ -22,7 +27,11 @@ Tarkvara valiku otsuseid tehakse suuremas organisatsioonis aastas vähemalt 4-5 
 <p class='tags'>Näide</p>
 Organisatsioonis kasutati aastaid kõrvuti kahte andmebaasisüsteemi: Oracle (tasuline) ja PostgreSQL (vabavara). Iga-aastased Oracle litsentsitasud olid suhteliselt suured. Kulude kokkuhoidmise eesmärgil otsustati üle minna ainult PostgreSQL-le. Otsus oli siiski problemaatiline, sest süsteemiadministraator väitis, et Oracle andmebaasi haldamine on oluliselt kergem ja ähvardas töölt lahkuda.
 
-Tarkvara valikut tehakse praktikas mitmel viisil.
+Tarkvara valikut tehakse praktikas mitmel viisil:
+
+- analüütiline valikuprotsess
+- testkasutus
+- keegi hakkab kasutama ja kasutus levib.
 
 __Analüütiline valikuprotsess__ võib anda parima tulemuse, kuid ainult siis, kui protsessi läbitegemiseks on piisavalt aega ja kompetentsi. Professionaalne tarkvaravalija [Tate2015] tegutseb metoodiliselt: kaardistab kasutajate vajadused, pöörates tähelepanu erinevate kasutajarühmade esindatusele; vajadused  artikuleeritakse selgepiirilisteks nõueteks (_Requirements_ etapp); väljaselgitatud vajadustele lisanduvad hinna- ja tehnoloogilised kaalutlused (nt kokkusobivus teiste tarkvaradega), neist moodustub valikukriteeriumite loetelu; järgmiseks sammuks on turul pakutavate tarkvara-kandidaatide väljaselgitamine ja uurimine.
 
@@ -56,14 +65,14 @@ Organisatsioon otsustas, et valib uue tööplaanimise ja tööaja arvestuse tark
 
 Testkasutuse probleemiks on ajakulu. Siiski tundub, et testimist kasutatakse liiga vähe. Liiga vara seotakse end ühe tarkvaraga - ja liiga kauaks jäädakse seotud ühe tarkvaraga.
 
-__Õige otsustustasand__. Juhtkond ei ole õige tasand otsustama, millist vikitarkvara kasutatakse. Samas ei tohiks see otsus tulla ka IT osakonna süsteemiadministraatorilt. Tarkvara valikult peaks lähtuma tarkvara tegelike kasutajate arvamusest,  ühitades seda organisatsiooni tervikvaatega.
-
-Tarkvara valides peetakse tavaliselt silmas laiemaid töökorralduslikke ja ärilisi eesmärke. See on õige, kuid seos töö- ja äriprotsessides taotletavate muutustega tuleb ka läbi mõelda.
-
-__Tarkvara tulek organisatsiooni on innovatsiooniprotsess__. Innovatsioon ei ole alati planeeritud ja süstemaatiline. Võib-olla ongi kaootiline, üksikisiku initsiatiivist lähtuv tarkvara kasutuselevõtmise protsess valdav. Keegi on kuulnud heast tarkvarast, toob selle teadmise organisatsiooni, paigaldab tarkvara oma arvutisse või hakkab pilveteenust kasutama.
+__Keegi hakkab lihtsalt kasutama__. Tarkvara tulek organisatsiooni on innovatsiooniprotsess. Innovatsioon ei ole alati planeeritud ja süstemaatiline. Võib-olla ongi kaootiline, üksikisiku initsiatiivist lähtuv tarkvara kasutuselevõtmise protsess valdav. Keegi on kuulnud heast tarkvarast, toob selle teadmise organisatsiooni, paigaldab tarkvara oma arvutisse või hakkab pilveteenust kasutama.
 
 <p class='tags'>Näited</p>
 1) Asutuses kasutati suurel hulgal .NET tarkvara. Algas sellest, et programmeerija tundis seda. 2) Suures tarkvarasüsteemis programmeeriti üks moodul Ruby-keeles (mis konteksti arvestades ei olnud hea valik). Miks? Programmeerijale meeldis Ruby.
+
+__Õige otsustustasand__. Juhtkond ei ole õige tasand otsustama, millist vikitarkvara kasutatakse. Samas ei tohiks see otsus tulla ka IT osakonna süsteemiadministraatorilt. Tarkvara valikult peaks lähtuma tarkvara tegelike kasutajate arvamusest,  ühitades seda organisatsiooni tervikvaatega.
+
+Tarkvara valides peetakse tavaliselt silmas laiemaid töökorralduslikke ja ärilisi eesmärke. See on õige, kuid seos töö- ja äriprotsessides taotletavate muutustega tuleb ka läbi mõelda.
 
 Huvitav miks, kuid __tarkvara valik__ võtab vahel poliitilise või isegi "usuküsimuse" varjundi. Võib-olla on põhjus selles, et kasutajal tekib sügav emotsionaalne side oma tarkvara. Võib-olla alahinnatakse ümberõppimise psühholoogilist kulu. Võib-olla ka selles, et nii nagu muud tooted, on tarkvara tugevalt bränditud.
 
@@ -76,16 +85,16 @@ __Praktilised valikumeetodid__
 
 Eelöeldust üldistust teha on raske. Tarkvara valikuks ei ole ühte universaalset protsessi. Pretendeerimata ammendavusele võib nimetada kolme teed:
 
-__Leida usaldatav teabeallikas ja usaldada selle soovitust.__  Lihtsamate tarkvarade võrdlusi leiab kergesti (vt all), põhjalikumad analüüsid on tasulised (nt Gartner).
+1) Leida usaldatav teabeallikas ja usaldada selle soovitust.  Lihtsamate tarkvarade võrdlusi leiab kergesti (vt all), põhjalikumad analüüsid on tasulised (nt Gartner).
 
 <p class='tags'>Tarkvara</p>
-__"Teha"-tarkvara__. [40 of the Best To-Do Apps for Personal Task Management](https://zapier.com/blog/best-todo-list-apps/). Probleem: töödega unustamine, viivitamine ja hilinemine; lahendus: ToDo app (_List and Task Manager_);
-__Edenemisaruannete__ (_Progress Report_) tarkvarasid :
+"Teha"-tarkvara. [40 of the Best To-Do Apps for Personal Task Management](https://zapier.com/blog/best-todo-list-apps/). Probleem: töödega unustamine, viivitamine ja hilinemine; lahendus: ToDo app (_List and Task Manager_);
+Edenemisaruannete (_Progress Report_) tarkvarasid :
   - [I Done This](https://home.idonethis.com/)
   - [Weekdone.com](https://weekdone.com/)   
 - [14 Free Business Tools to Make Your Startup more Successful in 2017](http://www.huffingtonpost.com/kathleen-maloney/14-free-business-tools-to_b_13718746.html)
 
-__Teha ise läbi metoodiline, analüütiline valikprotsess.__
+2) Teha ise läbi metoodiline, analüütiline valikuprotsess.
 
 <p class='tags'>Näide</p>
 Kanban-laua valik. Tarkvaraarendusega tegelev tiim otsib tööde planeerimise ja jälgimise vahendit.
@@ -141,4 +150,4 @@ __Hindamistabel__
 </tbody>
 </table> 
 
-__Osta teadmine sisse, kas tasulise turuülevaate või konsultatsiooniteenuse näol.__
+3) Osta teadmine sisse, kas tasulise turuülevaate või konsultatsiooniteenuse näol.
