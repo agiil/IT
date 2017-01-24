@@ -45,7 +45,7 @@ Autorid näitavad ulatusliku empiirilise andmestiku alusel, et tegevjuht (CEO) v
 
 [Tate2015] Tate, M. (2015). Off-The-Shelf IT Solutions : A practitioner's guide to selection and procurement. Swindon, GB: BCS, The Chartered Institute for IT.
 
-metoodiline, võib isegi öelda, et liiga põhjalik protseduur valmistarkvarade valimiseks ettevõttesse. TL;DR: kandidaatide pikk nimekiri (_long list_), lühike nimekiri (_short list_)
+metoodiline, võib isegi öelda, et liiga põhjalik protseduur valmistarkvarade valimiseks ettevõttesse. TL;DR: koosta kandidaatide pikk nimekiri (_long list_), seejärel lühike nimekiri (_short list_), siis tee otsus
 {: .a}
 
 [Toomey2015] Toomey, M & Juiz, C (2015) To Govern IT, or Not to Govern IT? Communications of the ACM.

@@ -35,6 +35,11 @@ Tarkvara valikut tehakse praktikas mitmel viisil:
 
 __Analüütiline valikuprotsess__ võib anda parima tulemuse, kuid ainult siis, kui protsessi läbitegemiseks on piisavalt aega ja kompetentsi. Professionaalne tarkvaravalija [Tate2015] tegutseb metoodiliselt: kaardistab kasutajate vajadused, pöörates tähelepanu erinevate kasutajarühmade esindatusele; vajadused  artikuleeritakse selgepiirilisteks nõueteks (_Requirements_ etapp); väljaselgitatud vajadustele lisanduvad hinna- ja tehnoloogilised kaalutlused (nt kokkusobivus teiste tarkvaradega), neist moodustub valikukriteeriumite loetelu; järgmiseks sammuks on turul pakutavate tarkvara-kandidaatide väljaselgitamine ja uurimine.
 
+[Tate2015] Tate, M. (2015). Off-The-Shelf IT Solutions : A practitioner's guide to selection and procurement. Swindon, GB: BCS, The Chartered Institute for IT.
+
+metoodiline, võib isegi öelda, et liiga põhjalik protseduur valmistarkvarade valimiseks ettevõttesse. TL;DR: koosta kandidaatide pikk nimekiri (_long list_), seejärel lühike nimekiri (_short list_), siis tee otsus
+{: .a}
+
 Tarkvara valik on mitmekriteeriumiline otsustusprobleem. Juhtub, et ükski kandidaatidest ei vasta ideaalselt kõigile nõuetele. Siis kasutatakse kandidaatide pingerea koostamiseks mõnda otsustusmeetodit (kaalutud punktikeskmine vms). Tate läheb isegi nii kaugele, et tuletab meelde, et nõuete väljaselgitamiseks korraldatavates tööturbades on otstarbekas teha kohvipause.
 
 Analüütiline valikuprotsess ei anna siiski alati head tulemust.
@@ -74,7 +79,7 @@ __Õige otsustustasand__. Juhtkond ei ole õige tasand otsustama, millist vikita
 
 Tarkvara valides peetakse tavaliselt silmas laiemaid töökorralduslikke ja ärilisi eesmärke. See on õige, kuid seos töö- ja äriprotsessides taotletavate muutustega tuleb ka läbi mõelda.
 
-Huvitav miks, kuid __tarkvara valik__ võtab vahel poliitilise või isegi "usuküsimuse" varjundi. Võib-olla on põhjus selles, et kasutajal tekib sügav emotsionaalne side oma tarkvara. Võib-olla alahinnatakse ümberõppimise psühholoogilist kulu. Võib-olla ka selles, et nii nagu muud tooted, on tarkvara tugevalt bränditud.
+Huvitav miks, kuid tarkvara valik võtab vahel __poliitilise või isegi "usuküsimuse"__ varjundi. Võib-olla on põhjus selles, et kasutajal tekib sügav emotsionaalne side oma tarkvara. Võib-olla alahinnatakse ümberõppimise psühholoogilist kulu. Võib-olla ka selles, et nii nagu muud tooted, on tarkvara tugevalt bränditud.
 
 __Tegelik kasutuselevõtt__. Tarkvara valik on ainult eelmäng tegelikule kasutuselevõtule. Tihti libisetakse sellest üle, kuid tegelikult on tarkvara kasutuselevõtmine pikk ja keeruline protsess. Tarkvara kasutuselevõttu mõjutavaid tegureid on palju uuritud ja loodud mitmesuguseid teooriaid. Tuntuim neist on tehnoloogia kasutuselevõtu mudel [Technology Acceptance Model, TAM](https://en.wikipedia.org/wiki/Technology_acceptance_model). TAM-st on mitmeid variatsioone. Kriitikud väidavad siiski, et teooria on triviaalne.
 
@@ -99,7 +104,7 @@ Edenemisaruannete (_Progress Report_) tarkvarasid :
 <p class='tags'>Näide</p>
 Kanban-laua valik. Tarkvaraarendusega tegelev tiim otsib tööde planeerimise ja jälgimise vahendit.
 
-__Hindamistabel__
+Hindamistabel
 
 |                 | Lihtsus | Ilu  | Worklow tugi | Tasuta |
 |-----------------|:-------:|:----:|:------------:|:------:|
