@@ -106,7 +106,7 @@ Kanban-laua valik. Tarkvaraarendusega tegelev tiim otsib tööde planeerimise ja
 
 Hindamistabel
 
-|                 | Lihtsus | Ilu  | Worklow tugi | Tasuta |
+|                 | Lihtsus | Ilu  | Workflow tugi | Tasuta |
 |-----------------|:-------:|:----:|:------------:|:------:|
 | JIRA            |         |      |              |        |
 | Pivotal Tracker |         |      |              |        |
