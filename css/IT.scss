@@ -6,7 +6,8 @@ $grey800: #424242;
 $grey700: #616161; /* Ikoonides */
 $erepunane: #FF5252; /* Material design A200 */
 $pruun700: #5D4037;
-$sinine700: #1976D2;  
+$sinine700: #1976D2; 
+$bluegrey100: #CFD8DC; 
 /*  https://material.io/guidelines/style/color.html#color-color-palette */
 
 /* ---- Keha -------- */
@@ -161,8 +162,8 @@ dd { margin-left: 4em; }
 }
 
 /* Tegevus */
-.action { border: 1px solid Aquamarine; border-radius: 8px; 
-  background-color: Azure; padding: 10px; 
+.action { border: 1px solid 455A64; border-radius: 8px; 
+  background-color: $bluegrey100; padding: 10px; 
 }
 
 /* Cash */
