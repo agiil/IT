@@ -19,6 +19,7 @@
       url: "/Trendid"  
     - title: "1.5 Tehnoloogiate (tarkvarade) hindamine ja valik"
       url: "/Tehno"
+      pub: true
     - title: "1.6 IT arhitektuur"
       url: "/Arhi"
     - title: "1.7 IT valitsemine, juhtimine, korraldamine"
