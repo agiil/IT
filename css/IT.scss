@@ -6,6 +6,7 @@ $grey800: #424242;
 $grey700: #616161; /* Ikoonides */
 $erepunane: #FF5252; /* Material design A200 */
 $pruun700: #5D4037;
+$brown400: #8D6E63;
 $sinine700: #1976D2; 
 $bluegrey100: #CFD8DC; 
 /*  https://material.io/guidelines/style/color.html#color-color-palette */
@@ -160,6 +161,12 @@ dd { margin-left: 4em; }
   font-size: 8pt;
   letter-spacing: 2px;
 }
+.tag { color: White;
+  background-color: $brown400;
+  border-radius: 4px;
+  border:solid 1px $brown400;
+  padding: 4px;
+   }
 
 /* Tegevus */
 .action { border: 1px solid 455A64; border-radius: 8px; 
