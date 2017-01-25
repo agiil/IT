@@ -72,3 +72,9 @@ meetod
   - nt #ThrowawayCode #TheSimplestThingThatCouldPossiblyWork
 
 mõte
+
+__Abiteave__
+
+Snippetid: C:\Users\priitp\AppData\Roaming\Sublime Text 3\Packages\User
+
+
