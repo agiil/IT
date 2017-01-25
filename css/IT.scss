@@ -154,7 +154,7 @@ dd { margin-left: 4em; }
 .ikoon { color: $grey700; font-size: 36px !important; }
 
 /* Silt e tag */
-.tags { margin: 1em 0 0 0; 
+.tags { margin: 1em 0 3px 0; 
   text-transform: uppercase;
   color: $pruun700; 
   font-family: 'Roboto Condensed', sans-serif;
@@ -163,7 +163,7 @@ dd { margin-left: 4em; }
 }
 .tag { color: White;
   background-color: $brown400;
-  border-radius: 4px;
+  border-radius: 8px;
   border:solid 1px $brown400;
   padding: 4px;
    }

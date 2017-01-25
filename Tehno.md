@@ -24,7 +24,7 @@ __Küsimus millist tarkvara kasutada__ on oluline mitmel põhjusel. Hea tarkvara
 
 Tarkvara valiku otsuseid tehakse suuremas organisatsioonis aastas vähemalt 4-5 tükki aastas. Sageli on nende otsuste mõju oluline. 
 
-<p class='tags'>Näide</p>
+<p class='tags'><span class='tag'>Näide</span></p>
 Organisatsioonis kasutati aastaid kõrvuti kahte andmebaasisüsteemi: Oracle (tasuline) ja PostgreSQL (vabavara). Iga-aastased Oracle litsentsitasud olid suhteliselt suured. Kulude kokkuhoidmise eesmärgil otsustati üle minna ainult PostgreSQL-le. Otsus oli siiski problemaatiline, sest süsteemiadministraator väitis, et Oracle andmebaasi haldamine on oluliselt kergem ja ähvardas töölt lahkuda.
 
 Tarkvara valikut tehakse praktikas mitmel viisil:
@@ -48,15 +48,15 @@ Esiteks peab organisatsioon olema võimeline süstemaatilist, objektiivset prots
 
 Kõik olulised kriteeriumid tuleb välja selgitada. Kriteeriumite suhtelist tähtsust tuleb hinnata. Hinnangud põhinevad tihti eeldustel. Hinnang, mis on tehtud valedel eeldustel, on parimal juhul kasutu, halvemal juhul - eksitav. Näiteks seatakse tarkvara valikul sageli eesmärgiks infotehnoloogilise keskkonna ühtlustamine, "loomaaia" piiramine. Usutakse, et kui kõik hakkavad kasutama sama töövahendit, siis ühtlustuvad ja korrastuvad ka tööprotsessid ja paraneb kommunikatsioon - rääkimata standardse tarkvara madalamatest hooldus- ja hankimiskuludest. Kahjuks reaalsus nii lihtne ei ole. Universaalset tööriista on raske leida, sageli seda ei olegi. Protsessid võivad olla küll väliselt sarnased, kuid detailitasandil siiski nii spetsiifilised, et nõuavad erinevaid töövahendeid.
 
-<p class='tags'>Näide</p>
+<p class='tags'><span class='tag'>Näide</span></p>
 Tarkvaraarendusega ja IT-teenustega tegelevas organisatsioonis otsustati, et kogu teavet hakatakse hoidma Confluence-is. [Atlassiani Confluence](https://www.atlassian.com/software/confluence) on hea tarkvara, kuid sobib siiski ainult teatud liiki dokumentatsiooni töötlemiseks.
 
 Teiseks võib süstemaatiline protsess kujuneda töömahukaks ja aeganõudvaks.
 
-<p class='tags'>Näide</p>
+<p class='tags'><span class='tag'>Näide</span></p>
 Turul on kümneid, kui mitte sadu [märkmete tegemise tarkvarasid](https://en.wikipedia.org/wiki/Comparison_of_notetaking_software). Kes jõuab neid süstemaatiliselt võrrelda?
 
-<p class='tags'>Näide</p>
+<p class='tags'><span class='tag'>Näide</span></p>
 Kaks koostööpartnerit otsustasid, et võtavad kumbki kasutusele sama tarkvara. Sobivat tarkvara valiti süstemaatiliselt. Osteti konsultant, kes tegi põhjaliku, mitmekuulise analüüsi. Jõuti juba peaaegu otsuseni, kui viimasel hetkel üks partner loobus, sisuliselt poliitilisel põhjusel. 
 
 Kolmandaks ei saa tootekirjelduste põhjal alati õiget pilti tarkvara tegelikust kasutatavusest.
@@ -65,7 +65,7 @@ Valikumeetodit võib täiendada tarkvara testkasutusega.
 
 __Tarkvara testkasutus__ on üldlevinud praktika. Tarkvaratootjad pakuvad tarkvara testimiseks mitmesuguseid võimalusi: tasuta katsetamine piiratud perioodi jooksul (_Free Trial_), piiratud funktsionaalsusega versiooni kasutamine (_Free Tier_).
 
-<p class='tags'>Näide</p>
+<p class='tags'><span class='tag'>Näide</span></p>
 Organisatsioon otsustas, et valib uue tööplaanimise ja tööaja arvestuse tarkvara nii, et laseb kuni neljal IT-firmal paigaldada oma toote testversioon. Töötajatel on vabadus valida, millist kasutada. Valitakse see, mis "jääb ellu". (Tuli ainult üks IT-firma).
 
 Testkasutuse probleemiks on ajakulu. Siiski tundub, et testimist kasutatakse liiga vähe. Liiga vara seotakse end ühe tarkvaraga - ja liiga kauaks jäädakse seotud ühe tarkvaraga.
@@ -92,7 +92,7 @@ Eelöeldust üldistust teha on raske. Tarkvara valikuks ei ole ühte universaals
 
 1) Leida usaldatav teabeallikas ja usaldada selle soovitust.  Lihtsamate tarkvarade võrdlusi leiab kergesti (vt all), põhjalikumad analüüsid on tasulised (nt Gartner).
 
-<p class='tags'>Tarkvara</p>
+<p class='tags'><span class='tag'>Tarkvara</span></p>
 "Teha"-tarkvara. [40 of the Best To-Do Apps for Personal Task Management](https://zapier.com/blog/best-todo-list-apps/). Probleem: töödega unustamine, viivitamine ja hilinemine; lahendus: ToDo app (_List and Task Manager_);
 Edenemisaruannete (_Progress Report_) tarkvarasid :
   - [I Done This](https://home.idonethis.com/)
