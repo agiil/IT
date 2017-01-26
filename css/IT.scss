@@ -8,7 +8,8 @@ $erepunane: #FF5252; /* Material design A200 */
 $pruun700: #5D4037;
 $brown400: #8D6E63;
 $sinine700: #1976D2; 
-$bluegrey100: #CFD8DC; 
+$bluegrey100: #CFD8DC;
+$yellow100: #FFF9C4;
 /*  https://material.io/guidelines/style/color.html#color-color-palette */
 
 /* ---- Keha -------- */
@@ -77,6 +78,7 @@ table, th, td { border: 1px solid black; }
 
 /* Tekst */
 .disabled { color:#000000; opacity:0.38; }
+.s { font-size: 10pt; }
 
 /* Allkriipsutus */
 .u { text-decoration: underline; }
@@ -89,8 +91,6 @@ table, th, td { border: 1px solid black; }
 .a { margin-left: 2em; margin-top: 0;
    font-style: italic; color: $mutedblue; }
 
-/* Allmärkus */
-.s { font-size: 10pt; }
 
 /* Redigeerimisnupp */
 .edit { 
@@ -160,9 +160,9 @@ dd { margin-left: 4em; }
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 8pt;
   letter-spacing: 2px;
+  background-color: $yellow100;
 }
-.tag { color: White;
-  background-color: $brown400;
+.tag { color: $grey700;
   border-radius: 8px;
   border:solid 1px $brown400;
   padding: 4px;

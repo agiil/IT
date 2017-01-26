@@ -116,4 +116,29 @@ Mis takistab infohalduse ideaali saavutamist? Takistada võivad muu hulgas:
 - infohalduse parendused võivad olla väikesed, pikaajalise tagasitootmisajaga, raskesti järgitavad
 
 
+__"Infostrateegia"__
+<p class='action'><i class="material-icons ikoon">help_circle</i>Milliseid infoallikaid ja millises proportsioonis tuleks kasutada, et IT arengutega kursis olla?</p>
+
+<p class='tags'><span class='tag'>Näide</span></p>
+__Personaalne infostrateegia (näide)__
+
+| infoallikas v- kanal  | kasutamine       |
+|-----------------------|:----------------:|
+| Hacker News              | oluline, tihe |
+| IT blogid                | oluline, tihe (HN ja Google kaudu) |
+| TLÜ/EBS artiklibaasid    | kasulik, aeg-ajalt    |
+| Twitter (arvamusliidrid) | võiks rohkem, ei jõua |
+| inimkontaktid            | 
+| - kolleegid              | oluline, võiks rohkem? |
+| - tudengid               | oluline               |
+| raamatud                 | ei jõua               |
+| firma koolitused         | ei osale              |
+| konverentsid             | oluline               |
+| töö ise                  | oluline               |
+| - ise kirjutamine        | oluline               |
+| - ise blogimine          | peaks, ei jõua        |
+| äriajakirjandus (Eesti)  | ei                    |
+| IT veebiväljaanded       | ei jõua               |
+| DevClub, Meetups jms     | oleks oluline         |
+
 

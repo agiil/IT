@@ -3,6 +3,18 @@ title: Muu
 permalink: Muu
 ---
 
+
+<p class='tags'><span class='tag'>artikli TL;DR</span></p>
+Miranda et al (2015) Jamming with social media : how cognitive structuring of organizing vision facets affects IT innovation diffusion. MIS Quarterly
+
+*Teoreetiline artikkel, mis uurib *millises võtmes IT innovatsiooniprojekte, konkreetselt veebilahendusi, kus kliendi ise loovad sisu, organisatsioonides esitatakse*{: .u}. Leiti, et IT kasu nähakse erinevalt. Neli tüüpskeemi:
+
+- _Technology-as-Efficiency-Engineer_ - IT lahendus voolujoonestab prtosesse, automatiseerib, tõstab efektiivsust
+- _Technology-as-Brand-Promoter_ - IT lisab väärtust sellega, et võimaldab muuta kliendisuhet lähedasemaks, intiimsemaks, pikaajalisemaks
+- _Technology-as-Good-Citizen_ - IT iseloomelahendused on eriti sobivad _corporate social responsibility_ suunas
+- _Technology-as-Master-of-Ceremonies_ - IT on hea vahend ettevõttele tähelepanu tõmbamiseks.*{: .s}
+
+
 Enterprise architecture (EA) is an approach for managing all components of enterprise and relationships among them. 
 
 <p class='tags'>[Tarkvara] [Integratsioon] [Näide]</p>

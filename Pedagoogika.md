@@ -8,6 +8,8 @@ permalink: Pedagoogika
 
 __also__
 
+__artikli TL;DR__
+
 __dangerous stuff__
 
 __eriprojekt__, _special project_
@@ -34,25 +36,19 @@ __oskus__, __võtmeoskus__, _key skill_
 
 __probleem__, __väljakutse__, _challenge_
 
+__silt__ (_tag_), oluline kategoriseerimismeetod
+
 __tabel__
 
 __tarkvara__, tarkvarasoovitus, silt `Tarkvara`
 
 __tarkvara ülevaade__ silt `Tarkvara ülevaade`
 
+__teema__
+
 __tegevus__, _action_
 
-```
-<p class='action'><i class="material-icons ikoon">help_circle</i></p>
-```
-
 __tüüpiline probleem__
-
-__silt__ (_tag_), oluline kategoriseerimismeetod
-
-<p class='tags'>Praktikas kuuldu</p>
-
-__teema__
 
 __TL;DR__
 
@@ -79,7 +75,13 @@ mõte
 
 __Abiteave__
 
-Snippetid: C:\Users\priitp\AppData\Roaming\Sublime Text 3\Packages\User
+```
+<p class='action'><i class="material-icons ikoon">help_circle</i></p>
+```
+
+snippetid: C:\Users\priitp\AppData\Roaming\Sublime Text 3\Packages\User
+
+Syntax Highlighting for Sass
 
 __Sisukord__
 
