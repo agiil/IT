@@ -17,6 +17,11 @@ __software-driven__, äri, mille tuumaks on IT.
 
 > "Observe calmly; secure our position; cope with affairs calmly; hide our capacities and bide our time; be good at maintaining a low profile; and never claim leadership.” --- Deng Xiaoping (early 1990s)
 
+Koguda jõudu ja valmistuda hüppeks.
+
+<p class='action'><i class="material-icons ikoon">help_circle</i>Ärisuhete võrgustiku ehitamine - kuidas IT võiks aidata?</p>
+
+
 Deng Xiapingi kuulus 24-hieroglüüfi strateegia
 
 > "While Yahoo was busy enlarging its portfolio, a new generation of start-ups was focusing on perfecting one single product"
