@@ -42,6 +42,10 @@ __tarkvara ülevaade__ silt `Tarkvara ülevaade`
 
 __tegevus__, _action_
 
+```
+<p class='action'><i class="material-icons ikoon">help_circle</i></p>
+```
+
 __tüüpiline probleem__
 
 __silt__ (_tag_), oluline kategoriseerimismeetod
@@ -77,4 +81,9 @@ __Abiteave__
 
 Snippetid: C:\Users\priitp\AppData\Roaming\Sublime Text 3\Packages\User
 
+__Sisukord__
 
+```
+- TOC
+{:toc}
+```

@@ -11,6 +11,10 @@ permalink: Infohaldus
   - reeglid, klassifikatsiooniskeemid
   - kommunikatsioonikanalite valik
 
+<p class='action'><i class="material-icons ikoon">Ettevõte võib suhelda klientidega mitmete kanalite kaudu (üks võiu mitu erinevat veebiliidest, e-post, sotsiaalmeedia, trükimeedia jne). Kas peaks olema nn "kanalistrateegia" ja mida see peaks sisaldama?<br>
+<br>
+</i></p>
+
 IT mõjutab organisatsioone mitmel tasandil.
 
 __Globaalsel tasandil__ põhjustab IT areng tervete majandusharude tekkimist ja kadumist. Kas inimesed kaotavad robotite ja tehisintellekti tõttu töö? Iseliikuvate autode levik tähendab miljonite juhtide - ja ahelreaktsioonina ka näiteks sõiduõpetajate - kadu.
