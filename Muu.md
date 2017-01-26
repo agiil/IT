@@ -5,7 +5,7 @@ permalink: Muu
 
 
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
-Miranda et al (2015) Jamming with social media : how cognitive structuring of organizing vision facets affects IT innovation diffusion. MIS Quarterly
+<p class='s'>Miranda et al (2015) Jamming with social media : how cognitive structuring of organizing vision facets affects IT innovation diffusion. MIS Quarterly</p>
 
 *Teoreetiline artikkel, mis uurib millises võtmes IT innovatsiooniprojekte, konkreetselt veebilahendusi, kus kliendi ise loovad sisu, organisatsioonides esitatakse*{: .u}. Leiti, et IT kasu nähakse erinevalt. Neli tüüpskeemi:
 
@@ -15,18 +15,18 @@ Miranda et al (2015) Jamming with social media : how cognitive structuring of or
 - _Technology-as-Master-of-Ceremonies_ - IT on hea vahend ettevõttele tähelepanu tõmbamiseks.
 
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
-Shen et al (2015) Competing for attention : an empirical study of online reviewers' strategic behavior. MIS Quarterly
+<p class='s'>Shen et al (2015) Competing for attention : an empirical study of online reviewers' strategic behavior. MIS Quarterly</p>
 
 *Pealkiri ütleb kõik: 2/3 tarbijatest loevad tootearvustusi, > 80% tuginevad ostuotsuse tegemisel otseselt arvustustele. Kuna tähelepanu on internetis kõige hinnalisem ressurss, siis valivad arvustuste kirjutajad hoolikalt, mida arvustada. Arvustaja maksimeerib temale osakssaavat sotsiaalset tähelepanu.*{: .u}
 
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
-Karhade et al (2015) Patterns in information systems portfolio prioritization : evidence from decision tree induction. MIS Quarterly 
+<p class='s'>Karhade et al (2015) Patterns in information systems portfolio prioritization : evidence from decision tree induction. MIS Quarterly</p>
 
-*Uuriti 150 IT investeeringute portfelliga seotud arenduste prioritiseerimise otsust suures ettevõttes.*{: .u} Leiti, et: 1) prioritiseerimisotsused sõltuvad suuresti valitud IT strateegiast (innovatsioonile suunatud või konservatiivne); 2) otsuseid tihti ei suudeta ratsionaalselt põhjendada. Innovatsioonile suunatud strateegiat iseloomustab. 1) kiirestimuutuv väliskeskkond; 2) orgaaniline otsuste tegemise struktuur; 3) tendents võtta riske; 4) laienemine uutele turgudele. Konservatiivset strateegiat iseloomustab: 1) suhteliselt stabiilne väliskeskkond; 2) formaalne otsuste tegemise struktuur; 3) riski vältimine; 4) püüd efektiivsuse parendamisele.
+*Uuriti 150 IT investeeringute portfelliga seotud arenduste prioritiseerimise otsust suures ettevõttes.*{: .u} Leiti, et: 1) prioritiseerimisotsused sõltuvad suuresti valitud IT strateegiast (innovatsioonile suunatud või konservatiivne); 2) otsuseid tihti ei suudeta ratsionaalselt põhjendada. Innovatsioonile suunatud strateegiat iseloomustab: 1) kiirestimuutuv väliskeskkond; 2) orgaaniline otsuste tegemise struktuur; 3) tendents võtta riske; 4) laienemine uutele turgudele. Konservatiivset strateegiat iseloomustab: 1) suhteliselt stabiilne väliskeskkond; 2) formaalne otsuste tegemise struktuur; 3) riski vältimine; 4) püüd efektiivsuse parendamisele.
 
 
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
-Lusch et al (2015) Service innovation : a service-dominant logic perspective. MIS Quarterly
+<p class='s'>Lusch et al (2015) Service innovation : a service-dominant logic perspective. MIS Quarterly</p>
 
 *Teenuste ala teoreetilised käsitlused [ja ka praktika! -PP] on liigselt rippunud vastandamiste toode-teenus ja teenuseosutaja-klient küljes. Autorid esitavad uue käsitluse, kus need aegunud dihhotoomiad on ületatud. Teenuste innovatsiooni tuumteemad on autorite arvates: 1) innovatsioon kui actor-to-actor (A2A) protsess, mis toimub aktorivõrgus; 2) teenus kui spetsialiseeritud kompetentside rakendamine kas enda või teise aktori kasuks; kompetentsid on vahetuse alus 3) ressursside suuremast "voolavusest" tingitud generatiivsus; 4) ressursside lõimimine (integration) kui innovatsiooni alusviis.*{: .u} Käsitletakse teenuste ökosüsteeme (_Service Ecosystems_), teenusplatvorme (_Service Platforms_) ja väärtuse koosloomet (_Value Cocreation_).
 
