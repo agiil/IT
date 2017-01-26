@@ -7,7 +7,7 @@ permalink: Muu
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
 <p class='s'>Miranda et al (2015) Jamming with social media : how cognitive structuring of organizing vision facets affects IT innovation diffusion. MIS Quarterly</p>
 
-*Teoreetiline artikkel, mis uurib millises võtmes IT innovatsiooniprojekte, konkreetselt veebilahendusi, kus kliendi ise loovad sisu, organisatsioonides esitatakse*{: .u}. Leiti, et IT kasu nähakse erinevalt. Neli tüüpskeemi:
+*Teoreetiline artikkel, mis uurib millises võtmes IT innovatsiooniprojekte, konkreetselt veebilahendusi, kus kliendid ise loovad sisu, organisatsioonides esitatakse*{: .u}. Leiti, et IT kasu nähakse erinevalt. Neli tüüpskeemi:
 
 - _Technology-as-Efficiency-Engineer_ - IT lahendus voolujoonestab protsesse, automatiseerib, tõstab efektiivsust
 - _Technology-as-Brand-Promoter_ - IT lisab väärtust sellega, et võimaldab muuta kliendisuhet lähedasemaks, intiimsemaks, pikaajalisemaks
