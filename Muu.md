@@ -28,7 +28,7 @@ permalink: Muu
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
 <p class='s'>Lusch et al (2015) Service innovation : a service-dominant logic perspective. MIS Quarterly</p>
 
-*Teenuste ala teoreetilised käsitlused [ja ka praktika! -PP] on liigselt rippunud vastandamiste toode-teenus ja teenuseosutaja-klient küljes. Autorid esitavad uue käsitluse, kus need aegunud dihhotoomiad on ületatud. Teenuste innovatsiooni tuumteemad on autorite arvates: 1) innovatsioon kui actor-to-actor (A2A) protsess, mis toimub aktorivõrgus; 2) teenus kui spetsialiseeritud kompetentside rakendamine kas enda või teise aktori kasuks; kompetentsid on vahetuse alus 3) ressursside suuremast "voolavusest" tingitud generatiivsus; 4) ressursside lõimimine (integration) kui innovatsiooni alusviis.*{: .u} Käsitletakse teenuste ökosüsteeme (_Service Ecosystems_), teenusplatvorme (_Service Platforms_) ja väärtuse koosloomet (_Value Cocreation_).
+*Teenuste ala teoreetilised käsitlused [ja ka praktika! -PP] on liigselt rippunud vastandamiste toode-teenus ja teenuseosutaja-klient küljes. Autorid esitavad uue käsitluse, kus need aegunud dihhotoomiad on ületatud. Teenuste innovatsiooni tuumteemad on autorite arvates: 1) innovatsioon kui actor-to-actor (A2A) protsess, mis toimub aktorivõrgus; 2) teenus kui spetsialiseeritud kompetentside rakendamine kas enda või teise aktori kasuks; kompetentsid on vahetuse alus; 3) ressursside suuremast "voolavusest" tingitud generatiivsus; 4) ressursside lõimimine (integration) kui innovatsiooni alusviis.*{: .u} Käsitletakse teenuste ökosüsteeme (_Service Ecosystems_), teenusplatvorme (_Service Platforms_) ja väärtuse koosloomet (_Value Cocreation_).
 
 > "Shift to network-centric, information-centric, and experience-centric innovation foci"
 
