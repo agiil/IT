@@ -18,13 +18,12 @@ Breaking the regex down:
 <p class='action'><i class="material-icons ikoon">Mida teha?</i></p>
 
 <div class='pra'>N</div>
-
+<p class='tags'><span class='tag'>Näide</span></p>
 the National Institute of Standards and 
 technologies (NIST) [28] has characterized cloud computing into three building layers: infrastructure as a service (IaaS), platform 
 as a service (PaaS), and Saas.
 
 <div class='art'>A</div>
-
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
 <p class='s'>Choudhary et al (2013) The impact of cloud computing: should the IT department be organized as a cost center or a profit center?  Journal of management information systems</p>
 
