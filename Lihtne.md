@@ -5,6 +5,9 @@ permalink: Lihtne
 
 # 1.8 Lihtne ja keeruline IT
 
+<p class='tags'>Tarkvara</p>
+[LeanKit](https://leankit.com/), _Lean_ põhimõtteid järgiv visuaalne projektijuhtimise ja töövoosüsteem
+
 __Lihtsaim IT__
 
 - "Hello, World!" - traditsiooniline [kõige lihtsam IT-rakendus](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).
