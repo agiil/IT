@@ -21,7 +21,7 @@ body {
   line-height: 1.2;
   /* font-family: 'Times New Roman', serif;
   fon-size: 14pt; color: $grey800; */
-  font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif; color: #333;
+  font-family: 'DejaVu Sans Mono', Arial, Helvetica, sans-serif; color: #333;
   font-size: 14px; 
   }
 
@@ -37,7 +37,7 @@ body {
 .statistika { font-family: 'Roboto', sans-serif;
   font-size: 13pt; margin-bottom: 8px; }
 
-/* ---- Külgriba ------- */
+/* ==== Külgriba ======== */
 #Riba {
   flex-grow: 0; width: 18rem;
   padding: 0 1rem 2rem 1rem;
@@ -49,6 +49,10 @@ body {
   cursor: pointer;
   color: $erepunane; 
 }
+/* Külgriba loetelud */
+nav > ul, nav > ol { font-family: 'Anonymous Pro', sans-serif; }
+nav ul { list-style-type: none; }
+
 
 /* Pealdised */
 h1 { font-size: 130%;
@@ -65,10 +69,6 @@ ul { list-style: none; margin: 0 0 1em 0;
     padding-left: 1em; }
 ul > li:before { display: inline-block;
     content: "-"; width: 1em; margin-left: -1em; }
-
-/* Külgriba loetelud */
-nav > ul, nav > ol { font-family: 'Anonymous Pro', sans-serif; }
-nav ul { list-style-type: none; }
 
 /* Tabelid */
 table { table-layout: fixed;
