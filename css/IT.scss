@@ -10,6 +10,8 @@ $brown400: #8D6E63;
 $sinine700: #1976D2; 
 $bluegrey100: #CFD8DC;
 $yellow100: #FFF9C4;
+$teal400: #26A69A;
+$pink400: #EC407A;
 /*  https://material.io/guidelines/style/color.html#color-color-palette */
 
 /* ---- Keha -------- */
@@ -85,22 +87,10 @@ table, th, td { border: 1px solid black; }
 /* Allkriipsutus */
 .u { text-decoration: underline; }
 
-/* Bibliograafiaüksus */
-.ref { font-size: 12pt; }
-
 /* Annotatsioon - bibliograafiaüksuse lühike kokkuvõte, iseloomustus
    või hinnang */
 .a { margin-left: 2em; margin-top: 0;
    font-style: italic; color: $mutedblue; }
-
-
-/* Redigeerimisnupp */
-.edit { 
-  color: #E0E0E0; font-size: 24px; cursor: pointer;
-  position: absolute; right: 5px; top: 5px;
-  text-decoration:none;
-}
-a[href] .edit { color: #E0E0E0; text-decoration:none; }
 
 /* Plokktsitaat */
 blockquote { 
@@ -170,21 +160,23 @@ dd { margin-left: 4em; }
   }
 
 /* Tegevus */
-.action { border: 1px solid 455A64; border-radius: 8px; 
+.action { border-radius: 8px; 
   background-color: $bluegrey100; padding: 10px; 
 }
 
 /* Raha (Cash) */
 .c { color: $erepunane; }
 
-/* Ringmärgend */
-.l {
-  width: 32px;
-  height: 32px;
+/* Ringmärgendid */
+.pra, .art, .ise {
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
   font-size: 14px;
   color: #fff;
-  line-height: 32px;
+  line-height: 36px;
   text-align: center;
-  background: #EC407A;
 }
+.pra { background: $teal400; } /* Praktika */
+.art { background: $pink400; } /* Artikkel */
+.ise { background: $pruun700; } /* Ise */
