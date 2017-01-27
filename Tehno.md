@@ -35,10 +35,10 @@ Tarkvara valikut tehakse praktikas mitmel viisil:
 
 __Analüütiline valikuprotsess__ võib anda parima tulemuse, kuid ainult siis, kui protsessi läbitegemiseks on piisavalt aega ja kompetentsi. Professionaalne tarkvaravalija [Tate2015] tegutseb metoodiliselt: kaardistab kasutajate vajadused, pöörates tähelepanu erinevate kasutajarühmade esindatusele; vajadused  artikuleeritakse selgepiirilisteks nõueteks (_Requirements_ etapp); väljaselgitatud vajadustele lisanduvad hinna- ja tehnoloogilised kaalutlused (nt kokkusobivus teiste tarkvaradega), neist moodustub valikukriteeriumite loetelu; järgmiseks sammuks on turul pakutavate tarkvara-kandidaatide väljaselgitamine ja uurimine.
 
-[Tate2015] Tate, M. (2015). Off-The-Shelf IT Solutions : A practitioner's guide to selection and procurement. Swindon, GB: BCS, The Chartered Institute for IT.
+<p class='tags'>Artikli TL;TR</p>
+<p class='s'>[Tate2015] Tate, M. (2015). Off-The-Shelf IT Solutions : A practitioner's guide to selection and procurement. Swindon, GB: BCS, The Chartered Institute for IT.</p>
 
-metoodiline, võib isegi öelda, et liiga põhjalik protseduur valmistarkvarade valimiseks ettevõttesse. TL;DR: koosta kandidaatide pikk nimekiri (_long list_), seejärel lühike nimekiri (_short list_), siis tee otsus
-{: .a}
+Metoodiline, võib isegi öelda, et liiga põhjalik protseduur valmistarkvarade valimiseks ettevõttesse. TL;DR: koosta kandidaatide pikk nimekiri (_long list_), seejärel lühike nimekiri (_short list_), siis tee otsus
 
 Tarkvara valik on mitmekriteeriumiline otsustusprobleem. Juhtub, et ükski kandidaatidest ei vasta ideaalselt kõigile nõuetele. Siis kasutatakse kandidaatide pingerea koostamiseks mõnda otsustusmeetodit (kaalutud punktikeskmine vms). Tate läheb isegi nii kaugele, et tuletab meelde, et nõuete väljaselgitamiseks korraldatavates tööturbades on otstarbekas teha kohvipause.
 

@@ -94,7 +94,10 @@ See viib mõttele, kas tegu pole mitte ühe huvirühma (audiitorid) vajadustest 
 
 Mõiste ja abstraktsioonikihiga, mille olemasolu on problemaatiline. Kasutud abstraktsioonikihid on IT-s aga teadupärast kurjast.
 
-Masli et al [Masli2016] näitavad ulatusliku empiirilise andmestiku alusel, et tegevjuht (CEO) võib ettevõtte IT-s ilmnevate probleemide puhul küll ametist lahti saada, kuid IT spetsiifilisuse ja keerukuse tõttu on tippjuhil vähe võimalusi IT juhtimise seisu ettevõttes reaalselt mõjutada. Parim, mis ta teha saab, on luua IT juhiga (CIO) toimiv isiklik koostöösuhe. Muus peab ta IT-asjatundjat usaldama. Mis on loogiline, sest kuidas saakski ärijuht IT-d tundmata rohkem määrata?
+<p class='tags'>Artikli TL;TR</p>
+[Masli2016] Masli et al (2016) Senior Executives’ IT Management Responsibilities: Serious IT-Related Deficiencies and CEO/CFO Turnover. [MIS Quarterly](http://www.misq.org/contents-40-3/), Vol 40, No 3.
+
+<p class='s'>Masli et al [Masli2016] näitavad ulatusliku empiirilise andmestiku alusel, et tegevjuht (CEO) võib ettevõtte IT-s ilmnevate probleemide puhul küll ametist lahti saada, kuid IT spetsiifilisuse ja keerukuse tõttu on tippjuhil vähe võimalusi IT juhtimise seisu ettevõttes reaalselt mõjutada. Parim, mis ta teha saab, on luua IT juhiga (CIO) toimiv isiklik koostöösuhe. Muus peab ta IT-asjatundjat usaldama. Mis on loogiline, sest kuidas saakski ärijuht IT-d tundmata rohkem määrata?</p>
 
 __Mitu mudelit, mille vahel valida__
 

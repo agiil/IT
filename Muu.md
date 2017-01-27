@@ -1,8 +1,32 @@
 ---
 title: Muu
 permalink: Muu
+sidebar: false
 ---
 
+```
+( *?[0-9a-zA-Z] *?){10,}
+
+Breaking the regex down:
+
+    ( *? --------It can start with space(s)
+    [0-9a-zA-Z] -Followed with the alphanumeric values
+    *?) ---------It can end with space(s)
+    {10,} -------Matches this pattern 10 or more times
+
+```
+
+the National Institute of Standards and 
+technologies (NIST) [28] has characterized cloud computing into three building layers: infrastructure as a service (IaaS), platform 
+as a service (PaaS), and Saas.
+
+<p class='tags'><span class='tag'>artikli TL;DR</span></p>
+<p class='s'>Choudhary et al (2013) The impact of cloud computing: should the IT department be organized as a cost center or a profit center?  Journal of management information systems</p>
+
+Pilveteenuste turg on väga kiirelt kasvanud. Kõiki ettevõtte põhisüsteeme saab juba teostada pilveteenustena. Artiklis uuritakse, milline saab olema ettevõtte IT osakonna roll olukord muutuvas olukorras. IT osakonna ülesandeks jääb: 1) teenusepakkujate valik; 2) ettevõtte turva- ja andmekaitsepoliitika kujundamine ja järelevalve; 3) sisseostetavate pilveteenuste täiendamine, nt rakenduste ja andmeintegratsiooniga. IT osakonna valitsemisel (_Governance_) on traditsiooniliselt kasutatud kahte vormi: kulukeskus (_Cost Center_) ja tulukeskus (_Profit Center_). Tulukeskusena tegutseval IT osakonnal on teenuste hinnakiri; ettevõtte sisekasutajad maksavad teenuste eest. Kulukeskuse puhul on IT osakonna teenused tasuta. Varasemad uurijad on jõudnud üksmeelsele seisukohale, et IT osakonna tegutsemine tulukeskusena ei ole hea. IT osakonnal on selleks liiga suur, monopolistlik võim. Pilveteenuste kasutamisel muutub IT osakond tarneahela lüliks (pilveteenuse pakkuja -> IT osakond -> ettevõtte kasutajad). Autorid väidavad, et pilveteenuste sisseostmine on suuresti erinev varasemast teenuste sisseostmisest. Pilveteenuste kuluökonoomika olulised atribuudid on _Pay-as-you-go_ ja püsikulude puudumine. Järeldus:
+
+> "As more services are procured from cloud vendors, the need for functions within the IT department that serve to administer, monitor, and  maintain  the IT  infrastructure  will  be  considerably  diminished  or  even  eliminated. Under  cloud computing, the IT department may need to increase the focus on adding value to the 
+incoming cloud-based services. The mission of the IT department would transition to determining the means by which the IT personnel can ensure that enhancements to cloud-based services fit the current and future needs of the consuming units."
 
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
 <p class='s'>Miranda et al (2015) Jamming with social media : how cognitive structuring of organizing vision facets affects IT innovation diffusion. MIS Quarterly</p>

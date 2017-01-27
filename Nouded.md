@@ -5,6 +5,13 @@ permalink: Nouded
 
 # 4.5 Ärinõuded ja infovajadused
 
+<p class='tags'>Artikli TL;TR</p>
+<p class='s'>[Spolsky2000] Joel Spolsky (2000) [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/).</p>
+
+4-osaline blogikirjutise sari tuntud arendusgurult ja ettevõtjalt spetsifitseerimisest (IT arenduses üliolulisest, paljudiskuteeritavast küsimusest)
+
+---
+
 __Info vajadus__ on lähtekoht iga süsteemi tegemisel. Miks muidu süsteemi üldse teha?
 
 Keegi vajab mingit infot. *Väga harva on kasutajate infovajadused nii selged, et neid ei ole vaja uurida*{: .u}

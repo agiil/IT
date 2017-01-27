@@ -5,6 +5,13 @@ url: Profiil
 
 # 1.3 Ettevõtte IT-profiil
 
+<p class='tags'>Artikli TL;TR</p>
+<p class='s'>[Carter2015] Carter, M & Grover, V (2015) Me, my self, and I(T): conceptualizing information technology identity and its implications. MIS Quarterly.</p>s
+
+Intrigeeriv teooria sellest, et arvutikasutus, "netisolek" on tasapisi muutunud inimese identiteedi (enesepildi) lahutamatuks osaks (kasutan Facebooki, järelikult olen)
+
+---
+
 1 töötaja
 
 | rakendus, seade või artefakt | milleks kasulik | näide |

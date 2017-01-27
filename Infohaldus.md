@@ -64,7 +64,7 @@ See nähtused on viinud selleni, et viimasel ajal on hakatud rõhutama terviklik
 
 <p class='action'><i class="material-icons ikoon">help_circle</i>Ettevõte tegutseb konsultatiivse, projektimüügiga. Juhataja tahab, et kogu suhtlus klientidega saaks fikseeritud. Kuidas seda saavutada?</p>
 
-Lahenduseks võib olla kliendihaldussüsteemi (CRM-süsteemi, _Customer Relationship Managemen_) hankimine. Mõneski firmas võib see olla parim lahendus. Samas on palju organisatsioone, kus ühe süsteemi hankimisega nii suurt probleemi ära ei lahenda. Seda mitmel põhjusel. Teavet võib olla nii palju ja suhtlust läbi nii paljude kanalite, et kogu informatsiooni hõlmamine ühtsesse süsteemi ei ole praktiliselt võimalik. Ja isegi kui see saavutatakse, peab teave olema ülesleitav.Teine moment on olulise eristamine ebaolulisest. Juhataja ei väljenda end päris täpselt. Teda ei huvita kõikvõimalik teave, vaid ikkagi ainult oluline teave. Olulisus tähendab aga erinevatele inimestele erinevatel aegadel erinevaid asju. Info nappusest võib niiviisi jõuda väheolulise teabe ülekülluseni.
+Lahenduseks võib olla kliendihaldussüsteemi (CRM-süsteemi, _Customer Relationship Management_) hankimine. Mõneski firmas võib see olla parim lahendus. Samas on palju organisatsioone, kus ühe süsteemi hankimisega nii suurt probleemi ära ei lahenda. Seda mitmel põhjusel. Teavet võib olla nii palju ja suhtlust läbi nii paljude kanalite, et kogu informatsiooni hõlmamine ühtsesse süsteemi ei ole praktiliselt võimalik. Ja isegi kui see saavutatakse, peab teave olema ülesleitav.Teine moment on olulise eristamine ebaolulisest. Juhataja ei väljenda end päris täpselt. Teda ei huvita kõikvõimalik teave, vaid ikkagi ainult oluline teave. Olulisus tähendab aga erinevatele inimestele erinevatel aegadel erinevaid asju. Info nappusest võib niiviisi jõuda väheolulise teabe ülekülluseni.
 
 Infohalduse terminoloogia ja põhimõtete kohta on hea eestikeelne materjal PriceWaterhouseCoopersi 2014. a Majandus- ja Kommunikatsiooniministeeriumi tellimusel koostatud riigi infohalduse strateegia kavand.
 
@@ -116,7 +116,14 @@ Mis takistab infohalduse ideaali saavutamist? Takistada võivad muu hulgas:
 - infohalduse parendused võivad olla väikesed, pikaajalise tagasitootmisajaga, raskesti järgitavad
 
 
-__"Infostrateegia"__
+__Kanalistrateegia__
+
+<p class='tags'>Artikli TL;TR</p>
+<p class='s'>Bang et al (2013) Channel capabilities, product characteristics, and the impacts of mobile channel introduction. Journal of Management Information Systems.</p>
+
+Artiklis konstrueeritakse loogiline ja lihtne mudel, mille abil uuritakse tarbija käitumist online- ja mobiilikanali vahel valimisel. Tehingu või ostu ajakriitilisus, tooteteabe intensiivsus. Kanalikonflikt, kanalikannibalism. Viited varasematele uuringutele.
+
+
 <p class='action'><i class="material-icons ikoon">help_circle</i>Milliseid infoallikaid ja millises proportsioonis tuleks kasutada, et IT arengutega kursis olla?</p>
 
 <p class='tags'><span class='tag'>Näide</span></p>
