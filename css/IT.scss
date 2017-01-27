@@ -17,8 +17,10 @@ body {
   max-width: 50em; margin: 0 0; 
   padding: 0.6em 1.5em 2em 1em; 
   line-height: 1.2;
-  font-family: 'Times New Roman', serif;
-  font-size: 14pt; color: $grey800; 
+  /* font-family: 'Times New Roman', serif;
+  fon-size: 14pt; color: $grey800; */
+  font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif; color: #333;
+  font-size: 14px; 
   }
 
 /* ---- Paigutus ---- */
@@ -54,9 +56,7 @@ h1 { font-size: 130%;
   margin-top: 1em; }  
 
 /* Lõigud */
-p { margin: 0 0 1em 0; 
-  font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif; color: #333;
-  font-size: 14px; }
+p { margin: 0 0 1em 0; }
 
 /* Loetelud */
 ul { list-style: none; margin: 0 0 1em 0;
@@ -174,5 +174,17 @@ dd { margin-left: 4em; }
   background-color: $bluegrey100; padding: 10px; 
 }
 
-/* Cash */
+/* Raha (Cash) */
 .c { color: $erepunane; }
+
+/* Ringmärgend */
+.l {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  font-size: 14px;
+  color: #fff;
+  line-height: 32px;
+  text-align: center;
+  background: #EC407A;
+}
