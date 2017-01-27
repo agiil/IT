@@ -45,7 +45,7 @@
       url: "/Protsess"
     - title: "3.2 Protsessiparenduste, IT rakendamisvõimaluste väljaselgitamine ja hindamine"
       url: "/Parendamine"
-    - title: "3.3 Automatiseerimine"
+    - title: "3.3 Ärialgoritm"
       url: "/Automatiseerimine"
 
 - title: "4 IT-teenuste sisseostmine"
