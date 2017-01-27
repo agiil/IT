@@ -25,9 +25,9 @@ __Mis on algoritm?__ Algoritm on kahtlemata erinevate infotehnoloogiate üks tuu
 
 __Ärialgoritm__ - võiksime kasutusele võtta sellise termini? - oleks siis täpne, samm-sammuline, IT-ga teostatav protseduur, mis loob ettevõttele väärtust ärilises mõttes.
 
-__Ärimudel__ (_Business Model_) ja __ärireegel_ (_Business Rule_) on lähedased, kuid siiski erinevad mõisted. Kõik ärimudelid ei ole algoritmilised. Ärireegel on infosüsteemi analüüsis kasutusel otsustusreegli või piirangu tähenduses.
+__Ärimudel__ (_Business Model_) ja __ärireegel__ (_Business Rule_) on lähedased, kuid siiski erinevad mõisted. Kõik ärimudelid ei ole algoritmilised. Ärireegel on infosüsteemi analüüsis kasutusel otsustusreegli või piirangu tähenduses.
 
-Ärialgoritme võib ilusa välja mõelda, kuid kuidas seda teostada? Kohe puutume kokku sellega, et andmeid kas ei ole, või ei ole neile lihtsat ligipääsu. Andmed võivad olla madala kvaliteediga. Taristu, millele IT-lahendust ehitada, puudub. Kvaliteetne andmehõive oleks võimatult kallis. Jne.
+Ärialgoritmi võib ilusa välja mõelda, kuid kuidas seda teostada? Kohe puutume kokku sellega, et andmeid kas ei ole, või ei ole neile lihtsat ligipääsu. Andmed võivad olla madala kvaliteediga. Taristu, millele IT-lahendust ehitada, puudub. Kvaliteetne andmehõive oleks võimatult kallis. Jne.
 
 ```
 if (oskame_struktureerida_masinale) {

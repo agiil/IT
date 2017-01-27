@@ -29,9 +29,13 @@ body {
 /* ---- Paigutus ---- */
 #Container { display: flex; max-width: 40em; }
 
-#Tekst {
+#Avatekst {
   flex-grow: 1; margin-left: 2rem;
   max-width: 53rem; /* Teksti loetavuse huvides */
+}
+
+#Tekst { margin-left: 2rem;
+  max-width: 60rem; 
 }
 
 /* Statistikariba */

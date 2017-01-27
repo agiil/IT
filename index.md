@@ -1,6 +1,7 @@
 ---
 title: Infotehnoloogia ettevõtjale
 permalink: /
+layout: Avaleht
 ---
 
 <p style='margin-bottom: 4em;'>&nbsp;</p>

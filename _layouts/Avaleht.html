@@ -18,13 +18,14 @@
 
   </head>
   <body onload='init()'>
-    <p style='margin-bottom: 2em;'>
-      <a href='{{ site.baseurl }}'>
-        Infotehnoloogia ettevõtjale</a>
-    </p>  
+    {% include Statistika.html %}
+    <!-- Flexbox -->
+    <div id='Container'>
+      {% include Riba.html %}
 
-    <div id='Tekst'>
-      {{ content }}
+      <div id='Avatekst'>
+        {{ content }}
+      </div>
     </div>
 
     <!-- Footer -->
