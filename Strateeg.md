@@ -82,7 +82,7 @@ Earl, M (2002) IT strategy in the new economy. Financial Times
 
 ---
 
-<p class='action'><i class="material-icons ikoon">help_circle</i>Vali üks organisatsioon, mida tunned ja hinda, kas Earli soovitatud elemendid on stateegias esindatud.</p>
+<p class='action'><i class="material-icons ikoon">help_circle</i>Valige üks organisatsioon, mida tunned ja hinda, kas Earli soovitatud elemendid on stateegias esindatud.</p>
 
 <p class='tags'>Näide</p>
 Vaatleme näiteks [Cone Cranes](http://www.konecranes.com/sites/default/files/investor/konecranes_annual_report_2015.pdf) tehnoloogiastrateegiat, ettevõtte aastaaruande alusel.
@@ -95,13 +95,11 @@ Vaatleme näiteks [Cone Cranes](http://www.konecranes.com/sites/default/files/in
 fit into our current daily operations"_. |
 | 4) tehnoloogiaohtude analüüs | Jah. Aruannet läbib teadmine, et ettevõtte äri- ja tehnoloogialiidri positsioon on ohus. _"The industrial internet and digitalization bring huge possibilities to material handling: new business models will emerge very soon."_ | 
 
----
-
 <p class='tags'>Värskeid arenguid ja ideid</p>
 - Bimodaalne IT (Bimodal IT: A steppingstone to agility, CIO, 26.01.2017) on Gartneri uus termin, mis ütleb, et IT osakond tuleks jagada kaheks: üks osa hoiaks ülal vanu süsteeme, teine tegeleks uute ideede katsetamisega.
 - "Digitaalse transformatsiooni" strateegia ei ole realistlik, kui ei ole inimesi, kes selle teoks teevad. Konkurents andekate, IT-d ja ettevõtlust mõistvate inimeste pärast. (IT talent biggest roadblock to digital transformation. CIO, 20.06.2016)
 
-<p class='takeaway'><i class="material-icons ikoon">call_split</i>Kaasavõtmiseks<br>
+<p class='takeaway'><i class="material-icons ikoon">call_split</i>Järeldused<br>
 <br>
 - IT-st sõltuvas ettevõttes peaks IT strateegia olema äristrateegiaga ühitatud.<br>
 - Strateegiat tuleks üle vaadata kasvõi iga nädal. Strateegiline arutelu peaks olema juhtkonna iga nädala päevakorras.<br>

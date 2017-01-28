@@ -47,7 +47,9 @@
       url: "/Parendamine"
     - title: "3.3 Ärialgoritm"
       url: "/Automatiseerimine"
-
+    - title: "3.4 Äri, IT ja kunst"  
+      url: "/Kunst"
+      pub: true
 - title: "4 IT-teenuste sisseostmine"
   categories:
     - title: "4.1 IT-arenduse õppetunde"
@@ -65,8 +67,8 @@
       url: "/Invest"
     - title: "4.7 Arendustöö korraldamine. Agiilne arendus"
       url: "/Agiil"
-    - title: "4.8 Riskijuhtimine, infoturve jt aspektid"
-      url:
+    - title: "4.8 Infoturve ja töökindlus"
+      url: "Tookindlus"
 
 - title: "5 IT, innovatsioon ja strateegia"
   categories:

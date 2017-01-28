@@ -43,15 +43,6 @@ Pilveteenuste turg on väga kiirelt kasvanud. Kõiki ettevõtte põhisüsteeme s
 > "As more services are procured from cloud vendors, the need for functions within the IT department that serve to administer, monitor, and  maintain  the IT  infrastructure  will  be  considerably  diminished  or  even  eliminated. Under  cloud computing, the IT department may need to increase the focus on adding value to the 
 incoming cloud-based services. The mission of the IT department would transition to determining the means by which the IT personnel can ensure that enhancements to cloud-based services fit the current and future needs of the consuming units."
 
-<p class='tags'><span class='tag'>artikli TL;DR</span></p>
-<p class='s'>Miranda et al (2015) Jamming with social media : how cognitive structuring of organizing vision facets affects IT innovation diffusion. MIS Quarterly</p>
-
-*Teoreetiline artikkel, mis uurib millises võtmes IT innovatsiooniprojekte, konkreetselt veebilahendusi, kus kliendid ise loovad sisu, organisatsioonides esitatakse*{: .u}. Leiti, et IT kasu nähakse erinevalt. Neli tüüpskeemi:
-
-- _Technology-as-Efficiency-Engineer_ - IT lahendus voolujoonestab protsesse, automatiseerib, tõstab efektiivsust
-- _Technology-as-Brand-Promoter_ - IT lisab väärtust sellega, et võimaldab muuta kliendisuhet lähedasemaks, intiimsemaks, pikaajalisemaks
-- _Technology-as-Good-Citizen_ - IT iseloomelahendused on eriti sobivad _corporate social responsibility_ suunas
-- _Technology-as-Master-of-Ceremonies_ - IT on hea vahend ettevõttele tähelepanu tõmbamiseks.
 
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
 <p class='s'>Shen et al (2015) Competing for attention : an empirical study of online reviewers' strategic behavior. MIS Quarterly</p>
