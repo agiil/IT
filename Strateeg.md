@@ -59,10 +59,41 @@ __Koostamine, kasutamine, ajakohastamine__. Tudeng rääkis uhkusega, kuidas nen
 
 Koguda jõudu ja valmistuda hüppeks, seadis Deng Xiaoping oma kuulsas 24-hieroglüüfilises ütluses Hiina moderniseerimise strateegiaks.
 
+<p class='tags'>Artikli TL;DR</p>
 
+Mahukast IT strateegia kirjandusest võib sissejuhatavaks lugemiseks soovitada [Michael Earli](https://en.wikipedia.org/wiki/Michael_Earl_(academic)), teema ühe klassiku käsitlust ajalehes Financial Times (kättesaadav ProQuest-is). Ilmus 2002. a, kuid ei ole aktuaalsust kaotanud; vastupidi, Earli vaated on väga rakendatavad.
 
+- Ettevõttes, mis sõltub IT-st, ei ole äristrateegial ilma IT strateegiata mõtet.
+- Pikka aega on põhiteema olnud IT ja äri joondamine (_Alignment_); IT peab olema ärieesmärkide teenistuses, mitte vastupidi.
+- See siiski ei anna loodetud tulemusi, kui äristrateegia üldse puudub, muutub pidevalt või on strateegia loomise protsess "pidev" (_Emergent_).
+- Isegi kui äristrateegia on olemas, võib olla raske öelda, mida see IT plaanis tähendab.
+- Teeb ettepaneku loobuda joondamise mõistest.
+- IT ja äristrateegia peavad olema ühitatud.
+- Soovitab strateegia ehitada 4 elemendi analüüsimisele:
+- 1) *tuleviku analüüs*{: .u}
+- 2) *kompetentside, võimekuste või varade analüüs*{: .u}
+- 3) *stimulaatorite analüüs*{: .u} - milliseid organisatsioonilisi vorme ettevõte kasutab uute tehnoloogiate sissetoomiseks? Nt inkubaatorid, sisemise ettevõtluse fondid, uued äridivisjonid.
+- 4) *tehnoloogiaohtude analüüs*{: .u} - IT ei ole mitte ainult võimalus, vaid ka reaalne oht; konkurendid võivad uue tehnoloogia rakendamisel jõuda ette; ilmuv tehnoloogia võib kogu äri mõttetuks muuta. Ohtude uurimine äratab enesealalhoiuinstinkti.
+- Selline kiire strateegiaprotsess (_Fast Strategy_) peaks Earli arvates olema pidev.Väidab, et strateegia ülevaatus peaks olema iganädalase juhtkonnakoosoleku püsiv teema.
+- Eraldi käsitleb "uue" ja "vana" vahekorda. Vanade ärisuundade portfelli kõrval peaks olema uute portfell. Üks asendab aegamööda teist.
+- Rõhutab (nagu ka mitmed teised autorid), et juhi ja tehnoloogiadirektori koostöö tähtsust.
 
+---
 
+<p class='action'><i class="material-icons ikoon">help_circle</i>Vali üks organisatsioon, mida tunned ja hinda, kas Earli soovitatud elemendid on stateegias esindatud.</p>
+
+<p class='tags'>Näide</p>
+Vaatleme näiteks [Cone Cranes](http://www.konecranes.com/sites/default/files/investor/konecranes_annual_report_2015.pdf) tehnoloogiastrateegiat, ettevõtte aastaaruande alusel.
+
+| strateegia element   |     |
+|----|-----|
+| 1) tuleviku analüüs | Jah. Ettevõtet mõjutavaid äri- ja tehnoloogiatrende (nt _Industrial Internet_) on analüüsitud. |
+| 2) kompetentside, võimekuste või varade analüüs | n/a |
+| 3) stimulaatorite analüüs | Jah. Ettevõttel on uurimis- ja arendustegevus (R&D), selle maht on 1.3 % käibest. Uurimis- ja arendustegevus on fokusseeritud 4 suunda. Nimetatakse konkreetseid projekte. Käivitati uus sisemine innovatsiooniüksus: _"In 2015 we established our in-house Konecranes’ Business Factory to test and develop big ideas and new business concepts that may not necessarily 
+fit into our current daily operations"_. |
+| 4) tehnoloogiaohtude analüüs | Jah. Aruannet läbib teadmine, et ettevõtte äri- ja tehnoloogialiidri positsioon on ohus. _"The industrial internet and digitalization bring huge possibilities to material handling: new business models will emerge very soon."_ | 
+
+---
 
 <!-- p class='action'><i class="material-icons ikoon">help_circle</i>Ärisuhete võrgustiku ehitamine - kuidas IT võiks aidata?</p -->
 
