@@ -15,9 +15,9 @@
           {% assign id_count = id_count | append: 'x' %}
           <li>
               <!-- Alammenüü lüliti --> 
-              <span id="{{ id_count.size }}" class="lyliti">
+              <!-- span id="{{ id_count.size }}" class="lyliti">
                 {{ nav.title }} <i class='material-icons'>add_circle</i>
-              </span>
+              </span -->
               <!-- Alammenüü -->
               <ul id="lylitatav{{ id_count.size }}" class='alammenyy'>
               {% for category in nav.categories %}
