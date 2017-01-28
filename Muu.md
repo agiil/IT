@@ -4,6 +4,17 @@ permalink: Muu
 sidebar: false
 ---
 
+<p class='tags'>Artikli TL;DR</p>
+Kosalge et al (2015) Finding the tipping point for a CEO to say yes to an ERP: a case study. Journal of Enterprise Information Management.
+
+Autorid uurivad, QuickBooks ja SAP One näitel, kuidas väikesed ja keskmise suurusega ettevõtted lähevad lihtsatelt majandustarkvaradelt üle ERP-süsteemidele.
+
+<p class='tags'>Artikli TL;DR</p>
+Yip et al (2015) Examining knowledge audit for structured and unstructured business processes: a comparative study in two Hong Kong companies. Journal of Knowledge Management; 
+
+Autorid eristavad struktureeritud ja struktureerimata äriprotsesse. Kahe näite põhjal (ohutusnõuete täitmine ja äriläbirääkimised) uuritakse, kuidas neid kahte protsessitüüpi käsitleda. 
+
+
 ```
 ( *?[0-9a-zA-Z] *?){10,}
 

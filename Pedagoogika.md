@@ -56,7 +56,7 @@ __TL;DR__
 
 __tsitaat__
 
-__vt ka__, _related_
+__värskeid arenguid ja ideid__
 
 - - -
 
@@ -74,6 +74,9 @@ meetod
   - nt #ThrowawayCode #TheSimplestThingThatCouldPossiblyWork
 
 mõte
+
+vt ka, related
+
 
 __Abiteave__
 

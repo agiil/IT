@@ -97,13 +97,14 @@ fit into our current daily operations"_. |
 
 ---
 
-<p class='tags'>Värskeid arenguid</p>
+<p class='tags'>Värskeid arenguid ja ideid</p>
 - Bimodaalne IT (Bimodal IT: A steppingstone to agility, CIO, 26.01.2017) on Gartneri uus termin, mis ütleb, et IT osakond tuleks jagada kaheks: üks osa hoiaks ülal vanu süsteeme, teine tegeleks uute ideede katsetamisega.
+- "Digitaalse transformatsiooni" strateegia ei ole realistlik, kui ei ole inimesi, kes selle teoks teevad. Konkurents andekate, IT-d ja ettevõtlust mõistvate inimeste pärast. (IT talent biggest roadblock to digital transformation. CIO, 20.06.2016)
 
 <p class='takeaway'><i class="material-icons ikoon">call_split</i>Kaasavõtmiseks<br>
 <br>
 - IT-st sõltuvas ettevõttes peaks IT strateegia olema äristrateegiaga ühitatud.<br>
-- Strateegiat tuleks üle vaadata kasvõi iga nädal.<br>
+- Strateegiat tuleks üle vaadata kasvõi iga nädal. Strateegiline arutelu peaks olema juhtkonna iga nädala päevakorras.<br>
 - Strateegia peaks sisaldama nägemust tehnoloogia liikumise suunast, ettevõtte tehnoloogiakompetentsidest ja tehnoloogiast tulenevatest äriohtudest.<br>
 - Innovatsioon ei tule sisseharjutud tegevuse kaudu; vaja on eraldi innovatsiooniüksusi, -projekte, -initsiatiive.</p>
 
