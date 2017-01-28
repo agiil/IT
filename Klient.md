@@ -3,17 +3,21 @@ title: 0.2 Kliendiuuringu IT
 permalink: Klient
 ---
 
-# 0.2 Kliendiuuringu IT
-
-<p class='tags'>Tarkvara ülevaade</p>
-[Best Survey Software | 2017 Reviews of the Most Popular Systems](http://www.capterra.com/survey-software/).
+# 0.2 Kliendiküsitluse IT
 
 <p class='action'><i class="material-icons ikoon">help_circle</i>Tahan välja selgitada, millised 5-6 kursuse fookuspunktidest on tudengitele kõige olulisemad. Millise tarkvaraga saan seda kõige lihtsamini teha?</p>
+
+![](img/Uuring.PNG)
 
 Kandidaadid:
 
 - [Doodle](https://doodle.com/free-online-voting)
 - [Pivotal Tracker](https://www.pivotaltracker.com/)
+
+<p class='tags'>Tarkvara ülevaade</p>
+[Best Survey Software | 2017 Reviews of the Most Popular Systems](http://www.capterra.com/survey-software/).
+
+---
 
 Olulist IT-printsiipi _Eat Your Own Dogfood_ (["koeratoitlus"](https://agiil.github.io/sonastik/#koeratoit)) järgides püüab kursus rakendada IT-d, tehes seda agiilselt.
 
