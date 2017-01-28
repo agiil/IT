@@ -20,7 +20,9 @@ __iseseisev tegevus__, nt veebiotsing, silt `Iseseisvalt`
 
 __juhtumikirjeldus__, _case study_
 
-__järeldus__, __oluline järeldus__, _key takeaway_
+__järeldus__, __oluline järeldus__
+
+__kaasavõtmiseks__, _key takeaway_
 
 __kirjandusviide__
 

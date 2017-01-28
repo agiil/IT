@@ -96,6 +96,10 @@ fit into our current daily operations"_. |
 | 4) tehnoloogiaohtude analüüs | Jah. Aruannet läbib teadmine, et ettevõtte äri- ja tehnoloogialiidri positsioon on ohus. _"The industrial internet and digitalization bring huge possibilities to material handling: new business models will emerge very soon."_ | 
 
 ---
+
+<p class='tags'>Värskeid arenguid</p>
+- Bimodaalne IT (Bimodal IT: A steppingstone to agility, CIO, 26.01.2017) on Gartneri uus termin, mis ütleb, et IT osakond tuleks jagada kaheks: üks osa hoiaks ülal vanu süsteeme, teine tegeleks uute ideede katsetamisega.
+
 <p class='takeaway'><i class="material-icons ikoon">call_split</i>Kaasavõtmiseks<br>
 <br>
 - IT-st sõltuvas ettevõttes peaks IT strateegia olema äristrateegiaga ühitatud.<br>
