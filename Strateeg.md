@@ -63,6 +63,8 @@ Koguda jõudu ja valmistuda hüppeks, seadis Deng Xiaoping oma kuulsas 24-hierog
 
 Mahukast IT strateegia kirjandusest võib sissejuhatavaks lugemiseks soovitada [Michael Earli](https://en.wikipedia.org/wiki/Michael_Earl_(academic)), teema ühe klassiku käsitlust ajalehes Financial Times (kättesaadav ProQuest-is). Ilmus 2002. a, kuid ei ole aktuaalsust kaotanud; vastupidi, Earli vaated on väga rakendatavad.
 
+Earl, M (2002) IT strategy in the new economy. Financial Times
+
 - Ettevõttes, mis sõltub IT-st, ei ole äristrateegial ilma IT strateegiata mõtet.
 - Pikka aega on põhiteema olnud IT ja äri joondamine (_Alignment_); IT peab olema ärieesmärkide teenistuses, mitte vastupidi.
 - See siiski ei anna loodetud tulemusi, kui äristrateegia üldse puudub, muutub pidevalt või on strateegia loomise protsess "pidev" (_Emergent_).
@@ -94,6 +96,12 @@ fit into our current daily operations"_. |
 | 4) tehnoloogiaohtude analüüs | Jah. Aruannet läbib teadmine, et ettevõtte äri- ja tehnoloogialiidri positsioon on ohus. _"The industrial internet and digitalization bring huge possibilities to material handling: new business models will emerge very soon."_ | 
 
 ---
+<p class='takeaway'><i class="material-icons ikoon">call_split</i>Kaasavõtmiseks<br>
+<br>
+- IT-st sõltuvas ettevõttes peaks IT strateegia olema äristrateegiaga ühitatud.<br>
+- Strateegiat tuleks üle vaadata kasvõi iga nädal.<br>
+- Strateegia peaks sisaldama nägemust tehnoloogia liikumise suunast, ettevõtte tehnoloogiakompetentsidest ja tehnoloogiast tulenevatest äriohtudest.<br>
+- Innovatsioon ei tule sisseharjutud tegevuse kaudu; vaja on eraldi innovatsiooniüksusi, -projekte, -initsiatiive.</p>
 
 <!-- p class='action'><i class="material-icons ikoon">help_circle</i>Ärisuhete võrgustiku ehitamine - kuidas IT võiks aidata?</p -->
 

@@ -77,7 +77,7 @@ ul > li:before { display: inline-block;
 
 /* Tabelid */
 table { table-layout: fixed;
-    width: 100%; margin: 0 4em 2em 4em; }
+    width: 100%; margin: 0 4em 2em 0; }
 table { border-collapse: collapse; }
 table, th, td { border: 1px solid black; }
 
@@ -183,3 +183,6 @@ dd { margin-left: 4em; }
 }
 .pra { background: $grey800; } /* Praktika */
 .art { background: $pink400; } /* Artikkel */
+
+/* Kaasavõtmiseks */
+.takeaway { background-color: Linen; }
