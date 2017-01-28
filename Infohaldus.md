@@ -11,9 +11,7 @@ permalink: Infohaldus
   - reeglid, klassifikatsiooniskeemid
   - kommunikatsioonikanalite valik
 
-<p class='action'><i class="material-icons ikoon">help_circle</i>Ettevõte võib suhelda klientidega mitmete kanalite kaudu (üks või mitu erinevat veebiliidest, e-post, sotsiaalmeedia, trükimeedia jne). Kas peaks olema nn "kanalistrateegia" ja mida see peaks sisaldama?<br>
-<br>
-</i></p>
+<p class='action'><i class="material-icons ikoon">help_circle</i>Ettevõte võib suhelda klientidega mitmete kanalite kaudu (üks või mitu erinevat veebiliidest, e-post, sotsiaalmeedia, trükimeedia jne). Kas peaks olema nn "kanalistrateegia" ja mida see peaks sisaldama?</p>
 
 [Isakson, B (2003) The Art of Information Management for Project Managers](http://www.architectronica.com/download/ArtInfo.pdf)
 
