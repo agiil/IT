@@ -74,7 +74,7 @@ ul > li:before { display: inline-block;
 /* Külgriba loetelud */
 nav > ul { font-family: 'Anonymous Pro', sans-serif; }
 nav ul { list-style-type: none; }
-nav > ul > li:before { display: none; }
+nav > li:before { display: none; }
 
 /* Tabelid */
 table { table-layout: fixed;
