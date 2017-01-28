@@ -5,13 +5,12 @@ permalink: Tookindlus
 
 # 4.8 IT töökindlus ja turve
 
-<p class='takeaway'><i class="material-icons ikoon">directions</i>Eelinfo<br>
-<br>
-Tehnilisem, kuid ärilisest vaatest vajalik teema. Keskendume küsimusele, kuidas tagada IT-süsteemide tõrgeteta toimimine.</p>
+<p class='teade'><i class='material-icons ikoon' style='color: #9C27B0;'>group_work</i>
+Kuidas tagada IT-süsteemide tõrgeteta toimimine? Tehnilisem, kuid ärilisest vaatest vajalik teema.</p>
 
 [Millsap, C (2010) Thinking Clearly About Performance. Communications of the ACM.](http://method-r.com/papers?download=44:thinking-clearly-paper)
 
-![](IT/img/capacity.png)
+![](img/capacity.png)
 
 Allikas: [Cary Millsap (2015) The Fundamental Challenge of Computer System Performance](http://carymillsap.blogspot.com.ee/2015/09/the-fundamental-challenge-of-computer.html)
 

@@ -164,7 +164,7 @@ dd { margin-left: 4em; }
   }
 
 /* ======== Paneelid ======== */
-.action, .takeaway { border-radius: 8px; padding: 10px; }
+.action, .takeaway, .teade { border-radius: 8px; padding: 10px; }
 
 /* Tegevus */
 .action { border: 1px solid $bluegrey100; 
@@ -172,6 +172,7 @@ dd { margin-left: 4em; }
 }
 /* Kaasavõtmiseks */
 .takeaway { border: 1px solid Red; background-color: Linen; }
+.teade { border: 1px solid Aquamarine; background-color: Azure; }
 
 /* Raha (Cash) */
 .c { color: $erepunane; }
