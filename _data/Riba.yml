@@ -17,7 +17,8 @@
       url: "/Profiil"
       pub: true
     - title: "1.4 Tehnoloogiatrendide jälgimine"
-      url: "/Trendid"  
+      url: "/Trendid"
+      pub: true  
     - title: "1.5 Tehnoloogiate (tarkvarade) hindamine ja valik"
       url: "/Tehno"
       pub: true

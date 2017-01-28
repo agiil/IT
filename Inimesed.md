@@ -9,7 +9,7 @@ sidebar: false
 <p class='teade'><i class='material-icons ikoon' style='color: #9C27B0;'>group_work</i>
 Vaatleme, milliseid kompetentse on IT rakendamiseks vaja.</p>
 
-<p><i class="material-icons ikoon">help_circle</i> Kas teie organisatsioonis on IT-töötajaid? Milliseid ametinimetusi nad kannavad? Kas ametinimetused vastavad tegelikult tööle?</p>
+<p class='action'><i class="material-icons ikoon">help_circle</i> Kas teie organisatsioonis on IT-töötajaid? Milliseid ametinimetusi nad kannavad? Kas ametinimetused vastavad tegelikult tööle?</p>
 
 __Eksootilisi ameti- ja rollinimetusi__ (_Job Titles_): Developer Advocate; Community Manager.
 
