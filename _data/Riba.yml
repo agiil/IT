@@ -13,8 +13,9 @@
     - title: "1.2 IT maagia"
       url: "/Maagia"
       pub: true  
-    - title: "1.3 Ettevõtte IT-profiil"
+    - title: "1.3 Ettevõtte IT-portfell"
       url: "/Profiil"
+      pub: true
     - title: "1.4 Tehnoloogiatrendide jälgimine"
       url: "/Trendid"  
     - title: "1.5 Tehnoloogiate (tarkvarade) hindamine ja valik"

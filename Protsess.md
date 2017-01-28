@@ -22,6 +22,14 @@ __Korduv protsess__ - täidetakse mitmeid kordi, samade või erinevate osalisteg
 
 __Kliendi(teenindus)protsessid__ (_Customer-Facing_, _Front Office_) ja __siseprotsessid__ (_Back Office_).
 
+Lisame ka tehnilisi, masinate poolt täidetavaid protsesse.
+
+__[Taustaprotsess](https://en.wikipedia.org/wiki/Background_process)__, _daemon_, _job_ - arvutis jooksev protsess, mis töötab kasutajale nähtamatult ja ilma kasutaja sekkumiseta.
+
+__Koristusprotsess__, _Garbage Collection_, programmi täitmise käigus tekkinud, enam mittevajalikku mälu koguv ja uuesti kasutusse andev taustaprotsess. (Koristusprotsess võib koguda ka kasulikku teavet - _Harvester_ on protsess, mis käib läbi veebisaite ja kogub teavet.)
+
+Ettevõte = kogum protsesse.
+
 E-ühiskonna arenedes on eriti oluliseks saanud protsessi lihtne läbitavus.
 
 <p class='tags'><span class='tag'>Näide</span></p>

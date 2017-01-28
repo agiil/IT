@@ -8,6 +8,10 @@ permalink: Tookindlus
 <p class='teade'><i class='material-icons ikoon' style='color: #9C27B0;'>group_work</i>
 Kuidas tagada IT-süsteemide tõrgeteta toimimine? Tehnilisem, kuid ärilisest vaatest vajalik teema.</p>
 
+> Learn to work with average people.
+
+-- [The outwork myth](https://m.signalvnoise.com/the-outwork-myth-4cd6536c225#.7dp1f59my) (vt [ka teisi](https://m.signalvnoise.com/tagged/greatest-hits) Jason Friedi (Basecamp-i asutaja) tavapärastele juhtimisseisukohtadele oponeerivaid kirjutisi).
+
 [Millsap, C (2010) Thinking Clearly About Performance. Communications of the ACM.](http://method-r.com/papers?download=44:thinking-clearly-paper)
 
 ![](img/capacity.png)
