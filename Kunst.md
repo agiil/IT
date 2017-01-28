@@ -42,9 +42,9 @@ See on radikaalne idee. Tüüpiline IT-inimene - kui vaadata IT-haridust- seisab
 IT-asjatundja võib küll ehitada andmekogumissüsteemi, kuid ei oska kogutud andmeid lahti tõlgendada; seepärast peaksid digitaalmajanduse ettevõtted rohkem palkama humanitaarettevalmistusega töötajaid.
 
 <p class='tags'>Artikli TL;DR</p>
-[Hall, J (2009) When Should a Process Be Art. Harvard Business Review](http://www.virginia.edu/sciartproject/docs/WhenShouldaProcessBeArt.pdf)
+[Hall et all (2009) When Should a Process Be Art. Harvard Business Review](http://www.virginia.edu/sciartproject/docs/WhenShouldaProcessBeArt.pdf)
 
-Autor väidab, et protsesside standardimine on läinud liiga kaugele. See töötab vastu standardimise eesmärgile. Mõnda protsessi ongi kõige parem teha kunstina (_Artistic Process_). Teadusliku (_Scientific_) ja kunstiprotsessi erinevused. 
+Autorid väidavad, et protsesside standardimine on läinud liiga kaugele. See töötab vastu standardimise eesmärgile. Mõnda protsessi ongi kõige parem teha kunstina (_Artistic Process_). Teadusliku (_Scientific_) ja kunstiprotsessi erinevused. 
 
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
 <p class='s'>Miranda et al (2015) Jamming with social media : how cognitive structuring of organizing vision facets affects IT innovation diffusion. MIS Quarterly</p>
