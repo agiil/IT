@@ -34,6 +34,9 @@ Pikaajalisus võib olla probleem. Paljud autorid ja ka praktikud ütlevad, et d�
 
 _Strateegiline eksimus__ on suure kahjuga, raskesti kõrvaldatavate tagajärgedega, ebaõigeks osutunud valik. Vale otsus või õigel ajal otsustamata jätmine. Olulistest asjadest valesti arusaamine või üldse mitte tajumine. 
 
+<p class='tags'>Näide</p>
+*Minul on olnud üks või kaks juhtumit, kus kliendi probleemile olen lähenenud täiesti valesti. Valedelt eeldustelt, tehnoloogiaga - mis tagasi vaadates ei saanudki probleemi lahendada. Hulk tühjaläinud tööd.*{: .s} 
+
 Vaatame asja teistpidi ja küsime milliseid strateegilisi eksimusi (hea) strateegia võimaldab vältida? Teiste sõnadega, milliseid ohte ilma selge strateegiata tegutsemine kaasa toob?
 
 Strateegia aitab luua fookust. IT-s on see oluline, sest kasutajate IT-vajadusi on tavaliselt rohkem, kuid suudetakse rahuldada; IT-innovatsiooni väljavaateid on rohkem, kuid suudetakse ette võtta;  IT-tooteid ja -tehnoloogiaid on mustmiljon. 

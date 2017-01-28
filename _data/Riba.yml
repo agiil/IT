@@ -67,13 +67,14 @@
       url: "/Invest"
     - title: "4.7 Arendustöö korraldamine. Agiilne arendus"
       url: "/Agiil"
-    - title: "4.8 Infoturve ja töökindlus"
+    - title: "4.8 IT töökindlus ja turve"
       url: "Tookindlus"
-
+      pub: true
 - title: "5 IT, innovatsioon ja strateegia"
   categories:
     - title: "5.1 IT ja strateegia"
       url: "/Strateeg"
+      pub: true
     - title: "5.2 Innovatsioon"
       url: "/Innovatsioon"
 
