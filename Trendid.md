@@ -24,57 +24,60 @@ __Tehnoloogiatrend__ on uue, paljulubava tehnoloogia tulemine, populaarsuse või
 __Tehnoloogia reklaamlause__, [tagline](https://en.wikipedia.org/wiki/Tagline) on lühike lause, fraas või ka ainult sõna või tähtlühend, mis esitab kokkuvõtlikult, löövalt ja atraktiivselt uue tehnoloogia "lubaduse". Nt `Connected Everything`. 
 __Tehnoloogia reklaamlause__, ([tagline]()) on lühike lause, fraas või ka ainult sõna või tähtlühend, mis esitab kokkuvõtlikult, löövalt ja atraktiivselt uue tehnoloogia "lubaduse". Nt `Connected Everything`. 
 
-Aktuaalseid IT-trende ja -reklaamlauseid
+__Software Defined Everything__
 
-- Factory of the Future (FoF)
-- asjade internet, Internet of Things (IoT)
-- "nutilinnad", Smart Cities
-- nutikodu, Smart Living Environments
+Uute IT-trendide ja märksõnade voog näib katkematuna.
+
+- _Factory of the Future (FoF)_
+- asjade internet, _Internet of Things (IoT)_
+- "nutilinnad", _Smart Cities_
+- nutikodu, _Smart Living Environment_
 - iseliikuvad autod
-- kehal kantav IT, Wearables
-- Cyber Physical Systems
-- Digital Innovation Hubs
-- Silo-breaking (research and innovation practices)
-- Non-Centric Architectural Thinking
-- Blockchain
-- Software Defined Everything
-- new forms of search engines and data crawlers
-- Personal Data Sspaces
-- Beyond IP
-- Smart Anything Everywhere
-- disappearing computers
-- Fog and Edge Computing
-- robot-based innovation in services
-- innovation ecosystems
-- Accessible To Everyone, Anytime On Any Device
-- Emotional monitoring
-- ulti-platform scenarios
-- disruptive usages of smart objects and digital companions
-- aktiivne vananemine, Active Ageing
-- seamless services and experiences
-- Lifestyle Management
-- Person as a Platform (PaaP)
-- Connected Everything
-- Killer capability
+- kehal kantav IT, _Wearable IT_
+- _[Cyber Physical Systems](https://en.wikipedia.org/wiki/Cyber-physical_system)_
+- nutivõrk, _Smart Grid_
+- _Digital Innovation Hubs_
+- _Silo-breaking (research and innovation practices)_
+- _Non-Centric Architectural Thinking_
+- _Blockchain_
+- _Software Defined Everything_
+- _Personal Data Spaces_
+- _Beyond IP_ (IP siin _Intellectual Property_, mitte _Internet Protocol_ tähenduses)
+- _Smart Anything Everywhere_
+- _Disappearing Computers_
+- _[Fog and Edge Computing](http://readwrite.com/2016/08/05/fog-computing-different-edge-computing-pl1/)_ (ei ole kuulnud, tõsiselt!)
+- _Post-Human_
+- _Fake News_
+- _Robot-Based Innovation in Services_
+- _Innovation Ecosystems_
+- _Accessible To Everyone, Anytime On Any Device_
+- _Emotional Monitoring_
+- _Multi-Platform Scenarios_
+- _Disruptive usages of smart objects and digital companions_
+- aktiivne vananemine, _Active Ageing_
+- _Seamless services and experiences_
+- _Lifestyle Management_
+- _Person as a Platform (PaaP)_
+- _Connected Everything_
 - Journey to new marketplace
 - Creating amazing value
-- Maximum viable access
-- keeping everything up to date and in sync
+- Keeping everything up to date and in sync
 
-Veidi vanemaid:
+1990ndatel oli nimekiri tagasihoidlikum:
 
-- 1990ndad
-  - information at your fingertips
-  - complete information
-  - seamless integration
-  - information at the point of need
-  - fully integrated enterprise
-  - glue that holds the company together
-  - company's nervous system (B Gates)
-  - anytime, anywhere
-  - information society
-- 1980s
-  - real-time processing
+- _Information at Fingertips_
+- _Total Information Management_
+- _Seamless Integration_
+- _Information at the Point of Need_
+- _Fully Integrated Enterprise_
+- _Glue that holds the company together_
+- _Company's nervous system_ (B Gates)
+- _Anytime, anywhere_
+- _Information Society_
+
+1980ndatel:
+
+- reaalajatöötlus, _Real-Time Processing_
 
 __Tehnoloogia lubadus alati ei täitu__.
 
