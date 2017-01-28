@@ -1,31 +1,36 @@
 ---
-title: 4.4 IT-inimesed
+title: 4.4 IT-kompetentsid
 permalink: Inimesed
 sidebar: false
 ---
 
-# 4.4 IT-inimesed
+# 4.4 IT-kompetentsid
+
+<p class='teade'><i class='material-icons ikoon' style='color: #9C27B0;'>group_work</i>
+Vaatleme, milliseid kompetentse on IT rakendamiseks vaja.</p>
 
 <p><i class="material-icons ikoon">help_circle</i> Kas teie organisatsioonis on IT-töötajaid? Milliseid ametinimetusi nad kannavad? Kas ametinimetused vastavad tegelikult tööle?</p>
 
+__Eksootilisi ameti- ja rollinimetusi__ (_Job Titles_): Developer Advocate; Community Manager.
+
+<p class='tags'>Artikli TL;DR</p>
 Blank, S (2010) [Job Titles That Can Sink Your Startup](https://steveblank.com/2010/09/13/job-titles-that-can-sink-your-startup/) -- Alustavas ettevõttes ei ole vaja müügi- (VP Sales), vaid kliendiarendusdirektorit (VP Customer Development).
 
+<p class='tags'>Artikli TL;DR</p>
 Coyier, C (2013) [Job Titles in the Web Industry](https://css-tricks.com/job-titles-in-the-web-industry/) -- Artikkel selgitab, millised IT-ametid ja -rollid on veebisüsteemide arenduses levinud ja mille poolest need üksteisest erinevad. Veebikujundaja? Veebidisainer? Full Stack Developer?
-
-__Eksootilisi ameti- ja rollinimetusi__ (_Job Titles_): Developer Advocate; Community Manager.
 
 __Noorem-, Vanem-, Juhtiv-__ (_Junior, Senior, Lead_). Vt [How do you define a junior developer?](https://news.ycombinator.com/item?id=12557149)
 
 <p class='tags'>Also</p>
 [Silicon Valley Job Title Generator](http://siliconvalleyjobtitlegenerator.tumblr.com/)
 
-# Süsteemiarenduse kompetentsid
+__Süsteemiarenduse kompetentsid__
 
 Vrdl: [EU ICT Professional Profiles](http://relaunch.ecompetences.eu/wp-content/uploads/2013/12/EU_ICT_Professional_Profiles_CWA_updated_by_e_CF_3.0.pdf)
 
-<p class='tags'>Hinnang</p>
 Tundub väga "enterprisy" ja "waterfally". Kas idufirmades on need ametid adekvaatsed? USAs ei ole sellist riiklikku klassifikatsiooni. Kas USAs on seetõttu kehvemas seisus?
 
+<p class='tags'>Raamatu TL;DR</p>
 Vrdl [Lau, E (2015) The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107).
 
 __Ennustamisvõime__ (_Estimation_)

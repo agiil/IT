@@ -60,8 +60,9 @@
       url: "/Sisseostmine"
     - title: "4.3 IT protsessid ja teenused"
       url: "/IT-teenused"
-    - title: "4.4 IT-inimesed"
-      url: "/Inimesed"  
+    - title: "4.4 IT-kompetentsid"
+      url: "/Inimesed"
+      pub: true  
     - title: "4.5 Ärinõuded ja infovajadused"
       url: "/Nouded"
     - title: "4.6 IT-investeeringute portfell"

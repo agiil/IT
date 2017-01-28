@@ -28,6 +28,7 @@ Inimene ei vaja 122+ viisi filtrite loomiseks (Jira).
 Jira ja Trello kohta vt ka [https://techcrunch.com/2017/01/09/atlassian-acquires-trello/](https://techcrunch.com/2017/01/09/atlassian-acquires-trello/).
 
 - Lihtsuse saavutamine nõuab jõupingutust
+
 - Lihtsus võib nõuda rohkem oskust kui keerukus
   - _One-liner_-i kirjutamine pole lihtne
 
