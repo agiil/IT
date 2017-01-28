@@ -68,7 +68,7 @@
     - title: "4.7 Arendustöö korraldamine. Agiilne arendus"
       url: "/Agiil"
     - title: "4.8 IT töökindlus ja turve"
-      url: "Tookindlus"
+      url: "/Tookindlus"
       pub: true
 - title: "5 IT, innovatsioon ja strateegia"
   categories:

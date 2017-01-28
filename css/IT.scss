@@ -163,15 +163,20 @@ dd { margin-left: 4em; }
   padding: 4px;
   }
 
+/* ======== Paneelid ======== */
+.action, .takeaway { border-radius: 8px; padding: 10px; }
+
 /* Tegevus */
-.action { border: 1px solid $bluegrey100; border-radius: 8px; 
-  background-color: $bluegrey100; padding: 10px; 
+.action { border: 1px solid $bluegrey100; 
+  background-color: $bluegrey100; 
 }
+/* Kaasavõtmiseks */
+.takeaway { border: 1px solid Red; background-color: Linen; }
 
 /* Raha (Cash) */
 .c { color: $erepunane; }
 
-/* Ringmärgendid */
+/* Ringmärgendid 
 .pra, .art, .ise {
   width: 36px;
   height: 36px;
@@ -181,8 +186,5 @@ dd { margin-left: 4em; }
   line-height: 36px;
   text-align: center;
 }
-.pra { background: $grey800; } /* Praktika */
+.pra { background: $grey800; } /* Praktika 
 .art { background: $pink400; } /* Artikkel */
-
-/* Kaasavõtmiseks */
-.takeaway { background-color: Linen; }
