@@ -25,3 +25,5 @@ Ehitusblokkide arhitektuurile on rajatud ka suured pilveplatvormid, nt:
 __IT-arhitektuuri kirjeldamine__
 
 [“C4” meetod](http://static.codingthearchitecture.com/c4.pdf) 
+
+Simon Brown (2015) [Communicating software architecture with sketches, diagrams and the C4 model](https://leanpub.com/visualising-software-architecture/read#leanpub-auto-sketches-diagrams-models-and-tooling)

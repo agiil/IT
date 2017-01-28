@@ -141,6 +141,7 @@ __Personaalne infostrateegia (näide)__
 | raamatud                 | ei jõua               |
 | firma koolitused         | ei osale              |
 | konverentsid             | oluline               |
+| IT videod                | oluline, nt [GOTO konverentside videod](https://www.youtube.com/user/GotoConferences), võiks rohkem |
 | töö ise                  | oluline               |
 | - ise kirjutamine        | oluline               |
 | - ise blogimine          | peaks, ei jõua        |
