@@ -15,6 +15,8 @@ permalink: Infohaldus
 <br>
 </i></p>
 
+[Isakson, B (2003) The Art of Information Management for Project Managers](http://www.architectronica.com/download/ArtInfo.pdf)
+
 IT mõjutab organisatsioone mitmel tasandil.
 
 __Globaalsel tasandil__ põhjustab IT areng tervete majandusharude tekkimist ja kadumist. Kas inimesed kaotavad robotite ja tehisintellekti tõttu töö? Iseliikuvate autode levik tähendab miljonite juhtide - ja ahelreaktsioonina ka näiteks sõiduõpetajate - kadu.

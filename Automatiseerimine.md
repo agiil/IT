@@ -11,7 +11,7 @@ Kui ostame Eesti Ekspressi, kas mõtleme siis, kuidas ajaleht on kokku pandud? I
 
 Ilmselt nii seda kui teist. Kaugel mõttest, et ajakirjandus manipuleerib, ei, annab vajalikku teavet. Kuid samas on ajalehe eesmärk lugejat lugema panna ja tagasi tuua.
 
-Tõenäoliselt ei piisa, kuid tarbime ajakirjandust valimata, mida loeme ja vaatame ning mõistatamata, mis mehhanismiga teave on koostatud. Lugemisalgoritm.  
+Tõenäoliselt ei piisa, kui tarbime ajakirjandust valimata, mida loeme ja vaatame ning mõistatamata, mis mehhanismiga teave on koostatud. Lugemisalgoritm.  
 
 Ajakirjanduse algoritmi ja lugemisalgoritmi koostoimimine. "Enim loetud" on näide lugemisalgoritmi viimisest meediaväljaandesse endasse. 
 
