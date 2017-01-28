@@ -5,7 +5,7 @@ permalink: Protsess
 
 # 3.1 IT-põhine äriprotsessi (-teenuse) disain
 
-![](MinoParisi.png)
+![](img/MinoParisi.png)
 *[Mino Parisi](https://dribbble.com/shots/1743039-Instagram-paper-wireframe?list=searches&offset=2)*{: .s}
 
 <p class='tags'><span class='tag'>Oskused</span></p>

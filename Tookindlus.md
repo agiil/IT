@@ -9,7 +9,7 @@ permalink: Tookindlus
 <br>
 Tehnilisem, kuid ärilisest vaatest vajalik teema. Keskendume küsimusele, kuidas tagada IT-süsteemide tõrgeteta toimimine.</p>
 
-[Millsap, C (2010) Thinking Clearly About Performance. Communications of the ACM.](http://method-r.com/papers?download=44:thinking-clearly-(paper)
+[Millsap, C (2010) Thinking Clearly About Performance. Communications of the ACM.](http://method-r.com/papers?download=44:thinking-clearly-paper)
 
 ![](IT/img/capacity.png)
 
