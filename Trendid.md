@@ -11,6 +11,15 @@ permalink: Trendid
 - teab IT-trende käsitlevaid kvaliteetseid infoallikaid
 - omab ettekujutust uue IT rakendamise hetkeseisust ühes valitud ärivaldkonnas.
 
+__Tehnoloogia mõistmine__
+
+...ei ole kerge.
+
+> "Make sure you understand the problem you are solving. Even a problem as simple as "make it fast" can take lot of work to understand properly." -- Martin Sustrik (_Message Queue_ tarkvara ekspert)
+
+![](img/Knowing.PNG)
+*[Blow, J (2011) Programming Aesthetics learned from making independent games](https://youtu.be/JjDsP5n2kSM) (YouTube, 36:00)*{: .s}
+
 __Tehnoloogia__ algses, antiik-Kreekast pärit tähenduses on oskus või kunst midagi produktiivset teha (kr τέχνη, techne, "oskus, kunst"; -λογία, -logia).
 
 Seetõttu on natuke tautoloogiline rääkida tehnoloogia rakendamisest. Tehnoloogia ongi see, kuidas tehakse.

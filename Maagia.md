@@ -73,6 +73,5 @@ Kõik vähegi võimekad tarkvarasüsteemid on taandatavad Turingu masinale. IT o
 
 Nii nagu kirjanduses, nii ka elus ei ole ühtainsat õiget positsiooni. [Maagiline realism](https://et.wikipedia.org/wiki/Maagiline_realism), on üks paljudest kirjandusvooludest (Borges, Márquez, eesti kirjanikest Heinsaar). Seletamatud, ebatavalised ja  maagilised sündmused mängivad maagilise realismi kirjanduses olulist rolli. Maagiline IT, konkreetsemalt - automaagilised IT-teenused - väärivad tähelepanu.
 
-Viited
+[How DreamWorks Animation’s ‘Invisible’ IT Infrastructure Enables Creativity](https://www.hpematter.com/issue-no-7-fall-2015/heres-how-dreamworks-invisible-it-infrastructure-enables-creativity)
 
-[Dreamworks2015] [How DreamWorks Animation’s ‘Invisible’ IT Infrastructure Enables Creativity](https://www.hpematter.com/issue-no-7-fall-2015/heres-how-dreamworks-invisible-it-infrastructure-enables-creativity)

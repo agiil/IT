@@ -23,3 +23,7 @@ Allikas: [Cary Millsap (2015) The Fundamental Challenge of Computer System Perfo
 
 Google'i insenerid jutustavad, kuidas nad tagavad süsteemide töökindluse. Tehniline, kuid väga õpetlik käsitlus.
 
+<p class='tags'>Artikli TL;DR</p>
+Sústrik, M () [ZeroMQ](http://www.aosabook.org/en/zeromq.html)
+
+Tehniline käsitlus sõnumijärjekorra (_Message Queue_) tarkvara ehitusest, millest erilist tähelepanu väärib läbilaskevõime (_Throughput_) ja latentsuse (_Latency_) käsitlus.
