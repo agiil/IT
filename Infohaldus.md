@@ -123,8 +123,9 @@ __Kanalistrateegia__
 
 Artiklis konstrueeritakse loogiline ja lihtne mudel, mille abil uuritakse tarbija käitumist online- ja mobiilikanali vahel valimisel. Tehingu või ostu ajakriitilisus, tooteteabe intensiivsus. Kanalikonflikt, kanalikannibalism. Viited varasematele uuringutele.
 
-
 <p class='action'><i class="material-icons ikoon">help_circle</i>Milliseid infoallikaid ja millises proportsioonis tuleks kasutada, et IT arengutega kursis olla?</p>
+
+<p class='action'><i class="material-icons ikoon">help_circle</i>Kas kasutad Twitterit? Kui kasutaksid, siis mis põhimõtte või -mõtete järgi võiks valida jälgitavad isikud?</p>
 
 <p class='tags'><span class='tag'>Näide</span></p>
 __Personaalne infostrateegia (näide)__

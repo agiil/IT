@@ -11,8 +11,10 @@ $sinine700: #1976D2;
 $bluegrey100: #CFD8DC;
 $yellow100: #FFF9C4;
 $teal400: #26A69A;
+.teal { color: $teal400; }
 $pink400: #EC407A;
 $purple500: #9C27B0;
+.purple { color: $purple500; }
 /*  https://material.io/guidelines/style/color.html#color-color-palette */
 
 /* ---- Keha -------- */
@@ -163,6 +165,14 @@ dd { margin-left: 4em; }
   border-radius: 8px;
   padding: 4px;
   }
+
+/* Mis on uut? */
+.uut { text-transform: uppercase;
+  color: $pruun700; 
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 8pt;
+  letter-spacing: 2px; 
+}
 
 /* ======== Paneelid ======== */
 .action, .takeaway, .teade { border-radius: 8px; padding: 10px; }

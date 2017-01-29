@@ -5,11 +5,14 @@ layout: Avaleht
 ---
 
 <p>
-  <i class="material-icons ikoon" style='color: #00acc1;'>code</i>
-  <i class="material-icons ikoon" style='color: #9C27B0;'>account_circle</i>
+  <i class="material-icons ikoon teal">code</i>
+  <i class="material-icons ikoon purple">account_circle</i>
 </p>
 
-<p style='margin-bottom: 2em;'>&nbsp;</p>
+<p style='border: 1px solid Black; margin-bottom: 2em;'>
+  <span class='uut'>Mis on uut?</span><br>
+  Semestri algus 03.02.2017
+</p>
 
 "Infotehnoloogia ettevõtjale" on
 
