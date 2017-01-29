@@ -83,6 +83,8 @@ Earl, M (2002) IT strategy in the new economy. Financial Times
 - Eraldi käsitleb "uue" ja "vana" vahekorda. Vanade ärisuundade portfelli kõrval peaks olema uute portfell. Üks asendab aegamööda teist.
 - Rõhutab (nagu ka mitmed teised autorid), et juhi ja tehnoloogiadirektori koostöö tähtsust.
 
+Vrdl [Ries2011] lk 256 "platvormi loomine eksperimenteerimiseks"
+
 ---
 
 <p class='action'><i class="material-icons ikoon">help_circle</i>Valige üks organisatsioon, mida tunned ja hinda, kas Earli soovitatud elemendid on stateegias esindatud.</p>
