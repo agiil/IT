@@ -12,6 +12,13 @@ Kuidas tagada IT-süsteemide tõrgeteta toimimine? Tehnilisem, kuid ärilisest v
 
 -- [The outwork myth](https://m.signalvnoise.com/the-outwork-myth-4cd6536c225#.7dp1f59my) (vt [ka teisi](https://m.signalvnoise.com/tagged/greatest-hits) Jason Friedi (Basecamp-i asutaja) tavapärastele juhtimisseisukohtadele oponeerivaid kirjutisi).
 
+<p class='tags'>Sõnavara</p>
+**_fallback_**, 1) varuvariant; 2) taandeolek, normaalset ajutiselt asendav (väiksemate võimalustega) varukonfiguratsioon või -tööviis
+
+**_latency_**, 1) peitaeg, latentsusaeg, latentsuse kestus, sh süsteemi reaktsiooni hilistus; 2) hilistuslik või näiline puudumine
+
+**_throughput_**, läbilaskevõime; jõudlus, mingis ajavahemikus sooritatud töö mõõt 
+
 [Millsap, C (2010) Thinking Clearly About Performance. Communications of the ACM.](http://method-r.com/papers?download=44:thinking-clearly-paper)
 
 ![](img/capacity.png)

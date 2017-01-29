@@ -24,7 +24,7 @@ __Kliendi(teenindus)protsessid__ (_Customer-Facing_, _Front Office_) ja __sisepr
 
 Lisame ka tehnilisi, masinate poolt täidetavaid protsesse.
 
-__[Taustaprotsess](https://en.wikipedia.org/wiki/Background_process)__, _daemon_, _job_ - arvutis jooksev protsess, mis töötab kasutajale nähtamatult ja ilma kasutaja sekkumiseta.
+__[Taustaprotsess](https://en.wikipedia.org/wiki/Background_process)__, taustatöö, _daemon_, _job_ - arvutis jooksev protsess, mis töötab kasutajale nähtamatult ja ilma kasutaja sekkumiseta.
 
 __Koristusprotsess__, _Garbage Collection_, programmi täitmise käigus tekkinud, enam mittevajalikku mälu koguv ja uuesti kasutusse andev taustaprotsess. (Koristusprotsess võib koguda ka kasulikku teavet - _Harvester_ on protsess, mis käib läbi veebisaite ja kogub teavet.)
 

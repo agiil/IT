@@ -40,6 +40,8 @@ __probleem__, __väljakutse__, _challenge_
 
 __silt__ (_tag_), oluline kategoriseerimismeetod
 
+__sõnavara__
+
 __tabel__
 
 __tarkvara__, tarkvarasoovitus, silt `Tarkvara`
