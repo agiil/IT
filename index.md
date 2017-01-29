@@ -9,8 +9,8 @@ layout: Avaleht
   <i class="material-icons ikoon purple">account_circle</i>
 </p>
 
-<div style='border: 1px solid Black; margin-bottom: 2em; padding: 4px; '>
-  <p>
+<div style='border: 1px solid Black; margin-bottom: 2em; padding: 0 8px; '>
+  <p style='margin-bottom: 0;'>
     <span class='uut'>Mis on uut?</span><br>
     Semestri algus 03.02.2017
   </p>
