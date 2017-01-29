@@ -37,6 +37,7 @@
       pub: true
     - title: "2.2 Sujuv töövoog (Streamlined Workflow)"
       url: "/Workflow"
+      pub: true
     - title: "2.3 Äritaksonoomia (Corporate Taxonomy)"
       url: "/Takson"
       pub: true
@@ -45,6 +46,7 @@
   categories:
     - title: "3.1 IT-põhine äriprotsessi (-teenuse) disain"
       url: "/Protsess"
+      pub: true
     - title: "3.2 Protsessiparenduste, IT rakendamisvõimaluste väljaselgitamine ja hindamine"
       url: "/Parendamine"
     - title: "3.3 Ärialgoritm"
