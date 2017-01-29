@@ -3,7 +3,7 @@ title: Stiilijuhend
 permalink: Stiil
 ---
 
-# Stiilileht
+# Stiilijuhis
 
 - tekst
   - põhitekst: `Times New Roman 14pt`
@@ -15,6 +15,10 @@ permalink: Stiil
 - spetsialiseeritud tekst
   - `.a` - annotatsioon
   - `.s` - väiketekstiga märkus
+
+_Material Design Colors_
+
+[Palett](https://www.materialpalette.com/colors)
 
 __Hindamistabel__
 
