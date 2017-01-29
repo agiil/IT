@@ -10,6 +10,9 @@ sidebar: false
 - TOC
 {:toc}
 
+![](img/FrancisTseng.jpg)
+*Allikas: Francis Tseng*{: .s}
+
 __Ettevõtluse põletavaim probleem__.
 
 Mis on see põletav probleem, mis ettevõtjaid IT-ga seoses huvitab?
