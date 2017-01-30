@@ -19,7 +19,7 @@ Allikas: [Cary Millsap (2015) The Fundamental Challenge of Computer System Perfo
 
 ## Mis on töökindlus?
 
-> "Learn to work with average people." -- -- [The outwork myth](https://m.signalvnoise.com/the-outwork-myth-4cd6536c225#.7dp1f59my) (vt [ka teisi](https://m.signalvnoise.com/tagged/greatest-hits) Jason Friedi (Basecamp-i asutaja) tavapärastele juhtimisseisukohtadele oponeerivaid kirjutisi).
+> "Learn to work with average people." -- [The outwork myth](https://m.signalvnoise.com/the-outwork-myth-4cd6536c225#.7dp1f59my) (vt [ka teisi](https://m.signalvnoise.com/tagged/greatest-hits) Jason Friedi (Basecamp-i asutaja) tavapärastele juhtimisseisukohtadele oponeerivaid kirjutisi).
 
 <p class='tags'>Sõnavara</p>
 **_fallback_**, 1) varuvariant; 2) taandeolek, normaalset ajutiselt asendav (väiksemate võimalustega) varukonfiguratsioon või -tööviis
