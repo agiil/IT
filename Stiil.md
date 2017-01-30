@@ -9,12 +9,12 @@ permalink: Stiil
   - põhitekst: `Times New Roman 14pt`
   - tekst ja pealkirjad: `Grey 800`
 - pealkirjad
-  - ainult üks tase jaotisi
-    - `h1, 130%, Grey 800`
-- teine tase strong-tekstiga
+  - artikli pealkiri: `h1, 130%, Grey 800, Roboto, bold`
+  - artikli jaotis: `h2, bold`
 - spetsialiseeritud tekst
   - `.a` - annotatsioon
   - `.s` - väiketekstiga märkus
+  - `.u` - koos kaldkirjaga, allakriipsutus
 
 _Material Design Colors_
 
