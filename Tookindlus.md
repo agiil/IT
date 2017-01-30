@@ -4,13 +4,18 @@ permalink: Tookindlus
 ---
 
 # 4.8 IT töökindlus ja turve
-{: .notoc}
+{: .no_toc}
 
 * TOC
 {:toc}
 
 <p class='teade'><i class='material-icons ikoon' style='color: #9C27B0;'>group_work</i>
 Kuidas tagada IT-süsteemide tõrgeteta toimimine? Tehnilisem, kuid ärilisest vaatest vajalik teema.</p>
+
+![](img/capacity.png)
+
+Allikas: [Cary Millsap (2015) The Fundamental Challenge of Computer System Performance](http://carymillsap.blogspot.com.ee/2015/09/the-fundamental-challenge-of-computer.html)
+{: .s}
 
 ## Mis on töökindlus?
 
@@ -28,11 +33,6 @@ Kuidas tagada IT-süsteemide tõrgeteta toimimine? Tehnilisem, kuid ärilisest v
 **_failover_**, automaatne ümberlülitumine varuseadmele tõrke korral; **_switchover_**, sama, kuid käsitsi
 
 **_trust border_**, usalduspiir, piir kahe usaldusala vahel
-
-![](img/capacity.png)
-
-Allikas: [Cary Millsap (2015) The Fundamental Challenge of Computer System Performance](http://carymillsap.blogspot.com.ee/2015/09/the-fundamental-challenge-of-computer.html)
-{: .s}
 
 ## Tõrkekindluse saavutamise meetodid ja vahendid
 
