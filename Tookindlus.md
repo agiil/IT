@@ -10,7 +10,7 @@ permalink: Tookindlus
 {:toc}
 
 <p class='teade'><i class='material-icons ikoon' style='color: #9C27B0;'>group_work</i>
-Kuidas tagada IT-süsteemide tõrgeteta toimimine? Tehnilisem, kuid ärilisest vaatest vajalik teema.</p>
+Kuidas tagada IT-süsteemide tõrgeteta toimimine?</p>
 
 ![](img/capacity.png)
 
@@ -18,6 +18,10 @@ Allikas: [Cary Millsap (2015) The Fundamental Challenge of Computer System Perfo
 {: .s}
 
 ## Mis on töökindlus?
+
+Töökindlus ei ole tähtis mitte ainult tehnilises, vaid ka ärilises mõttes.
+
+Töökindlus laiemas mõttes hõlmab ka inimesi. 
 
 > "Learn to work with average people." -- [The outwork myth](https://m.signalvnoise.com/the-outwork-myth-4cd6536c225#.7dp1f59my) (vt [ka teisi](https://m.signalvnoise.com/tagged/greatest-hits) Jason Friedi (Basecamp-i asutaja) tavapärastele juhtimisseisukohtadele oponeerivaid kirjutisi).
 
@@ -34,6 +38,8 @@ Allikas: [Cary Millsap (2015) The Fundamental Challenge of Computer System Perfo
 
 **_trust border_**, usalduspiir, piir kahe usaldusala vahel
 
+**_SLA_**, _Service Level Agreement_, teenustaseme kokkulepe - süsteemi kokkulepitud toimekarakteristikud; kokkulepe eelkõige süsteemi ärikasutaja ja IT osakonna või teenusepakkuja vahel
+
 ## Tõrkekindluse saavutamise meetodid ja vahendid
 
 Tõrkekindluse saavutamise peamised meetodid on:
@@ -47,13 +53,13 @@ Tõrkekindluse saavutamise peamised meetodid on:
 
 Tõrkeanalüüsiks on mitmeid meetodeid (vt nt [Pumfrey, D (1999) The Principled Design of Computer System Safety Analyses ](http://www-users.cs.york.ac.uk/~djp/publications/Thesis16.pdf).
 
-Tõrketoimete analüüs [Failure Mode and Effects Analysis](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis) on üks vanemaid ja tuntumaid süsteemide töökindluse analüüsi ja planeerimise meetodeid. Näiteks ühe tehnilise süsteemi tõrkeanalüüs (vt lisas).
+Tõrketoimete analüüs ([Failure Mode and Effects Analysis](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis)) on üks vanemaid ja tuntumaid süsteemide töökindluse analüüsi ja planeerimise meetodeid. Näiteks ühe tehnilise süsteemi tõrkeanalüüs (vt lisas).
 
 [Microsoft Threat Modeling Tool](https://blogs.microsoft.com/microsoftsecure/2015/10/07/whats-new-with-microsoft-threat-modeling-tool-2016/) on professionaali töövahend ohtude modelleerimiseks. 
 
 <p class='tags'><span class='tag'>Praktikas kuuldu</span></p>
 > Süsteemiarhitekt: "Ma olen harjunud tõrke-analüüse tegema arhitektuurijoonise pealt. Vaata joonise näidet [siit](https://technet.microsoft.com/en-us/mt227395.aspx). Sellelt diagrammilt on puudu protokollide kirjeldused, tegelikult on neid ka vaja). Joonistusvahendiks on olnud Microsofti standardne "threat modelling tool". Süsteem on jagatud komponentideks, mis on omakorda klasterdatud usalduspiiride kaupa. Analüüsitakse kõiki usalduspiire ületavaid andmevooge.
-Eeldatakse, et kõik komponendid võivad üle usalduspiiri käituda "pahatahtlikult" - komponent kas ei vasta, või vastupidi - ründab täies mahus, või salgab, või räägib protokolli (meelega) valesti. Sellisel tasemel arhitektuurijoonise tegemine võtab mõned minutid, aga tulu sellest on väga väga suur."" 
+Eeldatakse, et kõik komponendid võivad üle usalduspiiri käituda "pahatahtlikult" - komponent kas ei vasta, või vastupidi - ründab täies mahus, või salgab, või räägib protokolli (meelega) valesti. Sellisel tasemel arhitektuurijoonise tegemine võtab mõned minutid, aga tulu sellest on väga väga suur." 
 
 ## Tõrkekindluse praktiline saavutamine
 
@@ -78,7 +84,7 @@ Google'i insenerid jutustavad, kuidas nad tagavad süsteemide töökindluse. Teh
 <p class='tags'>Artikli TL;DR</p>
 Sústrik, M () [ZeroMQ](http://www.aosabook.org/en/zeromq.html)
 
-Tehniline käsitlus sõnumijärjekorra (_Message Queue_) tarkvara ehitusest, millest erilist tähelepanu väärib läbilaskevõime (_Throughput_) ja latentsuse (_Latency_) käsitlus.
+Tehniline käsitlus sõnumijärjekorra (_Message Queue_) tarkvara ehitusest. Erilist tähelepanu väärib läbilaskevõime (_Throughput_) ja latentsuse (_Latency_) käsitlus.
 
 [Millsap, C (2010) Thinking Clearly About Performance. Communications of the ACM.](http://method-r.com/papers?download=44:thinking-clearly-paper)
 
