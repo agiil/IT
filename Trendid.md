@@ -4,6 +4,10 @@ permalink: Trendid
 ---
 
 # 1.4 Tehnoloogiatrendide jälgimine
+{: .no_toc}
+
+*TOC
+{:TOC}
 
 <p class='action'><i class="material-icons ikoon">help_circle</i>Mis asi on <i>Design Thinking</i>? Kas peaksime IT-s seda kasutama?</p>
 
@@ -11,7 +15,7 @@ permalink: Trendid
 - teab IT-trende käsitlevaid kvaliteetseid infoallikaid
 - omab ettekujutust uue IT rakendamise hetkeseisust ühes valitud ärivaldkonnas.
 
-__Tehnoloogia mõistmine__
+## Tehnoloogia mõistmine
 
 ...ei ole kerge.
 
@@ -28,6 +32,13 @@ Seetõttu on natuke tautoloogiline rääkida tehnoloogia rakendamisest. Tehnoloo
 Tarkvara kontekstis võib tehnoloogia tähendada suhteliselt spetsiifilisi asju. Näiteks [autocomplete](https://en.wikipedia.org/wiki/Autocomplete) ja [vihjesisestus](https://twitter.github.io/typeahead.js/examples/) on suhteliselt lihtsad ja väikesed, kasutajale võib-olla märkamatukski jäävad kasutajaliidese tehnoloogiad, mis siiski kasutajamugavust suuresti tõstavad.
 
 __Infotehnoloogia__ (IT) on üldnimetus väga suurele tehnoloogiate perekonnale.
+
+## Tehnnoloogiatrend
+
+Kõik muutub - ka IT. IT arenguprotsess: üldiseloomustus.
+
+- tööstusinternet, _industrial internet_
+- [The Debate Around “Do We Even Need CSS Anymore?”](https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/)
 
 __Tehnoloogiatrend__ on uue, paljulubava tehnoloogia tulemine, populaarsuse võitmine.
 
@@ -89,17 +100,17 @@ Uute IT-trendide ja märksõnade voog näib katkematuna.
 
 - reaalajatöötlus, _Real-Time Processing_
 
+Trendide moodustamine: -põhine, -ülene, -keskne.
+
 __Tehnoloogia lubadus alati ei täitu__.
 
 Lihtne, kergekaaluline (_lightweight_), laiendatav - need on omadused, millega infotehnoloogiaid väga sageli välja pakutakse.
 
-SOAP (Simple Object Access Protocol) on lightweight; XML (Extensible Markup Language) on laiendatav; mõlemad tehnoloogiad on laialt levinud, kuid tänapäevasest vaatest mitte kõige lihtsamad ega ka laiendamise poolest kõige paremad. 
+SOAP (Simple Object Access Protocol) on lightweight; XML (Extensible Markup Language) on laiendatav; mõlemad tehnoloogiad on laialt levinud, kuid tänapäevasest vaatest mitte kõige lihtsamad ega ka laiendamise poolest kõige paremad.
 
-__Muutuv IT__
+__Tehnoloogia arengu lõputus?__ Tähelepanuväärne on Venemaa majandusteadlase [Glazjevi](https://en.wikipedia.org/wiki/Sergey_Glazyev) nn pikkade lainete teooria, vt ["Majandusarengu pikkade lainete tänapäevane teooria"](http://www.glazev.ru/upload/iblock/77b/77b8141cdfc1038b78520f79fc9acd40.pdf). Glazjev väidab, et igal sajandil on olnud oma domineeriv tehnoloogiline formatsioon (vn уклад). IT tormiline areng nihkuvat teisele plaanile, IT asemele tõusvat juhtrolli biotehnoloogia jt uued suunad. 
 
-- IT arenguprotsess: üldiseloomustus
-- tööstusinternet, _industrial internet_
-- [The Debate Around “Do We Even Need CSS Anymore?”](https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/)
+# Tehnoloogiate jälgimine
 
 __Tehnoloogiatrendide jälgimine teenusena__.
 
@@ -109,9 +120,7 @@ __Tehnoloogiatrendide jälgimine teenusena__.
 - [Gartner](http://www.gartner.com/technology/home.jsp)
 - [Cisco Radar](https://techradar.cisco.com/)
 
-__Mudelid__.
-
-Igal uuringufirmal on oma meetod või mudel, millega tehnoloogiasuundi analüüsitakse ja ennustatakse ning tehnoloogiapakkujaid hinnatakse.
+__Mudelid__. Igal uuringufirmal on oma meetod või mudel, millega tehnoloogiasuundi analüüsitakse ja ennustatakse ning tehnoloogiapakkujaid hinnatakse.
 
 - Tehnoloogiauuringute firma Gartner [The Magic Quadrant](http://www.gartner.com/technology/research/methodologies/research_mq.jsp) jagab turul tegutsevad tehnoloogiapakkujad visiooni ja teostusevõimekuse järgi 2x2 tabelisse:
 
@@ -124,14 +133,7 @@ Igal uuringufirmal on oma meetod või mudel, millega tehnoloogiasuundi analüüs
 
 - Uuringufirma Gartner [Hype Cycle](https://en.wikipedia.org/wiki/Hype_cycle) on laialt tuntud tehnoloogia kasutuselevõtu mudel.
 
-__Tehnoloogia arengu lõputus?__
-
-Tähelepanuväärne on Venemaa majandusteadlase [Glazjevi](https://en.wikipedia.org/wiki/Sergey_Glazyev) nn pikkade lainete teooria, vt ["Majandusarengu pikkade lainete tänapäevane teooria"](http://www.glazev.ru/upload/iblock/77b/77b8141cdfc1038b78520f79fc9acd40.pdf). Glazjev väidab, et igal sajandil on olnud oma domineeriv tehnoloogiline formatsioon (vn уклад). IT tormiline areng nihkuvat teisele plaanile, IT asemele tõusvat juhtrolli biotehnoloogia jt uued suunad.
-{: .s}
-
-__Soovitusi IT jälgimiseks__.
-
-- Kõige uuemat, ülikasulikku teavet leiab blogidest, mitte raamatutest
+__Soovitusi IT jälgimiseks__. - Kõige uuemat, ülikasulikku teavet leiab blogidest, mitte raamatutest
 
 > [..] check out latest articles on techie websites [..] &mdash;[Slava Akhmechet](http://www.defmacro.org/)
 

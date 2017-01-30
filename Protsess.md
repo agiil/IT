@@ -47,6 +47,12 @@ Miks peab protsessi analüüsima, kirja panema? Sest:
 
 McAfee, Brynjolfsson (2008) That Makes a Competitive Difference. Harvard Business Review
 
+Protsessikaevandamine
+
+![](img/BottomUp.PNG)
+
+Allikas: Nan, N (2011) Capturing Bottom-Up Information Technology Use Processes: A Complex Adaptive Systems Model. MIS Quarterly.
+
 The Elements of a Successful IT-Enabled Process
 
 Given the costs of enterprise IT and the risks inherent in deploying it poorly, it’s especially important that the change projects you select capitalize on IT’s strengths. Consider the following hypothetical example of a company that did just that. A U.S. furniture maker sells both standard and custom pieces out of its 100 showrooms nationwide. Because salespeople in each of the showrooms have very little direct interaction with or information about the company’s three factories, they all quote long lead times for custom furniture, just to be on the safe side. To rectify this situation, the company develops software to integrate the activities of manufacturing and sales, and tests it at one location. Now salespeople can enter the speciﬁcations of a custom order and instantly receive an accurate delivery date. The company also decides to use the software to manage customer deliveries. The delivery team for the test showroom is required to call back to the dispatch center immediately after leaving a customer’s house. That enables the center to contact the customer to verify his or her satisfaction and address any concerns. The software tracks delivery times and satisfaction levels and ﬁnds the former is decreasing while the latter ticks upward. Recognizing its success, the company quickly embeds the new process in its enterprise software and rolls it out to the other 99 locations. Because customers value these process innovations, the company’s market share grows nationwide. Successful IT-enabled business process improvements like this one generally have a number of important characteristics: They cover a wide span. The new ways of working apply across a very large swath of a company – in this case, all stores, factories, and delivery teams. They produce results immediately. As soon as the new enterprise system goes live, so do the process changes it enables.

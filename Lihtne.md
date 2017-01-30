@@ -5,6 +5,35 @@ permalink: Lihtne
 
 # 1.8 Lihtne ja keeruline IT
 
+<p class='tags'><span class='tag'>Oskab</span></p>
+- ära tunda keerukust ja seda juhtida
+- leida lihtsaid lahendusi
+
+![](img/Keerukus.PNG) 
+
+Allikas: Maylor H (2013) How Hard Can It Be? Actively Managing Complexity in Technology Projects. Research-Technology Management.
+
+Flinders, K (2015) Simplicity for the Business Means Complexity for IT. Computer Weekly.
+
+<p class='action'><i class="material-icons ikoon">help_circle</i>Mis teie meelest on IT-s keerukas?<br>
+<br>
+nt (lihtsamast alustades):<br>
+projektori ühendamine arvutiga – õige režiimi leidmine<br>
+igasugune telekonverents<br>
+VPN-i töölesaamine<br>
+juhtmete lahti- ja külgeühendamine töökoha ümbertõstmisel<br>
+dokumentide ülesleidmine ühiskettalt<br>
+Regex on keerukas<br>
+</p>
+
+Märkus. [Regex](https://en.wikipedia.org/wiki/Regular_expression) (regular expression) on võimas ja kompaktne, aga suhteliselt raskesti õpitav mustrikeel. Paljude programmeerimiskeelte (nt Javascript, Python) osa. Üks parimaid Regexi selgitusi on [Pythoni dokumentatsioonis](https://docs.python.org/2/library/re.html).
+
+<p class='action'><i class="material-icons ikoon">help_circle</i>Vali IT projekt või infosüsteem ja ürita hinnata selle keerukust?<br>
+Variant: kahe projekti või süsteemi võrdlus keerukuse vaatepunktist.</p>
+
+<p class='tags'><span class='tag'>Artikli TL;DR</span></p>
+Holub, I et al (2016) Measuring Complexity of SAP Systems. Complex Systems Informatics and Modeling Quarterly. 
+
 <p class='tags'>Tarkvara</p>
 [LeanKit](https://leankit.com/), _Lean_ põhimõtteid järgiv visuaalne projektijuhtimise ja töövoosüsteem
 
@@ -17,13 +46,13 @@ __"not capable of simple"__
 
 > "Eran Hammer resigned his role of lead author for the OAuth 2.0 project, withdrew from the IETF working group, and removed his name from the specification. Hammer pointed to a conflict between the web and enterprise cultures, citing the IETF as a community that is "all about enterprise use cases", that is "not capable of simple." What is now offered is a blueprint for an authorization protocol, he says, and "that is the enterprise way", providing a "whole new frontier to sell consulting services and integration solutions." --- http://en.wikipedia.org/wiki/OAuth#Controversy
 
-Üliõpilase kood
+![](img/LargeScale.PNG)
 
-![](img/Koodid.PNG)
+Allikas: Sommerville, I et al (2012) Large-Scale Complex IT Systems. Communications of the ACM. 
 
-![](img/Jira.PNG)
+[Üliõpilase kood](img/Koodid.PNG)
 
-Inimene ei vaja 122+ viisi filtrite loomiseks (Jira).
+Inimene ei vaja [122+ viisi filtrite loomiseks](img/Jira.PNG) (Jira).
 
 Jira ja Trello kohta vt ka [https://techcrunch.com/2017/01/09/atlassian-acquires-trello/](https://techcrunch.com/2017/01/09/atlassian-acquires-trello/).
 
@@ -74,3 +103,6 @@ reliis tüüpiliselt kord aasta-paari järel
 - Pääsuhaldus on lihtne
 
 Ei ole lihtne?
+
+
+

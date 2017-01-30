@@ -6,10 +6,9 @@ permalink: Takson
 
 # 2.3 Äritaksonoomia
 
-<p class='tags'>Oluline mõiste</p>
 __Äritaksonoomia__ on ettevõttele või organisatsioonile huvi pakkuvate asjade hierarhiline liigitus.
 
-_Corporate taxonomy is hierarchical classification of entities of interest to an enterprise, organization or administration._
+> "Corporate taxonomy is hierarchical classification of entities of interest to an enterprise, organization or administration."
 
 Äritaksonoomia on suhteliselt vähetuntud, kuid suure kasutuspotentsiaaliga teabe süstematiseerimise vahend.
 
@@ -30,12 +29,11 @@ Uuemal ajal öeldakse, et taksonoomia __teadmuse korrastamise süsteem__ (_knowl
 
 Olemuselt on taksonoomia __reguleeritud sõnastik__ (_controlled vocabulary_); nimetuste korrastatud kogum, süsteem, mille abil saab sarnased asjad või nähtused ühte koondada, eristada teistest ja nimetada rühmi kasutajatele arusaadavas keeles.
 
-<p class='tags'>Iseseisvalt</p>
-Guugelda `startup taxonomy` ja uuri, kuidas idufirmade ärimudeleid on liigitatud
-{: .ise}
+<p class='action'><i class="material-icons ikoon">help_circle</i>Guugelda `startup taxonomy` ja uuri, kuidas idufirmade ärimudeleid on liigitatud</p>
 
-<p class='tags'>Näide</p>
-Hartmann P et al (2014) [A Taxonomy of Data-driven Business Models used by Start-up Firms](http://cambridgeservicealliance.eng.cam.ac.uk/resources/Downloads/Monthly%20Papers/2014_March_DataDrivenBusinessModels.pdf)
+<p class='tags'>Näiteid</p>
+- Hartmann P et al (2014) [A Taxonomy of Data-driven Business Models used by Start-up Firms](http://cambridgeservicealliance.eng.cam.ac.uk/resources/Downloads/Monthly%20Papers/2014_March_DataDrivenBusinessModels.pdf)
+- [Healthcare Provider Taxonomy](https://www.cms.gov/medicare/provider-enrollment-and-certification/medicareprovidersupenroll/taxonomy.html)
 
 Taksonoomiad täidavad sageli nn __teatmelise teabe__ (_reference data_) rolli. Näiteks toote veebipoodi kaubavalikusse lisamise eelduseks on tootekategooriate süsteemi e taksonoomia olemasolu.
 
