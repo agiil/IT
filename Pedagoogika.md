@@ -4,7 +4,13 @@ title: Pedagoogika
 permalink: Pedagoogika
 ---
 
-# Pedagoogika. Žanrid
+# Pedagoogika
+
+Põhistruktuur: väited + laiendav teave.
+
+Destilleeritud väideteks.
+
+## Žanrid
 
 __also__
 

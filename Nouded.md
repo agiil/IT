@@ -4,6 +4,10 @@ permalink: Nouded
 ---
 
 # 4.5 Ärinõuded ja infovajadused
+{: .no_toc}
+
+* TOC
+{:toc}
 
 <p class='tags'>Artikli TL;TR</p>
 <p class='s'>[Spolsky2000] Joel Spolsky (2000) [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/).</p>
@@ -11,6 +15,8 @@ permalink: Nouded
 4-osaline blogikirjutise sari tuntud arendusgurult ja ettevõtjalt spetsifitseerimisest (IT arenduses üliolulisest, paljudiskuteeritavast küsimusest)
 
 ---
+
+## Infovajadused
 
 __Info vajadus__ on lähtekoht iga süsteemi tegemisel. Miks muidu süsteemi üldse teha?
 
@@ -50,6 +56,8 @@ __Infotulva vältimine kui vajadus__. Ini­me­se info­töötlusvõime on piira
 
 __Infovajaduste dünaamilisus.__ Kõik infovajadused ei tarvitse olla ajas stabiilsed. Organisatsiooni tegevuse iseloom ja muutuv keskkond võivad tingida, et vajaliku teabe koosseisu on raske fikseerida. Sellisel juhul on ka infosüsteemi väga raske teha. Vähemalt peab süsteem olema väga paindlik.
 
+## Infovajaduste väljaselgitamine
+
 __Infovajaduste väljaselgitamise protsess__ ei pea olema keeruline. Põhimõtteliselt piisab ka­hest osast: 1) and­mete kogu­mi­ne info­va­ja­dus­te koh­ta; 2) kogutud andmete kor­ras­ta­mi­ne ja struk­tu­ree­ri­mi­ne, ettevalmistusena süs­tee­mi­aren­du­se eda­sis­te etap­pi­de jaoks.
 
 Infovajaduste analüüs lähtub harilikult info ka­su­ta­jast (ametikoha tüü­bist). Välja ei selgitata mitte konk­reet­se indiviidi infovajadusi, vaid ameti­koh­ta­de ka­te­goo­riate kaupa. Inimesest lähtuvat ana­lüü­si on kasulik täi­en­dada teis­tes lõigetes lii­ku­vate ana­lüü­side­ga — uurida tööprotsesside infovajadusi või alus­tada andmetest ning uurida, kes andmeid vajavad.
@@ -71,5 +79,55 @@ Infovajaduste väljaselgitamist on uuritud akadeemiliselt ja eraldi käsitletud 
 __Kui täpselt on infovajadused määratavad?__ In­fo­va­ja­dus­te väljaselgitamine on näi­li­selt lihtne, kuid prak­ti­kas sageli keerukas, sest: 1) sa­ma in­for­mat­si­oo­ni näe­vad ja väär­tus­ta­vad eri­ne­vad ini­mesed eri­ne­valt; 2) sama in­for­mat­si­oo­ni ka­su­ta­tak­se eri­ne­va­tel vii­si­del; 3) info liikumisvood on kee­ru­kad; 4) eri­ne­vaid in­fo­ka­na­leid võib ol­la pal­ju; 5) indi­vi­duaal­sed ee­lis­tu­sed ja käi­tu­mi­se oma­pära; 5) küsitletu võib ühel või teisel põh­ju­sel varjata oma te­ge­lik­ku in­fo­va­ja­dust; teisest kül­jest, küsitletu võib esi­tada pseu­do­va­ja­duse.
 
 __Kriitilised edutegurid__ (_Critical Success Factors_, CSF) on Rockart'i [Rockart1979] poolt loo­dud, klassikaline meetod tipp­ju­hi infovajaduste väl­ja­sel­gi­ta­mi­seks. Rockart kritiseerib levinud eksi­ar­va­musi juhi in­fo­va­ja­duste kohta, eelkõige seisukohta, et "juht peab teadma kõike". Juht koormatakse infosüsteemist saadetava infoga üle. Juhil ei jätku  aega ise en­da­le vajalikku info väl­ja sõeluda. Ju­hi töö on vägagi muutlik. Seetõttu juhile on pü­si­vat in­fo­süsteemi raske luua. Pa­rim lahendus ju­hi infovajaduste ra­hul­da­mi­seks on ot­se­ne suhtlus usal­dusväärsete alljuhtidega. Seejärel esitab Rockart oma meetodi, mille aluseks on seisukoht, et orga­ni­sat­siooni (ning üht­la­si ka juhi) edukus sõltub väikesest arvust (tüü­pi­li­selt 4-10) krii­ti­lisest edutegurist. Edutegurid on igal or­ga­ni­sat­si­oo­nil in­di­vi­du­aal­sed. Edutegurite väl­ja­sel­gi­ta­mi­ne on lähtepunktiks nii info­va­ja­duste spet­si­fit­see­ri­mi­se­le ja juhti toetavate infosüsteemide ehi­ta­mi­sele kui ka organisatsiooni tööprotsesside voo­lujoonestamisele ja pa­ren­da­mi­se­le. Oluline on edutegurite mõõdetavus - tuleb leida olulised mõõdikud (_Key Performance Indicators_, KPI) leida Seonduvaks juh­ti­mis­kont­sept­si­oo­niks on tule­mus­juh­ti­mi­ne (_Man­ag­e­ment by Ob­ject­ives_).
+
+## Ärinõuded
+
+Mis on ärinõude (_Business Requirement_) eesmärk?
+
+Mis on selle gorilla nimi, keda puuris tahetakse hoida? 
+
+Miks võiksime vajada metoodikat, poliitikat või protseduuri ärinõuete sõnastamiseks?
+
+Millist ülekeevat tegevust tahaksime raamidesse suruda?
+
+Ego ohjekshoidmiseks?
+
+Grupidünaamika kontrolli all hoimiseks?
+
+Millist probleemi ärinõuded lahendaksid? Loetleda saab terve rea laialt levinud nähtusi, mille ärahoidmiseks ärinõuetest võiks hüpoteetiliselt kasu olla. Käsitlusala laialivalgumine projektides (_[Scope Creep](https://en.wikipedia.org/wiki/Scope_creep)_). Ekslemine (_Project Drift_, _Strategic Drift_). Strateegia ekslemine muide tähendab organisatsiooni suutmatust kohaneda kiirelt muutuva keskkonnaga. Raske on näha kuidas ärinõuete sõnastamine otseselt seda ebasoovitavat nähtust aitaksid vältida. Funktsionaalsuste kuhjumine toodetes ja süsteemides (_[Feature creep](https://en.wikipedia.org/wiki/Feature_creep)_). Kellade-vilede tellimise vältimiseks. “Ägedate" lahenduste tellimisega hooguminemise vältimiseks. Otsustusprotsesside ratsionaalsemaks tegemiseks. Pakkuda tuge valikute tegemisel, plaanide ja tulemite hindamisel. Võib tödeda, et need nähtused on suuresti seotud inimpsühholoogiaga.
+
+## Mis on ärinõue?
+
+Ärinõudmine kui kasutaja vajadus. Ärinõue kui lõppkasutaja vajadus. Haridussüsteemis lõppkasutaja - tudeng (aga mitte õppejõud!). Veel samm kaugemale ja haridussüsteemi lõppkasutaja on ettevõtja, autoritaarses ühiskonnas - Suur juht, natsionalistlikus ühiskonnas - rahvus. Avaliku sektori lõpp-kasutaja on kodanik. Erasektoris on üpris levinud meem, et teenuse lõppkasutaja on kliendi klient (“sinu äri heaks”). Nõrkuseks selle vaate juures on see, et keerukas ühiskonnas võivad väärtusahelad olla suhteliselt pikad. Väärtusahela läbipaistvus ei sõltu ühe lüli tahtest. Lõppkasutajale mõtlemine võib olla hoopis _distraction_. Jaapani kanban-filosoofia ütleb, et orienteeru ainult oma vahetule kliendile.
+
+Ärinõue kui ülemuse soov. Nõrk selle poolest, et soov ei tarvitse olla selgelt väljendatud ja ajas püsiv. Ülemise soov täna ja aasta pärast ei tarvitse olla üks ja sama. Hea ülemus saab sellest ise ka aru.
+
+Ärinõue kui õiguskaitsevahend vaidluses arendustöö täitjaga. Nõrk, kuna sageli pole piisavalt konkreetne.
+
+_Disaini eesmärgid_ (_Design Goals_). Paljudes avatarkvarades on disaini eesmärgid selgelt ja veenvalt välja toodud. See on väljakujunenud, hea praktika. Disaini eesmärkide sõnastamise kasu on päris ilmne. Disaini eesmärgid on siiski seotud mitte niivõrd lahendatava probleemi või tarkvara eesmärgi kui juba lahendamise kontseptsiooni või põhimõtete kavandamisega. 
+
+## Mida ärinõudelt nõuda?
+
+Ärinõuete arv igas konkreetses projektis, tootes jm PEAKS olema võimalikult väike.
+
+Milleri arv 7±2 nõuet on veel väike. Miks väike arv on oluline? Proovida võib keerukaid nõuete väljaselgitamise (_Requirements Extraction_ ja haldamise (_Requirements Engineering_) süsteeme (nt Toyota maatriksite süsteem jm), kuid nende süsteemide töölepanemine ja haldamine on omaette väljakutse ning nõuab organisatsiooni vastavat küpsustaset.
+
+<p class='tags'>Näide</p>
+Dokumenditaristu hajusarhitektuurile üleviimise projektis on 16 ärinõuet.
+
+Ärinõuded PEAKSID olema prioritiseeritud.
+
+Ärinõuded PEAKSID olema seotud high-level kasutusjuhtudega.
+
+Ärinõuete lisamine PEAKS olema pidev, kuid tagasihoidev protsess.
+
+Kõigi nõuete _up-front_ väljaselgitamine kipub viima projektideni, mis on kas “üle võlli” või siis ei saagi valmis. Ärinõuete haldamisel tuleks kasutada "portfellijuhtimist" - nõuete lisamisega samavõrra tähtis on ebaadekvaatseks muutunud nõuete eemaldamine.
+
+## Ärinõuded agiilarenduses
+
+Alahinnatakse seda, kui dünaamilised võivad olukorrad olla, kui kiirelt võivad olukorrad muutuda. Kiire kohanemine võib olla adekvaatsem, kui kõigi nõuete väljasõnastamise üritamine. Alahinnatakse kommunikatsiooni ja infohalduse keerukust. 
+
+Agiilarenduses kasutuslugu (_User Story_) ongi ärinõue.
+
 
 

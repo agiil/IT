@@ -4,16 +4,16 @@ permalink: Lihtne
 ---
 
 # 1.8 Lihtne ja keeruline IT
+{: .no_toc}
+
+* TOC
+{:toc}
 
 <p class='tags'><span class='tag'>Oskab</span></p>
 - ära tunda keerukust ja seda juhtida
 - leida lihtsaid lahendusi
 
 ![](img/Keerukus.PNG) 
-
-Allikas: Maylor H (2013) How Hard Can It Be? Actively Managing Complexity in Technology Projects. Research-Technology Management.
-
-Flinders, K (2015) Simplicity for the Business Means Complexity for IT. Computer Weekly.
 
 <p class='action'><i class="material-icons ikoon">help_circle</i>Mis teie meelest on IT-s keerukas?<br>
 <br>
@@ -31,8 +31,30 @@ Märkus. [Regex](https://en.wikipedia.org/wiki/Regular_expression) (regular expr
 <p class='action'><i class="material-icons ikoon">help_circle</i>Vali IT projekt või infosüsteem ja ürita hinnata selle keerukust?<br>
 Variant: kahe projekti või süsteemi võrdlus keerukuse vaatepunktist.</p>
 
+__Mis on IT-s lihtne?__
+
+- Paigaldamine on lihtne
+- Konfigureerimine on lihtne
+- Pääsuhaldus on lihtne
+
+Ei, tegelikult ei ole ükski neist lihtne.
+
+# Lihtsuskäsitlusi
+
+<p class='tags'>Artikli TL;DR</p>
+Allikas: Maylor H (2013) How Hard Can It Be? Actively Managing Complexity in Technology Projects. Research-Technology Management.
+
+Autorid pakuvad keerukuse hindamise metoodikat (tööriista), mis on välja töötatud globaalse tehnoloogiafirma jaoks ja testitud ka teiste ettevõtetes. Keerukuse 3 dimensiooni: struktuurikeerukus (_Structural Complexity_), sotsiopoliitiline keerukus, emergentne keerukus (_Emergent Complexity_). 32 detailsemat keerukuseliiki (need on sarnased riskidega).
+
+<p class='tags'>Artikli TL;DR</p>
+Flinders, K (2015) Simplicity for the Business Means Complexity for IT. Computer Weekly.
+
+Äri peab olema lihtne, kuid IT iseenesest mitte. Äri lihtsuse saavutamiseks on vahel vaja, et IT oleks keeruline.
+
 <p class='tags'><span class='tag'>Artikli TL;DR</span></p>
 Holub, I et al (2016) Measuring Complexity of SAP Systems. Complex Systems Informatics and Modeling Quarterly. 
+
+Huvitav uurimus ERP tarkvara keerukusest.
 
 <p class='tags'>Tarkvara</p>
 [LeanKit](https://leankit.com/), _Lean_ põhimõtteid järgiv visuaalne projektijuhtimise ja töövoosüsteem
@@ -66,43 +88,6 @@ __One-liner__. Programmeerimiskeeles Python on heaks programmeerimistavaks iga m
 Lihtsuse hoidmine nõuab jõupingutust
 
 Tehniline näide. HTTP2 on uus versioon põhilisest veebiprotokollist. HTTP2 on kiirem, kuid [sõnumid ei ole enam inimloetavad](https://news.ycombinator.com/item?id=9038613).
-
-Siia üks väike võrdlus kõrvale:
-
-agiilne (F-Secure näitel, 
-http://www.sciencedirect.com/science/article/pii/S0950584914002043) 
-RIA
-- eepik (epic)
-  - featuur (feature)
-    - kasutuslugu (user story)
-      - ülesanne (task)
-
-eepik - high-level goal of the product for the multi-release time horizon
-featuur – eepiku osa, mis teostatav ühe reliisitsükliga
-kasutuslugu – featuuri osa, funktsionaalsuse väike tükk, kasutaja vaatepunktist
-task – tehniline ülesanne, mida on vaja kasutusloo teostamiseks
-
-Võtmesõna seejuures on reliis (release). 
-
-On inimesi, kes reliisivad kord aastas või veel harvemini. Avaarenduse gurud Eric S. Raymond ja Martin Paljak aga ütlevad, et „Release early, release often“.
-
-Millal sina viimati reliisisid?
-  - strateegia
-  - tööplaan
-    - tegevuskava
-      - arenduse iteratsioon
-        - minihanke
-          - etapp
-            - tööpakett
-              - omadus/nõue
-
-reliis tüüpiliselt kord aasta-paari järel
-
-- Paigaldamine on lihtne
-- Konfigureerimine on lihtne
-- Pääsuhaldus on lihtne
-
-Ei ole lihtne?
 
 
 

@@ -58,4 +58,13 @@ reageerimine muutunud oludele on adekvaatsem kui algsest plaanist kinnihoidmine
 
 - [10 modern software engineering mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.624dxgpz1) 
 
-Erder & Pureur (2016) What's the Architect's Role in an Agile, Cloud-Centric World?. IEEE Software
+Erder & Pureur (2016) What's the Architect's Role in an Agile, Cloud-Centric World?. IEEE Software.
+
+__Agiilne tööde struktuur__. Nt: 1) eepik (_Epic_) - _"high-level goal of the product for the multi-release time horizon"_; 2) featuur (_Feature_) - eepiku osa, mis teostatav ühe reliisitsükliga; 3) kasutuslugu (_User Story_) - featuuri osa, funktsionaalsuse väike tükk kasutaja vaatepunktist; 4) ülesanne (_Task_) - tehniline ülesanne, mida on vaja kasutusloo teostamiseks.
+
+[Heikkilä et al (2015) Operational release planning in large-scale Scrum with multiple stakeholders – A longitudinal case study at F-Secure Corporation. Information and Software Technology.](http://www.sciencedirect.com/science/article/pii/S0950584914002043) 
+
+Võtmesõna seejuures on reliis (_Release_). Kosemudeli järgi toimuvas arenduses reliisitakse tüüpiliselt kord aastas või veel harvemini. Avaarenduse guru Eric S. Raymond aga ütleb, et „Release early, release often“.
+
+Vrdl: 1) strateegia; 2) tööplaan; 3) tegevuskava; 4) arenduse iteratsioon; 5)  minihange; 6) etapp; 7) tööpakett; 8) omadus/nõue
+
