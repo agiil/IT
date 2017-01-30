@@ -74,7 +74,7 @@ Allikas: Sommerville, I et al (2012) Large-Scale Complex IT Systems. Communicati
 
 [Üliõpilase kood](img/Koodid.PNG)
 
-Inimene ei vaja [122+ viisi filtrite loomiseks](img/Jira.PNG) (Jira).
+Inimene ei vaja 122+ viisi filtrite loomiseks (Jira).
 
 Jira ja Trello kohta vt ka [https://techcrunch.com/2017/01/09/atlassian-acquires-trello/](https://techcrunch.com/2017/01/09/atlassian-acquires-trello/).
 

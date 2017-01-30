@@ -28,7 +28,8 @@
       url: "/Korraldamine"
       pub: true
     - title: "1.8 Lihtne ja keeruline IT"
-      url: "/Lihtne"  
+      url: "/Lihtne"
+      pub: true  
 
 - title: "2 Infohaldus"
   categories:
@@ -68,6 +69,7 @@
       pub: true  
     - title: "4.5 Ärinõuded ja infovajadused"
       url: "/Nouded"
+      pub: true
     - title: "4.6 IT-investeeringute portfell"
       url: "/Invest"
     - title: "4.7 Arendustöö korraldamine. Agiilne arendus"
