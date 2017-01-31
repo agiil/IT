@@ -9,6 +9,45 @@ permalink: Automatiseerimine
 *TOC
 {:TOC}
 
+```javascript
+if (oskame_struktureerida_masinale) {
+  automatiseerime
+} else {
+  if (oskame_struktureerida_inimesele) {
+    korraldame
+  } else {
+    tegutseme_ad_hoc
+  }
+}
+```
+
+## Automatiseerimine
+
+<p class='tags'>Näide</p>
+IT enda automatiseerimine on "kuum" teema. Infraosakond peab haldama kümneid erinevaid tarkvarasid ja süsteeme. Need on vaja endale selgeks teha, paigaldada, konfigureerida, tõrkeid kõrvaldada, veapaiku ja uuendusi peale panna... tööd on väga palju. Lisaks kõigele on hea süsadminid tööturul nõutud ja vahetavad töökohti. Süsteemide administreerimise automatiseerimine on seetõttu väga oluline.
+
+__Automatiseerimine__ on inimtöö asendamine masina "tööga", masina toimimisega. Lihtsaimaks näi­teks on makro sal­ves­ta­mi­ne mõne lihtsa, kuid korduva, käsitsi sooritatava ope­rat­si­ooni jaoks teks­ti­tööt­lussüsteemis. Suuremõõtmeline näide on ter­ve elukutse kadumine arvutisüsteemide kasutuselevõ­tu tulemusena.
+
+Mis on au­to­ma­ti­see­ri­mi­se juures olulisteks mo­mentideks?
+
+*Automatiseerimine nõuab tehnilisi vahendeid ja oskusi.*{: .u} Makro sal­ves­ta­mi­ne ei ole keeruline, kuid vähegi ulatuslikuma makrode kogumi haldamine nõu­ab plaa­nimist, kindlat süsteemi ja eraldi tähelepanu.
+
+*Automatiseerimine on võimalik ainult teatud piirini.*{: .u} Eraldiseisvat ope­rat­si­oo­ni, mille struktuur on mõistetav ja regulaarne, on lihtne automatiseerida. Ope­rat­sioonide komplekside, samuti vabama struktuuriga tegevuste auto­ma­ti­see­ri­mine on keerukas.
+
+*Paindlikkuse kadumine.*{: .u} Automatiseerimine võib kaasa tuua paindlikkuse ka­dumise ja lõpp­kok­ku­võt­tes madalama kvaliteedi.
+
+*Väiksemad kulud, suurem täpsus.*{: .u} Samas võib automatiseerimine alandada kulusid ja saavutada suuremat tehnilist täpsust. Automatiseerimine võib nii tõs­ta kui ka alandada operatsiooni kvaliteeti.
+
+*Automatiseerimine võib võtta aega.*{: .u} Automatiseerimine ja de­au­to­ma­ti­see­ri­mi­ne (tagasiminek inimtööle) nõua­vad harilikult aega. Kahte süsteemi kõrvuti toi­mimas hoida on harilikult kulukas (e-pangandus ja inimtelleri kaudu klien­di­teenindus).
+
+*Osaline automatiseerimine.*{: .u} Täielik automatiseerimine ei ole kaugeltki alati võimalik. Sageli on ots­tar­be­kas jätta osa funktsioone inimese teha. 
+
+*Automatiseeritud töötlus ei ole alati inimtööga samaväärne.*{: .u} Seadus ütleb, et digiallkiri on samaväärne omakäelise allkirjaga. Õiguslikus mõttes küll, kuid samaväärsuse deklareerimine ei tee asju veel kõigis aspektides võrdseks. E-õpe ei ole samaväärne klassiruumis toimuva õppega, jne. Inimkäeline töö on tihtigi väär­tus­li­ku­m kui masinaga tehtu.
+
+<p class='action'><i class="material-icons ikoon">help_circle</i>Kas tarbid mõnd toodet või teenust, milles müüja rõhutab käsitöö sisalduvust kui väärtust?</p> 
+
+*Majanduslik tasuvus ja töötluse maht.*{: .u} Automatiseerimise majanduslik ta­su­vus sõltub töötluse mahust. 10 do­ku­men­di töötluseks ei ole vaja erilist süsteemi; 100 dokumendi töötluseks on vaja ju­ba teatud süsteemi; 1000 dokumendi tööt­lusel tekib vähemalt mõnede ope­rat­si­oonide automatiseerimise küsimus ju­ba teravalt; 100 000 dokumendi töötlus nõuab mitte ainult auto­ma­ti­see­ri­mist vaid ka jõudlusele mõtlemist. Iga ma­hu­aste toob kaasa uusi rõhuasetusi. 
+
 ## Algoritm ja masin
 
 Kui ostame Eesti Ekspressi, kas mõtleme siis, kuidas ajaleht on kokku pandud? Iga nädal on uus leht. Iga artikkel on erinev. Kuid samas ka sarnane. Väljaande formaat, kontseptsioon, toimetusepoliitika, ajakirjanike väljakujunenud võtted. Väljaande jätkuvust loovad mitmed struktuurielemendid. Osal nendest on infotehnoloogiline kuju. Kujunduselemendid, mallid, tõenäoliselt mitmeid makrosid ja skripte. Kogu kirjutamise-toimetamise-avaldamise töövoog. Andmebaasid, mida ajakirjanikud kasutavad. Rolodexid (ajakirjanike kontaktimärkmikud). Veebianalüütika loetavuse kohta. -- Ajakirjanikul on võimalus mõjutada ja määrav jõud, kuid suure osa tööst teevad ära algoritmid. Spordi- ja majandusuudiste kirjutamine automatiseeritakse. Tõenäoliselt on kasutusel või võetakse peagi kasutusele targad algoritmid, mis analüüsivad turgu ja keskkonda ning annavad ajakirjanikule juhiseid, mida kirjutada. -- Ajaleht kui infot tootev masin. Selle pilguga vaadates tekib küsimus, kas meile suunatud targalt optimeeritud meediateave on objektiivse pildi saamiseks piisav? Kas meie kasutame ajalehte või äkki kasutab ajaleht meid?
@@ -33,36 +72,5 @@ __Ärimudel__ (_Business Model_) ja __ärireegel__ (_Business Rule_) on lähedas
 
 Ärialgoritmi võib ilusa välja mõelda, kuid kuidas seda teostada? Kohe puutume kokku sellega, et andmeid kas ei ole, või ei ole neile lihtsat ligipääsu. Andmed võivad olla madala kvaliteediga. Taristu, millele IT-lahendust ehitada, puudub. Kvaliteetne andmehõive oleks võimatult kallis. Jne.
 
-```
-if (oskame_struktureerida_masinale) {
-  automatiseerime
-} else {
-  if (oskame_struktureerida_inimesele) {
-    korraldame
-  } else {
-    tegutseme_ad_hoc
-  }
-}
-```
-
 ![](https://1.bp.blogspot.com/-tavi58WFvb8/UkKGGRln8eI/AAAAAAAAFVk/6qRP2xNcG8s/s1600/image006.gif)
 
-Inimtöö asendamine masina "tööga", masina toimimisega. Lihtsaimaks näi­teks on makro sal­ves­ta­mi­ne mõne lihtsa, kuid korduva, käsitsi sooritatava ope­rat­si­ooni jaoks teks­ti­tööt­lussüsteemis. Suuremõõtmeliseks näiteks on ter­ve elukutse kadumine arvutisüsteemide kasutuselevõ­tu tulemusena.
-
-Mis on au­to­ma­ti­see­ri­mi­se juures olulisteks mo­mentideks?
-
-_Automatiseerimine nõuab tehnilisi vahendeid ja oskusi_ Makro sal­ves­ta­mi­ne ei ole keeruline, kuid vähegi ulatuslikuma makrode kogumi haldamine nõu­ab plaa­nimist, kindlat süsteemi ja eraldi tähelepanu.
-
-_Automatiseerimine on võimalik ainult teatud piirini_ Eraldiseisvat ope­rat­si­oo­ni, mille struktuur on mõistetav ja regulaarne, on lihtne automatiseerida. Ope­rat­sioonide komplekside, samuti vabama struktuuriga tegevuste auto­ma­ti­see­ri­mine on keerukas.
-
-_Paindlikkuse kadumine_ Automatiseerimine võib kaasa tuua paindlikkuse ka­dumise ja lõpp­kok­ku­võt­tes madalama kvaliteedi.
-
-_Väiksemad kulud, suurem täpsus_ Samas võib automatiseerimine alandada kulusid ja saavutada suuremat tehnilist täpsust. Automatiseerimine võib nii tõs­ta kui ka alandada operatsiooni kvaliteeti.
-
-_Automatiseerimine võib võtta aega_ Automatiseerimine ja de­au­to­ma­ti­see­ri­mi­ne (tagasiminek inimtööle) nõua­vad harilikult aega. Kahte süsteemi kõrvuti toi­mimas hoida on harilikult kulukas (e-pangandus ja inimtelleri kaudu klien­di­teenindus).
-
-_Osaline automatiseerimine_ Täielik automatiseerimine ei ole kaugeltki alati võimalik. Sageli on ots­tar­be­kas jätta osa funktsioone inimese teha. 
-
-_Automatiseeritud töötlus ei ole alati inimtööga samaväärne_ Mehhaaniliselt (temp­liga) või infotehnoloogiliselt (printeriga) allkirjastatud kiri ei ole sama­väär­ne isiku omakäelise allkirjaga, kas siis, kui tehniliselt on allkirjajäljendid ras­kesti eristatavad. E-õpe ei ole samaväärne klassiruumis toimuva õppega, jne. Inimkäega tehtud tööd (_hand made_) loetakse tänapäeval reeglina väär­tus­li­ku­maks kui masinaga tehtut. 
-
-_Majanduslik tasuvus ja töötluse maht_ Automatiseerimise majanduslik ta­su­vus sõltub automatiseeritava töötluse mahust ja maksumusest. 10 do­ku­men­di töötluseks ei ole vaja erilist süsteemi; 100 dokumendi töötluseks on vaja ju­ba teatud süsteemi; 1000 dokumendi tööt­lusel tekib vähemalt mõnede ope­rat­si­oonide automatiseerimise küsimus ju­ba teravalt; 100, 000+ dokumendi töötlus nõuab mitte ainult auto­ma­ti­see­ri­mist vaid ka piisavat jõudlust. Iga ma­hu­aste toob kaasa uusi rõhuasetusi. 

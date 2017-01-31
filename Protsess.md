@@ -45,21 +45,22 @@ Ettevõte = kogum protsesse.
 
 ## Tüüpilised probleemid protsessiga
 
-◦ Ebapiisav ettekujutus protsessi toimimisest
+- Ebapiisav ettekujutus protsessi toimimisest
 
-◦ Ebapiisav ettekujutus sellest, kuidas protsess peaks toimima
+- Ebapiisav ettekujutus sellest, kuidas protsess peaks toimima
 
-◦ Vead protsessi sammude täitmisel
+- Vead protsessi sammude täitmisel
 
-◦ Ei tehta <u>ennetavaid tegevusi</u> (nt. seadmete hooldus, töö planeerimine, tarnijate tausta kont­roll)
+- Ei tehta <u>ennetavaid tegevusi</u> (nt. seadmete hooldus, töö planeerimine, tarnijate tausta kont­roll)
 
-◦ Mittevajalikud tegevused, kaod, ressursside liigne kulutamine
+- Mittevajalikud tegevused, kaod, ressursside liigne kulutamine
 
-◦ Kõikuvus protsessi sisendites (nt. tooraine kõikuv kvaliteet)
+- Kõikuvus protsessi sisendites (nt. tooraine kõikuv kvaliteet)
 
-◦ Kõikuvus protsessi väljundites (toote või teenused taseme kõikumine).
+- Kõikuvus protsessi väljundites (toote või teenused taseme kõikumine).
 
-» Näide “Müügi protsess” Klienditeenindusprotsessi analüüs kaubandusettevõttes. 
+<p class='tags'>Näide</p>
+Klienditeenindusprotsessi analüüs kaubandusettevõttes. 
 
 ![](https://3.bp.blogspot.com/-V-4M50grAf4/UkKFMzK0HKI/AAAAAAAAFU8/BdeapvsgxM0/s1600/image001.gif)
 
@@ -77,9 +78,7 @@ Kullerteenust kavandanud tudengid jõudsid järeldusele, et tellimuse andmiseks 
 
 # Miks protsessi kujundamine?
 
-Miks peab protsessi analüüsima, kirja panema? Sest:
-
-- tahan oma töö kiiresti ära teha ja liikuda teiste tööde või huvitavamate asjade juurde.
+Miks peab protsessi analüüsima, kirja panema? Kasvõi sellepärast, et tahan oma töö kiiresti ära teha ja liikuda teiste tööde või huvitavamate asjade juurde.
 
 IT-põhise protsessi tunnusjooned: 
 
@@ -155,11 +154,11 @@ Protsessi kirjeldamise meetodeid on palju. Hea kirjeldusviis peaks andma kirjeld
 
 Hea esitusviis peab olema ka lihtne, odav ja kergelt õpitav. Nendele nõuetele vastab teiste seas nn. seinatehnika.
 
-<u>Leia ebakõlad, mittehaakumised, too välja ilmsed probleemid.</u> Protsessi kirjeldust või mudelit uurides ilmneb pea alati probleeme, mida ei ole märgatud, kuid mida saab suhteliselt kergesti lahendada.
+*Leia ebakõlad, mittehaakumised, too välja ilmsed probleemid.*{: .u} Protsessi kirjeldust või mudelit uurides ilmneb pea alati probleeme, mida ei ole märgatud, kuid mida saab suhteliselt kergesti lahendada.
 
-<u>Leia klientide vajadused, samuti protsessis osalejate vajadused.</u> Oluline on keskenduda protsessi otstarbele. Enamasti on protsessil kindel klient või klientide rühm. Kuid olulised on ka protsessi täitjate vajadused. Vaimne ja füüsiline hügieen tööprotsessis. Töökeskkond.
+*Leia klientide vajadused, samuti protsessis osalejate vajadused.*{: .u} Oluline on keskenduda protsessi otstarbele. Enamasti on protsessil kindel klient või klientide rühm. Kuid olulised on ka protsessi täitjate vajadused. Vaimne ja füüsiline hügieen tööprotsessis. Töökeskkond.
 
-<u>Kavanda soovitav, standardne protsess.</u> Peaaegu alati on võimalik protsessi täiustada. Standardus tähendab seda, et kõik töötajad hakkavad kasutama ühtsustatud töövõtteid. Selle tulemuseks on tavaliselt toote või teenuse kva­li­tee­ditaseme tõus.
+*Kavanda soovitav, standardne protsess.*{: .u} Peaaegu alati on võimalik protsessi täiustada. Standardus tähendab seda, et kõik töötajad hakkavad kasutama ühtsustatud töövõtteid. Selle tulemuseks on tavaliselt toote või teenuse kva­li­tee­ditaseme tõus.
 
 ## Aste 2: Tõsta protsessi veakindlust
 
@@ -171,7 +170,7 @@ Kaaluda:
 
 - Kas info organisatsiooni või esituse muutusega (dokumendivormi, veebilehe struktuuri muutmisega) ei saaks vigu vältida?
 
-- Kas kontrollnimistu (_checklist_) ei väldiks vigu?
+- Kas kontrollnimistu (__Checklist__) ei väldiks vigu?
 
 - Kas selged, graafiliselt kujundatud ning silmatorkavalt välja pandud juhised ei väldiks vigu?
 
@@ -207,7 +206,7 @@ Vaata, kus erinevad tingimused või protseduurid viivad erinevate tulemusteni.
 
 - Erinevad toimimistingimused?
 
-Milliseid erinevusi võib kõrvaldada? Näiteks väljaõpe ning juhenddokumentatsioon võivad vähendada erinevusi operaatorite või inspektorite tulemuslikkuses. Tarnijate hoolikam valik võib vähendada protsessi sisendite kõikuvust.
+Milliseid erinevusi võib kõrvaldada? Näiteks väljaõpe ning juhendid võivad vähendada erinevusi operaatorite või inspektorite tulemuslikkuses. Tarnijate hoolikam valik võib vähendada protsessi sisendite kõikuvust.
 
 Eksperimenteerimise vajalikkus.
 
@@ -231,7 +230,7 @@ Protsesside kirjeldamisel võib ette tulla raskusi, sh.:
 
 Ei ole ühte, õiget ja täielikku protsessikirjeldust. Võimalikud on erinevad vaatepunktid.
 
-<u>Tegevuste korduvus ja ainulaadsus</u>
+*Tegevuste korduvus ja ainulaadsus.*{: .u}
 
 - Sageli korduvad tegevused
 
@@ -247,7 +246,7 @@ Ei ole ühte, õiget ja täielikku protsessikirjeldust. Võimalikud on erinevad 
 
 Tihti arvatakse, et mõni tegevus on ainulaadne (igal konkreetsel juhul erinev) ja seetõttu ei ole võimalik või ei oma mõtet tegevust kirjeldada ja analüüsida. Sageli eksitakse ka tegevuse esinemissageduse hindamisel.
 
-<u>Oma protsessi kirjeldamine (viis aspekti protsessi kirjeldamisel)</u>
+*Oma protsessi kirjeldamine (viis aspekti protsessi kirjeldamisel).*{: .u}
 
 1. Mis on? (oma kogemus) >> Töölõigu kirjeldus - nii nagu on
 
@@ -259,7 +258,7 @@ Tihti arvatakse, et mõni tegevus on ainulaadne (igal konkreetsel juhul erinev) 
 
 5. Oma ideed ja arendused >> Oma ideed - nii nagu ise mõtleme
 
-<u>Kõige ülalesitatu tegemine nõuab aega </u>
+*Kõige ülalesitatu tegemine nõuab aega.*{: .u}
 
 Arenduseks eraldatud ressursside otstarbeka kasutamise vajadus. Ressursside suunamise võimalikud põhimõtted:
 
@@ -271,19 +270,19 @@ Arenduseks eraldatud ressursside otstarbeka kasutamise vajadus. Ressursside suun
 
 ## Protsessiuuendus
 
-(_Process innovation_) äri-, töö- või tarbimisprotsessi paremaks muutmine. Infotehnoloogial ja infokorraldusel on protsessiuuenduses tähtis roll. Uued infotehnoloogiad võivad võimaldada:
+_Process Innovation_, äri-, töö- või tarbimisprotsessi paremaks muutmine. Infotehnoloogial ja infokorraldusel on protsessiuuenduses tähtis roll. Uued infotehnoloogiad võivad võimaldada:
 
-° protsessi geograafilise ulatuse suurendamist (nt saab võimalikuks osutada teenust teisel mandril olevale kliendile)
+- protsessi geograafilise ulatuse suurendamist (nt saab võimalikuks osutada teenust teisel mandril olevale kliendile)
 
-° protsessi sellist kiirendamist, mis tähendab protsessi kvalitatiivset (olemuslikku) muutumist (nt avalduse töötlemise aja vähenemine kahelt nädalalt kahele tunnile)
+- protsessi sellist kiirendamist, mis tähendab protsessi kvalitatiivset (olemuslikku) muutumist (nt avalduse töötlemise aja vähenemine kahelt nädalalt kahele tunnile)
 
-° toodete ja teenuste kvalitatiivselt uut spetsialiseerumist ja kliendile kohandamist (nt seniseid standardtooteid saab osta konkreetsele kliendile kohandatult) (mass customisation, personaliseerimistehnoloogiad)
+- toodete ja teenuste kvalitatiivselt uut spetsialiseerumist ja kliendile kohandamist (nt seniseid standardtooteid saab osta konkreetsele kliendile kohandatult) (mass customisation, personaliseerimistehnoloogiad)
 
-° tõsta protsessi täpsust või teisi kvaliteediomadusi niivõrd, et tehnoloogia või lõpptoode muutub atraktiivseks ja kasutatavaks
+- tõsta protsessi täpsust või teisi kvaliteediomadusi niivõrd, et tehnoloogia või lõpptoode muutub atraktiivseks ja kasutatavaks
 
-° koostööd ja koordinatsiooni, mis varem ei olnud võimalik; tänu sellele on töökogumeid võimalik jagada väiksemateks tööpakettideks; spetsialiseerumise võimalus ja läbi selle – parema kvaliteedi ja efektiivsuse saavutamine
+- koostööd ja koordinatsiooni, mis varem ei olnud võimalik; tänu sellele on töökogumeid võimalik jagada väiksemateks tööpakettideks; spetsialiseerumise võimalus ja läbi selle – parema kvaliteedi ja efektiivsuse saavutamine
 
-° väärtusahelast laiema osa mõjutamine (nt nn kiire reaktsiooniga tarnesüsteemid kaubanduses).
+- väärtusahelast laiema osa mõjutamine (nt nn kiire reaktsiooniga tarnesüsteemid kaubanduses).
 
 ## Keskkond
 
@@ -297,7 +296,7 @@ Arenduseks eraldatud ressursside otstarbeka kasutamise vajadus. Ressursside suun
 
 ## Protsesside täiustamine ja organisatsiooni kultuur
 
-- Erinevused töökultuuris on nii riikide, firmade kui ka tegevusalade vahel. Võrdle erinevusi Saksa, Eesti, Vene, Soome töökultuuride vahel.
+Erinevused töökultuuris on nii riikide, firmade kui ka tegevusalade vahel. Võrdle erinevusi Saksa, Eesti, Vene, Soome töökultuuride vahel.
 
 Näide. Rahvusvaheline kontsern käivitas ühes Ida-Euroopa riigis tehase, importides tehase juhtkonna Lääne-Euroopast. Viie aasta möödudes oli kavas ettevõtte juhtkond välja vahetada kohapealse vastu. Investeerimisekspertide hinnangul vähendas selline perspektiiv ettevõtte turuväärtust (ennustati ettevõtte turuosa vähenemist juhtimiskompetentsi languse tõttu).
 
@@ -311,7 +310,7 @@ Ini­mese­kesk­selt ülesehitatud süsteemis navigeerib inimene (vahel väga i
 
 ![](https://3.bp.blogspot.com/-p2YBZC8HUCw/UkKGAYXxZjI/AAAAAAAAFVc/W2WVj-GYAOA/s1600/image005.gif)
 
-_Information foraging_ — kütluse-koriluse taasilmumine inforikkas ühiskonnas. Kahte liiki probleeme: a) informatsioonilise keskkonna kujundamine; b) selles keskkonnas efektiivne liikumine. [Teadusuu­rin­gute tulemusi]
+__"Infokorilus"__, _Information Foraging_ — kütluse-koriluse taasilmumine inforikkas ühiskonnas. Kahte liiki probleeme: a) informatsioonilise keskkonna kujundamine; b) selles keskkonnas efektiivne liikumine.
 
 IT süsteemide erinevad liigid võivad eelistada kas prot­sessikeskset või ini­me­se­keskset struktuuri. Infoarhitektuuri suund on selles mõttes pigem inimese­keskne kui protsessikeskne.
 
