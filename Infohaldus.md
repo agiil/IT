@@ -121,8 +121,7 @@ Mis takistab infohalduse ideaali saavutamist? Takistada võivad muu hulgas:
 - töötaja, kelle infotöötlus on ebaefektiivne, on _busy_, väliselt näib, nagu teeks ta palju tööd. Seevastu töötajal, kes on oma teabe efektiivselt korraldanud, pole vajadust tormakat tegevust arendada. Kumba organisatsioonis rohkem hinnatakse?
 - infohalduse parendused võivad olla väikesed, pikaajalise tagasitootmisajaga, raskesti järgitavad
 
-
-__Kanalistrateegia__
+## Kanalistrateegia
 
 <p class='tags'>Artikli TL;TR</p>
 <p class='s'>Bang et al (2013) Channel capabilities, product characteristics, and the impacts of mobile channel introduction. Journal of Management Information Systems.</p>
@@ -156,4 +155,7 @@ __Personaalne infostrateegia (näide)__
 | IT veebiväljaanded       | ei jõua               |
 | DevClub, Meetups jms     | oleks oluline         |
 
+## Sisustrateegia
 
+Sisustrateegia (_Content Strategy_) puhul on küsimus, kas see on üldse IT teema. Teemad ja mikroteemad, žanrid, erinevatele sihtrühmadele suunatud žanrikogumid, kooskõlalised, stiililiselt ühtsed sõnumid üle erinevate platvormide ja kanalite, mitmeplatvormiline sisutootmine...
+ 
