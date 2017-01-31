@@ -9,3 +9,7 @@ defaults:
       layout: "IT"
       draft: "false"
       sidebar: "false"
+
+exclude:
+  - 6068
+  
