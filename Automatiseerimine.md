@@ -44,3 +44,25 @@ if (oskame_struktureerida_masinale) {
   }
 }
 ```
+
+![](https://1.bp.blogspot.com/-tavi58WFvb8/UkKGGRln8eI/AAAAAAAAFVk/6qRP2xNcG8s/s1600/image006.gif)
+
+Inimtöö asendamine masina "tööga", masina toimimisega. Lihtsaimaks näi­teks on makro sal­ves­ta­mi­ne mõne lihtsa, kuid korduva, käsitsi sooritatava ope­rat­si­ooni jaoks teks­ti­tööt­lussüsteemis. Suuremõõtmeliseks näiteks on ter­ve elukutse kadumine arvutisüsteemide kasutuselevõ­tu tulemusena.
+
+Mis on au­to­ma­ti­see­ri­mi­se juures olulisteks mo­mentideks?
+
+_Automatiseerimine nõuab tehnilisi vahendeid ja oskusi_ Makro sal­ves­ta­mi­ne ei ole keeruline, kuid vähegi ulatuslikuma makrode kogumi haldamine nõu­ab plaa­nimist, kindlat süsteemi ja eraldi tähelepanu.
+
+_Automatiseerimine on võimalik ainult teatud piirini_ Eraldiseisvat ope­rat­si­oo­ni, mille struktuur on mõistetav ja regulaarne, on lihtne automatiseerida. Ope­rat­sioonide komplekside, samuti vabama struktuuriga tegevuste auto­ma­ti­see­ri­mine on keerukas.
+
+_Paindlikkuse kadumine_ Automatiseerimine võib kaasa tuua paindlikkuse ka­dumise ja lõpp­kok­ku­võt­tes madalama kvaliteedi.
+
+_Väiksemad kulud, suurem täpsus_ Samas võib automatiseerimine alandada kulusid ja saavutada suuremat tehnilist täpsust. Automatiseerimine võib nii tõs­ta kui ka alandada operatsiooni kvaliteeti.
+
+_Automatiseerimine võib võtta aega_ Automatiseerimine ja de­au­to­ma­ti­see­ri­mi­ne (tagasiminek inimtööle) nõua­vad harilikult aega. Kahte süsteemi kõrvuti toi­mimas hoida on harilikult kulukas (e-pangandus ja inimtelleri kaudu klien­di­teenindus).
+
+_Osaline automatiseerimine_ Täielik automatiseerimine ei ole kaugeltki alati võimalik. Sageli on ots­tar­be­kas jätta osa funktsioone inimese teha. 
+
+_Automatiseeritud töötlus ei ole alati inimtööga samaväärne_ Mehhaaniliselt (temp­liga) või infotehnoloogiliselt (printeriga) allkirjastatud kiri ei ole sama­väär­ne isiku omakäelise allkirjaga, kas siis, kui tehniliselt on allkirjajäljendid ras­kesti eristatavad. E-õpe ei ole samaväärne klassiruumis toimuva õppega, jne. Inimkäega tehtud tööd (_hand made_) loetakse tänapäeval reeglina väär­tus­li­ku­maks kui masinaga tehtut. 
+
+_Majanduslik tasuvus ja töötluse maht_ Automatiseerimise majanduslik ta­su­vus sõltub automatiseeritava töötluse mahust ja maksumusest. 10 do­ku­men­di töötluseks ei ole vaja erilist süsteemi; 100 dokumendi töötluseks on vaja ju­ba teatud süsteemi; 1000 dokumendi tööt­lusel tekib vähemalt mõnede ope­rat­si­oonide automatiseerimise küsimus ju­ba teravalt; 100, 000+ dokumendi töötlus nõuab mitte ainult auto­ma­ti­see­ri­mist vaid ka piisavat jõudlust. Iga ma­hu­aste toob kaasa uusi rõhuasetusi. 

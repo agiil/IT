@@ -10,6 +10,7 @@
   categories:
     - title: "1.1 Informatsiooni väärtus ja kvaliteet"
       url: "/Informatsioon"
+      pub: true
     - title: "1.2 IT maagia"
       url: "/Maagia"
       pub: true  

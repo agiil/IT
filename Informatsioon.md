@@ -4,6 +4,10 @@ permalink: Informatsioon
 ---
 
 # 1.1 Informatsiooni väärtus ja kvaliteet
+{: .no_toc}
+
+*TOC
+{:TOC}
 
 > "Information is a difference that makes a difference." -- Gregory Bateson, ökoloog
 
@@ -40,11 +44,8 @@ Võib küll kergesti leida rea tüüpkäitumisi ja -efekte, näiteks küllastumi
 Info kasufunktsioonil on mitmeid kujusid: 
 
 - juba vähene info on kasulik; täiendav info ei lisa suurt midagi 
-
 - ebatäielik, seetõttu eksitav info toob kasu asemel kahju 
-
 - info muutub väärtuslikuks alates teatud lävest 
-
 - info üleküllus—info koormab infotöötlussüsteemi üle ning kasulikkus langeb.
 
 ## Info kvaliteet ja selle elemendid
@@ -74,15 +75,15 @@ Info kvaliteet on kasulik mõiste. Vähemalt tasub seda teadvustada. Paljudes va
 
 Massatchusettsi Tehnoloogiaülikooli uurijad leidsid, et andmete kasutajad nägid andmetes 179 erinevat andmekvaliteedi atribuuti ehk dimensiooni: 
 
-_Accuracy, completeness, believability, interpretability, documentation, pedigree, availability, expense, verifiable, definability, age, auditable, ease of exchange, origin, integrity, portability, redundancy, security, correctness, conciseness, … convenience, friendliness, usable, ease of retrieval, partitionability, ergonomic, meets requirements, creativity, interesting, …_
+_Accuracy, completeness, believability, interpretability, documentation, pedigree, availability, expense, verifiable, definability, age, auditable, ease of exchange, origin, integrity, portability, redundancy, security, correctness, conciseness, convenience, friendliness, usable, ease of retrieval, partitionability, ergonomic, meets requirements, creativity, interesting, …_
 
-Kas info kvaliteet ja väärtus on üksikute "info­pa­la­de" omadused või on need pigem infokogumite oma­du­sed? Info kvaliteet ja väärtus sõl­tuvad suurel mää­ral sellest, millisesse süsteemi (struk­tuuri) tek­kiv in­fo sa­tub. Siit ka tõdemus, et info kvaliteeti saab tõsta ka­hel viisil: 1) käsitledes infopalasid suh­te­li­selt üksi­kult, hinnates ja paran­da­des nen­de kva­li­teeti; 2) luu­es infokogumite töötlemist kor­ral­da­vaid ja suu­navaid (in­fo)süsteeme, mille mõju ük­si­ku infopala kva­li­tee­di­le ei tarvitse olla va­hetu ja ilm­ne. Allikas: Wang R., Strong D. (1996) Beyond Accuracy: What Data Quality means to Data Consumers, Journal of Management Information Systems.
+Kas info kvaliteet ja väärtus on üksikute "info­pa­la­de" omadused või on need pigem infokogumite oma­du­sed? Info kvaliteet ja väärtus sõl­tuvad suurel mää­ral sellest, millisesse süsteemi (struk­tuuri) tek­kiv in­fo sa­tub. Siit ka tõdemus, et info kvaliteeti saab tõsta ka­hel viisil: 1) käsitledes infopalasid suh­te­li­selt üksi­kult, hinnates ja paran­da­des nen­de kva­li­teeti; 2) luu­es infokogumite töötlemist kor­ral­da­vaid ja suu­navaid (in­fo)süsteeme, mille mõju ük­si­ku infopala kva­li­tee­di­le ei tarvitse olla va­hetu ja ilm­ne. Allikas: Wang R et al (1996) Beyond Accuracy: What Data Quality means to Data Consumers, Journal of Management Information Systems.
 
 ## Kvaliteediandmed on meta-andmete üks liik
 
 __Metaandmed__ ehk "andmed andmete kohta" kirjeldavad andmete mitmesuguseid omadusi, nagu näiteks sisu, kvaliteeti, seisundit.
 
-## Info kvaliteedi parendamise tegevused
+## Info kvaliteedi parendamine
 
 Võib eristada: a) töötlust, mille tulemusena tekib sisuliselt uus informatsioon ning b) töötlust, mis ainult muudab sisendiks oleva info kvaliteeti, jättes info olemuselt samaks. 
 

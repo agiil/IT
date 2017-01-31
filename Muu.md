@@ -43,12 +43,6 @@ Pilveteenuste turg on väga kiirelt kasvanud. Kõiki ettevõtte põhisüsteeme s
 > "As more services are procured from cloud vendors, the need for functions within the IT department that serve to administer, monitor, and  maintain  the IT  infrastructure  will  be  considerably  diminished  or  even  eliminated. Under  cloud computing, the IT department may need to increase the focus on adding value to the 
 incoming cloud-based services. The mission of the IT department would transition to determining the means by which the IT personnel can ensure that enhancements to cloud-based services fit the current and future needs of the consuming units."
 
-
-<p class='tags'><span class='tag'>artikli TL;DR</span></p>
-<p class='s'>Shen et al (2015) Competing for attention : an empirical study of online reviewers' strategic behavior. MIS Quarterly</p>
-
-*Pealkiri ütleb kõik: 2/3 tarbijatest loevad tootearvustusi, > 80% tuginevad ostuotsuse tegemisel otseselt arvustustele. Kuna tähelepanu on internetis kõige hinnalisem ressurss, siis valivad arvustuste kirjutajad hoolikalt, mida arvustada. Arvustaja maksimeerib temale osakssaavat sotsiaalset tähelepanu.*{: .u}
-
 <p class='tags'><span class='tag'>artikli TL;DR</span></p>
 <p class='s'>Karhade et al (2015) Patterns in information systems portfolio prioritization : evidence from decision tree induction. MIS Quarterly</p>
 
@@ -152,3 +146,12 @@ juhtimine  juhtimine  ressursside   korraldus, juhtimine     omandi
                                     suhete juhtimine
 
 ```
+
+__Ajakirjandus teabe- ja teadusallikana.__ 
+
+1. Ajakirjandus on käsitatav infot produtseeriva masinavärgina
+2. Ajakirjandus küll peegeldab ja modelleerib tegelikkust, kuid see mudel ei ole alati ega igas suhtes täielik ega tõepärane.
+3. Ajakirjandus ei ole varmas oma masina sisemust avama.
+
+Gerding, E (2016) Disclosure 2.0: Can Technology Solve Overload, Complexity, and Other Information Failures? Tulane Law Review
+
