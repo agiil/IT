@@ -4,8 +4,6 @@ title: Ettevõtja taksonoomia
 permalink: Ettevotja
 ---
 
- 
-
 __Ettevõtja taksonoomia__
 
 <p><span><i class="material-icons ikoon">format_align_left</i></span></p>

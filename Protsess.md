@@ -4,6 +4,10 @@ permalink: Protsess
 ---
 
 # 3.1 IT-põhine äriprotsessi (-teenuse) disain
+{: .no_toc}
+
+*TOC
+{:TOC}
 
 ![](img/HappyPath.PNG)
 

@@ -52,3 +52,6 @@ Täiendada tuleks veel mitmega:
 - eesti keele õigekirja kontrollija (head lahendust ei ole)
 - skript statistika arvutamiseks (Python?)
 - veebianalüütika (Google Analytics)
+
+<p class='tags'><span class='tag'>Näide</span></p>
+[Riigiasutuses IT-profiil (RIK)](http://www.rik.ee/et/asutusest/it-profiil)

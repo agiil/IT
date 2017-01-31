@@ -5,6 +5,10 @@ permalink: Infohaldus
 ---
 
 # 2.1 Infohaldus (Information Management)
+{: .no_toc}
+
+*TOC
+{:TOC}
 
 <p class='tags'>Oskused</p>
 - oskab korraldada info liikumist organisatsioonis organisatsiooni eesmärkidest lähtuvalt

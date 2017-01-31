@@ -13,7 +13,7 @@ sidebar: false
 ![](img/FrancisTseng.jpg)
 *Allikas: Francis Tseng*{: .s}
 
-__Ettevõtluse põletavaim probleem__.
+## Ettevõtluse põletavaim probleem
 
 Mis on see põletav probleem, mis ettevõtjaid IT-ga seoses huvitab?
 
@@ -29,11 +29,11 @@ __Erinevas elustaadiumis ettevõtted vajavad erinevaid süsteeme. Väikese, alus
 
 Süsteem olema paindlik. Alustavas ettevõttes süsteem tihti lapitakse kokku erinevatest pilveteenustest. Ühest süsteemist tavaliselt ei piisa – see oleks liiga jäik ja liiga suur ettevõtmine. Kuid süsteemid peavad üksteisega siiski sobituma, koos moodustama vähemalt enam-vähem toimiva terviku.
 
-__IT – ettevõtte kasvu võimaldaja__.
+## IT – ettevõtte kasvu võimaldaja
 
 Churchilli ja Lewise 1983. a Harvard Business Review’s avaldatud firma kasvustaadiumite teooria on tänapäevani kasvukäsitlustest üks populaarsemaid. C & H teooria on eriti huvitav selle poolest, et nad näitavad, kuidas protsessid ja IT-süsteemid – õigemini, ettevõte võime protsesse arendada ja IT-süsteeme arendada – on üheks kasvu eelduseks ja elemendiks.
 
-__Ettevõtte arenguvektor__.
+## Ettevõtte arenguvektor
 
 Kõik ettevõtted ei liigu kasvu suunas.
 
@@ -53,7 +53,7 @@ Kokkutõmbuvas organisatsioonis, vastupidi, tuleb mõelda, kas kõik süsteemid 
 
 Suhteliselt stabiilses organisatsioonis, ettevõttes, mille ärikeskkond on väheliikuv, peab arvestama, et IT-keskkond ei seisa paigal. Vastupidi, IT-maailma muutused võivad olla vägagi kiired. Ettevõte peaks talle olulisi perspektiivseid tehnoloogiaid jälgima ja õigel ajal kasutusele võtma. (Ka see protsess ei ole lihtne).
 
-__Oskus ja võime kasvada__.
+## Oskus ja võime kasvada
 
 Kahjuks kogeme Eesti praktikas, et ettevõtete võimed töökorraldust ja protsesse arendada – ja koos sellega IT-d rakendada –on tihti kesised.
 
@@ -67,7 +67,7 @@ Siinkohal tuleb märkida, et IT rakendamise võimekus on väga tihedalt seotud t
 
 Järeldus. Ettevõttel võib olla soov – vahel ka allasurutud soov – kasvada, kuid puudub selge ettekujutus, kuidas kasvu saavutada.
 
-__Äri skaleeruvus ja kasvu soodustav IT__.
+## Äri skaleeruvus ja kasvu soodustav IT
 
 Kasv nõuab ärisüsteemide skaleeruvust.
 

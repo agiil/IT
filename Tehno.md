@@ -5,6 +5,10 @@ permalink: Tehno
 ---
 
 # 1.5 Tehnoloogiate (tarkvarade) hindamine ja valik
+{: .no_toc}
+
+- TOC
+{:toc}
 
 <p class='action'><i class="material-icons ikoon">help_circle</i>Suur organisatsioon (mitu tuhat töötajat, erinevates allstruktuurides) hangib tööaja planeerimise ja tööaja arvestuse jaoks tarkvara. See on strateegiline otsus, mida eksimise korral on raske tagasi pöörata. Kuidas toimida?<br>
 <br>

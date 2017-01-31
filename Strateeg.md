@@ -4,6 +4,10 @@ permalink: Strateeg
 ---
 
 # 5.1 IT ja strateegia
+{: .no_toc}
+
+- TOC
+{:toc}
 
 <p class='tags'>Oskus</p>
 - oskab koostada IT-põhist organisatsiooni strateegiat, leida võimalusi strateegia rikastamiseks IT elemendiga

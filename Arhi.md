@@ -4,6 +4,10 @@ permalink: Arhi
 ---
 
 # 1.6 IT arhitektuur
+{: .no_toc}
+
+*TOC
+{:TOC}
 
 __Ehitusblokid__, ingl _building blocks_ on IT arhitektuuri kujundamise viis, kasutusel eelkõige suurtes süsteemides. Kavandatakse ja teostatakse rida komponente - "ehitusblokke" (taristulisi teenuseid), pöörates erilist tähelepanu komponentide kokkusobivusele (koostalitlusvõimele, ingl _interoperability_). Komponte kombineerides saab paindlikult ja kuluefektiivselt teha erinevaid lahendusi ja teenuseid.
 

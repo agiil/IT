@@ -5,6 +5,10 @@ permalink: Takson
 ---
 
 # 2.3 Äritaksonoomia
+{: .no_toc}
+
+- TOC
+{:toc}
 
 __Äritaksonoomia__ on ettevõttele või organisatsioonile huvi pakkuvate asjade hierarhiline liigitus.
 

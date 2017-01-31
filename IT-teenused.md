@@ -4,6 +4,10 @@ permalink: IT-teenused
 ---
 
 # 4.3 IT protsessid ja teenused
+{: .no_toc}
+
+*TOC
+{:TOC}
 
 - omab ülevaadet ettevõtte ettetulevatest tüüpilistest IT-ga seotud probleemidest ja otsustest
 - oskab IT probleeme modelleerida ja analüütiliselt lahendada, otsusi ette valmistada ja põhjendada
@@ -25,7 +29,7 @@ permalink: IT-teenused
 - mõistab sotsiaalse, mitteformaalse informatsiooni tähtsust
 - oskab arvestada info sotsiaalsust töövoogude ja süsteemide disainimisel, töö korraldamisel
 
-# Uued, as-a-Service tooted
+## Uued, as-a-Service tooted
 
 Andmebaas teenusena, _Database-as-a-service_ [Orchestrate](https://orchestrate.io/)
 
@@ -33,8 +37,7 @@ Andmebaas teenusena, _Database-as-a-service_ [Orchestrate](https://orchestrate.i
 - PaaS (platform as a service)
 - IaaS (infrastructure as a service)
 
-
-# IT protsessid
+## IT protsessid
 
 __Tootehaldus__ (_Product Management_)
  
@@ -95,7 +98,7 @@ task
 reliisi kokkuvõte
 : lessons learned läbivaatus, millega vajadusel täiendatakse reliisimalli.
 
-# COBIT
+## COBIT
 
 [COBIT](https://en.wikipedia.org/wiki/COBIT)
 

@@ -4,6 +4,10 @@ permalink: Sisseostmine
 ---
 
 # 4.2 IT-teenuste sisseostmine
+{: .no_toc}
+
+- TOC
+{:toc}
 
 [Tagline](https://tagline.ru/) - digituru reitingud ja ülevaated
 

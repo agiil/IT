@@ -4,12 +4,16 @@ permalink: Harjutused
 ---
 
 # Harjutused
+{: .no_toc}
+
+*TOC
+{:TOC}
 
 - praktikas väga sageli ettetulevad, võib öelda - tüüpilised IT rakendamisega seotud tegevuse, probleemilahendamised, otsused
 - mikrotasandilt makrotasandile
 - lihtsamalt keerulisemale
 
-__1 "Infohalduse olukorra hinnang"__
+## 1 "Infohalduse olukorra hinnang"
 
 (sissejuhatav harjutus)
 
@@ -27,7 +31,7 @@ organisatsiooni ühe valdkonna, teenuse või protsessi infohalduse olukorra kiir
  
 _Ülesande eesmärk on luua kuulajas teadlikkust (awareness) sellest, et igapäevase infotöö korraldamine on oluline; nõuab ressursse, tähelepanu ja oskusi; on tihti probleemne ja samas efektiivsuse tõstmise kasutamata võimalus._
 
-__2 "Tehnoloogias orienteerumine"__
+## 2 "Tehnoloogias orienteerumine"
 
 valitud äri- v tegevusvaldkonnas 3-5 kõige aktuaalsema infotehnoloogia väljaselgitamine ja hindamine
 
@@ -39,7 +43,7 @@ valitud äri- v tegevusvaldkonnas 3-5 kõige aktuaalsema infotehnoloogia väljas
 
 _ Ülesande eesmärk on: avada silmad tehnoloogilise maastiku kiiretele muutustele; avastada oma valdkonnas olulised tehnoloogilise teabe allikad; harjutada tehnoloogiate hindamist._
 
-__3 "Äriprotsessi parendamine IT abil"__
+## 3 "Äriprotsessi parendamine IT abil"
 
 - valida ettevõte vm organisatsioon (soovitavalt tegelik)
 - valida organisatsiooni üks äriprotsess, väikese organisatsiooni korral mitu protsessi
@@ -54,7 +58,7 @@ __3 "Äriprotsessi parendamine IT abil"__
 
 _Äriprotsessi modelleerimine, analüüs ja disain on IT rakendamise üks võtmeoskusi. Protsessianalüüsi ja –disaini kogemusega kuulajad võivad töö asendada kirjanduse läbitöötamisega (täpsem teave õppejõult)._
 
-__4 "Tark tellija"__
+## 4 "Tark tellija"
 
 - ärinõuete püstitamine IT-süsteemile või -teenusele (sh arendusteenusele)
 
@@ -73,7 +77,7 @@ või
 
 _Ülesanne harjutab äripoole rollis olemist, kas väljast sisseostetavate või organisatsiooni siseteenuste kontekstis._
 
-__5 "IT strateegia"__
+## 5 "IT strateegia"
 
 - mõne strateegilise otsuse ettevalmistamine või analüüs IT vaatepunktist
 

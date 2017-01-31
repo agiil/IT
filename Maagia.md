@@ -5,8 +5,12 @@ permalink: Maagia
 ---
 
 # 1.2 IT maagia
+{: .no_toc}
 
-__Teeninduse maagia__
+- TOC
+{:toc}
+
+## Teeninduse maagia
 
 [Ritz-Carlton](https://en.wikipedia.org/wiki/The_Ritz-Carlton_Hotel_Company
 ) on pika ja kuulsa ajalooga luksushotellikett.
@@ -25,7 +29,7 @@ Teenusel on kaks poolt:
 -  mehaaniline, tänapäeval suuresti - infotehnoloogiline ("data-driven side of service")
 - emotsionaalne ("Ritz-Carlton Mystique").
 
-__Hea IT automaagilisus__
+## Hea IT automaagilisus
 
 Ka IT-teenustes on oma maagia. Väga hästi töötav IT-süsteem jõuab maagiale päris lähedale.
 
@@ -59,7 +63,7 @@ Kas IT-teenus on midagi, mida inimene kasutab eriliste emotsioonideta või peaks
 
 Järeldus siit võiks olla, et IT-teenuse kvaliteet ei ole pelgalt "objektiivsed" SLA mõõdikud ([SLA](https://en.wikipedia.org/wiki/Service-level_agreement) - teenustaseme kokkulepe, _service level agreement_), vaid kvaliteet on ka - ja võib-olla isegi eelkõige - inimese meeltes tekkiv kuvand, emotsionaalne konfiguratsioon.
 
-__Kuidas siis IT-s maagilist kvaliteeti saavutada?__
+## Kuidas siis IT-s maagilist kvaliteeti saavutada?
 
 > "Service magic, like stage magic, is a set of skills developed through desire and mastered through thought and determination."
 
@@ -67,7 +71,7 @@ __Kuidas siis IT-s maagilist kvaliteeti saavutada?__
 
 "Awesome stuff" - öeldakse, kui mõni veebisait, tarkvarateek, -raamistik või tööriist on kõrge kvaliteediga. Kuigi sellel on iroonia varjund, on see tähelepanuväärne. Ahhetamapanevalt häid teeke, töövahendeid ja süsteeme ongi IT-s palju. Kuid samas on ka ahhetamapanevaid  näiteid IT halvastitöötamisest. 
 
-__IT kui maagiline masin__
+## IT kui maagiline masin
 
 Kõik vähegi võimekad tarkvarasüsteemid on taandatavad Turingu masinale. IT on suur masinavärk. Kusagil toimub üleminek, millest Arthur Clarke kirjutas. IT-masinavärgile elu sissepuhumine võib-olla ongi IT suur väljakutse.
 

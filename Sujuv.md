@@ -5,6 +5,10 @@ permalink: Sujuv
 ---
 
 # 2.2 Sujuv töövoog (Streamlined Workflow)
+{: .no_toc}
+
+- TOC
+{:toc}
 
 <p class='action'><i class="material-icons ikoon">help_circle</i>Kas võite oma organisatsioonist tuua näite tööst, mis sujus väga hästi?</p>
 

@@ -3,6 +3,7 @@ title: Äri, IT ja kunst
 permalink: Kunst
 ---
 
+# Äri, IT ja kunst
 
 Infoühiskonnas tugineb kõik IT-le. Mõiste vähemalt vihjab sellele.
 
