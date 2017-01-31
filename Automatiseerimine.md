@@ -9,17 +9,7 @@ permalink: Automatiseerimine
 *TOC
 {:TOC}
 
-```javascript
-if (oskame_struktureerida_masinale) {
-  automatiseerime
-} else {
-  if (oskame_struktureerida_inimesele) {
-    korraldame
-  } else {
-    tegutseme_ad_hoc
-  }
-}
-```
+![](img/Algo.PNG)
 
 ## Automatiseerimine
 
