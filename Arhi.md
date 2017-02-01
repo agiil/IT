@@ -7,7 +7,7 @@ permalink: Arhi
 {: .no_toc}
 
 - TOC
-{:TOC}
+{:toc}
 
 <p class='tags'>Oskab</p>
 - suhelda IT-arhitektiga
@@ -53,9 +53,7 @@ Arhitektuur on sisemine ehitus, ühendav alusstruktuur, aga ka väliselt, kasuta
 Olulisemad momendid süsteemi arhitektuuri loomisel:
 
 - eesmärkide väljaselgitamine: kellele ja milleks süsteemi vaja on?
-
 - kontseptsioon ja struktuur: üldine ehitus, erinevatest vaatepunktidest lähtudes
-
 - teostatavuse kontrollimine: kui valmis ehitada, kas siis on suuteline vajadusi rahuldama, eesmärke täitma?
 
 ## Arhitekt
