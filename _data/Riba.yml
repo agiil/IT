@@ -101,6 +101,9 @@
 - title: "Harjutused"
   url: "/Harjutused"
 
+- title: "Tööriistad"
+  url: "/Tools"
+
 - title: "Õppejõud"
   url: "/PP"
 
