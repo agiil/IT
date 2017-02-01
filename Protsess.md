@@ -7,7 +7,7 @@ permalink: Protsess
 {: .no_toc}
 
 - TOC
-{:TOC}
+{:toc}
 
 ![](img/HappyPath.PNG)
 

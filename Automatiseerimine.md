@@ -7,7 +7,7 @@ permalink: Automatiseerimine
 {: .no_toc}
 
 - TOC
-{:TOC}
+{:toc}
 
 ![](img/Algo.PNG)
 

@@ -7,7 +7,7 @@ permalink: IT-teenused
 {: .no_toc}
 
 - TOC
-{:TOC}
+{:toc}
 
 - omab ülevaadet ettevõtte ettetulevatest tüüpilistest IT-ga seotud probleemidest ja otsustest
 - oskab IT probleeme modelleerida ja analüütiliselt lahendada, otsusi ette valmistada ja põhjendada

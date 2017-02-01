@@ -7,7 +7,7 @@ permalink: Harjutused
 {: .no_toc}
 
 - TOC
-{:TOC}
+{:toc}
 
 - praktikas väga sageli ettetulevad, võib öelda - tüüpilised IT rakendamisega seotud tegevuse, probleemilahendamised, otsused
 - mikrotasandilt makrotasandile

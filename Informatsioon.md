@@ -7,7 +7,7 @@ permalink: Informatsioon
 {: .no_toc}
 
 - TOC
-{:TOC}
+{:toc}
 
 > "Information is a difference that makes a difference." -- Gregory Bateson, ökoloog
 

@@ -7,7 +7,7 @@ permalink: Trendid
 {: .no_toc}
 
 - TOC
-{:TOC}
+{:toc}
 
 <p class='action'><i class="material-icons ikoon">help_circle</i>Mis asi on <i>Design Thinking</i>? Kas peaksime IT-s seda kasutama?</p>
 

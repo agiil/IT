@@ -8,7 +8,7 @@ permalink: Infohaldus
 {: .no_toc}
 
 - TOC
-{:TOC}
+{:toc}
 
 <p class='tags'>Oskused</p>
 - oskab korraldada info liikumist organisatsioonis organisatsiooni eesmärkidest lähtuvalt

@@ -7,7 +7,7 @@ permalink: Protsessiuuendus
 {: .no_toc}
 
 - TOC
-{:TOC}
+{:toc}
 
 ![](img/MinoParisi.png)
 *[Mino Parisi](https://dribbble.com/shots/1743039-Instagram-paper-wireframe?list=searches&offset=2)*{: .s}

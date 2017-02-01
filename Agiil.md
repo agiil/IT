@@ -7,7 +7,7 @@ permalink: Agiil
 {: .no_toc}
 
 - TOC
-{:TOC}
+{:toc}
 
 Agiilarendus, ingl k _agile development_ või ka lihtsalt _agile_, on 1980-ndatel tekkinud mõtteviis, mis ütleb, et tarkvara tegemisel :
 
