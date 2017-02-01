@@ -49,10 +49,11 @@
     - title: "3.1 IT-põhine äriprotsessi (-teenuse) disain"
       url: "/Protsess"
       pub: true
-    - title: "3.2 Protsessiparenduste, IT rakendamisvõimaluste väljaselgitamine ja hindamine"
-      url: "/Parendamine"
+    - title: "3.2 Protsessiuuendus"
+      url: "/Protsessiuuendus"
     - title: "3.3 Ärialgoritm"
       url: "/Automatiseerimine"
+      pub: true
     - title: "3.4 Äri, IT ja kunst"  
       url: "/Kunst"
       pub: true

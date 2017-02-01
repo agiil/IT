@@ -90,7 +90,7 @@ __Tegelik kasutuselevõtt__. Tarkvara valik on ainult eelmäng tegelikule kasutu
 <p class='tags'>Praktikas kuuldu</p>
 > "Olen aastatega jõudnud järeldusele, et tehnoloogia valik on üleüldse kõige raskem ülesanne, mis IT valdkonnas võib ette tulla. Asjade õige nimetamine on peaaegu lahendamatu probleem, siis tuleb tükk tühja maad ja alles siis tuleb tehnoloogia valiku probleem." (IT-teenusepakkuja firmajuht)
 
-__Praktilised valikumeetodid__
+## Praktilised valikumeetodid
 
 Eelöeldust üldistust teha on raske. Tarkvara valikuks ei ole ühte universaalset protsessi. Pretendeerimata ammendavusele võib nimetada kolme teed:
 
@@ -160,3 +160,9 @@ Hindamistabel
 </table> 
 
 3) Osta teadmine sisse, kas tasulise turuülevaate või konsultatsiooniteenuse näol.
+
+## Tee ise tööriist
+
+> "Build tools for yourself." -- Edmond Lau, _Effective Engineer_
+
+Väljapaistvaid professionaale eristab see, et nad teevad endale ise tööriistu, kirjutab Lau. Tõepoolest, kui Facebook tahab teha veebiarendust või Google andmeid vahetada, siis kirjutatakse ise veebiraamistik ([React](https://facebook.github.io/react/)) ja andmevahetusprotokoll ([Protocol Buffers](https://developers.google.com/protocol-buffers/)). 

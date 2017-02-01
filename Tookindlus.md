@@ -6,7 +6,7 @@ permalink: Tookindlus
 # 4.8 IT töökindlus ja turve
 {: .no_toc}
 
-* TOC
+- TOC
 {:toc}
 
 <p class='teade'><i class='material-icons ikoon' style='color: #9C27B0;'>group_work</i>

@@ -6,7 +6,7 @@ permalink: Lihtne
 # 1.8 Lihtne ja keeruline IT
 {: .no_toc}
 
-* TOC
+- TOC
 {:toc}
 
 <p class='tags'><span class='tag'>Oskab</span></p>

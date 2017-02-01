@@ -7,7 +7,7 @@ permalink: Infohaldus
 # 2.1 Infohaldus (Information Management)
 {: .no_toc}
 
-*TOC
+- TOC
 {:TOC}
 
 <p class='tags'>Oskused</p>

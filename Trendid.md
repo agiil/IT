@@ -6,7 +6,7 @@ permalink: Trendid
 # 1.4 Tehnoloogiatrendide jälgimine
 {: .no_toc}
 
-*TOC
+- TOC
 {:TOC}
 
 <p class='action'><i class="material-icons ikoon">help_circle</i>Mis asi on <i>Design Thinking</i>? Kas peaksime IT-s seda kasutama?</p>

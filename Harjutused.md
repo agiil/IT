@@ -6,7 +6,7 @@ permalink: Harjutused
 # Harjutused
 {: .no_toc}
 
-*TOC
+- TOC
 {:TOC}
 
 - praktikas väga sageli ettetulevad, võib öelda - tüüpilised IT rakendamisega seotud tegevuse, probleemilahendamised, otsused

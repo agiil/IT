@@ -6,7 +6,7 @@ permalink: Informatsioon
 # 1.1 Informatsiooni väärtus ja kvaliteet
 {: .no_toc}
 
-*TOC
+- TOC
 {:TOC}
 
 > "Information is a difference that makes a difference." -- Gregory Bateson, ökoloog

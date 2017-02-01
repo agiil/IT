@@ -7,7 +7,7 @@ sidebar: false
 # 4.4 IT-kompetentsid
 {: .no_toc}
 
-*TOC
+- TOC
 {:TOC}
 
 <p class='teade'><i class='material-icons ikoon' style='color: #9C27B0;'>group_work</i>

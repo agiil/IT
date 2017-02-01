@@ -6,7 +6,7 @@ permalink: IT-teenused
 # 4.3 IT protsessid ja teenused
 {: .no_toc}
 
-*TOC
+- TOC
 {:TOC}
 
 - omab ülevaadet ettevõtte ettetulevatest tüüpilistest IT-ga seotud probleemidest ja otsustest

@@ -6,7 +6,7 @@ permalink: Nouded
 # 4.5 Ärinõuded ja infovajadused
 {: .no_toc}
 
-* TOC
+- TOC
 {:toc}
 
 <p class='tags'>Artikli TL;TR</p>

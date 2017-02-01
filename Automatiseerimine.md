@@ -6,7 +6,7 @@ permalink: Automatiseerimine
 # 3.3 Ärialgoritm
 {: .no_toc}
 
-*TOC
+- TOC
 {:TOC}
 
 ![](img/Algo.PNG)
