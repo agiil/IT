@@ -37,13 +37,13 @@ Isegi siis, kui need on inimesed, kes IT-st vähe teavad.
 
 See võiks olla nurgakivi, millele kursust üles ehitada.
 
-(Bakalaureuse IT-eriala kursusel olen nurgakiviks kasutanud info kvaliteedi mõistet. See on töötanud hästi, kuid pole ainuvõimalik ega tõenäoliselt parim).
+Bakalaureuse IT-eriala kursusel olen nurgakiviks kasutanud info kvaliteedi mõistet. See on töötanud hästi, kuid pole ainuvõimalik ega tõenäoliselt parim.
 
 Seetõttu esimene ülesanne, ühiselt lahendamiseks: *loetleda teadolevad IT teemad ja tegevused, mis on keerulised.*{: .u}
 
 ## 2 Edasised strateegiad
 
-(igaühest saab arendada omaette (mikro)teema)
+(kõike ei jõua, kuid igaühest saab arendada omaette (mikro)teema)
 
 Tekkiva teadmise põhjal saab kavandada, mida keerukusega teeme:
 
@@ -57,9 +57,9 @@ Näiliselt lihtne, tegelikult keeruline -- kuidas vahet teha?
 
 Lihtsa ja keerulise eraldihoidmine. Lihtsa ja keerulise kombineerimine.
 
-Homogeense terviku mõnede osade tegemine lihtsaks, mõnede tegemine keerukaks (tasakaalust väljaviimine kui strateegia). Lihtsa ja keerulise tasakaalustamine.
-
 Süsteemi (komponentide) jaotus lihtsaks ja keeruliseks.
+
+Homogeense terviku mõnede osade tegemine lihtsaks, mõnede tegemine keerukaks (tasakaalust väljaviimine kui strateegia). Lihtsa ja keerulise tasakaalustamine.
 
 Psühholoogia (pettekujutlused)
 - Arvame, et on lihtne, tegelikult on keeruline
@@ -87,8 +87,6 @@ Juhtimistõed on lihtsad; nende rakendamine on keeruline. Selle põhjused.
 
 Lihtne seletada, raske teha.
 
-Keeruline küsimus.
-
 Ajas avanev tegelik keerukus: polegi nii lihtne; ei olegi nii lihtne kui paistab; asi ei ole siiski nii lihtne. Selle põhjused.
 
 Gradatsioon: väga lihtne, elementaarne - suhteliselt lihtne. Parajalt lihtne.
@@ -99,4 +97,4 @@ Lihtsate asjade järjestamine keerukuse järgi.
 
 Seoseid: Lihtne keel - Lihtne lahendus - Lihtsad tööriistad - Lihtne äri - Lihtne IT - Lihtne eluviis
 
-
+IT kui keerulise lihtsaks tegemise tähtis vahend. IT kui keerukuse allikas.
