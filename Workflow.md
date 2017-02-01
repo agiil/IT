@@ -39,3 +39,4 @@ Engineering culture: Spotify [http://vimeo.com/85490944]() [http://vimeo.com/949
 - [The Most Graceful Freestyle Swimming by Shinji Takeuchi](https://youtu.be/rJpFVvho0o4)
 <!-- - [Alexander Popov swimming technique](https://youtu.be/CIzBaSiWdRA) -->
 
+<!-- Töövoo ludisus ja takerdamatus -->
