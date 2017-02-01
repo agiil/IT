@@ -14,3 +14,5 @@ permalink: Kuvad
 <p class='tags'><span class='tag'>Äriprotsess</span></p>
 Tagasiside e-poes [1](img/Tagasiside.PNG), [2](img/Tagasiside02.PNG)
 
+<p class='tags'><span class='tag'>Keerukus</span></p>
+[Poliitiline, organisatsiooniline, tehniline keerukus](Lessons.jpg)
