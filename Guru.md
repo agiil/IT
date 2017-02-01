@@ -4,33 +4,26 @@ permalink: Guru
 ---
 
 
-Lihtne on seletada, keeruline on aru saada.
+# IT õpetamise filosoofia - Priit Parmakson
 
-GRU-sse on lihtne astuda, keeruline väljuda (Viktor Suvorov)
+_Philosophy of Teaching_
 
----
+> Javas [programmeerimiskeel] on tuhat teeki, kõik see on nii krdi keeruline (2. kursuse IT-tudeng)
 
+> [Ühise arusaama/keele leidmine inimeste vahel](https://s-media-cache-ak0.pinimg.com/564x/3c/e1/ab/3ce1ab27eb74e6769e6436a6fe32f933.jpg). Peale seda läheb muu asi suht lihtsaks (Tarmo)
 
-
-Javas [programmeerimiskeel] on tuhat teeki, kõik see on nii krdi keeruline (2. kursuse IT-tudeng)
-
-Ühise arusaama/keele leidmine inimeste vahel
-https://s-media-cache-ak0.pinimg.com/564x/3c/e1/ab/3ce1ab27eb74e6769e6436a6fe32f933.jpg. Peale seda läheb muu asi suht lihtsaks (Tarmo)
-
-Keerukaks võib osutada see, mida harva või väga harva tehakse, st ei mäletata enam - ei ole kujunenud vilumust.
+> Keerukaks võib osutada see, mida harva või väga harva tehakse, st ei mäletata enam - ei ole kujunenud vilumust.
 Seega, mis on mõne isiku jaoks keerukas, on teisele isikule väga lihtne ja kummagi jaoks arusaamatu kuidas see kellegi jaoks on vastavalt siis lihtne või keeruline (Ave)
 
-Keeruline on eksperdil aru saada, et see, mis temale on lihtne, võib tavalisele inimesele olla keeruline (Priit)
+> Keeruline on eksperdil aru saada, et see, mis temale on lihtne, võib tavalisele inimesele olla keeruline (Priit)
 
-Programmeerimine pole on lihtne, kontseptsiooni väljamõtlemine on keeruline (Andres)
+> Programmeerimine pole on lihtne, kontseptsiooni väljamõtlemine on keeruline (Andres)
 
-__Meetod__
+# Millest alustada?
 
----
+Traditsiooniline pedagoogiline põhimõte on liikuda lihtsamalt keerulisemale.
 
-Millest alustada?
-
-Pedagoogiline põhimõte on lihtsamalt keerulisemale. Sellest lähtudes tuleks alustada kõige lihtsamast.
+Sellest lähtudes tuleks alustada kõige lihtsamast.
 
 See sobib algajatele, kes asjast midagi tea.
 
@@ -40,9 +33,13 @@ Tänapäeval on igaüks IT-st üht-teist kuulnud.
 
 Seetõttu tuleks IT õpetamisel (vähemalt magistritasemel) alustada sellest, mis on IT-s keeruline.
 
+Isegi siis, kui need on inimesed, kes IT-st vähe teavad.
+
 See võiks olla nurgakivi, millele kursust üles ehitada.
 
-Esimene ülesanne: *loetleda teadolevad IT teemad ja tegevused, mis on keerulised*{: .u}
+(Bakalaureuse IT-eriala kursusel olen nurgakiviks kasutanud info kvaliteedi mõistet. See on töötanud hästi, kuid pole ainuvõimalik ega tõenäoliselt parim).
+
+Seetõttu esimene ülesanne, ühiselt lahendamiseks: *loetleda teadolevad IT teemad ja tegevused, mis on keerulised*{: .u}
 
 Edasised strateegiad (igaühest neist võib tekkida omaette teema):
 
@@ -114,90 +111,13 @@ Lihtsuse ja keerukuse dialektika
 
 Lihtsate asjade järjestamine keerukuse järgi
 
-Lihtne keel
-Lihtne lahendus
-Lihtsad tööriistad
-Lihtne äri
-Lihtne IT
-Lihtne eluviis
+Seoseid:
 
+- Lihtne keel
+- Lihtne lahendus
+- Lihtsad tööriistad
+- Lihtne äri
+- Lihtne IT
+- Lihtne eluviis
 
----
-
-<p class='tags'><span class='tag'>Pedagoogiline meetod</span></p>
-Alustada lihtsamast? Alustada keerukamast!
-
-<p class='tags'><span class='tag'>Põhiküsimus</span></p>
-Mis on lihtne?
-Mis on keeruline?
-
-<p class='tags'><span class='tag'>Ohud</span></p>
-Arvame, et on lihtne, tegelikult on keeruline
-Arvame, et on keeruline, tegelikult on lihtne
-
-
-
-Süsteemi (komponentide) jaotus lihtsaks ja keeruliseks
-
-Ütlesid, mis on lihtne. Ütle, mis on keeruline?
-
-Lihtsa ja keerulise kombineerimine
-
-Lihtsa ühendamine keerulisega
-
-Homogeense terviku mõnede osade tegemine lihtsaks, mõnede tegemine keerukaks
-
-Lihtsa lisamine keerulisele
-Keerulise lisamine lihtsale
-
-Lihtsaks tegemine
-Keeruliseks tegemine
-
-Mis ühe jaoks on lihtne, see on teise jaoks keeruline
-
-Seda pole lihtne seletada
-
-See on keeruline
-
-See on lihtne
-
-
-Keerukuse kasv
-
-Lihtsuse kasv
-
-Keerukate asjade järjestamine lihtsuse järgi
-
-Lihtsate asjade järjestamine keerukuse järgi
-
-Seda on lihtne kasutada
-
-See on keeruline küsimus
-
-Lihtne lahendus
-
-Polegi nii lihtne
-
-Ei olegi nii lihtne kui paistab
-
-Asi ei ole siiski nii lihtne
-
-Paistab lihtne, tegelikult keerukas
-
-Näiliselt keerukas, tegelikult lihtne
-
-Väga lihtne
-
-Väga keeruline
-
-Suhteliselt lihtne
-
-Üsna lihtne
-
-Lihtne ja selge
-
-Lihtne öelda, raske teha
-
-Lihtsuse tööriistu
-[Hemingway Editor](http://www.hemingwayapp.com/)
 
