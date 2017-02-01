@@ -98,3 +98,5 @@ Lihtsate asjade järjestamine keerukuse järgi.
 Seoseid: Lihtne keel - Lihtne lahendus - Lihtsad tööriistad - Lihtne äri - Lihtne IT - Lihtne eluviis
 
 IT kui keerulise lihtsaks tegemise tähtis vahend. IT kui keerukuse allikas.
+
+Kursuse järel peaksid (aga ei ole garanteeritud) mõned asjad minema lihtsamaks.
