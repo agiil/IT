@@ -18,5 +18,5 @@ permalink: Sonastikud
 [The Simplified Javascript Jargon](http://jargon.js.org/)
 
 Javascripti (veebilehtede programmeerimiskeelega) seotud tehnoloogiate ja tehniliste mõistete seletussõnastik
-{: .a}
+{: .s}
 

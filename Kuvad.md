@@ -9,8 +9,8 @@ permalink: Kuvad
 [Trello invite message](img/Trello.PNG)
 
 <p class='tags'><span class='tag'>infohaldus</span> <span class='tag'>läbu</span></p>
-[Trello invite message](img/Kataloog.PNG)
+[Ühisketas](img/Kataloog.PNG)
 
 <p class='tags'><span class='tag'>Äriprotsess</span></p>
-Tagasiside e-poes [1](Tagasiside.PNG), [2](Tagasiside02.PNG)
+Tagasiside e-poes [1](img/Tagasiside.PNG), [2](img/Tagasiside02.PNG)
 
