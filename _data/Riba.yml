@@ -25,6 +25,7 @@
       pub: true
     - title: "1.6 IT arhitektuur"
       url: "/Arhi"
+      pub: true
     - title: "1.7 IT valitsemine, juhtimine, korraldamine"
       url: "/Korraldamine"
       pub: true
@@ -51,6 +52,7 @@
       pub: true
     - title: "3.2 Protsessiuuendus"
       url: "/Protsessiuuendus"
+      pub: true
     - title: "3.3 Ärialgoritm"
       url: "/Automatiseerimine"
       pub: true
