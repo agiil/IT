@@ -4,21 +4,17 @@ title: 40 vaadet Ai Wei Weile
 permalink: Vaade
 ---
 
+# 32 vaadet Ai Wei Weile
+
 ![](img/AiWeiWei/00.PNG)
-*48 vaadet Ai Wei Weile nr 00*{: .s}
 
 ![](img/AiWeiWei/01.PNG)
-*48 vaadet Ai Wei Weile nr 01*{: .s}
 
 ![](img/AiWeiWei/02.PNG)
-*48 vaadet Ai Wei Weile nr 02*{: .s}
 
 ![](img/AiWeiWei/04.PNG)
-*48 vaadet Ai Wei Weile nr 04*{: .s}
 
 ![](img/AiWeiWei/07.PNG)
-
-![](img/AiWeiWei/12.PNG)
 
 ![](img/AiWeiWei/13.PNG)
 
@@ -26,9 +22,15 @@ permalink: Vaade
 
 ![](img/AiWeiWei/15.PNG)
 
+![](img/AiWeiWei/16.PNG)
+
 ![](img/AiWeiWei/17.PNG)
 
 ![](img/AiWeiWei/18.PNG)
+
+![](img/AiWeiWei/20.PNG)
+
+![](img/AiWeiWei/21.PNG)
 
 ![](img/AiWeiWei/22.PNG)
 
@@ -38,13 +40,23 @@ permalink: Vaade
 
 ![](img/AiWeiWei/25.PNG)
 
+![](img/AiWeiWei/27.PNG)
+
 ![](img/AiWeiWei/28.PNG)
+
+![](img/AiWeiWei/29.PNG)
 
 ![](img/AiWeiWei/31.PNG)
 
 ![](img/AiWeiWei/32.PNG)
 
+![](img/AiWeiWei/33.PNG)
+
 ![](img/AiWeiWei/35.PNG)
+
+![](img/AiWeiWei/37.PNG)
+
+![](img/AiWeiWei/38.PNG)
 
 ![](img/AiWeiWei/41.PNG)
 
@@ -55,4 +67,6 @@ permalink: Vaade
 ![](img/AiWeiWei/45.PNG)
 
 ![](img/AiWeiWei/47.PNG)
+
+![](img/AiWeiWei/48.PNG)
 
