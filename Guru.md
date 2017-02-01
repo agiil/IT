@@ -99,4 +99,4 @@ Seoseid: Lihtne keel - Lihtne lahendus - Lihtsad tööriistad - Lihtne äri - Li
 
 IT kui keerulise lihtsaks tegemise tähtis vahend. IT kui keerukuse allikas.
 
-Kursuse järel peaksid (aga ei ole garanteeritud) mõned asjad minema lihtsamaks.
+Kursuse järel peaksid mõned asjad minema lihtsamaks.
