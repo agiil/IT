@@ -9,6 +9,8 @@ permalink: Trendid
 - TOC
 {:toc}
 
+<p class='tags'><span class='tag'>Uudis 02.02.2017: SK ID Solutions tõi turule <a href='http://geenius.ee/uudis/sel-nadalal-voetakse-kasutusele-smart-id-mobiiliapp-mis-pakub-asendust-iganenud'>uue elektroonilise identiteedi lahenduse Smart-ID</a>. Mida see tähendab? Praktiliselt iga ettevõte vajab identiteedilahendust. SK on kohalikul turul suur tegija. Kas ja kuidas Smart-ID meid mõjutab?</span></p>
+
 <p class='action'><i class="material-icons ikoon">help_circle</i>Mis asi on <i>Design Thinking</i>? Kas peaksime IT-s seda kasutama?</p>
 
 <p class='tags'>Oskused</p>
