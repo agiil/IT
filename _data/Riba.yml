@@ -76,6 +76,7 @@
       pub: true
     - title: "4.6 IT-investeeringute portfell"
       url: "/Invest"
+      pub: true
     - title: "4.7 Arendustöö korraldamine. Agiilne arendus"
       url: "/Agiil"
     - title: "4.8 IT töökindlus ja turve"
