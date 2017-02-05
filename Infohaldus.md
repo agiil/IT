@@ -1,6 +1,6 @@
 ---
 sidebar: false
-title: Infohaldus (Information Management)
+title: 2.1 Infohaldus (Information Management)
 permalink: Infohaldus
 ---
 
@@ -17,60 +17,80 @@ permalink: Infohaldus
 
 ![](img/Korrastamata.PNG)
 
-<p class='action'><i class="material-icons ikoon">help_circle</i>Ettevõte võib suhelda klientidega mitmete kanalite kaudu (üks või mitu erinevat veebiliidest, e-post, sotsiaalmeedia, trükimeedia jne). Kas peaks olema nn "kanalistrateegia" ja mida see peaks sisaldama?</p>
+__Infohaldus__ (_Information Management_) on koondmõiste mitme­su­gus­tele info ko­gu­mi­se, hoid­mise, töötle­mi­se, edas­ta­mi­se ja kasu­ta­mi­se tege­vus­tele or­ga­ni­sat­si­oo­nis. 
 
-[Isakson, B (2003) The Art of Information Management for Project Managers](http://www.architectronica.com/download/ArtInfo.pdf)
+# Infohalduse eesmärgid
 
-IT mõjutab organisatsioone mitmel tasandil.
+1. Töö, äri ja tarbimise varustamine infoga.
+2. Äri- töö- ja tarbimisprotsesside kiirendamine ja parendamine info ja infotöötluse läbi.
+3. Konkurentsieelise loomine uute IT-põhiste äri- ja tööprotsesside abil.
+4. Organisatsiooni infovarade efektiivne ärakasutamine.
 
-__Globaalsel tasandil__ põhjustab IT areng tervete majandusharude tekkimist ja kadumist. Kas inimesed kaotavad robotite ja tehisintellekti tõttu töö? Iseliikuvate autode levik tähendab miljonite juhtide - ja ahelreaktsioonina ka näiteks sõiduõpetajate - kadu.
+## Infohaldusprobleemid
 
-__Riigi tasandil__ on väljakutseks kujundada ja teoks teha  poliitikad, mis lubaksid riigimasinat IT abil odavalt ülal pidada ja riigi IT firmadel kasvada.
+Olukorrad, kus infohalduse korraldamine või in­fo­va­ja­duse täitmine ei ole tri­viaalne, vaid vajab os­kusi, ressursse, ­süs­tee­mi loo­mist. Tüüpilisi infohaldusprobleeme:
 
-__Ettevõtte strateegia tasandil__ on küsimus ettevõtte suutlikkuses leida optimaalne IT konfiguratsioon, saavutades selle läbi parema positsiooni konkurentsivõitluses.
+__Ülevaade__ — infost ei ole ülevaadet; puudub ülevaade ettevõtte infovaradest; infotöötlusest ja kasutusest ei ole ülevaadet; puudub ülevaade, kuidas info ettevõttes liigub; ei ole selge, kus ja kuidas info tekib; ei ole selge, millist infot ja kui palju kasutatakse.
 
-__Infosüsteemi tasandil_ peab organisatsioon süsteemi välja arendama ja muutuvas tehnoloogilises ning ärilises keskkonnas ajakohasena hoidma sobiva hulga süsteeme. Näiteks:
+__Olulisus__ — ei ole selge, kui oluline on üks või teine info.
 
-- raamatupidamissüsteem
-- kliendihaldussüsteem
-- veebileht
-- e-pood
-- personalisüsteem
-- projektijuhtimissüsteem
-- laoarvestussüsteem
-- ettevõtte terviksüsteem (_ERP, Enterprise Resource Planning_).
+__Infot liiga vähe__ — pole infot; info on mittetäielik; otsuse tegemiseks vajalik info puudub; otsus tehakse mitte andmetest lähtudes.
 
-Kuid IT ei piirdu rangelt reglementeeritud infosüsteemidega. 
+__Infot liiga palju__ — liiga palju väheväärtuslikku infot; liiga palju erinevaid infokanaleid; infot ei suudeta läbi töötada; olulist infot ei suudeta eristada.
 
-Suur osa organisatsiooni infotöötlusest toimub töötaja ja tiimi tasandil erinevate infotöö- ja kommunikatsioonivahendite abil. Näiteks:
+__Mittekasutamine__ — infot kogutakse ja töödeldakse, kuid tegelikult ei kasutata.
 
-- Skype
-- sisevõrgu ühisketta kaustad
-- siseveebi
-- organisatsiooni e-posti süsteem
-- kalendri- ja ajaplaanimissüsteem (nt Outlook)
-- nn _Productivity Software_ (nt Microsoft Office).
+__Info kvaliteet on madal__ — vt [1.1 Informatsiooni väärtus ja kvaliteet](Informatsioon).
 
-Olulist osa nendest vahenditest võidakse kasutada __pilveteenustena__.  
+__Mitteasjakohane__ — edastatud info on puutu asjasse; ei oma kasutuse jaoks tähtsust; ei paku huvi; infoga ei ole midagi teha.
 
-Efektiivse töö saavutamiseks ei piisa tarkvara ostmisest või pilveteenuse rentimisest. IT-vahendeid tuleb tundma õppida ja kohandada ettevõtte vajadustele.
+__Ebaõige info__ — andmed on vigased.
 
-Sageli ei suudeta ostetud tarkvara ja süsteeme efektiivselt kasutada. Süsteemide omadustest suudetakse kasutusele võtta ainult osa. Näiteks:
+__Ebatäpne info__ — info ei ole piisavalt täpne.
 
-- organisatsioon on ostnud kalli ja võimsa siseveebi (intraneti) tarkvara, kuid selles ei suudeta teavet organiseerida. Lehekülgedes ja kaustades pole süsteemi, teave ei ole ülesleitav, oluline teave ja "läbu" on segamini, valitseb kaos.
-- organisatsioon püüab sisekommunikatsiooni parandada (seda vajadust toob igal aastal välja töötajate rahulolu-uuring), võttes kasutusele uue viki. Olukord aga ei taha paraneda. 
-- projektidokumentatsioon ei ole ülesleitav. See on ohuks, kui mõne projektijuhiga peaks midagi juhtuma.
-- paljusid asju organisatsioonis üldse ei dokumenteerita, kuigi peaks; see on takistuseks igapäevasele tööle ja võib mõjutada ka tootearendust ja strateegilist juhtimist 
+__Mitteajakohane__ — info on aegunud, uuendamata, mittekehtiv.
 
-Tihti kohtame sedagi, et töötajatel on võimsad ja tänapäevased infotehnoloogilised töövahendid, töö efektiivsus aga on madal. Palju aega kulub teabe otsimisele, edastamisele, üleküsimisele ja -kinnitamisele.
+__Mittetäielik__ —o sa infot on puudu; olemasolev info ei kata kogu ala.
 
-Mis on nende nähtuste põhjuseks? Üheks põhjuseks on kindlasti ka see, et info töötlemist ei käsitata terviklikult. Tähelepanu all on tarkvara ja suurte süsteemide ostmine; tähelepanu alt välja jäävad infotöötluse korraldamine mikrotasandil ja heade infohalduspõhimõtete rakendamine.
+__Mittesidusus__ — info on fragmentaarne (mitteseostatud); olemasolev info ei ole kokku võetud; infokogumi osad on üksteisega seostamata; loogiliselt kokkukäiv info paikneb osade kaupa, mit­mes erinevas kohas.
 
-See nähtused on viinud selleni, et viimasel ajal on hakatud rõhutama tervikliku infohalduse (_Information Management_, ka _Information Governance_) vajalikkust.
+__Vorming__ — info vales vormingus; liiga palju erinevaid vorminguid; pole kindlat, kokkulepitud vormingut; vormingut muudetakse kogu aeg.
 
-<p class='action'><i class="material-icons ikoon">help_circle</i>Ettevõte tegutseb konsultatiivse, projektimüügiga. Juhataja tahab, et kogu suhtlus klientidega saaks fikseeritud. Kuidas seda saavutada?</p>
+__Kättesaadavus__ — info ei ole ülesleitav; info ei ole kättesaadav; info ei ole säilitatud; info on kadunud; infole puudub juurepääsuõigus; info vales kanalis.
 
-Lahenduseks võib olla kliendihaldussüsteemi (CRM-süsteemi, _Customer Relationship Management_) hankimine. Mõneski firmas võib see olla parim lahendus. Samas on palju organisatsioone, kus ühe süsteemi hankimisega nii suurt probleemi ära ei lahenda. Seda mitmel põhjusel. Teavet võib olla nii palju ja suhtlust läbi nii paljude kanalite, et kogu informatsiooni hõlmamine ühtsesse süsteemi ei ole praktiliselt võimalik. Ja isegi kui see saavutatakse, peab teave olema ülesleitav.Teine moment on olulise eristamine ebaolulisest. Juhataja ei väljenda end päris täpselt. Teda ei huvita kõikvõimalik teave, vaid ikkagi ainult oluline teave. Olulisus tähendab aga erinevatele inimestele erinevatel aegadel erinevaid asju. Info nappusest võib niiviisi jõuda väheolulise teabe ülekülluseni.
+__Mitteliidestatus__ — teisest süsteemist tuleb andmeid käsitsi üle kanda; kaks süsteemi ei suuda omavahel andmeid vahetada; ettevõte ei suuda kohaneda partneri uue infosüs­teemiga.
+
+__Turvalisus__ — info kaob; info lekib; info varastatakse; info konfidentsiaalsus kaob.
+
+__Kontrollitavus__ — info tõepärasus ei ole kontrollitav.
+
+__Kasu_ — infost ei ole kasu; efekt info kasutamisest on väike; Olemasolevat infot ei suudeta ära kasutada; ettevõte ei suuda oma inforessursse tõhusalt ära kasutada; info maht kasvab, kasu ei suurene.
+
+__Infohalduse tõhusus__ — infot ei suudeta läbi töötada; info töötlemine on aeglane; infohalduse korraldus ei vasta muutunud äri­loo­gikale.
+
+__Käideldavus__ — infosüsteem on rivist väljas, ei ole kasutatav.
+
+__Kooskõlalisus__ — ei vasta standardile; ei vasta kokkulepetele.
+
+__Usaldatavus__ — info ei ole usaldatav.
+
+__Süsteemsus__ — info töötlemine ei ole korrastatud; dokumentatsiooni hoidmises pole korda.
+
+__Andmehõive__ — objektile viitamisel või objektist rääkimisel ei iden­tifitseerita objekti täpselt; tegevusi, sündmusi, tulemusi ei dokumenteerita; töö- või tootmisprotsessi olulisi parameetreid ei registreerita; andmeid ei registreerita.
+
+__Dubleerimine ja varundamine__ — info on dubleeritud (kooskõlalisuse probleem); info ei ole dubleeritud (turvaprobleem); samast infost on mitu ver­si­oo­ni; info koopiad ei ole sünk­roo­nis; varukoopia on liiga vana; versioonid ei ole eristatavad; info versioon ei ole tuvastatav; versioonide ajaline järgnevus ei ole tuvastatav; kasutatakse mitte kõige viimast versiooni.
+
+__Tõlgendamine__ — sama infot mõistetakse erinevalt; info tähendus jääb lõpuni mõistmata; info on vastuoluline; väliselt sama info kannab erinevaid tähendusi (semantiline dissonants); semantiline laialivalguvus või vastupidi - paindumatus.
+
+__Identifitseerimine__ — info on raskesti liigitatav; olulisel mõistel (nt "klient") ei ole kindlat kok­ku­lepitud sisu; objektil pole kindlat nime ega identifikaatorit; nimest on kasutusel mitu erinevat versiooni; samal objektil on mitu erinevat nime.
+
+__Kommunikatsioon__ — infot ei jagata; info ei liigu organisatsioonis; info filtreerub ja moondub kommunikatsiooni protsessis; vananenud infot ei kõrvaldata käibelt; info tuleb kokku koguda suurest arvust erinevatest sisendkanalist; raskus sissetuleva infovoo esmasel töötlemisel; sama info tuleb edastada suurde arvu erinevasse väljund­kana­litesse.
+
+__Innovatsioon ja süsteemiarendus__ — info- ja IT süsteeme ei arendata; süsteemiarendus kulgeb aeglaselt; süsteemid ei anna oodatud tulemusi; uusi infokanaleid ei uurita ega rakendata; uusi infotehnoloogiaid rakendatakse vähe ja hilinemisega; liiga palju erinevaid süsteeme; süsteemid ei ole integreeritud
+
+__Infohalduse psühholoogia__ — infot ei väärtustata; ebameeldivat in­fo välditakse.
+
+## Terviklik infohaldus
 
 Infohalduse terminoloogia ja põhimõtete kohta on hea eestikeelne materjal PriceWaterhouseCoopersi 2014. a Majandus- ja Kommunikatsiooniministeeriumi tellimusel koostatud riigi infohalduse strateegia kavand.
 
@@ -100,9 +120,7 @@ __Kuidas seda saavutada?__
 - tagades tõendamisega seotud riskide maandamise IT süsteemide andmete abil
 - mõeldes ka inimeste teadmistes ja kogemustes talletatud info säilimisele/kasutamisele.
 
-__Võtteid infohalduse parendamiseks
-
-Ülalesitatud põhimõtted võivad tunduda liiga üldised, et neist praktilist kasu oleks. Siiski, kui mõtleme, mis on organisatsiooni infohalduses tegelikud kitsaskohad ja kuidas neid lahendada, siis leiab põhimõtetest küll tuge.
+## Praktilisi võtteid infohalduse parendamiseks
 
 <p class='action'><i class="material-icons ikoon">help_circle</i><b>Dokumentide arvu vähendamine</b>. Mõelge mõnele oma projektile või korduvale toimingule. Loendage dokumendid, mis selles tekivad. Kas dokumentide arvu saaks vähendada (võib-olla lähedase funktsiooniga dokumente ühitades või mõnda isegi ära jättes), ilma, et töö kvaliteet kannataks?</p>
 
@@ -114,14 +132,9 @@ __Võtteid infohalduse parendamiseks
 
 <p class='action'><i class="material-icons ikoon">help_circle</i><b>Kaustade süsteem</b>. Teie organisatsioon tegeleb projektidega? Koostage kaustade tüüpskeem projektidokumentatsiooni hoidmiseks.</p>
 
-__Mis takistab?__
-
-Mis takistab infohalduse ideaali saavutamist? Takistada võivad muu hulgas:
-
-- töötaja, kelle infotöötlus on ebaefektiivne, on _busy_, väliselt näib, nagu teeks ta palju tööd. Seevastu töötajal, kes on oma teabe efektiivselt korraldanud, pole vajadust tormakat tegevust arendada. Kumba organisatsioonis rohkem hinnatakse?
-- infohalduse parendused võivad olla väikesed, pikaajalise tagasitootmisajaga, raskesti järgitavad
-
 ## Kanalistrateegia
+
+<p class='action'><i class="material-icons ikoon">help_circle</i>Ettevõte võib suhelda klientidega mitmete kanalite kaudu (üks või mitu erinevat veebiliidest, e-post, sotsiaalmeedia, trükimeedia jne). Kas peaks olema nn "kanalistrateegia" ja mida see peaks sisaldama?</p>
 
 <p class='tags'>Artikli TL;TR</p>
 <p class='s'>Bang et al (2013) Channel capabilities, product characteristics, and the impacts of mobile channel introduction. Journal of Management Information Systems.</p>
@@ -158,4 +171,18 @@ __Personaalne infostrateegia (näide)__
 ## Sisustrateegia
 
 Sisustrateegia (_Content Strategy_) puhul on küsimus, kas see on üldse IT teema. Teemad ja mikroteemad, žanrid, erinevatele sihtrühmadele suunatud žanrikogumid, kooskõlalised, stiililiselt ühtsed sõnumid üle erinevate platvormide ja kanalite, mitmeplatvormiline sisutootmine...
- 
+
+## Kokkuvõte
+
+Infohalduse eesmärkideks on tööprotsesside varustamine infoga, lõppkokkuvõttes konkurentsieelise loomine (infoeelise läbi), infovarade parem ärakasutamine.
+
+Infohaldust mõistame organisatsioonilises kontekstis.
+
+Infohaldus ja infosüsteemid on pidevas arengus—nõuavad järjepidevat ja süstemaatilist arendus- ja korrashoiutööd.
+
+Infohaldust ettevõtte võib jagada laias laastus kaheks: süsteemne (infosüsteemides toimuv) ja nn. mittesüsteemne. Mõistet “infosüsteem” kasutatakse mitmes tähenduses, sageli tuleb süsteemi piire ja olemust täpsustada.
+
+Infohalduse süsteemne korraldamine on vajalik ja aktuaalne, kuid nõuab tähelepanu ja teadmisi.
+
+IT abil on võimalik paljud infooperatsioonid täielikult automatiseerida, otsinguajad on võimalik viia nulli jne.
+

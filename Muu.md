@@ -155,3 +155,60 @@ __Ajakirjandus teabe- ja teadusallikana.__
 
 Gerding, E (2016) Disclosure 2.0: Can Technology Solve Overload, Complexity, and Other Information Failures? Tulane Law Review
 
+
+---
+
+[Isakson, B (2003) The Art of Information Management for Project Managers](http://www.architectronica.com/download/ArtInfo.pdf)
+
+IT mõjutab organisatsioone mitmel tasandil.
+
+__Globaalsel tasandil__ põhjustab IT areng tervete majandusharude tekkimist ja kadumist. Kas inimesed kaotavad robotite ja tehisintellekti tõttu töö? Iseliikuvate autode levik tähendab miljonite juhtide - ja ahelreaktsioonina ka näiteks sõiduõpetajate - kadu.
+
+__Riigi tasandil__ on väljakutseks kujundada ja teoks teha  poliitikad, mis lubaksid riigimasinat IT abil odavalt ülal pidada ja riigi IT firmadel kasvada.
+
+__Ettevõtte strateegia tasandil__ on küsimus ettevõtte suutlikkuses leida optimaalne IT konfiguratsioon, saavutades selle läbi parema positsiooni konkurentsivõitluses.
+
+__Infosüsteemi tasandil_ peab organisatsioon süsteemi välja arendama ja muutuvas tehnoloogilises ning ärilises keskkonnas ajakohasena hoidma sobiva hulga süsteeme. Näiteks:
+
+- raamatupidamissüsteem
+- kliendihaldussüsteem
+- veebileht
+- e-pood
+- personalisüsteem
+- projektijuhtimissüsteem
+- laoarvestussüsteem
+- ettevõtte terviksüsteem (_ERP, Enterprise Resource Planning_).
+
+Kuid IT ei piirdu rangelt reglementeeritud infosüsteemidega. 
+
+Suur osa organisatsiooni infotöötlusest toimub töötaja ja tiimi tasandil erinevate infotöö- ja kommunikatsioonivahendite abil. Näiteks:
+
+- Skype
+- sisevõrgu ühisketta kaustad
+- siseveebi
+- organisatsiooni e-posti süsteem
+- kalendri- ja ajaplaanimissüsteem (nt Outlook)
+- nn _Productivity Software_ (nt Microsoft Office).
+
+Olulist osa nendest vahenditest võidakse kasutada __pilveteenustena__.  
+
+Efektiivse töö saavutamiseks ei piisa tarkvara ostmisest või pilveteenuse rentimisest. IT-vahendeid tuleb tundma õppida ja kohandada ettevõtte vajadustele.
+
+Sageli ei suudeta ostetud tarkvara ja süsteeme efektiivselt kasutada. Süsteemide omadustest suudetakse kasutusele võtta ainult osa. Näiteks:
+
+- organisatsioon on ostnud kalli ja võimsa siseveebi (intraneti) tarkvara, kuid selles ei suudeta teavet organiseerida. Lehekülgedes ja kaustades pole süsteemi, teave ei ole ülesleitav, oluline teave ja "läbu" on segamini, valitseb kaos.
+- organisatsioon püüab sisekommunikatsiooni parandada (seda vajadust toob igal aastal välja töötajate rahulolu-uuring), võttes kasutusele uue viki. Olukord aga ei taha paraneda. 
+- projektidokumentatsioon ei ole ülesleitav. See on ohuks, kui mõne projektijuhiga peaks midagi juhtuma.
+- paljusid asju organisatsioonis üldse ei dokumenteerita, kuigi peaks; see on takistuseks igapäevasele tööle ja võib mõjutada ka tootearendust ja strateegilist juhtimist 
+
+Tihti kohtame sedagi, et töötajatel on võimsad ja tänapäevased infotehnoloogilised töövahendid, töö efektiivsus aga on madal. Palju aega kulub teabe otsimisele, edastamisele, üleküsimisele ja -kinnitamisele.
+
+Mis on nende nähtuste põhjuseks? Üheks põhjuseks on kindlasti ka see, et info töötlemist ei käsitata terviklikult. Tähelepanu all on tarkvara ja suurte süsteemide ostmine; tähelepanu alt välja jäävad infotöötluse korraldamine mikrotasandil ja heade infohalduspõhimõtete rakendamine.
+
+See nähtused on viinud selleni, et viimasel ajal on hakatud rõhutama tervikliku infohalduse (_Information Management_, ka _Information Governance_) vajalikkust.
+
+<p class='action'><i class="material-icons ikoon">help_circle</i>Ettevõte tegutseb konsultatiivse, projektimüügiga. Juhataja tahab, et kogu suhtlus klientidega saaks fikseeritud. Kuidas seda saavutada?</p>
+
+Lahenduseks võib olla kliendihaldussüsteemi (CRM-süsteemi, _Customer Relationship Management_) hankimine. Mõneski firmas võib see olla parim lahendus. Samas on palju organisatsioone, kus ühe süsteemi hankimisega nii suurt probleemi ära ei lahenda. Seda mitmel põhjusel. Teavet võib olla nii palju ja suhtlust läbi nii paljude kanalite, et kogu informatsiooni hõlmamine ühtsesse süsteemi ei ole praktiliselt võimalik. Ja isegi kui see saavutatakse, peab teave olema ülesleitav.Teine moment on olulise eristamine ebaolulisest. Juhataja ei väljenda end päris täpselt. Teda ei huvita kõikvõimalik teave, vaid ikkagi ainult oluline teave. Olulisus tähendab aga erinevatele inimestele erinevatel aegadel erinevaid asju. Info nappusest võib niiviisi jõuda väheolulise teabe ülekülluseni.
+
+
