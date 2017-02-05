@@ -93,6 +93,8 @@ Infotootmissüsteemis on kasulik välja tuua need tegevused, mis olemuslikult uu
 
 _Garbage in, garbage uut (GIGO)](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)_ on vana ütlemine, mis tähendab, et vigaste sisendandmetega ei saa programm anda õigeid tulemusi.
 
+> "In an ideas business, the quality of your creative output is only as good as the variety of your creative input." -- Cilla Snowball
+
 ## Püsiva väärtuse loomine infoühiskonnas
 
 *... on tohutu probleem, sest kõik muutub väga kiiresti ja infot on üha rohkem.*{: .u}

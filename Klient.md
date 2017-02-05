@@ -32,3 +32,5 @@ Mida tuleks selles protsessis IT rakendamisel silmas pidada? Protsess peab:
 
 Ülikooli kursus on suures osas __infotoode__, s.t tähtsusetu ei ole mida õpetatakse. Kuna mõnes mõttes võib kursust käsitada infosüsteemina, siis on tegu __[infovajaduste väljaselgitamisega](IT/Nouded)__.
 
+<p class='tags'>Tarkvara</p>
+[PlayBuzz](http://www.playbuzz.com/), interaktiivsete küsitluste jms teenustarkvara
