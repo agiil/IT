@@ -21,6 +21,16 @@
     <p style='margin-bottom: 2em;'>
       <a href='{{ site.baseurl }}'>
         Infotehnoloogia ettevõtjale</a>
+
+      <span style='margin-left: 4em; '>
+        {% capture words %}
+          {{ page.content | number_of_words | minus: 50 }}
+        {% endcapture %}
+        {% unless words contains "-" %}
+          {{ words | plus: 50 | append: " sõna" }}
+        {% endunless %}
+      </span>
+
     </p>  
 
     <div id='Tekst'>
