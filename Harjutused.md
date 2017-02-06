@@ -37,9 +37,10 @@ valitud äri- v tegevusvaldkonnas 3-5 kõige aktuaalsema infotehnoloogia väljas
 
 - selgitada välja 3-5 ettevõttele või ärivaldkonnale praegu kõige aktuaalsemat infotehnoloogiat
 - iga tehnoloogia lühike kirjeldus ja hinnang
-  - Gartneri Hype Cycle vm tehnoloogia leviku mudelit kasutades (neist lähemalt loengus)
 - infoallikatena veebiotsing, võimalusel ka eksperthinnangud; kasutada kvaliteetseid infoallikaid
 - koostada kokkuvõtlik raport.
+
+Märkus. Soovi korral võib tehnoloogiaid hinnata Gartneri Hype Cycle vm tehnoloogia leviku mudelit kasutades. Vt https://agiil.github.io/IT/Trendid. 
 
 _ Ülesande eesmärk on: avada silmad tehnoloogilise maastiku kiiretele muutustele; avastada oma valdkonnas olulised tehnoloogilise teabe allikad; harjutada tehnoloogiate hindamist._
 
