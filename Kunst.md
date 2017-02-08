@@ -23,6 +23,9 @@ IT juured on matemaatikas ja loogikas. Kuid tänapäeva IT ei ole enam tehniline
 
 IT peab lahendama kõige erinevamaid probleeme. Isegi rahapuudust (blockchain jt radikaalselt uued makselahendused).
 
+<p class='tags'><span class='tag'>Artikli TL;DR</span></p>
+Miranda et al (2015) Jamming with Social Media: How Cognitive Structuring of Organizing Vision Facets Affects IT Innovation Diffusion. Management Information Systems Quarterly.
+
 Miranda et al (2015) leidsid IT-innovatsioone liigitades, et kõik IT-süsteemid ei seagi eesmärgiks tehnilist efektiivsust. Efektiivsuse kõrval võib IT-süsteemi eesmärk olla kliendisuhte arendamine, sotsiaalse "sidususe" loomine erinevates kontekstides, ettevõtte kuvandi loome jm.
 
 [Design thinking](https://en.wikipedia.org/wiki/Design_thinking), vt nt  Stanfordi ülikooli [Design Thinking Crash Course](http://dschool.stanford.edu/dgift/#crash-course-video) esiletõus ka IT-arenduse huvivälja on üks märkidest, mis näitavad, et IT ei saa piirduda mehhaanilise mõtlemisega.
