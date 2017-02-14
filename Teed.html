@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+
+    <!-- Material Design icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+        rel="stylesheet">
+
+    <!-- Fonts -->    
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
+    
+    <!-- JQuery -->
+    <script src="https://code.jquery.com/jquery.min.js"></script>
+
+    <!-- Google Charts -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+  google.charts.load("current", {packages:["timeline"]});
+  google.charts.setOnLoadCallback(drawChart);
+
+  function drawChart() {
+
+    var container = document.getElementById('diagramm');
+    var chart = new google.visualization.Timeline(container);
+    var dataTable = new google.visualization.DataTable();
+    dataTable.addColumn({ type: 'string', id: 'Position' });
+    dataTable.addColumn({ type: 'string', id: 'Name' });
+    dataTable.addColumn({ type: 'number', id: 'Start' });
+    dataTable.addColumn({ type: 'number', id: 'End' });
+    dataTable.addRows([
+      [ 'Õpe', '', 0, 4 ],
+      [ 'Töö ettevõttes', '', 4, 6 ],
+      [ 'Riigiteenistuses', '', 7, 13],
+      [ 'Ettevõtjana', '', 14, 20],
+      [ 'Ettevõtjana', '', 21, 24]
+
+    ]);
+
+    var options = {
+      colors: ['#C5E1A5', '#81D4FA', '#CE93D8', '#f44336'],
+      timeline: { rowLabelStyle: {fontName: 'Roboto', fontSize: 24, color: '#603913' },
+                     barLabelStyle: { fontName: 'Roboto', fontSize: 14 } }
+    };
+    chart.draw(dataTable, options);
+  }
+</script>
+
+<style type="text/css">
+  body { padding: 2em; }
+  #diagramm { height: 600px; width: 800px; }
+  svg g:first-of-type rect {
+    fill-opacity: 0;
+  }
+</style>
+</head>
+  <body>
+    <div id="diagramm"></div>
+  </body>
+</html>
+

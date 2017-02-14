@@ -31,7 +31,8 @@
         reader.onload = function(e) {  
           // get file content  
           var str = e.target.result; 
-          var res = str.match(/\.u}/g);
+          // var res = str.match(/\.u}/g);
+          var res = str.match(/<p class='action'>/g);
           var li = document.createElement("li");
           if (res == null) {
             li.innerHTML = name + " ____ 0";          
