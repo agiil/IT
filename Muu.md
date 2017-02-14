@@ -212,3 +212,105 @@ See nähtused on viinud selleni, et viimasel ajal on hakatud rõhutama terviklik
 Lahenduseks võib olla kliendihaldussüsteemi (CRM-süsteemi, _Customer Relationship Management_) hankimine. Mõneski firmas võib see olla parim lahendus. Samas on palju organisatsioone, kus ühe süsteemi hankimisega nii suurt probleemi ära ei lahenda. Seda mitmel põhjusel. Teavet võib olla nii palju ja suhtlust läbi nii paljude kanalite, et kogu informatsiooni hõlmamine ühtsesse süsteemi ei ole praktiliselt võimalik. Ja isegi kui see saavutatakse, peab teave olema ülesleitav.Teine moment on olulise eristamine ebaolulisest. Juhataja ei väljenda end päris täpselt. Teda ei huvita kõikvõimalik teave, vaid ikkagi ainult oluline teave. Olulisus tähendab aga erinevatele inimestele erinevatel aegadel erinevaid asju. Info nappusest võib niiviisi jõuda väheolulise teabe ülekülluseni.
 
 
+# Hea dokumentatsiooni tellimise saladus
+
+## 0  Avamõte
+  - Programmeerijatele ei meeldi dokumenteerida
+  - *Why Programmers Hate Documenting? -- Joel on Software
+
+## 1  Mudelid
+
+```
++---------------+----------------------+
+|Progemine      |  Tarkvara kasutamine |
++---------------+----------------------+
+
+            +----------->
+
++------------+----------+--------------+
+|Progemine   | Müük     |  Kasutamine  |
++------------+----------+--------------+
+
+
++-----------------+--------------------+
+|Progemine|Dok ne | Müük    |Kasutamine|
++-----------------+--------------------+
+
+    Dok-ne +-----> Dok-ni kasutamine
+```
+
+- Progemine -> Tarkvara kasutamine
+  - *Build and They Will Come
+  - Programmeerimine -> Müük -> Kasutamine
+  - Programmeerimine -> Dokumenteerimine -> Müümine
+  - alamvoog:
+    - Dokumenteerimine -> Dokumentatsiooni kasutamine
+
+## 2  Dokumentatsiooni juures oluline; palju asju, mõned:
+ - olemasolu
+ - ülesleitavus
+ - navigeeritavus
+ - seletab asju ka _sisuliselt_
+   - Märkus. Inimesi, kellel on võime/tahe IT-s asju lahti seletada, on väga vähe.
+ - _Lasting value_  
+  - [Six-page memo (Jeff Bezos/Amazon)](http://blog.idonethis.com/jeff-bezos-self-discipline-writing/)
+ - *The Missing Manual -- O'Reilly
+   - Mis on toote YYY dokumentatsioonis puudu? Juhend, mis _seletab lahti_ XXX olemuse
+
+## 3  Ambitsioonitasemed
+
+Kui peame dokumentatsiooni oluliseks, soovime head dokumentatsiooni.
+  - tase 0: mingi dokumentatsioon, suvalises vormingus (PDF)
+  - ...
+  - navigeeritav, kontekstiläbuta, professionaalse kujundusega dokumentatsioonisait
+
+## 4  Dokumentatsiooni tootmise töövoog: nõuded
+  - kaks vaatepunkti:
+    - dokumentatsiooni tootja
+    - dokumentatsiooni kasutaja
+  - mõlemal peab olema hea
+  - tootja valib _ise_ tööriista
+  - kasutajale aga esitatakse kasutaja soovitud kujul
+  - need kaks ei tarvitse ühte lamgeda
+  - järelikult on vaja teisendusi, andmete viimist ühest vormingust teise
+  - teisendusi ei saa vältida, see on IT olemus
+  - samal ajal, vahelülid on saatanast
+
+## 5  Dokumentatsiooni minisait: millega teha?
+  - Jekyll, Hugo, Middleman, MkDoc ...
+  - häid vahendeid on raske leida
+
+
+<div class='note'>
+Gaurav Oberoi, <a href='https://goberoi.com/on-writing-product-specs-5ca697b992fd#.cjk26c3jx'>On Writing Product Specs</a>
+</div>
+
+
+## Rahast ja koodist
+
+Koodi tuleb dokumenteerida.
+
+Raha tuleks samuti dokumenteerida.
+
+Dokumenteerimata koodi peetakse praktiliselt kasutuks.
+
+Kuid keegi ei ütle, et dokumenteerimata raha on kasutu.
+
+Kood vajab peaaegu alati kommenteerimist.
+
+Raha ei vaja kommentaare.
+
+Sularaha käibelt kadumisega piir raha ja koodi vahel hägustub.
+
+Koodi kommenteerimist peetakse heaks tavaks, seatakse isegi nõudeks.
+
+Raha kommenteerimist ei peeta väga heaks praktikaks.
+
+Kood peaks olema end ise seletav.
+
+Raha seletab end ise.
+
+IT-s tegutseja põhioskuseks on koodist arusaamine, võime mõista koodi.
+
+Äris tegutsemisel on oluline rahatunnetus.
+

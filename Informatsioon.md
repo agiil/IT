@@ -148,10 +148,3 @@ inikasutajale   +---+----+
 ```
 
 Uuringud on näidanud, et kahe monitori kasutamine võib tööviljakust tõsta 20-30 %.
-
-## Minimalism, Zen ja lihtsad tööriistad
-
-Lihtsa tööriista näide: tekstiredaktor [asciiflow](http://asciiflow.com/).
-
-<p class='action'><i class="material-icons ikoon">help_circle</i>Mõtle süsteemidele ja tehnoloogiatele, mida kasutad. Kas mõni neist müüb end kui lihtsat?<br>
-Kas tegelikult on ka lihtne?</p>

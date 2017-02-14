@@ -15,6 +15,8 @@ Vaatleme, milliseid kompetentse on IT rakendamiseks vaja.</p>
 
 <p class='action'><i class="material-icons ikoon">help_circle</i> Kas teie organisatsioonis on IT-töötajaid? Milliseid ametinimetusi nad kannavad? Kas ametinimetused vastavad tegelikult tööle?</p>
 
+<p class='action'><i class="material-icons ikoon">help_circle</i>Maailma kõige nürim töö. -- "Miks eeldatakse siis järsku, et juba algklassidest programmeerimist õppinud noortest saavad uued Steve Jobsid? Pigem saavad neist tavalised  koodijukud, kellesuguseid ainuüksi Indias on miljoneid ja kellest kusagil tegelikult puudust ei tunta. Mõnest üksikust neist on saanud miljonärid, aga enamus teeb päevast päeva maailma kõige nürimat tööd maailma kõige nürimatel töökohtadel maailma kõige nürimate kolleegide seltsis. Lühidalt öeldes näeb nende töö ette päevad läbi ninapidi helendava ekraani taga passimist. Palk on küll veel keskmisest veidi kõrgem, aga kas see on elus kõige tähtsam." – Inno ja Irja kohvik, 29.11.2016."</p>
+
 __Eksootilisi ameti- ja rollinimetusi__ (_Job Titles_): Developer Advocate; Community Manager.
 
 <p class='tags'>Artikli TL;DR</p>

@@ -39,6 +39,21 @@ __Mis on IT-s lihtne?__
 
 Ei, tegelikult ei ole ükski neist lihtne.
 
+## Digiminimalism
+
+Madala kvaliteediga info ülekülluse keskel on _minimalism_ paljudele meelepärane tee, võib-olla ka ainus tee üldse. Seejuures pöördutakse tihti iidsete ida mõttekultuuride (zen-budism) poole.
+
+<span class='concept'>Digiminimalism</span> on mõttesuund, mis seab eesmärgiks "aggressively clearing away low-value digital noise, and optimizing your use of the tools that really matter". Ülevaade digiminimalismist vt <a href='http://calnewport.com/blog/2016/12/18/on-digital-minimalism/'>Cal Newport (2016)</a>.
+
+<span class='concept'>Kasin IT</span> (vt nt <a href='https://en.wikipedia.org/wiki/Lean_IT'>Lean IT</a>) juhib tähelepanu, et IT enda rakendamisel tekib palju üleliigset, kasutust mitteleidvat, väheväärtuslikku informatsiooni.
+
+Zen ja lihtsad tööriistad
+
+Lihtsa tööriista näide: tekstiredaktor [asciiflow](http://asciiflow.com/).
+
+<p class='action'><i class="material-icons ikoon">help_circle</i>Mõtle süsteemidele ja tehnoloogiatele, mida kasutad. Kas mõni neist müüb end kui lihtsat?<br>
+Kas tegelikult on ka lihtne?</p>
+
 # Lihtsuskäsitlusi
 
 <p class='tags'>Artikli TL;DR</p>

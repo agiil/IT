@@ -72,3 +72,61 @@ Võtmesõna seejuures on reliis (_Release_). Kosemudeli järgi toimuvas arenduse
 
 Vrdl: 1) strateegia; 2) tööplaan; 3) tegevuskava; 4) arenduse iteratsioon; 5)  minihange; 6) etapp; 7) tööpakett; 8) omadus/nõue
 
+
+## Agiilarenduse kontrolliprotseduur
+
+("Agiilsusbaromeeter")
+
+Küsimused on mõeldud vastamiseks Tellijale. Küsitletakse mitut Pakkuja poolt referentsina esitatud Tellijat. Punktid summeeritakse ja arvutatakse keskmine.
+
+__1  Kas tellisite arendustööd klassikalise koskmudeli (ingl _Waterfall_) järgi või soovisite agiilset arendust?__
+
+Märkus. Koskmudeli tunnusteks on ühe või mitme järgmise elemendi esinemine: tööde teostamine enne arendust koostatud spetsifikatsiooni v põhjaliku lähteülesande alusel; lähteülesande fikseerimine lepingus (muudatuste mitte ette nägemine); tööde jagamine etappideks - analüüs, projekteerimine, programmeerimine, juurutamine jne; tulemite üleandmine etapi või lepingu lõpus; töötava, paigaldatud koodi valmimine lepingu lõpuks.
+
+(kui koskmudel, siis 0 punkti ja intervjuu lõpp)
+
+__2  Kas Täitja lubas pakkumuses, et teostab tööd agiilselt?__
+
+Jah - 0 p, Ei - 0 p
+
+Märkus. Sõna "agiilne" kasutamine iseenesest pole määrav.
+
+__3  Kas teie arvates tööd teostati agiilselt?__
+
+Jah - 3 p, Ei -0 p; Ei oska öelda - 0 p
+
+__4  Kas tööd teostati iteratsioonidega (arendustsüklitena)? Kui pikk oli üks iteratsioon?__
+
+Jah, interatsioon kuni 2 nädalat - 2 p; Ei või iteratsiooni pikkus üle 2 nädala - 0 p
+
+__5  Kas igal iteratsioonil teostati väike arv kasutuslugusid või kasutajale vajalikke omadusi?__
+
+Jah - 2 p, Ei - 0 pt
+
+__6  Palju kasutuslugusid oli korraga töös?__
+
+Kuni 8 kasutuslugu - 2 pt; kuni 12 kasutuslugu - 1 pt; üle 12 kasutusloo või kõik kasutuslood - 0 pt
+
+__7  Kas iga iteratsiooni lõpuks valmis töötav kood (mitte prototüüp), mida demonstreeriti Tellijale?__
+
+Jah - 2 p, Ei - 0 p
+
+__8  Kui tihe oli Täitja ja Tellija arendajate suhtlus?__
+
+Igapäevane, arendus toimus in-premise, Tellija ruumides - 4 pt; igapäevane skype-i vms suhtluskeskkonna abil koos iganädalaste koosolekutega - 3 pt; iganädalasel koosolekul ja vajadusel e-postiga - 0 pt
+
+__9  Kui pikk oli iganädalane projektikoosolek?__
+
+Kuni 1 h - 1 p, üle tunni - 0 p
+
+__10  Kas Täitja meeskonnas oli Scrum Certified Master vm analoogiliste agiilmeetodite sertifikaatidega liikmeid?__
+
+Jah - 0 p, Ei - 0 p
+
+__11  Palju kulus aega minimaalse funktsionaalsusega, piirangutega, kuid siiski lõppkasutaja seisukohast kasutatava lahenduse tekkimiseks?__
+
+Kuni 2 kuud projekti algusest - 2 pt, kuni 3 kuud projekti algusest - 1 p, kauem kui 3 kuud - 0 p
+
+---
+
+Hindamisskaala: 15 või rohkem punkti - agiilarenduse kogemus on tõendatud; 0-14 punkti - agiilarenduse kogemus ei ole tõendatud

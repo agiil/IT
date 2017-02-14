@@ -9,8 +9,12 @@ permalink: Arhi
 - TOC
 {:toc}
 
+![](img/Arhi.PNG)
+
 <p class='tags'>Oskab</p>
 - suhelda IT-arhitektiga
+
+<p class='action'><i class="material-icons ikoon">help_circle</i>"[Architect must] bring technical realism into a project."" &mdash; Michael Pichler (2011) <a href='https://applicationarchitecture.wordpress.com/2011/05/04/did-you-ever-wonder-what-an-it-architect-does/'>Did You Ever Wonder What an IT Architect Does?</a></p>
 
 Süsteemi arhitektuuri mõiste ja vajadus selle järele. Arhitektuuri esitamise tehnikad. Põhimõtteid ja juhiseid süsteemi arhitektuuri kujundamiseks.
 
@@ -100,21 +104,9 @@ Uuem, lihtne ja loogiline on [“C4” meetod](http://static.codingthearchitectu
 
 Hea arhitektuur kestab. "_The test of a good architecture is that it will last. The sound architecture is an enduring pattern._"
 
-Thomas:
+Thomas: tasakaalustatud / struktureeritud / elegantne ja lihtne / terviklik.
 
-- tasakaalustatud
-- struktureeritud
-- elegantne ja lihtne
-- terviklik.
-
-Booch:
-
-- resilient
-- simple
-- approachable
-- clear separation of concerns
-- balanced distribution of responsibilities
-- balances economic and technology constraints.
+Booch: toimepidev (_resilient_) / lihtne / arusaadav (_approachable_) / erinevaid aspekte selgelt väljatoov (_clear separation of concerns_) / kohustuste tasakaal (_balanced distribution of responsibilities_) / majanduslike ja tehnoloogiliste piirangute tasakaal.
 
 ## Arhitektuuri loomise “reegleid”
 
@@ -156,3 +148,30 @@ Ehitusblokkide arhitektuurile on rajatud ka suured pilveplatvormid, nt:
 - [Google Cloud](https://cloud.google.com/)
 - [Amazon Web Services](https://aws.amazon.com/)
 
+## Arhitektuuri ohud
+
+<p class='tags'><span class='tag'>Artikli TL;DR</span></p>
+Spolsky, Joel (2008) [Architecture astronauts take over](https://www.joelonsoftware.com/2008/05/01/architecture-astronauts-take-over/)
+
+Oluline artikkel, räägib tihtiesinevast nähtusest - arhitektuuri minekust "pilvedesse", reaalsustaju kadumisest.
+
+<p class='tags'><span class='tag'>Artikli TL;DR</span></p>
+RDX (2016) [10 Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.7wmb87ty3)
+
+> "Sometimes Engineers get carried away. Instead of trying to solve the business problem, we waste our time trying to find the perfect abstractions."
+
+Tehniline, intrigeeriv kirjutis tänapäeva IT arhitektuuri mõnedest eksiteedest.
+
+<p class='tags'><span class='tag'>Artikli TL;DR</span></p>
+Blow, Jonathan (2011) [Programming Aesthetics learned from making independent games](https://www.youtube.com/watch?v=JjDsP5n2kSM) (YouTube)
+
+> "It's easy to see benefits of an idea developed for benefit's sake! Very hard to measure subtle negatives chained to this idea. (Which often outweigh these benefits)."
+
+Peavooluseisukohtadele oponeerivaid mõtteid tuntud arvutimängude programmeerijalt.
+
+<p class='tags'><span class='tag'>Artikli TL;DR</span></p>
+Sústrik, Martin () ZeroMQ. in: [The Architecture of Open Source Applications](http://www.aosabook.org/en/zeromq.html).
+
+> "Make sure you understand the problem you are solving. Even a problem as simple as "make it fast" can take lot of work to understand properly".
+
+Tehniline, kuid IT arhitektuuri probleeme ilmekalt avav _case study_ nimekalt sõnumijadasüsteemide (_Message Queue_) väljatöötajalt.
