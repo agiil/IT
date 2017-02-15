@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Material Design icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+        rel="stylesheet">
+
+    <!-- Fonts -->    
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+    <!-- Google Charts -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+  google.charts.load("current", {packages:["timeline"]});
+  google.charts.setOnLoadCallback(drawChart);
+
+  function drawChart() {
+
+    var container = document.getElementById('diagramm');
+    var chart = new google.visualization.Timeline(container);
+    var dataTable = new google.visualization.DataTable();
+    dataTable.addColumn({ type: 'string', id: 'RowLabel' });
+    dataTable.addColumn({ type: 'string', id: 'BarLabel' });
+    // dataTable.addColumn({ type: 'string', role: 'tooltip' });
+    dataTable.addColumn({ type: 'date', id: 'Start' });
+    dataTable.addColumn({ type: 'date', id: 'End' });
+    dataTable.addRows([
+      [ 'L', '1 Info kvaliteet. Infohaldus. IT valitsemine. Infotehnoloogiate, sh tarkvarade hindamine ja valik',
+        new Date(2017, 1, 1), new Date(2017, 1, 1) ],
+      [ 'L', '2 IT-põhine äriprotsessi (-teenuse) disain. Töövoo kujundamine',
+        new Date(2017, 2, 10), new Date(2017, 2, 10) ],
+      [ 'L', '3 IT-teenuste, sh arendustööde sisseostmine. IT, innovatsioon ja strateegia',
+        new Date(2017, 3, 0), new Date(2017, 3, 0) ],
+      [ 'L', '4 IT, innovatsioon ja strateegia (seminar)',
+        new Date(2017, 3, 21), new Date(2017, 3, 21) ],
+      [ 'H', '1 Infohalduse (information management) olukorra kaardistus ja hinnang',
+        new Date(2017, 1, 14), new Date(2017, 1, 14) ],
+      [ 'H', '2 Valdkonna aktuaalsete tehnoloogiate kaardistus',
+        new Date(2017, 2, 0), new Date(2017, 2, 0) ],
+      [ 'H', '3 Äriprotsessi disain ja parendamine IT abil',
+        new Date(2017, 2, 24), new Date(2017, 2, 24) ],
+      [ 'H', '4 Ärinõuete püstitamine IT-süsteemile või -teenusele (sh arendusteenusele)',
+        new Date(2017, 3, 14), new Date(2017, 3, 14) ],
+      [ 'H', '5 IT ettevõtte strateegias',
+        new Date(2017, 3, 21), new Date(2017, 3, 21) ]
+    ]);
+
+    var options = {
+      colors: ['#C5E1A5', '#81D4FA', '#CE93D8', '#f44336'],
+      timeline: { 
+        colorByRowLabel: true,
+        rowLabelStyle: {fontName: 'Roboto', fontSize: 2, color: 'white' },
+        barLabelStyle: { fontName: 'Roboto', fontSize: 18 }
+      },
+      tooltip: { trigger: 'focus'}
+    };
+    chart.draw(dataTable, options);
+  }
+</script>
+
+<style type="text/css">
+  body { padding: 2em; }
+  #diagramm { height: 600px; width: 800px; }
+  svg g:first-of-type rect {
+    fill-opacity: 0;
+  }
+
+  .btn-group ul { padding-left: 0.3em; }
+
+  .btn, .abi { font-family: 'Roboto' !important; font-size: 18px;  font-style: normal; color: #333; }
+
+</style>
+
+</head>
+
+<body>
+  <div class='container'>
+    <div class='row'>
+      <div class='col-sm-8'>
+        <!-- p class='pealkiri'>Karjääriteed</p -->
+
+        <div id="diagramm"></div>
+
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>
+
