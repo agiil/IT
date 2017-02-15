@@ -95,6 +95,11 @@ table, th, td { border: 1px solid black; }
 .disabled { color:#000000; opacity:0.38; }
 .s { font-size: 10pt; }
 
+/* TOC genereeritud */
+#markdown-toc > li {
+  list-style: none;
+}
+
 /* Allkriipsutus */
 .u { text-decoration: underline; }
 
@@ -152,7 +157,7 @@ dd { margin-left: 4em; }
 .ikoon { color: $grey700; font-size: 48px !important; }
 
 /* Silt e tag */
-.tags { margin: 1em 0 8px -8em; 
+.tags { margin: 1em 0 0 -8em; 
   text-transform: uppercase;
   color: $pruun700; 
   font-family: 'Roboto Condensed', sans-serif;

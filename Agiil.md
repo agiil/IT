@@ -72,6 +72,10 @@ Võtmesõna seejuures on reliis (_Release_). Kosemudeli järgi toimuvas arenduse
 
 Vrdl: 1) strateegia; 2) tööplaan; 3) tegevuskava; 4) arenduse iteratsioon; 5)  minihange; 6) etapp; 7) tööpakett; 8) omadus/nõue
 
+<p class='tags'><span class='tag'>Artikli TL;DR</span></p>
+Frechette, Galen (2013) [The Product Design Sprint](https://robots.thoughtbot.com/the-product-design-sprint)
+
+__"Tootedisaini sprint"__, viiepäevaline kiire tootearenduse protseduur: 1) saada aru (_Understand_); 2) genereerida variante (_Diverge_); 3) vali (_Converge_); 4) prototüübi (_Prototype_); 5) Testi ja õpi (_Test & Learn_). 
 
 ## Agiilarenduse kontrolliprotseduur
 

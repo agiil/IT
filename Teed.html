@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Material Design icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
@@ -11,9 +12,14 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     
-    <!-- JQuery -->
-    <script src="https://code.jquery.com/jquery.min.js"></script>
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
     <!-- Google Charts -->
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -32,18 +38,22 @@
     dataTable.addColumn({ type: 'number', id: 'Start' });
     dataTable.addColumn({ type: 'number', id: 'End' });
     dataTable.addRows([
-      [ 'Õpe', '', 0, 4 ],
-      [ 'Töö ettevõttes', '', 4, 6 ],
-      [ 'Riigiteenistuses', '', 7, 13],
-      [ 'Ettevõtjana', '', 14, 20],
-      [ 'Ettevõtjana', '', 21, 24]
+      [ 'O', 'Õpe', 0, 4 ],
+      [ 'T', 'Töö ettevõttes', 4, 6 ],
+      [ 'R', 'Riigiteenistuses', 7, 13],
+      [ 'E', 'Ettevõtjana 1', 14, 20],
+      [ 'E', 'Ettevõtjana 2', 21, 24]
 
     ]);
 
     var options = {
       colors: ['#C5E1A5', '#81D4FA', '#CE93D8', '#f44336'],
-      timeline: { rowLabelStyle: {fontName: 'Roboto', fontSize: 24, color: '#603913' },
-                     barLabelStyle: { fontName: 'Roboto', fontSize: 14 } }
+      timeline: { 
+        colorByRowLabel: true,
+        rowLabelStyle: {fontName: 'Roboto', fontSize: 2, color: 'white' },
+        barLabelStyle: { fontName: 'Roboto', fontSize: 18 }
+      },
+      tooltip: { trigger: 'none'}
     };
     chart.draw(dataTable, options);
   }
@@ -55,10 +65,81 @@
   svg g:first-of-type rect {
     fill-opacity: 0;
   }
+
+  .btn-group ul { padding-left: 0.3em; }
+
+  .btn, .abi { font-family: 'Roboto' !important; font-size: 18px;  font-style: normal; color: #333; }
+
 </style>
+
+<script type="text/javascript">
+  $('#E1').click(function(){
+    alert('E1');
+  });  
+
+</script>
+
 </head>
   <body>
-    <div id="diagramm"></div>
+    <div class='container'>
+      <div class='row'>
+        <div class='col-sm-8'>
+          <!-- p class='pealkiri'>Karjääriteed</p -->
+
+          <div style='margin-bottom: 1em; '>
+
+            <div class='dropdown'>
+              <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown">
+                Ettevõtja
+              </button>
+              <div class="dropdown-menu">
+                <a id='E1' href="#" class='dropdown-item'>Sariettevõtja</a>
+                <a id='E2' href="#" class='dropdown-item'>Multiettevõtja</a>
+                <a id='E3' href="#" class='dropdown-item'>Lihtne ettevõtja</a>
+              </div>
+            </div>
+
+            <div class='dropdown'>
+              <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown">
+                Töötaja
+              </button>
+              <div class="dropdown-menu">
+                <a href="#" class='abi'>Enne ettevõtte asutamist</a>
+                <a href="#" class='abi'>Ettevõtjana tegutsemisega samaaegselt</a>
+                <a href="#" class='abi'>Pärast ettevõtjana tegutsemist</a>
+              </div>
+            </div>
+
+            <div class='btn-group'>
+              <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown">
+                Ametnik <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="#" class='abi'>Enne ettevõtte asutamist</a></li>
+                <li><a href="#" class='abi'>Ettevõtjana tegutsemisega samaaegselt</a></li>
+                <li><a href="#" class='abi'>Pärast ettevõtjana tegutsemist</a></li>
+              </ul>
+            </div>
+
+            <div class='btn-group'>
+              <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown">
+                Õppija <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="#">Enne ettevõtte asutamist</a></li>
+                <li><a href="#">Ettevõtjana tegutsemisega samaaegselt</a></li>
+                <li><a href="#">Pärast ettevõtjana tegutsemist</a></li>
+              </ul>
+            </div>
+
+          </div>
+
+          <div id="diagramm"></div>
+
+        </div>
+      </div>
+    </div>
+
   </body>
 </html>
 
