@@ -10,6 +10,7 @@ sidebar: false
 - TOC
 {:toc}
 
+jjj
 <p class='teade'><i class='material-icons ikoon' style='color: #9C27B0;'>group_work</i>
 Vaatleme, milliseid kompetentse on IT rakendamiseks vaja.</p>
 
