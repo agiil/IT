@@ -53,8 +53,6 @@ Avo Raup,tuntud ITIL-i (IT-teenuste haldamise raamistik), Lean IT (Jaapani tootm
 
 - - -
 
-<edukas pank>
-
 "Suurimaks boonuseks on see, et minu osakond asub IT korrusel, mis tähendab seda, et probleemide või küsimuste korral saab  paari  sammuga  kohe 
 minna muret kurtma"
 Ma ei ole selles asjatundja, kuid infotöötluse (ja kommunikatsiooni) füüsiline külg on minu arvates paljudes organisatsioonides alahinnatud. Lähemalt sellest loengus.
@@ -67,7 +65,8 @@ Võttes kõrvale Maylori "The Complexity Assessment Tool" võib teie arenduste r
 - - -
 
 Helsingis detsembris 2016 oli ühe tudengi juhtumiuuring samuti ehitusvaldkonna ettevõttes (rahvusvaheline ettevõte, käive samuti 50 milj EUR). Probleemid paistavad vägagi sarnased. Võib-olla on põhjuseks ehitamise omapära. Ehitamisel on väga palju planeerimist, koordineerimist, jälgimist. Tegevus ei toimu ühes kohas ega pelgalt kontorites, vaid hajutatult. Tegevusele on iseloomulik suur osapoolte arv, keerulised seoses osapoolte tööpanuste vahel. Need põhjused ilmselt on mõjutanud seda, et ehitusplatsi ja kontori infotehnoloogiline lõimimine, mida seati eesmärgiks juba 15-20 a tagasi, ei ole kaugeltki lõpule viidud.
-  Sellise suurusega ettevõttes on raske hakkama saada üheainsa suure süsteemiga. Paratamatult on kasutusel mitu süsteemi (tüüpiliselt 5-9), nende liidestamine on probleem. Siiski, kui olukorda vaadata, võib leida süsteemi (või suuremate süsteemide osi), mis töötavad teistest paremini. Soome magistrandil oli hea näide töömaa planeerimisvahendist, mida loeti õnnestunuks. Võtmesõnadeks lihtsus, fookus ja tarkvaras teostatavast protsessidest adekvaatne arusaamine. 
+
+Sellise suurusega ettevõttes on raske hakkama saada üheainsa suure süsteemiga. Paratamatult on kasutusel mitu süsteemi (tüüpiliselt 5-9), nende liidestamine on probleem. Siiski, kui olukorda vaadata, võib leida süsteemi (või suuremate süsteemide osi), mis töötavad teistest paremini. Soome magistrandil oli hea näide töömaa planeerimisvahendist, mida loeti õnnestunuks. Võtmesõnadeks lihtsus, fookus ja tarkvaras teostatavast protsessidest adekvaatne arusaamine. 
 
 "üle sektori tekkinud aktiivsust, et leida ühtne lahendus ka veosekorralduse osas"
 Siin on hea näide Eesti Metsatööstuse Liidu veoselehtede süsteem ELVIS (https://www.veoseleht.ee/Web/et/EE/Home.mvc).

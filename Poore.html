@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Material Design icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+        rel="stylesheet">
+
+    <!-- Fonts -->    
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+    <!-- Google Charts -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script>
+var r = 4; // Ridu
+var v = 5; // Veerge
+var hs = 80; // Ruudu h küljepikkus
+var vs = 50; // Ruudu v küljepikkus
+
+function drawGrid() {
+  var c = document.getElementById("D1");
+  var ctx = c.getContext("2d");
+  ctx.scale(1, 1);
+  for (var i = 0; i < r + 1; i++) {
+    ctx.moveTo(0, i * vs);
+    ctx.lineTo(v * hs, i * vs);
+    ctx.stroke();    
+  }
+  for (var j = 0; j < v + 1; j++) {
+    ctx.moveTo(j * hs, 0);
+    ctx.lineTo(j * hs, v * vs);
+    ctx.stroke();    
+  }
+}
+
+function init() {
+  drawGrid();
+}
+
+</script>
+
+<style>
+  body { padding: 2em; }
+  .diagramm { width: 600px; height: 600px; }
+
+</style>
+
+</head>
+  <body onload="init();">
+    <div class='container'>
+      <div class='row'>
+        <div class='col-sm-8'>
+
+          <canvas id="D1" class='diagramm'></canvas>
+
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>
+
