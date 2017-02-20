@@ -75,6 +75,7 @@ function valmistaEtte() {
         break
       case 'C22':
         looIkoon(1, 3, 'help_outline', 'Tomato');
+        looIkoon(3, 2, 'help_outline', 'Tomato');
         break
       case 'C23':
         looIkoon(3, 3, 'help_outline', 'Tomato');

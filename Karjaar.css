@@ -17,6 +17,7 @@ table, td {
 }
 td { width: 79px; 
     height: 79px; 
+    background-color: transparent;
     vertical-align: middle; }
 
 table { float: left; margin: 0 1em 1em 0;}
@@ -31,7 +32,7 @@ table { float: left; margin: 0 1em 1em 0;}
 .nooleymbris { position: absolute; 
   z-index: 3; }
 
-.IT { background-color: Azure; }
+/* .IT { background-color: Azure; } */
 .eesmark { background-color: LightSalmon; }
 
 /* Klikitav tabelilahter */
@@ -53,3 +54,5 @@ p { margin-bottom: 0.3m; }
   font-style: italic;
   font-family: 'Roboto', sans-serif;
   font-size: 13pt; }
+
+#Isik { z-index: -1; }  
