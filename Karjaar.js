@@ -66,7 +66,7 @@ function valmistaEtte() {
         looIkoon(3, 3, 'help_outline', 'Tomato');
         break
       case 'C14':
-        looIkoon(2, 4, 'help_outline', 'Tomato');
+        looIkoon(3, 4, 'help_outline', 'Tomato');
         break
 
       case 'C21': 
@@ -80,7 +80,7 @@ function valmistaEtte() {
         looIkoon(3, 3, 'help_outline', 'Tomato');
         break
       case 'C24':
-        looIkoon(2, 1, 'help_outline', 'Tomato');
+        looIkoon(3, 4, 'help_outline', 'Tomato');
         break
       case 'C31': 
         looIkoon(1, 1, 'help_outline', 'Tomato');
