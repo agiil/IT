@@ -51,8 +51,10 @@ function valmistaEtte() {
     eemalda();
     // saada(this.id);
     looIkoon(r(this.id), v(this.id), 'person_pin', 'DimGray');
+    // Peida senised soovitused
+    $('.s').addClass('varjus');
     // Kuva soovitused
-    $('#T' + parseInt(this.id.substring(1))).removeClass('varjus');
+    $('.T' + parseInt(this.id.substring(1))).removeClass('varjus');
     switch (this.id) {
       case 'C11': 
         looIkoon(1, 3, 'help_outline', 'Tomato');
