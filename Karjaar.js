@@ -49,7 +49,7 @@ function valmistaEtte() {
 
   $('.k').click(function(){
     eemalda();
-    saada(this.id);
+    // saada(this.id);
     looIkoon(r(this.id), v(this.id), 'person_pin', 'DimGray');
     // Kuva soovitused
     $('#T' + parseInt(this.id.substring(1))).removeClass('varjus');
