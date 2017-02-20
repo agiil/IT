@@ -1,0 +1,55 @@
+body, textarea, button {  
+  font-family: 'Times New Roman', serif !important;
+  font-size: 14pt !important; }
+body { padding: 10px; }  
+
+h1 { margin: 0; padding: 0; }
+
+.alapealkiri { }
+
+.abitekst { font-family: 'Roboto', sans-serif;
+    font-size: 13pt; margin: 0 0 8px; }
+
+table, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+td { width: 79px; 
+    height: 79px; 
+    vertical-align: middle; }
+
+table { float: left; margin: 0 1em 1em 0;}
+
+/* ---- Isiku ikoon ---- */
+.ikoon { font-family: 'Material Icons';
+  font-size: 60px; }
+
+.isikuYmbris { position: absolute;
+  z-index: 3; }
+
+.nooleymbris { position: absolute; 
+  z-index: 3; }
+
+.IT { background-color: Azure; }
+.eesmark { background-color: LightSalmon; }
+
+/* Klikitav tabelilahter */
+.k { cursor: pointer; }
+
+p { margin-bottom: 0.3m; }
+
+.a { /* background-color: yellow; */
+  border-bottom: 3px dotted DimGray;
+  cursor: pointer; }
+
+/* Soovitused */
+.s { }
+
+.varjus { display: none !important; }
+
+#Arvamus { resize: none; }
+#tanuteade { display: inline-block; margin-left: 2em;
+  font-style: italic;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13pt; }

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8"/>
+  <title>Karjäärikanvaa</title>
+
+  <!-- JQuery -->
+  <script src="https://code.jquery.com/jquery.min.js"></script>
+
+  <!-- Material Design icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <!-- script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script -->
+  <!-- script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+  <!-- Stiilid ja skriptid -->
+  <link href="Karjaar.css" rel='stylesheet'>
+  <script src='Karjaar.js'></script>
+
+  </head>
+
+  <body onload="valmistaEtte();">
+
+    <div class='container-fluid'>
+      <div class='row'>
+        <!-- Pealkiri -->
+        <div class='col-sm-5'>
+          <h1>IT karjäärikanvaa</h1>
+
+          <p class='alapealkiri'>Siit saad hääd nõu IT tööturule sisenemiseks ja seal liikumiseks</p>
+
+          <p class='abitekst'><i>klõpsa sind kõige paremini iseloomustavale ruudule</i></p>
+        </div>
+        <!-- Arvamus -->
+        <div class='col-sm-5'>
+
+          <form autocomplete="off">
+            <div class="form-group">
+              <label for="Arvamus">Sinu arvamus:</label>
+              <textarea class="form-control" id="Arvamus" rows="1"></textarea>
+            </div>
+            <button id='Saada' type='button'
+              class='btn btn-secondary' title='Saada'>Saada!
+            </button>
+            <span id='tanuteade' class='varjus'>
+              Aitäh!
+            </span>
+          </form>
+        </div>  
+      </div>
+      <div class='row' style='margin-top: 1em;'>
+        <!-- Tabel -->
+        <div class='col-sm-5'>
+          <table>
+            <tr>
+              <td></td>
+              <td>ei õpi</td>
+              <td>õpib (mitte IT)</td>
+              <td>õpib (IT)</td>
+              <td>õpetab (IT)</td>
+            </tr>
+            <tr>
+              <td>ei tööta</td>
+              <td id='C11' class='k'></td>
+              <td id='C12' class='k'></td>
+              <td id='C13' class='k IT'></td>
+              <td id='C14' class='k IT'></td>
+            </tr>
+            <tr>
+              <td>töötab (mitte IT)</td>
+              <td id='C21' class='k'></td>
+              <td id='C22' class='k'></td>
+              <td id='C23' class='k IT'></td>
+              <td id='C24' class='k IT'></td>
+            </tr>
+            <tr>
+              <td>töötab (IT)</td>
+              <td id='C31' class='k IT'></td>
+              <td id='C32' class='k IT'></td>
+              <td id='C33' class='k IT'></td>
+              <td id='C34' class='k IT'></td>
+            </tr>
+
+          </table>
+        </div>
+        <!-- Tekst -->
+        <div class='col-sm-5'>
+          <div id='Soovitused'>
+            
+            <p id='T11' class='s varjus'>
+              Tähtis on pidada ka pausi.
+            </p>
+            <p id='T12' class='s varjus'>
+              Mõnigi inimene õpib mitte-IT-d, kuid unistab tööst IT-s. Kas see on reaalne? Võib-olla enne õppida IT-d?
+            </p>
+            <p id='T13' class='s varjus'>
+              IT-d õppides on oluline valida õige aeg IT-s tööle asumiseks.
+            </p>
+            <p id='T14' class='s varjus'>
+              Inimesed, kes õpetavad IT-d, kuid ise IT-s ei tööta, reeglina ei ole väga head õpetajad.
+            </p>
+            <p id='T21' class='s varjus'>
+              Millised on mitte IT-s töötaja võimalused IT tööturule sisenemiseks?
+            </p>
+            <p id='T22' class='s varjus'>
+              Asuda IT tööle? Asuda IT-d õppima?',
+            </p>
+            <p id='T23' class='s varjus'>
+              IT-d õppimist on raske ühitada mitte-IT-s töötades.
+            </p>
+            <p id='T31' class='s varjus'>
+              IT-s töötav inimene võiks kaaluda, kas võtta paus.
+            </p>
+
+          </div>
+        </div>  
+      </div>
+    </div>
+
+    <div id='Isik'></div>
+    <div id='Nooled'></div>
+
+  </body>
+
+</html>
