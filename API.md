@@ -14,7 +14,7 @@ API disain
 - määrata ressursiskeemid
 - siduda minimaalne hulk meetodeid ressurssidega
 
-Ressursid jagunevad *_lihtressurssideks_* (_simple resource_) ja *_kogumressurssideks_* (_collection resource_). Ressursil on *_olek_* (_state_) ja võivad olla alamressursid (_sub-resources_).
+Ressursid jagunevad *_lihtressurssideks_* (_simple resource_) ja *_kogumressurssideks_* (_collection resource_). Ressursil on _***olek*** (_state_) ja võivad olla alamressursid (_sub-resources_).
 
 API kasutajaskonna kasvatamine
 (_attract developers_)
