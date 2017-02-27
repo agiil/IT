@@ -114,12 +114,12 @@ Vt Google disainijuhis, jaotis [Naming Conventions](https://cloud.google.com/api
 
 **Ressursi suhteline nimi** identifitseerib ressurssi API teenuse kontekstis.
 
-**Ressursi ID** on ressurssi oma vanemressursi kontekstis identifitseeriv URI segment. Peab selgelt dokumenteerima, kas ressursi ID moodustatakse kliendi või serveri poolt.
+**Ressursi ID** on ressurssi oma vanemressursi kontekstis identifitseeriv URI segment. Nt `ETIS` (RIHAs kirjeldatud infosüsteem ETIS). Peab selgelt dokumenteerima, kas ressursi ID moodustatakse kliendi või serveri poolt.
 
 RIHA koskarenduses väljapakutud nimelahendus (RIHA andmete masinloetavate vormingute spetsifikatsioon v1.4, jaotis "Objektide identifitseerimine URI-de abil") vajab tõsist analüüsi ja ümbertöötamist. Tagasiside kasutajatelt näitab, et keerulisest nimemustrist ei saada aru.
 {: .takeaway}
 
-**Kogumressursi ID** (_collection ID_) peab olema mitmuses.
+**Kogumressursi ID** (_collection ID_) peab olema mitmuses. Nt `systems` (RIHA-s kirjeldatud infosüsteemide kogum).
 
 Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/design/resource_names). 
 
