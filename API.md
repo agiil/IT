@@ -87,13 +87,6 @@ API arendamisel tuleb kõiki neid aspekte adekvaatselt käsitleda.
 REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, arvestades, et kõik Google nõuded ei ole kohaldatavad.
 {: .takeaway}
 
-REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit:
-- [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification), endise nimega Swagger, kasutab aluskeelena YAML-i või JSON-it.   
-- [API Blueprint](https://apiblueprint.org/) on aluskeelena Markdown-i kasutav API-de kirjelduskeel ("a powerful high-level API description language").
-
-REST API dokumenteerimine "vabas vormis" on mõeldav ainult väikese API ja kõrge dokumenteerimisoskusega arendaja korral. Reeglina tuleks API-d kirjeldada asjakohast formaalset kirjelduskeeld kasutades. Eelistatud on kasutada OpenAPI kirjelduskeele kasutamine.
-{: .takeaway}
-
 [APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina.
 
 ## API tööriistad
@@ -179,9 +172,24 @@ Vt Google disainijuhis, jaotised [Compatibility](https://cloud.google.com/apis/d
 
 Kui API meetodi täitmine võtab tüüpiliselt kauem aega, siis võib meetodi projekteerida nii, et tagastatakse callback (Google terminoloogias - _Long Running Operation_), mille abil klient saab jälgida edenemist ja saada lõpptulemuse. Vrdl Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
 
-## Tulemuse andmine lehekülgedena
+## Andmete väljastamine leheküljeti
 
-Google soovitus on "listable collections should support pagination, even if results are typically small." Vt Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
+Andmete väljastamine leheküljeti tuleks teostada ka väikesemahuliste, kuid kasvada võivate ressursikogumite puhul. Google soovitus on "listable collections should support pagination, even if results are typically small." Vt Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
+
+## Filtreerimine ja sortimine
+
+Kui API pakub tulemuste nimekirja filtreerimist või sortimist, siis võiks järgida SQL süntaksit.
+
+Vt ka Google disainijuhend, jaotis [Sorting Order](https://cloud.google.com/apis/design/design_patterns#sorting_order) ja RIHA API spetsifikatsioon, jaotised "filter" ja "sort".
+
+# Päringu samajõulisus
+
+Väga soovitav on teha päringud samajõuliseks (idempotentseteks). See tähendab, et sama päringut saab võrgutõrke korral ilma kahjulike kõrvalmõjudeta uuesti saata. Kui päringut ei saa teha idempotentseks, siis peab iga päringsõnum sisaldama unikaalset *idempotentsus-ID-d*.
+
+Vt:
+
+- Leach (2017) [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency).
+- Google disainijuhis, jaotis [Request Duplication](https://cloud.google.com/apis/design/design_patterns#sorting_order).
 
 ## Protokollid
 
@@ -196,11 +204,19 @@ RIHA koskarenduses teostati GET päringu puhul ka CGI `nimi=urlencoded_väärtus
 
 Päringute üldparameetreid võib esitada kahel alternatiivsel moel, kusjuures API peab ära tundma mõlemad ja kasutus on vaba.
 
-## API dokumenteerimine
+## API spetsifitseerimine
 
 **Kirjelduse täielikkus**. Masinliides tuleb täielikult dokumenteerida. "Discovery-based documentation" (API käitumise väljaselgitamine katse-eksituse teel) ei ole aktsepteeritav.
 
-**Formalismi kasutamine**. Vajalik on formaalne kirjeldus (OpenAPI/Swagger vormingus), mis ühtlasi peab olema ka inimloetav. "Vabas vormis" dokumenteerimine on vastuvõetav ainult triviaalsete liideste puhul.
+**Formalismi kasutamine**. Vajalik on formaalne kirjeldus, mis ühtlasi peab olema ka inimloetav. "Vabas vormis" dokumenteerimine on vastuvõetav ainult triviaalsete liideste puhul. REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit:
+
+- [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification), endise nimega Swagger, kasutab aluskeelena YAML-i või JSON-it.   
+- [API Blueprint](https://apiblueprint.org/) on aluskeelena Markdown-i kasutav API-de kirjelduskeel ("a powerful high-level API description language").
+
+Eelistatud on OpenAPI kirjelduskeele kasutamine.
+{: .takeaway}
+
+- [Extended Backus-Naur Form (EBNF)](https://cloud.google.com/apis/design/design_patterns#grammar_syntax) on samuti hea formalism.
 
 **Näited**. Näite või näidete lisamine on tingimata vajalik. Seejuures kirjeldamine ainuüksi näite abil ei ole piisav.
 
