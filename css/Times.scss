@@ -1,6 +1,8 @@
 ---
 ---
 
+$mutedblue: #607D8B;
+
 /* ---- Keha -------- */
 body {
   max-width: 50em; margin: 0 0; 
@@ -113,11 +115,4 @@ a[href]:active {
   color: #C00;
   border-color: #C00;
 }
-
-/* Definitsiooniloetelud */
-dt { font-weight: bold; }
-dd { margin-left: 4em; }
-
-/* Material design ikoonid */
-.ikoon { color: $grey700; font-size: 48px !important; }
 
