@@ -100,7 +100,7 @@ API-platvormide kasutamine väikese API-de arvu korral ei ole põhjendatud.
 
 Kui API kujundatakse mitmest teenusest koosnevana, siis peab nimede valik toetama teenuste ülesleitavust.
 
-Mitut teenust saab ka pakkuda sama teenusenime all, esitades need pöördumistees teenuse versiooninumbri järel. Nt `riha.eesti.ee/v1/Producer` ja `riha.eesti.ee/v1/Publisher`.
+Mitut teenust saab ka pakkuda sama teenusenime all, esitades need pöördumistees teenuse versiooninumbri järel. Nt `riha.eesti.ee/v1/Producer` ja `riha.eesti.ee/v1/Publisher` (Google käsitlus).
 
 Vt Google disainijuhis, jaotis [Naming Conventions](https://cloud.google.com/apis/design/naming_convention#ListFilterField).
 
@@ -110,7 +110,7 @@ Vt Google disainijuhis, jaotis [Naming Conventions](https://cloud.google.com/api
 
 **Ressursi nimi** moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest (Google käsitlus). Igal ressursil peab olema unikaalne nimi. Nt `systems` (RIHA-s kirjeldatud infosüsteemide kogum) ja `systems\ETIS` (RIHAs kirjeldatud infosüsteem ETIS). 
 
-**Ressursi täisnimi** sarnaneb URL-le, kuid ei ole viimasega samaväärne, sest sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu. Ressursi täisnimi moodustatakse nii: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
+**Ressursi täisnimi** sarnaneb URL-le, kuid ei ole viimasega samaväärne, sest sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu (Google käsitlus). Ressursi täisnimi moodustatakse nii: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
 
 **Ressursi suhteline nimi** identifitseerib ressurssi API teenuse kontekstis.
 
@@ -127,13 +127,13 @@ Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/de
 
 **Meetodid** rakenduvad ressurssidele ja jagunevad **standardmeetoditeks** ja **erimeetoditeks**. Standardmeetodid Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`. Need esitatakse HTTP meetodite abil järgmiselt:
 
-! Meetod   ! Vastav HTTP meetodimuster         ! HTTP päringu keha ! HTTP vastuse keha !
-!----------!-----------------------------------!-------------------!-------------------!
-! `List`   ! `GET <collection URL>`            ! tühi              ! ressursside kogum !
-! `Get`    ! `GET <resource URL>`              ! tühi              ! ressurss          !
-! `Create` ! `POST <collection URL>`           ! ressurss          ! ressurss          !
-! `Update` ! `PUT` või `PATCH <collection URL>`! ressurss          ! ressurss          !
-! `Delete` ! `DELETE <collection URL>`         ! tühi              ! tühi              !
+|  Meetod   |  Vastav HTTP meetodimuster         |  HTTP päringu keha |  HTTP vastuse keha | 
+| ----------| -----------------------------------| -------------------| -------------------| 
+|  `List`   |  `GET <collection URL>`            |  tühi              |  ressursside kogum | 
+|  `Get`    |  `GET <resource URL>`              |  tühi              |  ressurss          | 
+|  `Create` |  `POST <collection URL>`           |  ressurss          |  ressurss          | 
+|  `Update` |  `PUT` või `PATCH <collection URL>`|  ressurss          |  ressurss          | 
+|  `Delete` |  `DELETE <collection URL>`         |  tühi              |  tühi              | 
 
 Nendest reeglitest on erisusi, vt Google disainijuhis, jaotis [Standard Methods](https://cloud.google.com/apis/design/standard_methods).
 
