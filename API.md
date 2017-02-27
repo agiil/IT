@@ -4,10 +4,14 @@ title: API
 permalink: API
 ---
 
-TL;DR -- Nõudeid ja soovitusi REST API-de projekteerimiseks, testimiseks ja dokumenteerimiseks.
+TL;DR -- Nõuded ja soovitused REST API-de projekteerimiseks, testimiseks ja dokumenteerimiseks eelkõige RIHA kontekstis, aga ka laiemalt.
 
 # API-de disainijuhis
 {: .no_toc}
+
+v0.1 27.02.2017
+
+koostas: Priit Parmakson
 
 ## Sisukord
 {: .no_toc}
@@ -17,9 +21,7 @@ TL;DR -- Nõudeid ja soovitusi REST API-de projekteerimiseks, testimiseks ja dok
 
 ## Käsitlusala
 
-Käesolev juhis on on mõeldud reguleerima hajus-RIHA komponentide masinliideseid.
-
-Juhis võib olla rakendatav ka teiste süsteemide API-de arendamisel. 
+Käesolev juhis reguleerib eelkõige hajus-RIHA komponentide masinliideseid. Juhis võib olla rakendatav ka teiste süsteemide API-de arendamisel. 
 
 ## Seonduvad dokumendid
 
@@ -33,7 +35,14 @@ Vt ka jaotis "Senine töö".
 
 *API-põhine arhitektuur*, nn _API first_ strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government) toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Vastandiks API-le) on inimkasutaja liides.
 
-Käesolev juhis keskendub [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer)-dele.
+## Liideste liigid
+
+Disaini mõjutavad liidese kavandatavad kasutusparameetrid:
+
+- kas liides on avaliides või on vaja ligipääsu piirata?
+- kas liides on mõeldud kasutamiseks turvatud sisevõrgus või avalikus internetis? 
+
+Käesolev juhis keskendub [REST API](https://spring.io/understanding/REST)-dele.
 
 ## RIHA masinliidesed
 
@@ -47,7 +56,7 @@ RIHA nn koskmudelarenduses (2016) tegeldi masinloetavate vormingute projekteerim
 - RIHA API spetsifikatsioonis, v1.8, 05.01.2017 (ajakohasuse kaotanud)
 - töö "RIHA andmebaasi täiendamine REST liidesega" tulemites (koodis ja dokumentatsioonis).
 
-Koskmudelarenduses ilmnesid tõsised probleemid liideste dokumenteerimisel ja testimisel.
+Koskmudelarenduses ilmnesid tõsised probleemid liideste dokumenteerimisel ja testimisel. Samuti kalduti kõrvale REST põhimõtetest (pöördumine andmebaasitabelite ja kirjete poole, mitte ressursipõhiselt).
 
 [RIHA agiilarenduse prototüübi](https://e-gov.github.io/RIHA-Launcher/) (detsember 2016) arenduse tulemusena valmis RIHA masinliidese formaalne kirjeldus ja teostati 3 mooduli - Kirjeldaja, Avaldaja, Kooskõlastaja - masinliidesed. Vt:
 
@@ -73,7 +82,7 @@ API arendamisel tuleb kõiki neid aspekte adekvaatselt käsitleda.
 
 ## API disaini standardid
 
-**Google API disainijuhis**, [Google API Design Guide](https://cloud.google.com/apis/design), avaldatud 2017. a veeburaris, on üks parimaid REST API-de kujundamise juhiseid. Selles esitatakse Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted.
+**Google API disainijuhis**, [Google API Design Guide](https://cloud.google.com/apis/design), avaldatud 2017. a veeburaris, on üks parimaid materjale REST API-de disaini vallas. Juhisesse on kogutud Google-is 2014. a alates rakendatud API-de, nii REST kui ka RPC stiililiste, disaininõuded ja -põhimõtted.
 
 REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, arvestades, et kõik Google nõuded ei ole kohaldatavad.
 {: .takeaway}
@@ -137,6 +146,8 @@ Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/de
 
 Nendest reeglitest on erisusi, vt Google disainijuhis, jaotis [Standard Methods](https://cloud.google.com/apis/design/standard_methods).
 
+Erimeetod on selline, mis kaldub kõrvale standardsest REST semantikast. Nt infosüsteemi omaniku vahetus. Kus vähegi võimalik, tuleks kasutada standardmeetodeid. Google disainijuhis, jaotis [Custom Methods](https://cloud.google.com/apis/design/custom_methods) pakub skeemi erimeetodite vormindamiseks (_custom verb_). Selle kasutamise otstarbekus vajab selgitamist.
+
 ## API disaini töövoog
 
 [Google API Design Guide](https://cloud.google.com/apis/design/resources) soovitab järgmist tööjärjekorda (_design flow_):
@@ -178,7 +189,36 @@ Kasutusel on HTTPS (aga mitte näiteks [WebSocket](https://en.wikipedia.org/wiki
 
 ## Päringu moodustamine
 
-Saadetud andmeid kodeeritakse reeglina JSON formaadis, erandina GET päringute puhul aga CGI `nimi=urlencoded_väärtus` paaridena.
+Andmed saadetakse JSON formaadis.
+
+RIHA koskarenduses teostati GET päringu puhul ka CGI `nimi=urlencoded_väärtus` paaridena esitus. Selle otstabrbekus on kaheldav. Tuleb arutada arendajaga.
+{: .takeaway}
 
 Päringute üldparameetreid võib esitada kahel alternatiivsel moel, kusjuures API peab ära tundma mõlemad ja kasutus on vaba.
+
+## API dokumenteerimine
+
+**Kirjelduse täielikkus**. Masinliides tuleb täielikult dokumenteerida. "Discovery-based documentation" (API käitumise väljaselgitamine katse-eksituse teel) ei ole aktsepteeritav.
+
+**Formalismi kasutamine**. Vajalik on formaalne kirjeldus (OpenAPI/Swagger vormingus), mis ühtlasi peab olema ka inimloetav. "Vabas vormis" dokumenteerimine on vastuvõetav ainult triviaalsete liideste puhul.
+
+**Näited**. Näite või näidete lisamine on tingimata vajalik. Seejuures kirjeldamine ainuüksi näite abil ei ole piisav.
+
+**Navigeeritavus**. API kirjeldus peab olema navigeeritav.
+
+**Avalikkus.** API kirjeldus tuleb avalikult publitseerida.
+
+## API-de teostamise tehnoloogiaid
+
+REST API-de tegemise vahendeid pakutakse paljudel platvormidel ja raamistikes. Mõnda platvormi on API-d vaikimisi sisse ehitatud. Nt:
+
+- [Spring Boot](https://spring.io/guides/gs/actuator-service/)
+- [PostgreSQL Restful API](https://www.postgresql.org/about/news/1616/)
+- [Google Apps Script](https://trevorfox.com/2015/03/rest-api-with-google-apps-script/) 
+
+## API testimine
+
+**Testide katvus**. Testid peavad hõlmama kõiki ressursitüüpe ja kõiki meetodeid.
+
+**Automatiseerimine**. API testid tuleb automatiseerida vähemalt testipatareid käitava skripti tasemel.
 
