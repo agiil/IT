@@ -128,12 +128,12 @@ Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/de
 **Meetodid** rakenduvad ressurssidele ja jagunevad **standardmeetoditeks** ja **erimeetoditeks**. Standardmeetodid Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`. Need esitatakse HTTP meetodite abil järgmiselt:
 
 |  Meetod   |  Vastav HTTP meetodimuster         |  HTTP päringu keha |  HTTP vastuse keha | 
-| ----------| -----------------------------------| -------------------| -------------------| 
-|  `List`   |  `GET <collection URL>`            |  tühi              |  ressursside kogum | 
-|  `Get`    |  `GET <resource URL>`              |  tühi              |  ressurss          | 
-|  `Create` |  `POST <collection URL>`           |  ressurss          |  ressurss          | 
-|  `Update` |  `PUT` või `PATCH <collection URL>`|  ressurss          |  ressurss          | 
-|  `Delete` |  `DELETE <collection URL>`         |  tühi              |  tühi              | 
+|:---------:|:----------------------------------:|:------------------:|:------------------:| 
+|  `List`   |  `GET <kogumi URL>`            |  tühi              |  ressursside kogum | 
+|  `Get`    |  `GET <ressursi URL>`              |  tühi              |  ressurss          | 
+|  `Create` |  `POST <ressursi URL>`           |  ressurss          |  ressurss          | 
+|  `Update` |  `PUT` või `PATCH <ressursi URL>`|  ressurss          |  ressurss          | 
+|  `Delete` |  `DELETE <ressursi URL>`         |  tühi              |  tühi              | 
 
 Nendest reeglitest on erisusi, vt Google disainijuhis, jaotis [Standard Methods](https://cloud.google.com/apis/design/standard_methods).
 
