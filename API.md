@@ -10,32 +10,13 @@ permalink: API
 - TOC
 {:toc}
 
-## API disaini standardid
+## API mõiste
 
-Google API disainijuhis, [Google API Design Guide](https://cloud.google.com/apis/design), avaldatud 2017. a veeburaris, on üks parimaid REST API-de kujundamise juhiseid. Selles esitatakse Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted. Käesolev juhis põhineb Google API disainijuhise REST API-sid käsitlevale osale.
+*API e masintöödeldav liides*  on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes kogu tänapäevane infotöötlus.
 
-[APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina.
+*API-põhine arhitektuur*, nn _API first_ strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government) toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Vastandiks API-le) on inimkasutaja liides.
 
-REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit:
-- OpenAPI
-- [API Blueprint](https://apiblueprint.org/) on aluskeelena Markdown-i kasutav API-de kirjelduskeel ("a powerful high-level API description language")
-
-## API tööriistad
-
-API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud mitmesuguste tööriistade teket. Näiteks REST API testimiseks, sh testimise automatiseerimiseks saab kasutada automaattestimise raamistikku [SoapUI](https://www.soapui.org/).
-
-*API-de arendamise ja haldamise platvormid* üritavad pakkuda tööriistade kogumeid ja API elutsükli täistoetust. Tähtsamad API-platvormid on:
-
-- [Apiary](https://apiary.io/)
-- [Agigee](https://apigee.com).
-
-API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee ostmine Google poolt (Nov 2016).
-
-## API-de tähtsus
-
-API e masintöödeldav liides on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes kogu tänapäevane infotöötlus.
-
-API-põhine arhitektuur, nn _API first_ strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government) toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Vastandiks API-le) on inimkasutaja liides. 
+Käesolev juhis keskendub [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer)-dele.
 
 ## API elutsükkel
 
@@ -50,6 +31,36 @@ API disainimine ei ole ühekordne tegevus. *API elutsükli* moodustavad mitmesug
 - APi kasutuse analüüs (API analüütika)
 
 API arendamisel tuleb kõiki neid aspekte adekvaatselt käsitleda.
+
+## API disaini standardid
+
+Google API disainijuhis, [Google API Design Guide](https://cloud.google.com/apis/design), avaldatud 2017. a veeburaris, on üks parimaid REST API-de kujundamise juhiseid. Selles esitatakse Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted. Käesolev juhis põhineb Google API disainijuhise REST API-sid käsitlevale osale.
+
+REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, arvestades, et kõik Google nõuded ei ole kohaldatavad.
+{: .takeaway}
+
+REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit:
+- [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification), endise nimega Swagger, kasutab aluskeelena YAML-i või JSON-it.   
+- [API Blueprint](https://apiblueprint.org/) on aluskeelena Markdown-i kasutav API-de kirjelduskeel ("a powerful high-level API description language").
+
+REST API dokumenteerimine "vabas vormis" on mõeldav ainult väikese API ja kõrge dokumenteerimisoskusega arendaja korral. Reeglina tuleks API-d kirjeldada asjakohast formaalset kirjelduskeeld kasutades. Eelistatud on kasutada OpenAPI kirjelduskeele kasutamine.
+{: .takeaway}
+
+[APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina.
+
+## API tööriistad
+
+API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud mitmesuguste tööriistade teket. Näiteks REST API testimiseks, sh testimise automatiseerimiseks saab kasutada automaattestimise raamistikku [SoapUI](https://www.soapui.org/).
+
+*API-de arendamise ja haldamise platvormid* üritavad pakkuda tööriistade kogumeid ja API elutsükli täistoetust. Tähtsamad API-platvormid on:
+
+- [Apiary](https://apiary.io/)
+- [Agigee](https://apigee.com).
+
+API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee ostmine Google poolt (Nov 2016).
+
+API-platvormide kasutamine väikese API-de arvu korral ei ole põhjendatud.
+{: .takeaway} 
 
 ## REST API põhimõisted
 
@@ -72,7 +83,4 @@ Vt ka *ressursi suhteline nimi*
 - määrata nimemustrid e -skeemid (_resource name schemes_)
 - määrata ressursiskeemid
 - siduda minimaalne hulk meetodeid ressurssidega
-
-## Front- ja backendi vaheline suhtlus
-
 

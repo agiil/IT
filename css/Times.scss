@@ -116,3 +116,13 @@ a[href]:active {
   border-color: #C00;
 }
 
+/* ======== Paneelid ======== */
+.action, .takeaway, .teade { border-radius: 8px; padding: 10px; }
+
+/* Tegevus */
+.action { border: 1px solid $bluegrey100; 
+  background-color: $bluegrey100; 
+}
+/* Kaasavõtmiseks */
+.takeaway { border: 1px solid Red; background-color: Linen; }
+.teade { border: 1px solid Aquamarine; background-color: Azure; }
