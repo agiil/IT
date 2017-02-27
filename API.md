@@ -10,21 +10,36 @@ permalink: API
 - TOC
 {:toc}
 
-## Alusmaterjalid
+## API disaini standardid
 
 Google API disainijuhis, [Google API Design Guide](https://cloud.google.com/apis/design), avaldatud 2017. a veeburaris, on üks parimaid REST API-de kujundamise juhiseid. Selles esitatakse Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted. Käesolev juhis põhineb Google API disainijuhise REST API-sid käsitlevale osale.
 
-API-de kohta ei ole üldisi disainistandardeid. Kuid on mitmesuguseid muid käsitlusi. [APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea sissejuhatus teemasse, kuid ei ole kasutatav disainijuhendina.
+[APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina.
+
+REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit:
+- OpenAPI
+- [API Blueprint](https://apiblueprint.org/) on aluskeelena Markdown-i kasutav API-de kirjelduskeel ("a powerful high-level API description language")
+
+## API tööriistad
+
+API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud mitmesuguste tööriistade teket. Näiteks REST API testimiseks, sh testimise automatiseerimiseks saab kasutada automaattestimise raamistikku [SoapUI](https://www.soapui.org/).
+
+*API-de arendamise ja haldamise platvormid* üritavad pakkuda tööriistade kogumeid ja API elutsükli täistoetust. Tähtsamad API-platvormid on:
+
+- [Apiary](https://apiary.io/)
+- [Agigee](https://apigee.com).
+
+API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee ostmine Google poolt (Nov 2016).
 
 ## API-de tähtsus
 
 API e masintöödeldav liides on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes kogu tänapäevane infotöötlus.
 
-API-põhine arhitektuur, nn _API first_ strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government) toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. (Vastandiks API-le) on inimkasutaja liides). 
+API-põhine arhitektuur, nn _API first_ strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government) toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Vastandiks API-le) on inimkasutaja liides. 
 
 ## API elutsükkel
 
-API disainimine ei ole ühekordne tegevus. *_API elutsükli_* moodustavad mitmesugused tegevused, näiteks: 
+API disainimine ei ole ühekordne tegevus. *API elutsükli* moodustavad mitmesugused tegevused, näiteks: 
 
 - API kasutajaskonna kasvatamine (_attract developers_)
 - API dokumenteerimine
@@ -38,22 +53,15 @@ API arendamisel tuleb kõiki neid aspekte adekvaatselt käsitleda.
 
 ## REST API põhimõisted
 
-*_Ressursid_* jagunevad *_lihtressurssideks_* (_simple resource_) ja *_kogumressurssideks_* (_collection resource_).
+*Ressursid* jagunevad *lihtressurssideks* (_simple resource_) ja *kogumressurssideks* (_collection resource_). Ressursil on *olek* (_state_) ja võivad olla *alamressursid* (_sub-resources_).
 
-Ressursil on _*olek*_ (_state_) ja võivad olla *_alamressursid_* (_sub-resources_).
+Ressurssidele rakendatavad *meetodid* jagunevad *standardmeetoditeks* ja *erimeetoditeks*. Standardmeetodid Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`.
 
-Ressurssidele rakendatavad _*meetodid*_ jagunevad _*standardmeetoditeks*_ ja _*erimeetoditeks*_. Standardmeetodid Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`.
+*Ressursinimed*. Igal ressursil peab olema unikaalne nimi. Ressursinimi moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest.
 
-Ressursinimed. Igal ressursil peab olema unikaalne nimi. Ressursinimi moodustub ressursid ID-st, vanemressursside ID-dest ja API teenuse nimest.
+*Ressursi täisnimi* täisnimi sarnaneb URL-le, kuid ei ole viimasega samaväärne. Sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu. Ressursi täisnime kasutamiseks API-s tuleb: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
 
-_*Ressursi täisnimi*_ 
-
-Ressursi täisnimi sarnaneb URL-le, kuid ei ole viimasega samaväärne. Sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu.
-
-Ressursi täisnime kasutamiseks API-s tuleb: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
-
-_*Ressursi suhteline nimi*_ 
-
+Vt ka *ressursi suhteline nimi* 
 
 ## API disaini töövoog
 
@@ -65,31 +73,6 @@ _*Ressursi suhteline nimi*_
 - määrata ressursiskeemid
 - siduda minimaalne hulk meetodeid ressurssidega
 
-
-
-
-## API-de arendamise ja haldamise platvormid
-
-Apiary https://apiary.io/ Oracle (Jan 2017)
-Agigee "Adapt Faster" (Oracle Nov 2016)
-
-
-## APi standardid
-
-API Blueprint https://apiblueprint.org/ 
-
-OpenAPI
-
-
 ## Front- ja backendi vaheline suhtlus
-
-Veebisirvija ja serveri vahel võimalik mitmel viisil:
-
-- HTTP 1.1
-- HTTP/2
-- [WebSocket](https://en.wikipedia.org/wiki/WebSocket), uuem, TCP-põhine, veebisirvija ja -serveri vahel üheaegselt kahes suunas andmeedastust (full-duplex) võimaldav andmevahetusprotokoll.
-
-[Google API Design Guide](https://cloud.google.com/apis/design/)
-
 
 
