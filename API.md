@@ -48,7 +48,7 @@ Käesolev juhis keskendub [REST API](https://spring.io/understanding/REST)-dele.
 
 RIHA-s rakendatakse hajusarhitektuuri. Rakendus jagatakse väikesteks, reeglina ühtainust ülesannet täitvateks, eraldipaigaldatavateks komponentideks, mis suhtlevad üksteisega masinliideste abil. Masinliideste kaudu pakutakse ka võimalikult palju RIHA andmeid väljaspoole. Seetõttu on praktiliselt igal komponendil üks või mitu masinliidest. Samuti kasutab komponent reeglina ühe või mitme teise komponendi liideseid.
 
-## Senine töö 
+## Senine praktika 
 
 RIHA nn koskmudelarenduses (2016) tegeldi masinloetavate vormingute projekteerimisega, sõnastati masinliideste põhimõtteid ja teostati "Andmete kirjeldamise (haldamise) mooduli" masinliides. Tulemused on dokumenteeritud:
 
@@ -62,6 +62,10 @@ Koskmudelarenduses ilmnesid tõsised probleemid liideste dokumenteerimisel ja te
 
 - [RIHA kirjeldusstandard](https://e-gov.github.io/RIHA-Launcher/Kirjeldusstandard)
 - [RIHA "Launchpad"](https://e-gov.github.io/RIHA-Launcher/).
+
+## API-de näiteid
+
+Valideerimisteenuse projektis (2016) loodi ka väike [REST JSON liides](http://open-eid.github.io/SiVa/siva/v2/interfaces/).
 
 ## API elutsükkel
 
@@ -208,7 +212,11 @@ Päringute üldparameetreid võib esitada kahel alternatiivsel moel, kusjuures A
 
 **Kirjelduse täielikkus**. Masinliides tuleb täielikult dokumenteerida. "Discovery-based documentation" (API käitumise väljaselgitamine katse-eksituse teel) ei ole aktsepteeritav.
 
-**Formalismi kasutamine**. Vajalik on formaalne kirjeldus, mis ühtlasi peab olema ka inimloetav. "Vabas vormis" dokumenteerimine on vastuvõetav ainult triviaalsete liideste puhul. REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit:
+**Formalismi kasutamine**. Vajalik on formaalne kirjeldus, mis ühtlasi peab olema ka inimloetav. "Vabas vormis" dokumenteerimine on vastuvõetav ainult triviaalsete liideste puhul. 
+
+Märkus. Formaalne kirjeldamine ei ole eesmärk omaette, vaid vahend kirjelduse täielikkuse ja üheseltmõistetavuse saavutamiseks.
+
+REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit:
 
 - [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification), endise nimega Swagger, kasutab aluskeelena YAML-i või JSON-it.   
 - [API Blueprint](https://apiblueprint.org/) on aluskeelena Markdown-i kasutav API-de kirjelduskeel ("a powerful high-level API description language").
@@ -222,7 +230,9 @@ Eelistatud on OpenAPI kirjelduskeele kasutamine.
 
 **Navigeeritavus**. API kirjeldus peab olema navigeeritav.
 
-**Avalikkus.** API kirjeldus tuleb avalikult publitseerida.
+**Avalikkus**. API kirjeldus tuleb avalikult publitseerida.
+
+**Ajakohasus**. API kirjeldust tuleb hoida ajakohasena. See tähendab, et API käitumine peab vastama kirjeldusele.
 
 ## API-de teostamise tehnoloogiaid
 
