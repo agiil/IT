@@ -22,26 +22,25 @@ Sisukord
 
 ### Käsitlusala
 
-Käesolev juhis reguleerib eelkõige hajus-RIHA komponentide masinliideseid. Juhis võib olla rakendatav ka teiste süsteemide API-de arendamisel. 
+Juhis reguleerib eelkõige hajus-RIHA komponentide API-sid, kuid võib olla rakendatav ka teiste API-de arendamisel. 
 
 ### API mõiste
 
-**Masinliides** e **API** (_application programming interface_) on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes kogu tänapäevane infotöötlus.
-
-*API-põhine arhitektuur*, nn _API first_ strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government) toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Vastandiks API-le) on inimkasutaja liides.
+**Masinliides** e **API** (_application programming interface_) on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes kogu tänapäevane infotöötlus. **API-põhine arhitektuur**, nn **API first** strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government) toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Vastandiks API-le on inimkasutaja liides.
 
 ### API elutsükkel
 
-API disainimine ei ole ühekordne tegevus. *API elutsükli* moodustavad mitmesugused tegevused, näiteks: 
+API disainimine ei ole ühekordne tegevus. **API elutsükli** moodustavad mitmesugused tegevused, näiteks: 
 
 - API kavandamine
 - API projekteerimine
 - API dokumenteerimine
 - API teostamine (programmeerimine)
 - API testimine
-- API haldus (_API governance_)
+- API haldamine
+- API valitsemine (_API governance_)
 - API turvamine
-- API rahakspööramine (_monetize API_)
+- API rahakspööramine (_monetize_)
 - API kasutajaskonna kasvatamine
 - APi kasutuse analüüs (API analüütika)
 
@@ -49,12 +48,12 @@ API arendamisel tuleb kõiki neid aspekte adekvaatselt käsitleda.
 
 ### API disaini standardid
 
-**Google API disainijuhis**, [Google API Design Guide](https://cloud.google.com/apis/design), avaldatud 2017. a veeburaris, on üks parimaid materjale REST API-de disaini vallas. Juhisesse on kogutud Google-is 2014. a alates rakendatud API-de, nii REST kui ka RPC stiililiste, disaininõuded ja -põhimõtted.
+**Google API disainijuhis**, [Google API Design Guide](https://cloud.google.com/apis/design), avaldatud 2017. a veeburaris, on üks parimaid materjale REST API-de disaini vallas. Juhisesse on kogutud Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted. Seejuures on püütud ühtselt käsitleda REST ja RPC teenuseid.
 
 REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, arvestades, et kõik Google nõuded ei ole kohaldatavad.
-{: .takeaway}
+{: .noue}
 
-[APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina.
+[APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea populaarne ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina.
 
 ### API disaini lähteparameetrid
 
@@ -69,8 +68,8 @@ Käesolev juhis keskendub [REST API](https://spring.io/understanding/REST)-dele.
 
 API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud mitmesuguste tööriistade teket. Näiteks REST API testimiseks, sh testimise automatiseerimiseks saab kasutada automaattestimise raamistikku [SoapUI](https://www.soapui.org/). **API-de arendamise ja haldamise platvormid** üritavad pakkuda tööriistade kogumeid ja API elutsükli täistoetust. Tähtsamad API-platvormid on: [Apiary](https://apiary.io/) ja [Agigee](https://apigee.com). API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee ostmine Google poolt (Nov 2016).
 
-API-platvormide kasutamine väikese API-de arvu korral ei ole põhjendatud.
-{: .takeaway} 
+API-platvormi kasutamine väikese API-de arvu korral tõenäoliselt ei ole õigustatud. 
+{: .noue} 
 
 ## RIHA API-d
 
@@ -126,7 +125,7 @@ Vt Google disainijuhis, jaotis [Naming Conventions](https://cloud.google.com/api
 **Ressursi ID** on ressurssi oma vanemressursi kontekstis identifitseeriv URI segment. Nt `ETIS` (RIHAs kirjeldatud infosüsteem ETIS). Peab selgelt dokumenteerima, kas ressursi ID moodustatakse kliendi või serveri poolt.
 
 RIHA koskarenduses väljapakutud nimelahendus (RIHA andmete masinloetavate vormingute spetsifikatsioon v1.4, jaotis "Objektide identifitseerimine URI-de abil") vajab tõsist analüüsi ja ümbertöötamist. Tagasiside kasutajatelt näitab, et keerulisest nimemustrist ei saada aru.
-{: .takeaway}
+{: .noue}
 
 **Kogumressursi ID** (_collection ID_) peab olema mitmuses. Nt `systems` (RIHA-s kirjeldatud infosüsteemide kogum).
 
@@ -159,7 +158,7 @@ Kasutusel on HTTPS (aga mitte näiteks [WebSocket](https://en.wikipedia.org/wiki
 Andmed saadetakse JSON formaadis.
 
 RIHA koskarenduses teostati GET päringu puhul ka CGI `nimi=urlencoded_väärtus` paaridena esitus. Selle otstabrbekus on kaheldav. Tuleb arutada arendajaga.
-{: .takeaway}
+{: .noue}
 
 Päringute üldparameetreid võib esitada kahel alternatiivsel moel, kusjuures API peab ära tundma mõlemad ja kasutus on vaba.
 
@@ -195,7 +194,7 @@ Väliseks kasutuseks mõeldud päringud võivad olla kas piiramata või piiratud
 Eelistatud on JWT ([JSON Web Token](https://jwt.io/)) autentimine. Vt Stankovic (2016), [JWT Authentication Tutorial: An example using Spring Boot](http://www.svlada.com/jwt-token-authentication-with-spring-boot/).
 
 Selgitada, kas JWT kasutamine on jõukohane ja põhjendatud.
-{: .takeaway}
+{: .noue}
 
 ### API versioneerimine
 
@@ -229,7 +228,7 @@ REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit:
 - [API Blueprint](https://apiblueprint.org/) on aluskeelena Markdown-i kasutav API-de kirjelduskeel ("a powerful high-level API description language").
 
 Eelistatud on OpenAPI kirjelduskeele kasutamine.
-{: .takeaway}
+{: .noue}
 
 - [Extended Backus-Naur Form (EBNF)](https://cloud.google.com/apis/design/design_patterns#grammar_syntax) on samuti hea formalism.
 
@@ -253,9 +252,9 @@ REST API-de tegemise vahendeid pakutakse paljudel platvormidel ja raamistikes. M
 
 **Testide katvus**. Testid peavad hõlmama kõiki ressursitüüpe ja kõiki meetodeid.
 
-**Automatiseerimine**. API testid tuleb automatiseerida vähemalt testipatareid käitava skripti tasemel.
+**Automatiseerimine**. API testid tuleb automatiseerida vähemalt testikogumit käitava skripti tasemel.
 
 ### API kasutamise mõõtmine
 
-API kasutamise mõõtmise ja monitooringu võimalused tuleks ette näha juba API projekteerimisel.
+API kasutamise mõõtmise ja monitooringu võimalused tuleb ette näha juba API projekteerimisel.
 
