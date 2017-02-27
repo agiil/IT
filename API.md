@@ -26,11 +26,11 @@ Juhis reguleerib eelkõige hajus-RIHA komponentide API-sid, kuid võib olla rake
 
 ### API mõiste
 
-**Masinliides** e **API** (_application programming interface_) on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes kogu tänapäevane infotöötlus. **API-põhine arhitektuur**, nn **API first** strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government) toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Vastandiks API-le on inimkasutaja liides.
+**API** (_application programming interface_) e **masinliides** on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes suur osa tänapäevasest infotöötlusest. **API-põhine arhitektuur**, nn **API first** strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government), toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Masinloetav API ja inimkasutaja liides toetavad ja täiendavad teineteist.
 
 ### API elutsükkel
 
-API disainimine ei ole ühekordne tegevus. **API elutsükli** moodustavad mitmesugused tegevused, näiteks: 
+API disainimine ei ole ühekordne tegevus. **API elutsükli** moodustavad hulk  tegevusi. Nende seas on: 
 
 - API kavandamine
 - API projekteerimine
@@ -42,15 +42,15 @@ API disainimine ei ole ühekordne tegevus. **API elutsükli** moodustavad mitmes
 - API turvamine
 - API rahakspööramine (_monetize_)
 - API kasutajaskonna kasvatamine
-- APi kasutuse analüüs (API analüütika)
+- APi kasutuse analüüs (API analüütika).
 
 API arendamisel tuleb kõiki neid aspekte adekvaatselt käsitleda.
 
 ### API disaini standardid
 
-**Google API disainijuhis**, [Google API Design Guide](https://cloud.google.com/apis/design), avaldatud 2017. a veeburaris, on üks parimaid materjale REST API-de disaini vallas. Juhisesse on kogutud Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted. Seejuures on püütud ühtselt käsitleda REST ja RPC teenuseid.
+**Google API disainijuhis**, [Google API Design Guide](https://cloud.google.com/apis/design), avaldati 2017. a veeburaris. See on üks parimaid materjale REST API-de disaini vallas. Juhisesse on kogutud Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted. Seejuures on püütud ühtselt käsitleda REST ja RPC teenuseid.
 
-REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, arvestades, et kõik Google nõuded ei ole kohaldatavad.
+REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, kuid arvestada, et kõik Google nõuded ei ole kohaldatavad.
 {: .noue}
 
 [APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea populaarne ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina.
@@ -59,44 +59,47 @@ REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, arv
 
 Disaini mõjutavad liidese kavandatavad kasutusparameetrid:
 
-- kas liides on avaliides või on vaja ligipääsu piirata?
-- kas liides on mõeldud kasutamiseks turvatud sisevõrgus või avalikus internetis? 
+- kas liides on avalik, kõigile vabalt kasutamiseks või on vaja ligipääsu piirata?
+- kas liides on mõeldud kasutamiseks turvatud sisevõrgus või avalikus internetis?
+- kas kasutatakse REST, SOAP või mõnda muud stiili? 
 
 Käesolev juhis keskendub [REST API](https://spring.io/understanding/REST)-dele.
 
 ### API tööriistad
 
-API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud mitmesuguste tööriistade teket. Näiteks REST API testimiseks, sh testimise automatiseerimiseks saab kasutada automaattestimise raamistikku [SoapUI](https://www.soapui.org/). **API-de arendamise ja haldamise platvormid** üritavad pakkuda tööriistade kogumeid ja API elutsükli täistoetust. Tähtsamad API-platvormid on: [Apiary](https://apiary.io/) ja [Agigee](https://apigee.com). API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee ostmine Google poolt (Nov 2016).
+API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud mitmesuguste API tööriistade (redaktorite, avaldamisvahendite, validaatorite) teket. Näiteks REST API testimiseks, sh testimise automatiseerimiseks saab kasutada automaattestimise raamistikku [SoapUI](https://www.soapui.org/).
 
-API-platvormi kasutamine väikese API-de arvu korral tõenäoliselt ei ole õigustatud. 
+**API-de arendamise ja haldamise platvormid** üritavad pakkuda tööriistade kogumeid ja API elutsükli täistoetust. Tähtsamad API-platvormid on: [Apiary](https://apiary.io/) ja [Agigee](https://apigee.com). API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee ostmine Google poolt (Nov 2016).
+
+API-platvormi kasutamine väikese API-de arvu korral tõenäoliselt ei ole õigustatud. Kuid tuleb tajuda, et API arendamine pole ühekordne ettevõtmine, vaid pikemaajaline protsess. 
 {: .noue} 
 
 ## RIHA API-d
 
-RIHA-s rakendatakse hajusarhitektuuri. Rakendus jagatakse väikesteks, reeglina ühtainust ülesannet täitvateks, eraldipaigaldatavateks komponentideks, mis suhtlevad üksteisega masinliideste abil. Masinliideste kaudu pakutakse ka võimalikult palju RIHA andmeid väljaspoole. Seetõttu on praktiliselt igal komponendil üks või mitu masinliidest. Samuti kasutab komponent reeglina ühe või mitme teise komponendi liideseid.
+RIHA-s rakendatakse hajusarhitektuuri. Rakendus jagatakse väikesteks, reeglina ühtainust ülesannet täitvateks, eraldipaigaldatavateks komponentideks, mis suhtlevad üksteisega API-de abil. API-de kaudu pakutakse ka võimalikult palju RIHA andmeid väljaspoole. Seetõttu on praktiliselt igal komponendil üks või mitu API-t. Samuti kasutab komponent reeglina ühe või mitme teise komponendi API-sid.
 
 ### Senine praktika 
 
-RIHA nn koskmudelarenduses (2016) tegeldi masinloetavate vormingute projekteerimisega, sõnastati masinliideste põhimõtteid ja teostati "Andmete kirjeldamise (haldamise) mooduli" masinliides. Tulemused on dokumenteeritud:
+RIHA nn koskmudelarenduses (2016) tegeldi masinloetavate vormingute projekteerimisega, sõnastati API-de põhimõtteid ja teostati "Andmete kirjeldamise (haldamise) mooduli" API. Tulemused on dokumenteeritud:
 
 - RIHA andmete masinloetavate vormingute spetsifikatsioonis v1.4, 09.09.2016
 - RIHA API spetsifikatsioonis, v1.8, 05.01.2017 (ajakohasuse kaotanud)
 - töö "RIHA andmebaasi täiendamine REST liidesega" tulemites (koodis ja dokumentatsioonis).
 
-Koskmudelarenduses ilmnesid tõsised probleemid liideste dokumenteerimisel ja testimisel. Samuti kalduti kõrvale REST põhimõtetest (pöördumine andmebaasitabelite ja kirjete poole, mitte ressursipõhiselt).
+Koskmudelarenduses ilmnesid tõsised probleemid liideste dokumenteerimisel ja testimisel. Samuti kalduti kõrvale REST põhimõtetest (pöördumine andmebaasitabelite ja kirjete, mitte ressursside poole).
 
-[RIHA agiilarenduse prototüübi](https://e-gov.github.io/RIHA-Launcher/) (detsember 2016) arenduse tulemusena valmis RIHA masinliidese formaalne kirjeldus ja teostati 3 mooduli - Kirjeldaja, Avaldaja, Kooskõlastaja - masinliidesed. Vt:
+[RIHA agiilarenduse prototüübi](https://e-gov.github.io/RIHA-Launcher/) (detsember 2016) arenduse tulemusena valmis RIHA API-de formaalne kirjeldus ja teostati kolme mooduli - Kirjeldaja, Avaldaja, Kooskõlastaja - API-d. Vt:
 
 - [RIHA kirjeldusstandard](https://e-gov.github.io/RIHA-Launcher/Kirjeldusstandard)
 - [RIHA "Launchpad"](https://e-gov.github.io/RIHA-Launcher/).
 
 ### Seonduvad dokumendid
 
-- [RIHA tehnoloogiaportfell](https://e-gov.github.io/RIHA-Launcher/Tehnoloogiaportfell)
+- [RIHA tehnoloogiaportfell](https://e-gov.github.io/RIHA-Launcher/Tehnoloogiaportfell).
 
 Vt ka jaotis "Senine töö".
 
-### API-de näiteid
+### API-de näiteid teistest RIA projektidest
 
 Valideerimisteenuse projektis (2016) loodi ka väike [REST JSON liides](http://open-eid.github.io/SiVa/siva/v2/interfaces/).
 
@@ -116,28 +119,30 @@ Vt Google disainijuhis, jaotis [Naming Conventions](https://cloud.google.com/api
 
 **Ressursid** jagunevad **lihtressurssideks** (_simple resource_) ja **kogumressurssideks** (_collection resource_). Ressursil on **olek** (_state_) ja võivad olla **alamressursid** (_sub-resources_).
 
-**Ressursi nimi** moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest (Google käsitlus). Igal ressursil peab olema unikaalne nimi. Nt `systems` (RIHA-s kirjeldatud infosüsteemide kogum) ja `systems\ETIS` (RIHAs kirjeldatud infosüsteem ETIS). 
+**Ressursi nimi** moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest (Google käsitlus). Igal ressursil peab olema unikaalne nimi. Nt: `systems` (RIHA-s kirjeldatud infosüsteemide kogum) ja `systems\ETIS` (RIHAs kirjeldatud infosüsteem ETIS). 
 
-**Ressursi täisnimi** sarnaneb URL-le, kuid ei ole viimasega samaväärne, sest sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu (Google käsitlus). Ressursi täisnimi moodustatakse nii: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
+**Ressursi täisnimi** sarnaneb URL-le, kuid ei ole viimasega samaväärne, sest sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu (Google käsitlus). Ressursi täisnimi moodustatakse järgmiselt: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
 
 **Ressursi suhteline nimi** identifitseerib ressurssi API teenuse kontekstis.
 
-**Ressursi ID** on ressurssi oma vanemressursi kontekstis identifitseeriv URI segment. Nt `ETIS` (RIHAs kirjeldatud infosüsteem ETIS). Peab selgelt dokumenteerima, kas ressursi ID moodustatakse kliendi või serveri poolt.
+**Ressursi ID** on ressurssi oma vanemressursi kontekstis identifitseeriv URI segment. Nt: `ETIS` (RIHAs kirjeldatud infosüsteem ETIS).
 
-RIHA koskarenduses väljapakutud nimelahendus (RIHA andmete masinloetavate vormingute spetsifikatsioon v1.4, jaotis "Objektide identifitseerimine URI-de abil") vajab tõsist analüüsi ja ümbertöötamist. Tagasiside kasutajatelt näitab, et keerulisest nimemustrist ei saada aru.
+Peab selgelt dokumenteerima, kas ressursi ID moodustatakse kliendi või serveri poolt (Google disainijuhend).
+
+RIHA koskarenduses väljapakutud nimelahendus (vt RIHA andmete masinloetavate vormingute spetsifikatsioon v1.4, jaotis "Objektide identifitseerimine URI-de abil") vajab tõsist analüüsi ja ümbertöötamist. Tagasiside kasutajatelt näitab, et keerulisest nimemustrist ei saada aru.
 {: .noue}
 
-**Kogumressursi ID** (_collection ID_) peab olema mitmuses. Nt `systems` (RIHA-s kirjeldatud infosüsteemide kogum).
+**Kogumressursi ID** (_collection ID_) peab olema mitmuses. Nt: `systems` (RIHA-s kirjeldatud infosüsteemide kogum).
 
 Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/design/resource_names). 
 
 ### Meetodid
 
-**Meetodid** rakenduvad ressurssidele ja jagunevad **standardmeetoditeks** ja **erimeetoditeks**. Standardmeetodid Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`. Need esitatakse HTTP meetodite abil järgmiselt:
+**Meetodid** rakenduvad ressurssidele ja jagunevad standardmeetoditeks ja erimeetoditeks. **Standardmeetodid** Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`. Need esitatakse HTTP meetodite abil järgmiselt:
 
 |  Meetod   |  Vastav HTTP meetodimuster         |  HTTP päringu keha |  HTTP vastuse keha | 
 |:---------:|:----------------------------------:|:------------------:|:------------------:| 
-|  `List`   |  `GET <kogumi URL>`            |  tühi              |  ressursside kogum | 
+|  `List`   |  `GET <kogumi URL>`            |  tühi              |  ressursikogum | 
 |  `Get`    |  `GET <ressursi URL>`              |  tühi              |  ressurss          | 
 |  `Create` |  `POST <ressursi URL>`           |  ressurss          |  ressurss          | 
 |  `Update` |  `PUT` või `PATCH <ressursi URL>`|  ressurss          |  ressurss          | 
@@ -145,7 +150,7 @@ Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/de
 
 Nendest reeglitest on erisusi, vt Google disainijuhis, jaotis [Standard Methods](https://cloud.google.com/apis/design/standard_methods).
 
-Erimeetod on selline, mis kaldub kõrvale standardsest REST semantikast. Nt infosüsteemi omaniku vahetus. Kus vähegi võimalik, tuleks kasutada standardmeetodeid. Google disainijuhis, jaotis [Custom Methods](https://cloud.google.com/apis/design/custom_methods) pakub skeemi erimeetodite vormindamiseks (_custom verb_). Selle kasutamise otstarbekus vajab selgitamist.
+**Erimeetod** on selline, mis kaldub kõrvale standardsest REST semantikast. Nt infosüsteemi omaniku vahetus. Kus vähegi võimalik, tuleks kasutada standardmeetodeid. Google disainijuhis, jaotis [Custom Methods](https://cloud.google.com/apis/design/custom_methods) pakub skeemi erimeetodite vormindamiseks (_custom verb_). Selle kasutamise otstarbekus vajab selgitamist.
 
 ### Protokollid
 
@@ -170,7 +175,7 @@ Vt ka Google disainijuhend, jaotis [Sorting Order](https://cloud.google.com/apis
 
 ### Kauakestvad operatsioonid
 
-Kui API meetodi täitmine võtab tüüpiliselt kauem aega, siis võib meetodi projekteerida nii, et tagastatakse callback (Google terminoloogias - _Long Running Operation_), mille abil klient saab jälgida edenemist ja saada lõpptulemuse. Vrdl Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
+Kui API meetodi täitmine võtab tüüpiliselt kauem aega, siis võib meetodi projekteerida nii, et tagastatakse tagasikutse (_callback_, Google terminoloogias - _Long Running Operation_), mille abil klient saab jälgida edenemist ja saada lõpptulemuse. Vrdl Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
 
 ### Andmete väljastamine leheküljeti
 
@@ -178,22 +183,20 @@ Andmete väljastamine leheküljeti tuleks teostada ka väikesemahuliste, kuid ka
 
 ### Päringu samajõulisus
 
-Väga soovitav on teha päringud samajõuliseks (idempotentseteks). See tähendab, et sama päringut saab võrgutõrke korral ilma kahjulike kõrvalmõjudeta uuesti saata. Kui päringut ei saa teha idempotentseks, siis peab iga päringsõnum sisaldama unikaalset *idempotentsus-ID-d*.
-
-Vt:
+Väga soovitav on teha päringud samajõuliseks (idempotentseteks). See tähendab, et sama päringut saab võrgutõrke korral ilma kahjulike kõrvalmõjudeta uuesti saata. Kui päringut ei saa teha idempotentseks, siis peab iga päringsõnum sisaldama unikaalset **idempotentsus-ID-d**. Vt:
 
 - Leach (2017) [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency).
 - Google disainijuhis, jaotis [Request Duplication](https://cloud.google.com/apis/design/design_patterns#sorting_order).
 
 ### API turvamine
 
-Ainult sisekomponentide vahel toimivad API-d piiratakse väliskeskkonnast üldjuhul IP aadressi põhiselt ning piiranguinfot päringus ei edastata.
+Ainult sisekomponentide vahel toimivad API-d piiratakse väliskeskkonnast üldjuhul IP aadressi põhiselt ning piiranguteavet päringus ei edastata.
 
-Väliseks kasutuseks mõeldud päringud võivad olla kas piiramata või piiratud autentimistokeni abil, mis tuleb päringule kaasa panna kas ühe parameetri või HTTP päises oleva väärtusena.
+Väliseks kasutuseks mõeldud päringud võivad olla kas piiramata või piiratud **autentimistokeni** abil, mis tuleb päringule kaasa panna kas ühe parameetri või HTTP päises oleva väärtusena.
 
 Eelistatud on JWT ([JSON Web Token](https://jwt.io/)) autentimine. Vt Stankovic (2016), [JWT Authentication Tutorial: An example using Spring Boot](http://www.svlada.com/jwt-token-authentication-with-spring-boot/).
 
-Selgitada, kas JWT kasutamine on jõukohane ja põhjendatud.
+Selgitada, kas JWT kasutamine on arendajale jõukohane ja äriliselt põhjendatud.
 {: .noue}
 
 ### API versioneerimine
@@ -206,7 +209,7 @@ Vt Google disainijuhis, jaotised [Compatibility](https://cloud.google.com/apis/d
 
 ### API disainimine
 
-[Google API Design Guide](https://cloud.google.com/apis/design/resources) soovitab järgmist tööjärjekorda (_design flow_):
+[Google API Design Guide](https://cloud.google.com/apis/design/resources) soovitab järgmist tööde järjekorda (_design flow_):
 
 - määrata API-s pakutavad ressursitüübid (_resource types_)
 - määrata ressurssidevahelised seosed
@@ -218,14 +221,12 @@ Vt Google disainijuhis, jaotised [Compatibility](https://cloud.google.com/apis/d
 
 **Kirjelduse täielikkus**. Masinliides tuleb täielikult dokumenteerida. "Discovery-based documentation" (API käitumise väljaselgitamine katse-eksituse teel) ei ole aktsepteeritav.
 
-**Formalismi kasutamine**. Vajalik on formaalne kirjeldus, mis ühtlasi peab olema ka inimloetav. "Vabas vormis" dokumenteerimine on vastuvõetav ainult triviaalsete liideste puhul. 
-
-Märkus. Formaalne kirjeldamine ei ole eesmärk omaette, vaid vahend kirjelduse täielikkuse ja üheseltmõistetavuse saavutamiseks.
+**Formalismi kasutamine**. Vajalik on formaalne kirjeldus, mis ühtlasi peab olema ka inimloetav. "Vabas vormis" dokumenteerimine on vastuvõetav ainult triviaalsete liideste puhul. Formaalne kirjeldamine ei ole eesmärk omaette, vaid vahend kirjelduse täielikkuse ja üheseltmõistetavuse saavutamiseks.
 
 REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit:
 
-- [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification), endise nimega Swagger, kasutab aluskeelena YAML-i või JSON-it.   
-- [API Blueprint](https://apiblueprint.org/) on aluskeelena Markdown-i kasutav API-de kirjelduskeel ("a powerful high-level API description language").
+- [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification), endise nimega Swagger, kasutab aluskeelena YAML-i või JSON-it   
+- [API Blueprint](https://apiblueprint.org/) kasutab aluskeelena Markdown-i ("a powerful high-level API description language").
 
 Eelistatud on OpenAPI kirjelduskeele kasutamine.
 {: .noue}
