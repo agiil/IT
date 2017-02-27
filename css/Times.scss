@@ -23,8 +23,7 @@ body {
   max-width: 53rem; /* Teksti loetavuse huvides */
 }
 
-#Tekst { margin-left: 8rem;
-  max-width: 44rem; 
+#Tekst { max-width: 44rem; 
 }
 
 /* Statistikariba */
@@ -83,7 +82,7 @@ blockquote {
 /* Kood; asciiflow joonised */
 pre, code, samp {
   font-family: 'Anonymous Pro', monospace;
-  font-size: 16px;
+  font-size: 16px; color: Red;
   overflow-y: hidden; overflow-x: hidden;
   page-break-inside: avoid; hyphens: none;
   text-transform: none;

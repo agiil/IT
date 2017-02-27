@@ -62,17 +62,27 @@ API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee
 API-platvormide kasutamine väikese API-de arvu korral ei ole põhjendatud.
 {: .takeaway} 
 
-## REST API põhimõisted
+## Ressursid
 
-*Ressursid* jagunevad *lihtressurssideks* (_simple resource_) ja *kogumressurssideks* (_collection resource_). Ressursil on *olek* (_state_) ja võivad olla *alamressursid* (_sub-resources_).
+**Ressursid** jagunevad **lihtressurssideks** (_simple resource_) ja **kogumressurssideks** (_collection resource_). Ressursil on **olek** (_state_) ja võivad olla **alamressursid** (_sub-resources_).
 
-Ressurssidele rakendatavad *meetodid* jagunevad *standardmeetoditeks* ja *erimeetoditeks*. Standardmeetodid Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`.
+## Ressursinimed
 
-*Ressursinimed*. Igal ressursil peab olema unikaalne nimi. Ressursinimi moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest.
+Ressursinimi moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest. Igal ressursil peab olema unikaalne nimi. 
 
-*Ressursi täisnimi* täisnimi sarnaneb URL-le, kuid ei ole viimasega samaväärne. Sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu. Ressursi täisnime kasutamiseks API-s tuleb: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
+*Ressursi täisnimi* täisnimi sarnaneb URL-le, kuid ei ole viimasega samaväärne, sest sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu. Ressursi täisnimi moodustatakse nii: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
 
-Vt ka *ressursi suhteline nimi* 
+**Ressursi suhteline nimi** identifitseerib ressurssi API teenuse kontekstis.
+
+**Ressursi ID** on ressurssi oma vanemressursi kontekstis identifitseeriv URI segment. Peab selgelt dokumenteerima, kas ressursi ID moodustatakse kliendi või serveri poolt.
+
+**Kogumressursi ID** (_collection ID_) peab olema mitmuses.
+
+Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/design/resource_names). 
+
+## Meetodid
+
+**Meetodid** rakenduvad ressurssidele ja jagunevad **standardmeetoditeks** ja **erimeetoditeks**. Standardmeetodid Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`.
 
 ## API disaini töövoog
 
@@ -83,4 +93,14 @@ Vt ka *ressursi suhteline nimi*
 - määrata nimemustrid e -skeemid (_resource name schemes_)
 - määrata ressursiskeemid
 - siduda minimaalne hulk meetodeid ressurssidega
+
+## API turvamine
+
+Eelistatud on JWT ([JSON Web Token](https://jwt.io/)) autentimine. Vt Stankovic (2016), [JWT Authentication Tutorial: An example using Spring Boot](http://www.svlada.com/jwt-token-authentication-with-spring-boot/).
+
+## API versioneerimine
+
+API-s tuleb kasutada [semantilist versioneerimist](http://semver.org/).
+
+Vt Google disainijuhis, jaotis [Versioning](https://cloud.google.com/apis/design/versioning).
 
