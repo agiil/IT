@@ -9,6 +9,9 @@ TL;DR -- Juhis koondab nõudeid ja soovitusi REST API-de projekteerimiseks, test
 # API-de disainijuhis
 {: .no_toc}
 
+## Sisukord
+{: .no_toc}
+
 - TOC
 {:toc}
 
@@ -86,21 +89,18 @@ REST API dokumenteerimine "vabas vormis" on mõeldav ainult väikese API ja kõr
 
 ## API tööriistad
 
-API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud mitmesuguste tööriistade teket. Näiteks REST API testimiseks, sh testimise automatiseerimiseks saab kasutada automaattestimise raamistikku [SoapUI](https://www.soapui.org/).
-
-*API-de arendamise ja haldamise platvormid* üritavad pakkuda tööriistade kogumeid ja API elutsükli täistoetust. Tähtsamad API-platvormid on:
-
-- [Apiary](https://apiary.io/)
-- [Agigee](https://apigee.com).
-
-API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee ostmine Google poolt (Nov 2016).
+API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud mitmesuguste tööriistade teket. Näiteks REST API testimiseks, sh testimise automatiseerimiseks saab kasutada automaattestimise raamistikku [SoapUI](https://www.soapui.org/). **API-de arendamise ja haldamise platvormid** üritavad pakkuda tööriistade kogumeid ja API elutsükli täistoetust. Tähtsamad API-platvormid on: [Apiary](https://apiary.io/) ja [Agigee](https://apigee.com). API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee ostmine Google poolt (Nov 2016).
 
 API-platvormide kasutamine väikese API-de arvu korral ei ole põhjendatud.
 {: .takeaway} 
 
 ## API teenus
 
-**API teenus** Google tõlgenduses on hostinimi, nt `gmail.googleapis.com`.
+**API teenuse nimi** peab olema [RFC1035](https://www.ietf.org/rfc/rfc1035.txt) kohane domeeninimi, mis lahendub üheks või mitmeks võrguaadressiks. Nt `riha.eesti.ee`.
+
+Kui API kujundatakse mitmest teenusest koosnevana, siis peab nimede valik toetama teenuste ülesleitavust. Näiteks `riha.eesti.ee/v1/Producer` ja `riha.eesti.ee/v1/Publisher`.
+
+Mitut teenust saab ka pakkuda sama teenusenime all, esitades need pöördumistees teenuse versiooninumbri järel. Vt Google disainijuhis, jaotis [Naming Conventions](https://cloud.google.com/apis/design/naming_convention#ListFilterField).
 
 ## Ressursid
 
@@ -110,11 +110,14 @@ API-platvormide kasutamine väikese API-de arvu korral ei ole põhjendatud.
 
 Ressursinimi moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest. Igal ressursil peab olema unikaalne nimi. 
 
-*Ressursi täisnimi* täisnimi sarnaneb URL-le, kuid ei ole viimasega samaväärne, sest sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu. Ressursi täisnimi moodustatakse nii: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
+**Ressursi täisnimi** sarnaneb URL-le, kuid ei ole viimasega samaväärne, sest sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu. Ressursi täisnimi moodustatakse nii: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
 
 **Ressursi suhteline nimi** identifitseerib ressurssi API teenuse kontekstis.
 
 **Ressursi ID** on ressurssi oma vanemressursi kontekstis identifitseeriv URI segment. Peab selgelt dokumenteerima, kas ressursi ID moodustatakse kliendi või serveri poolt.
+
+RIHA koskarenduses väljapakutud nimelahendus (RIHA andmete masinloetavate vormingute spetsifikatsioon v1.4, jaotis "Objektide identifitseerimine URI-de abil") vajab tõsist analüüsi ja ümbertöötamist. Tagasiside kasutajatelt näitab, et keerulisest nimemustrist ei saada aru.
+{: .takeaway}
 
 **Kogumressursi ID** (_collection ID_) peab olema mitmuses.
 
@@ -122,7 +125,17 @@ Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/de
 
 ## Meetodid
 
-**Meetodid** rakenduvad ressurssidele ja jagunevad **standardmeetoditeks** ja **erimeetoditeks**. Standardmeetodid Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`.
+**Meetodid** rakenduvad ressurssidele ja jagunevad **standardmeetoditeks** ja **erimeetoditeks**. Standardmeetodid Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`. Need esitatakse HTTP meetodite abil järgmiselt:
+
+! Meetod   ! Vastav HTTP meetodimuster         ! HTTP päringu keha ! HTTP vastuse keha !
+!----------!-----------------------------------!-------------------!-------------------!
+! `List`   ! `GET <collection URL>`            ! tühi              ! ressursside kogum !
+! `Get`    ! `GET <resource URL>`              ! tühi              ! ressurss          !
+! `Create` ! `POST <collection URL>`           ! ressurss          ! ressurss          !
+! `Update` ! `PUT` või `PATCH <collection URL>`! ressurss          ! ressurss          !
+! `Delete` ! `DELETE <collection URL>`         ! tühi              ! tühi              !
+
+Nendest reeglitest on erisusi, vt Google disainijuhis, jaotis [Standard Methods](https://cloud.google.com/apis/design/standard_methods).
 
 ## API disaini töövoog
 
@@ -136,11 +149,36 @@ Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/de
 
 ## API turvamine
 
+Ainult sisekomponentide vahel toimivad API-d piiratakse väliskeskkonnast üldjuhul IP aadressi põhiselt ning piiranguinfot päringus ei edastata.
+
+Väliseks kasutuseks mõeldud päringud võivad olla kas piiramata või piiratud autentimistokeni abil, mis tuleb päringule kaasa panna kas ühe parameetri või HTTP päises oleva väärtusena.
+
 Eelistatud on JWT ([JSON Web Token](https://jwt.io/)) autentimine. Vt Stankovic (2016), [JWT Authentication Tutorial: An example using Spring Boot](http://www.svlada.com/jwt-token-authentication-with-spring-boot/).
+
+Selgitada, kas JWT kasutamine on jõukohane ja põhjendatud.
+{: .takeaway}
 
 ## API versioneerimine
 
 API-s tuleb kasutada [semantilist versioneerimist](http://semver.org/).
 
 Vt Google disainijuhis, jaotised [Compatibility](https://cloud.google.com/apis/design/compatibility) ja [Versioning](https://cloud.google.com/apis/design/versioning).
+
+## Kauakestvad operatsioonid
+
+Kui API meetodi täitmine võtab tüüpiliselt kauem aega, siis võib meetodi projekteerida nii, et tagastatakse callback (Google terminoloogias - _Long Running Operation_), mille abil klient saab jälgida edenemist ja saada lõpptulemuse. Vrdl Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
+
+## Tulemuse andmine lehekülgedena
+
+Google soovitus on "listable collections should support pagination, even if results are typically small." Vt Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
+
+## Protokollid
+
+Kasutusel on HTTPS (aga mitte näiteks [WebSocket](https://en.wikipedia.org/wiki/WebSocket), uuem, TCP-põhine, veebisirvija ja -serveri vahel üheaegselt kahes suunas andmeedastust (full-duplex) võimaldav andmevahetusprotokoll).
+
+## Päringu moodustamine
+
+Saadetud andmeid kodeeritakse reeglina JSON formaadis, erandina GET päringute puhul aga CGI `nimi=urlencoded_väärtus` paaridena.
+
+Päringute üldparameetreid võib esitada kahel alternatiivsel moel, kusjuures API peab ära tundma mõlemad ja kasutus on vaba.
 

@@ -37,7 +37,8 @@ h1 { font-size: 130%;
   font-family: 'Roboto', sans-serif; 
   margin-top: 1em; }
 
-h2 { font-weight: bold; font-size: 100%; 
+h2 { font-family: 'Roboto', sans-serif;
+  font-weight: bold; font-size: 100%; color: $bluegrey100;
   margin: 1em 0 1em 0; }    
 
 /* Tekstiparagrahv */
