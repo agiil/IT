@@ -98,17 +98,17 @@ API-platvormide kasutamine väikese API-de arvu korral ei ole põhjendatud.
 
 **API teenuse nimi** peab olema [RFC1035](https://www.ietf.org/rfc/rfc1035.txt) kohane domeeninimi, mis lahendub üheks või mitmeks võrguaadressiks. Nt `riha.eesti.ee`.
 
-Kui API kujundatakse mitmest teenusest koosnevana, siis peab nimede valik toetama teenuste ülesleitavust. Näiteks `riha.eesti.ee/v1/Producer` ja `riha.eesti.ee/v1/Publisher`.
+Kui API kujundatakse mitmest teenusest koosnevana, siis peab nimede valik toetama teenuste ülesleitavust.
 
-Mitut teenust saab ka pakkuda sama teenusenime all, esitades need pöördumistees teenuse versiooninumbri järel. Vt Google disainijuhis, jaotis [Naming Conventions](https://cloud.google.com/apis/design/naming_convention#ListFilterField).
+Mitut teenust saab ka pakkuda sama teenusenime all, esitades need pöördumistees teenuse versiooninumbri järel. Nt `riha.eesti.ee/v1/Producer` ja `riha.eesti.ee/v1/Publisher`.
+
+Vt Google disainijuhis, jaotis [Naming Conventions](https://cloud.google.com/apis/design/naming_convention#ListFilterField).
 
 ## Ressursid
 
 **Ressursid** jagunevad **lihtressurssideks** (_simple resource_) ja **kogumressurssideks** (_collection resource_). Ressursil on **olek** (_state_) ja võivad olla **alamressursid** (_sub-resources_).
 
-## Ressursinimed
-
-Ressursinimi moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest. Igal ressursil peab olema unikaalne nimi. 
+**Ressursi nimi** moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest (Google käsitlus). Igal ressursil peab olema unikaalne nimi. Nt `systems` (RIHA-s kirjeldatud infosüsteemide kogum) ja `systems\ETIS` (RIHAs kirjeldatud infosüsteem ETIS). 
 
 **Ressursi täisnimi** sarnaneb URL-le, kuid ei ole viimasega samaväärne, sest sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu. Ressursi täisnimi moodustatakse nii: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
 
