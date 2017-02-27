@@ -23,49 +23,11 @@ koostas: Priit Parmakson
 
 Käesolev juhis reguleerib eelkõige hajus-RIHA komponentide masinliideseid. Juhis võib olla rakendatav ka teiste süsteemide API-de arendamisel. 
 
-## Seonduvad dokumendid
-
-- [RIHA tehnoloogiaportfell](https://e-gov.github.io/RIHA-Launcher/Tehnoloogiaportfell)
-
-Vt ka jaotis "Senine töö".
-
-## Masinliidese mõiste
+## API mõiste
 
 **Masinliides** e **API** (_application programming interface_) on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes kogu tänapäevane infotöötlus.
 
 *API-põhine arhitektuur*, nn _API first_ strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government) toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Vastandiks API-le) on inimkasutaja liides.
-
-## Liideste liigid
-
-Disaini mõjutavad liidese kavandatavad kasutusparameetrid:
-
-- kas liides on avaliides või on vaja ligipääsu piirata?
-- kas liides on mõeldud kasutamiseks turvatud sisevõrgus või avalikus internetis? 
-
-Käesolev juhis keskendub [REST API](https://spring.io/understanding/REST)-dele.
-
-## RIHA masinliidesed
-
-RIHA-s rakendatakse hajusarhitektuuri. Rakendus jagatakse väikesteks, reeglina ühtainust ülesannet täitvateks, eraldipaigaldatavateks komponentideks, mis suhtlevad üksteisega masinliideste abil. Masinliideste kaudu pakutakse ka võimalikult palju RIHA andmeid väljaspoole. Seetõttu on praktiliselt igal komponendil üks või mitu masinliidest. Samuti kasutab komponent reeglina ühe või mitme teise komponendi liideseid.
-
-## Senine praktika 
-
-RIHA nn koskmudelarenduses (2016) tegeldi masinloetavate vormingute projekteerimisega, sõnastati masinliideste põhimõtteid ja teostati "Andmete kirjeldamise (haldamise) mooduli" masinliides. Tulemused on dokumenteeritud:
-
-- RIHA andmete masinloetavate vormingute spetsifikatsioonis v1.4, 09.09.2016
-- RIHA API spetsifikatsioonis, v1.8, 05.01.2017 (ajakohasuse kaotanud)
-- töö "RIHA andmebaasi täiendamine REST liidesega" tulemites (koodis ja dokumentatsioonis).
-
-Koskmudelarenduses ilmnesid tõsised probleemid liideste dokumenteerimisel ja testimisel. Samuti kalduti kõrvale REST põhimõtetest (pöördumine andmebaasitabelite ja kirjete poole, mitte ressursipõhiselt).
-
-[RIHA agiilarenduse prototüübi](https://e-gov.github.io/RIHA-Launcher/) (detsember 2016) arenduse tulemusena valmis RIHA masinliidese formaalne kirjeldus ja teostati 3 mooduli - Kirjeldaja, Avaldaja, Kooskõlastaja - masinliidesed. Vt:
-
-- [RIHA kirjeldusstandard](https://e-gov.github.io/RIHA-Launcher/Kirjeldusstandard)
-- [RIHA "Launchpad"](https://e-gov.github.io/RIHA-Launcher/).
-
-## API-de näiteid
-
-Valideerimisteenuse projektis (2016) loodi ka väike [REST JSON liides](http://open-eid.github.io/SiVa/siva/v2/interfaces/).
 
 ## API elutsükkel
 
@@ -93,12 +55,52 @@ REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, arv
 
 [APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina.
 
+## API disaini lähteparameetrid
+
+Disaini mõjutavad liidese kavandatavad kasutusparameetrid:
+
+- kas liides on avaliides või on vaja ligipääsu piirata?
+- kas liides on mõeldud kasutamiseks turvatud sisevõrgus või avalikus internetis? 
+
+Käesolev juhis keskendub [REST API](https://spring.io/understanding/REST)-dele.
+
 ## API tööriistad
 
 API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud mitmesuguste tööriistade teket. Näiteks REST API testimiseks, sh testimise automatiseerimiseks saab kasutada automaattestimise raamistikku [SoapUI](https://www.soapui.org/). **API-de arendamise ja haldamise platvormid** üritavad pakkuda tööriistade kogumeid ja API elutsükli täistoetust. Tähtsamad API-platvormid on: [Apiary](https://apiary.io/) ja [Agigee](https://apigee.com). API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee ostmine Google poolt (Nov 2016).
 
 API-platvormide kasutamine väikese API-de arvu korral ei ole põhjendatud.
 {: .takeaway} 
+
+# RIHA masinliidesed
+
+RIHA-s rakendatakse hajusarhitektuuri. Rakendus jagatakse väikesteks, reeglina ühtainust ülesannet täitvateks, eraldipaigaldatavateks komponentideks, mis suhtlevad üksteisega masinliideste abil. Masinliideste kaudu pakutakse ka võimalikult palju RIHA andmeid väljaspoole. Seetõttu on praktiliselt igal komponendil üks või mitu masinliidest. Samuti kasutab komponent reeglina ühe või mitme teise komponendi liideseid.
+
+## Senine praktika 
+
+RIHA nn koskmudelarenduses (2016) tegeldi masinloetavate vormingute projekteerimisega, sõnastati masinliideste põhimõtteid ja teostati "Andmete kirjeldamise (haldamise) mooduli" masinliides. Tulemused on dokumenteeritud:
+
+- RIHA andmete masinloetavate vormingute spetsifikatsioonis v1.4, 09.09.2016
+- RIHA API spetsifikatsioonis, v1.8, 05.01.2017 (ajakohasuse kaotanud)
+- töö "RIHA andmebaasi täiendamine REST liidesega" tulemites (koodis ja dokumentatsioonis).
+
+Koskmudelarenduses ilmnesid tõsised probleemid liideste dokumenteerimisel ja testimisel. Samuti kalduti kõrvale REST põhimõtetest (pöördumine andmebaasitabelite ja kirjete poole, mitte ressursipõhiselt).
+
+[RIHA agiilarenduse prototüübi](https://e-gov.github.io/RIHA-Launcher/) (detsember 2016) arenduse tulemusena valmis RIHA masinliidese formaalne kirjeldus ja teostati 3 mooduli - Kirjeldaja, Avaldaja, Kooskõlastaja - masinliidesed. Vt:
+
+- [RIHA kirjeldusstandard](https://e-gov.github.io/RIHA-Launcher/Kirjeldusstandard)
+- [RIHA "Launchpad"](https://e-gov.github.io/RIHA-Launcher/).
+
+## Seonduvad dokumendid
+
+- [RIHA tehnoloogiaportfell](https://e-gov.github.io/RIHA-Launcher/Tehnoloogiaportfell)
+
+Vt ka jaotis "Senine töö".
+
+## API-de näiteid
+
+Valideerimisteenuse projektis (2016) loodi ka väike [REST JSON liides](http://open-eid.github.io/SiVa/siva/v2/interfaces/).
+
+# API elemendid
 
 ## API teenus
 
@@ -145,15 +147,43 @@ Nendest reeglitest on erisusi, vt Google disainijuhis, jaotis [Standard Methods]
 
 Erimeetod on selline, mis kaldub kõrvale standardsest REST semantikast. Nt infosüsteemi omaniku vahetus. Kus vähegi võimalik, tuleks kasutada standardmeetodeid. Google disainijuhis, jaotis [Custom Methods](https://cloud.google.com/apis/design/custom_methods) pakub skeemi erimeetodite vormindamiseks (_custom verb_). Selle kasutamise otstarbekus vajab selgitamist.
 
-## API disaini töövoog
+## Protokollid
 
-[Google API Design Guide](https://cloud.google.com/apis/design/resources) soovitab järgmist tööjärjekorda (_design flow_):
+Kasutusel on HTTPS (aga mitte näiteks [WebSocket](https://en.wikipedia.org/wiki/WebSocket), uuem, TCP-põhine, veebisirvija ja -serveri vahel üheaegselt kahes suunas andmeedastust (full-duplex) võimaldav andmevahetusprotokoll).
 
-- määrata API-s pakutavad ressursitüübid (_resource types_)
-- määrata ressurssidevahelised seosed
-- määrata nimemustrid e -skeemid (_resource name schemes_)
-- määrata ressursiskeemid
-- siduda minimaalne hulk meetodeid ressurssidega
+## Disainimustrid
+
+## Päringu moodustamine
+
+Andmed saadetakse JSON formaadis.
+
+RIHA koskarenduses teostati GET päringu puhul ka CGI `nimi=urlencoded_väärtus` paaridena esitus. Selle otstabrbekus on kaheldav. Tuleb arutada arendajaga.
+{: .takeaway}
+
+Päringute üldparameetreid võib esitada kahel alternatiivsel moel, kusjuures API peab ära tundma mõlemad ja kasutus on vaba.
+
+### Filtreerimine ja sortimine
+
+Kui API pakub tulemuste nimekirja filtreerimist või sortimist, siis võiks järgida SQL süntaksit.
+
+Vt ka Google disainijuhend, jaotis [Sorting Order](https://cloud.google.com/apis/design/design_patterns#sorting_order) ja RIHA API spetsifikatsioon, jaotised "filter" ja "sort".
+
+### Kauakestvad operatsioonid
+
+Kui API meetodi täitmine võtab tüüpiliselt kauem aega, siis võib meetodi projekteerida nii, et tagastatakse callback (Google terminoloogias - _Long Running Operation_), mille abil klient saab jälgida edenemist ja saada lõpptulemuse. Vrdl Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
+
+### Andmete väljastamine leheküljeti
+
+Andmete väljastamine leheküljeti tuleks teostada ka väikesemahuliste, kuid kasvada võivate ressursikogumite puhul. Google soovitus on "listable collections should support pagination, even if results are typically small." Vt Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
+
+### Päringu samajõulisus
+
+Väga soovitav on teha päringud samajõuliseks (idempotentseteks). See tähendab, et sama päringut saab võrgutõrke korral ilma kahjulike kõrvalmõjudeta uuesti saata. Kui päringut ei saa teha idempotentseks, siis peab iga päringsõnum sisaldama unikaalset *idempotentsus-ID-d*.
+
+Vt:
+
+- Leach (2017) [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency).
+- Google disainijuhis, jaotis [Request Duplication](https://cloud.google.com/apis/design/design_patterns#sorting_order).
 
 ## API turvamine
 
@@ -172,43 +202,19 @@ API-s tuleb kasutada [semantilist versioneerimist](http://semver.org/).
 
 Vt Google disainijuhis, jaotised [Compatibility](https://cloud.google.com/apis/design/compatibility) ja [Versioning](https://cloud.google.com/apis/design/versioning).
 
-## Kauakestvad operatsioonid
+## Elutsükli toimingud
 
-Kui API meetodi täitmine võtab tüüpiliselt kauem aega, siis võib meetodi projekteerida nii, et tagastatakse callback (Google terminoloogias - _Long Running Operation_), mille abil klient saab jälgida edenemist ja saada lõpptulemuse. Vrdl Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
+### API disainimine
 
-## Andmete väljastamine leheküljeti
+[Google API Design Guide](https://cloud.google.com/apis/design/resources) soovitab järgmist tööjärjekorda (_design flow_):
 
-Andmete väljastamine leheküljeti tuleks teostada ka väikesemahuliste, kuid kasvada võivate ressursikogumite puhul. Google soovitus on "listable collections should support pagination, even if results are typically small." Vt Google disainijuhend, jaotis [Common Design Patterns](https://cloud.google.com/apis/design/design_patterns).
+- määrata API-s pakutavad ressursitüübid (_resource types_)
+- määrata ressurssidevahelised seosed
+- määrata nimemustrid e -skeemid (_resource name schemes_)
+- määrata ressursiskeemid
+- siduda minimaalne hulk meetodeid ressurssidega.
 
-## Filtreerimine ja sortimine
-
-Kui API pakub tulemuste nimekirja filtreerimist või sortimist, siis võiks järgida SQL süntaksit.
-
-Vt ka Google disainijuhend, jaotis [Sorting Order](https://cloud.google.com/apis/design/design_patterns#sorting_order) ja RIHA API spetsifikatsioon, jaotised "filter" ja "sort".
-
-# Päringu samajõulisus
-
-Väga soovitav on teha päringud samajõuliseks (idempotentseteks). See tähendab, et sama päringut saab võrgutõrke korral ilma kahjulike kõrvalmõjudeta uuesti saata. Kui päringut ei saa teha idempotentseks, siis peab iga päringsõnum sisaldama unikaalset *idempotentsus-ID-d*.
-
-Vt:
-
-- Leach (2017) [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency).
-- Google disainijuhis, jaotis [Request Duplication](https://cloud.google.com/apis/design/design_patterns#sorting_order).
-
-## Protokollid
-
-Kasutusel on HTTPS (aga mitte näiteks [WebSocket](https://en.wikipedia.org/wiki/WebSocket), uuem, TCP-põhine, veebisirvija ja -serveri vahel üheaegselt kahes suunas andmeedastust (full-duplex) võimaldav andmevahetusprotokoll).
-
-## Päringu moodustamine
-
-Andmed saadetakse JSON formaadis.
-
-RIHA koskarenduses teostati GET päringu puhul ka CGI `nimi=urlencoded_väärtus` paaridena esitus. Selle otstabrbekus on kaheldav. Tuleb arutada arendajaga.
-{: .takeaway}
-
-Päringute üldparameetreid võib esitada kahel alternatiivsel moel, kusjuures API peab ära tundma mõlemad ja kasutus on vaba.
-
-## API spetsifitseerimine
+### API spetsifitseerimine
 
 **Kirjelduse täielikkus**. Masinliides tuleb täielikult dokumenteerida. "Discovery-based documentation" (API käitumise väljaselgitamine katse-eksituse teel) ei ole aktsepteeritav.
 
@@ -234,7 +240,7 @@ Eelistatud on OpenAPI kirjelduskeele kasutamine.
 
 **Ajakohasus**. API kirjeldust tuleb hoida ajakohasena. See tähendab, et API käitumine peab vastama kirjeldusele.
 
-## API-de teostamise tehnoloogiaid
+### API tarkvaraline teostamine
 
 REST API-de tegemise vahendeid pakutakse paljudel platvormidel ja raamistikes. Mõnda platvormi on API-d vaikimisi sisse ehitatud. Nt:
 
@@ -242,9 +248,13 @@ REST API-de tegemise vahendeid pakutakse paljudel platvormidel ja raamistikes. M
 - [PostgreSQL Restful API](https://www.postgresql.org/about/news/1616/)
 - [Google Apps Script](https://trevorfox.com/2015/03/rest-api-with-google-apps-script/) 
 
-## API testimine
+### API testimine
 
 **Testide katvus**. Testid peavad hõlmama kõiki ressursitüüpe ja kõiki meetodeid.
 
 **Automatiseerimine**. API testid tuleb automatiseerida vähemalt testipatareid käitava skripti tasemel.
+
+### API kasutamise mõõtmine
+
+API kasutamise mõõtmise ja monitooringu võimalused tuleks ette näha juba API projekteerimisel.
 
