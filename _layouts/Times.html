@@ -20,7 +20,7 @@
   <body onload='init()'>
     <p style='margin-bottom: 2em;'>
 
-      <span style='margin-left: 4em; '>
+      <span>
         {% capture words %}
           {{ page.content | number_of_words | minus: 50 }}
         {% endcapture %}

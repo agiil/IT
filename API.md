@@ -4,37 +4,73 @@ title: API
 permalink: API
 ---
 
-# API disainijuhis
+TL;DR -- Juhis koondab nõudeid ja soovitusi REST API-de projekteerimiseks, testimiseks ja dokumenteerimiseks.
+
+# API-de disainijuhis
 {: .no_toc}
 
 - TOC
 {:toc}
 
-## API mõiste
+## Käsitlusala
 
-*API e masintöödeldav liides*  on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes kogu tänapäevane infotöötlus.
+Käesolev juhis on on mõeldud reguleerima hajus-RIHA komponentide masinliideseid.
+
+Juhis võib olla rakendatav ka teiste süsteemide API-de arendamisel. 
+
+## Seonduvad dokumendid
+
+- [RIHA tehnoloogiaportfell](https://e-gov.github.io/RIHA-Launcher/Tehnoloogiaportfell)
+
+Vt ka jaotis "Senine töö".
+
+## Masinliidese mõiste
+
+**Masinliides** e **API** (_application programming interface_) on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes kogu tänapäevane infotöötlus.
 
 *API-põhine arhitektuur*, nn _API first_ strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government) toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Vastandiks API-le) on inimkasutaja liides.
 
 Käesolev juhis keskendub [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer)-dele.
 
+## RIHA masinliidesed
+
+RIHA-s rakendatakse hajusarhitektuuri. Rakendus jagatakse väikesteks, reeglina ühtainust ülesannet täitvateks, eraldipaigaldatavateks komponentideks, mis suhtlevad üksteisega masinliideste abil. Masinliideste kaudu pakutakse ka võimalikult palju RIHA andmeid väljaspoole. Seetõttu on praktiliselt igal komponendil üks või mitu masinliidest. Samuti kasutab komponent reeglina ühe või mitme teise komponendi liideseid.
+
+## Senine töö 
+
+RIHA nn koskmudelarenduses (2016) tegeldi masinloetavate vormingute projekteerimisega, sõnastati masinliideste põhimõtteid ja teostati "Andmete kirjeldamise (haldamise) mooduli" masinliides. Tulemused on dokumenteeritud:
+
+- RIHA andmete masinloetavate vormingute spetsifikatsioonis v1.4, 09.09.2016
+- RIHA API spetsifikatsioonis, v1.8, 05.01.2017 (ajakohasuse kaotanud)
+- töö "RIHA andmebaasi täiendamine REST liidesega" tulemites (koodis ja dokumentatsioonis).
+
+Koskmudelarenduses ilmnesid tõsised probleemid liideste dokumenteerimisel ja testimisel.
+
+[RIHA agiilarenduse prototüübi](https://e-gov.github.io/RIHA-Launcher/) (detsember 2016) arenduse tulemusena valmis RIHA masinliidese formaalne kirjeldus ja teostati 3 mooduli - Kirjeldaja, Avaldaja, Kooskõlastaja - masinliidesed. Vt:
+
+- [RIHA kirjeldusstandard](https://e-gov.github.io/RIHA-Launcher/Kirjeldusstandard)
+- [RIHA "Launchpad"](https://e-gov.github.io/RIHA-Launcher/).
+
 ## API elutsükkel
 
 API disainimine ei ole ühekordne tegevus. *API elutsükli* moodustavad mitmesugused tegevused, näiteks: 
 
-- API kasutajaskonna kasvatamine (_attract developers_)
+- API kavandamine
+- API projekteerimine
 - API dokumenteerimine
+- API teostamine (programmeerimine)
 - API testimine
 - API haldus (_API governance_)
-- API turvamine (_secure API_)
+- API turvamine
 - API rahakspööramine (_monetize API_)
+- API kasutajaskonna kasvatamine
 - APi kasutuse analüüs (API analüütika)
 
 API arendamisel tuleb kõiki neid aspekte adekvaatselt käsitleda.
 
 ## API disaini standardid
 
-Google API disainijuhis, [Google API Design Guide](https://cloud.google.com/apis/design), avaldatud 2017. a veeburaris, on üks parimaid REST API-de kujundamise juhiseid. Selles esitatakse Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted. Käesolev juhis põhineb Google API disainijuhise REST API-sid käsitlevale osale.
+**Google API disainijuhis**, [Google API Design Guide](https://cloud.google.com/apis/design), avaldatud 2017. a veeburaris, on üks parimaid REST API-de kujundamise juhiseid. Selles esitatakse Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted.
 
 REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, arvestades, et kõik Google nõuded ei ole kohaldatavad.
 {: .takeaway}
@@ -61,6 +97,10 @@ API-platvormide arengut näitab Apiary ostmine Oracle poolt (Jan 2017) ja Apigee
 
 API-platvormide kasutamine väikese API-de arvu korral ei ole põhjendatud.
 {: .takeaway} 
+
+## API teenus
+
+**API teenus** Google tõlgenduses on hostinimi, nt `gmail.googleapis.com`.
 
 ## Ressursid
 
@@ -102,5 +142,5 @@ Eelistatud on JWT ([JSON Web Token](https://jwt.io/)) autentimine. Vt Stankovic 
 
 API-s tuleb kasutada [semantilist versioneerimist](http://semver.org/).
 
-Vt Google disainijuhis, jaotis [Versioning](https://cloud.google.com/apis/design/versioning).
+Vt Google disainijuhis, jaotised [Compatibility](https://cloud.google.com/apis/design/compatibility) ja [Versioning](https://cloud.google.com/apis/design/versioning).
 
