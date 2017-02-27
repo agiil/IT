@@ -1,0 +1,123 @@
+---
+---
+
+/* ---- Keha -------- */
+body {
+  max-width: 50em; margin: 0 0; 
+  padding: 0.6em 1.5em 2em 1em; 
+  line-height: 1.2;
+  font-family: 'Times New Roman', serif; 
+  color: #333;
+  font-size: 12pt; 
+  }
+
+/* ---- Paigutus ---- */
+#Container { display: flex; max-width: 40em; }
+
+#Avatekst {
+  flex-grow: 1; margin-left: 2rem;
+  max-width: 53rem; /* Teksti loetavuse huvides */
+}
+
+#Tekst { margin-left: 8rem;
+  max-width: 44rem; 
+}
+
+/* Statistikariba */
+.statistika { font-family: 'Roboto', sans-serif;
+  font-size: 13pt; margin-bottom: 8px; }
+
+/* Jaotisepealkiri */
+h1 { font-size: 130%;
+  line-height: 1.2;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif; 
+  margin-top: 1em; }
+
+h2 { font-weight: bold; font-size: 100%; 
+  margin: 1em 0 1em 0; }    
+
+/* Tekstiparagrahv */
+p { margin: 0 0 1em 0; }
+
+/* Loetelud */
+#Tekst ul { list-style: none; margin: 0 0 1em 0;
+    padding-left: 1em; }
+#Tekst ul > li:before { display: inline-block;
+    content: "-"; width: 1em; margin-left: -1em; }
+
+/* Tabelid */
+table { table-layout: fixed;
+    width: 100%; margin: 0 4em 2em 0; }
+table { border-collapse: collapse; }
+table, th, td { border: 1px solid black; }
+
+.ei, .jah { text-align: center; }
+.ei { color: White; background-color: #D1F3D1; } /* Doodle */
+.jah { background-color: #FFCCCA; } /* Doodle */
+
+/* Tekst */
+.disabled { color:#000000; opacity:0.38; }
+.s { font-size: 10pt; }
+
+/* TOC genereeritud */
+#markdown-toc > li {
+  list-style: none;
+}
+
+/* Allkriipsutus */
+.u { text-decoration: underline; }
+
+/* Plokktsitaat */
+blockquote { 
+  font-style: italic; 
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 16px;
+  margin-left: 0;
+}
+
+/* Kood; asciiflow joonised */
+pre, code, samp {
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 16px;
+  overflow-y: hidden; overflow-x: hidden;
+  page-break-inside: avoid; hyphens: none;
+  text-transform: none;
+}
+pre code,
+code code {
+  font-size: 100%;
+}
+pre { margin-top: 1em; margin-bottom: 1em; }
+
+/* Lingid */
+a[href] {
+  color: $mutedblue;
+  text-decoration: none;
+  border-bottom: 1px solid $mutedblue;
+  padding: 0 1px 0;
+  margin: 0 -1px 0;
+}
+a:visited {
+  border-bottom-color: $mutedblue;
+}
+
+a[href]:focus,
+a[href]:hover {
+  background: $mutedblue;
+  background: rgba(75%, 75%, 75%, .25);
+  border-bottom-width: 3px;
+  margin-bottom: -2px;
+}
+a[href]:active {
+  color: #C00;
+  border-color: #C00;
+}
+
+/* Definitsiooniloetelud */
+dt { font-weight: bold; }
+dd { margin-left: 4em; }
+
+/* Material design ikoonid */
+.ikoon { color: $grey700; font-size: 48px !important; }
+

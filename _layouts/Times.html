@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Material Design icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+        rel="stylesheet">
+
+    <!-- Fonts -->    
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
+    
+    <!-- JQuery -->
+    <script src="https://code.jquery.com/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/Times.css">
+    <script src='{{ site.baseurl }}/js/Utils.js'></script>
+
+  </head>
+  <body onload='init()'>
+    <p style='margin-bottom: 2em;'>
+      <a href='{{ site.baseurl }}'>
+        Infotehnoloogia ettevõtjale</a>
+
+      <span style='margin-left: 4em; '>
+        {% capture words %}
+          {{ page.content | number_of_words | minus: 50 }}
+        {% endcapture %}
+        {% unless words contains "-" %}
+          {{ words | plus: 50 | append: " sõna" }}
+        {% endunless %}
+      </span>
+      <!-- https://sacha.me/articles/jekyll-word-counts/#summing-it-up -->
+
+    </p>  
+
+    <div id='Tekst'>
+      {{ content }}
+    </div>
+
+    <!-- Footer -->
+    <div style='margin-top: 4rem;'>
+     &nbsp;
+    </div>
+  </body>
+</html>
+
+
