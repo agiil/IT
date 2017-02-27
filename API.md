@@ -4,7 +4,7 @@ title: API
 permalink: API
 ---
 
-TL;DR -- Juhis koondab nõudeid ja soovitusi REST API-de projekteerimiseks, testimiseks ja dokumenteerimiseks.
+TL;DR -- Nõudeid ja soovitusi REST API-de projekteerimiseks, testimiseks ja dokumenteerimiseks.
 
 # API-de disainijuhis
 {: .no_toc}
