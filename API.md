@@ -199,6 +199,10 @@ Eelistatud on JWT ([JSON Web Token](https://jwt.io/)) autentimine. Vt Stankovic 
 Selgitada, kas JWT kasutamine on arendajale jõukohane ja äriliselt põhjendatud.
 {: .noue}
 
+RIHA nn koskmudelarenduses (2016) loodud lahenduse põhimõtteskeem:
+
+![](img/KoskmudeliAPI.PNG)
+
 ### API versioneerimine
 
 API-s tuleb kasutada [semantilist versioneerimist](http://semver.org/).
