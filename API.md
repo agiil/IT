@@ -9,9 +9,18 @@ TL;DR -- Nõuded ja soovitused REST API-de projekteerimiseks, testimiseks ja dok
 # API-de disaini juhis
 {: .no_toc}
 
-v0.1 27.02.2017
+
+v0.2 06.03.2017 (algversioon 27.02.2017)
 
 koostanud Priit Parmakson
+
+arvamused ja ettepanekud palume saata: priit.parmakson@ria.ee
+
+## Viimati muudetud
+
+- Lisatud viide Amazoni API-de juhendile 
+- Lisatud põhimõte, et API-d tuleb kaitsta TLS-ga, ka sisevõrgus.
+- Lisatud viide "Rebaseregistri" etalonarhitektuurile.
 
 Sisukord
 
@@ -27,6 +36,8 @@ Juhis reguleerib eelkõige hajus-RIHA komponentide API-sid, kuid võib olla rake
 ### API mõiste
 
 **API** (_application programming interface_) e **masinliides** on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes suur osa tänapäevasest infotöötlusest. **API-põhine arhitektuur**, nn **API first** strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government), toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Masinloetav API ja inimkasutaja liides toetavad ja täiendavad teineteist.
+
+Vt ka Kütt, A (2016) [Reference Architecture for Cloud-Ready Government Systems](https://github.com/e-gov/fox), nn "Rebaseregister".
 
 ### API elutsükkel
 
@@ -192,7 +203,7 @@ Väga soovitav on teha päringud samajõuliseks (idempotentseteks). See tähenda
 
 ### API turvamine
 
-Kaitsta tuleb ka asutuse sisevõrku paigaldatud komponentide vahelisi liideseid. Ainult sisekomponentide vahel toimivad API-d piiratakse väliskeskkonnast üldjuhul IP aadressi põhiselt. Lisaks sellele rakendatakse asjakohast autentimisskeemi.
+Reeglina tuleb API-d kaitsta TLS-ga, ka sisevõrgus. (See tähendab, et pöördumine toimub https-ga).
 
 Väliseks kasutuseks mõeldud päringud võivad olla kas piiramata või piiratud **autentimistokeni** abil, mis tuleb päringule kaasa panna kas ühe parameetri või HTTP päises oleva väärtusena.
 
