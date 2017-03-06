@@ -55,6 +55,8 @@ REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, kui
 
 [APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea populaarne ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina.
 
+[Amazon API Gateway Developer Guide](http://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-dg.pdf) on Amazoni-spetsiifiline, kuid annab aimu API loomise ja haldamise erinevatest aspektidest.
+
 ### API disaini lähteparameetrid
 
 Disaini mõjutavad liidese kavandatavad kasutusparameetrid:
@@ -190,7 +192,7 @@ Väga soovitav on teha päringud samajõuliseks (idempotentseteks). See tähenda
 
 ### API turvamine
 
-Ainult sisekomponentide vahel toimivad API-d piiratakse väliskeskkonnast üldjuhul IP aadressi põhiselt ning piiranguteavet päringus ei edastata.
+Kaitsta tuleb ka asutuse sisevõrku paigaldatud komponentide vahelisi liideseid. Ainult sisekomponentide vahel toimivad API-d piiratakse väliskeskkonnast üldjuhul IP aadressi põhiselt. Lisaks sellele rakendatakse asjakohast autentimisskeemi.
 
 Väliseks kasutuseks mõeldud päringud võivad olla kas piiramata või piiratud **autentimistokeni** abil, mis tuleb päringule kaasa panna kas ühe parameetri või HTTP päises oleva väärtusena.
 
