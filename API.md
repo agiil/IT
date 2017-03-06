@@ -4,7 +4,7 @@ title: API
 permalink: API
 ---
 
-TL;DR -- Nõuded ja soovitused REST API-de projekteerimiseks, testimiseks ja dokumenteerimiseks eelkõige RIHA kontekstis, aga ka laiemalt.
+
 
 # API-de disaini juhis
 {: .no_toc}
@@ -12,11 +12,14 @@ TL;DR -- Nõuded ja soovitused REST API-de projekteerimiseks, testimiseks ja dok
 
 v0.2 06.03.2017 (algversioon 27.02.2017)
 
+
+Nõuded ja soovitused REST API-de projekteerimiseks, testimiseks ja dokumenteerimiseks. Eelkõige uue, hajusarhitektuuriga RIHA kontekstis, aga ka laiemalt. Juhis on läbinud ühe läbivaatusringi, kuid ei ole veel lõplik ega ametlikult kinnitatud. See ei tähenda, et kasulikke põhimõtteid ja terminoloogiat ei saaks juba kasutada.
+
 koostanud Priit Parmakson
 
-arvamused ja ettepanekud palume saata: priit.parmakson@ria.ee
+Arvamused ja ettepanekud palume saata: priit.parmakson@ria.ee
 
-## Viimati muudetud
+Viimati muudetud:
 
 - Lisatud viide Amazoni API-de juhendile 
 - Lisatud põhimõte, et API-d tuleb kaitsta TLS-ga, ka sisevõrgus.
