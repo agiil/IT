@@ -40,3 +40,11 @@ Jaanus, Margus, Pamela, Ivo /
 Raul / Tarkvarade valik IT-ettevõttele
 
 Indrek / Palkide mõõtmise metoodikast ja programmist
+
+Helena / Rõivaste konstrueerimise programmid
+
+Annika & Julia & Janno & Kristo / Neli kontoritöö vajadust
+
+Hanna / Terviseandmete jagamine
+
+Taavi / Kui platoonimisvõimelise veoki hind on kaks korda kõrgem kui tavaveokil, siis mitme aastaga 
