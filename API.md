@@ -71,6 +71,10 @@ REST API-de kujundamisel on otstarbekas lähtuda Google API disainijuhisest, kui
 
 [Amazon API Gateway Developer Guide](http://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-dg.pdf) on Amazoni-spetsiifiline, kuid annab aimu API loomise ja haldamise erinevatest aspektidest.
 
+[White House Web API Standards](https://github.com/WhiteHouse/api-standards) on kompaktne, hea juhis REST API-de kujundamiseks.
+
+[Todo-backend](http://todobackend.com/) näitab kuidas lihtsat API-t (TO DO märkmed) teostada erinevate tehnoloogiatega.
+
 ### API disaini lähteparameetrid
 
 Disaini mõjutavad liidese kavandatavad kasutusparameetrid:
