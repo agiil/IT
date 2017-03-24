@@ -19,12 +19,6 @@ koostanud Priit Parmakson
 
 Arvamused ja ettepanekud palume saata: priit.parmakson@ria.ee
 
-Viimati muudetud:
-
-- Lisatud viide Amazoni API-de juhendile 
-- Lisatud põhimõte, et API-d tuleb kaitsta TLS-ga, ka sisevõrgus.
-- Lisatud viide "Rebaseregistri" etalonarhitektuurile.
-
 Sisukord
 
 - TOC
