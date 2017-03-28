@@ -1,8 +1,8 @@
-**Helena, Renna, Triinu - Esikmudeli konstrueerimisteenuse osutamine
+**Helena, Renna, Triinu - Rõiva konstrueerimisteenus
 1) Kahtlane, kas telefonisuhtlust kliendiga õnnestub vältida. Oma soovi seletamine ainult e-kirja ja joonise abil võib olla ebapiisav. 
 2) Kui kliendi asukohaks võib olla kogu maailm, siis väljatrükkide postiga saatmise asemel võiks kiirem, odavam ja lihtsam olla kasutada kliendile lähemal olevat väljatrükiteenust?
 - Formaadinimetus on TIFF.
-- Läbitöötamist vajavaks kohaks protsessis tundub olevat tellimuse esitamine. Mõõdutabel, tootenäidis, soovid ja juhised - kas neid saab nõutavad kvaliteediga digitaalselt esitada? 
+- Läbitöötamist vajavaks kohaks protsessis tundub olevat tellimuse esitamine. Mõõdutabel, tootenäidis, soovid ja juhised - kas neid saab nõutava kvaliteediga digitaalselt esitada? 
 3) Mõned sõnastused on väga üldised:
   - "keskkond peaks olema kasutajasõbralik"
   - "aitab organiseerida ja hallata protsesse"
@@ -24,6 +24,7 @@
 **Margus, Pamela, Ivo - Hanke/tellimuse täitmise protsess
 1) Universaalset hankesüsteemi on vist võimatu teha. Avalike hangete infosüsteemis (e-riigihankesüsteemis) on hankeprotsesse toetatud ja mõnedes üksikutes lõikudes ka automatiseeritud (nt võrdlustabelis punktide kokkuarvutamine). Sellise süsteemi tegemine on aega ja oskusi nõudev ning kallis. (Uue e-riigihangete süsteemi tegemise eeldatav maksumus on 2 milj €). Seetõttu teie analüüsis ja ideedes ei ole midagi, millele saaks vastu vaielda. Kuid ei ole piisavad konkreetsust, et tekiks usk, uue süsteemi tegemist ette võtta.
 2) Märgite, et hankekeskkondi on loodud mitmeid, kuid need ei ole võitnud suurt kasutajaskonda. Võib-olla tuleks põhjalikult mõelda ja uurida, mis on selle põhjus.
+3) Laiemalt mõeldes - nõudluse ja pakkumise kokkuviimine on majandussüsteemi üks alusprotsesse. Ost-müük on fundamentaalne muster (ingl pattern). Kõik majandussüsteemi subjektid osalevad selles. Miks siis ei ole ühtainust, standardset ostu-müügi tarkvara või IT-taristut? 
 
 *Priit, Kätlin - IT abiga protsessiparenduse võimalused ehituskonstruktsioonide tootmise ettevõttes
 1) "Hetkel  on  protsessid  kirjeldatud  ettevõtte  tegevuskäsiraamatus sadadel lehekülgedel .doc formaadis  teksti vormis, mida on tülikas ja raske jälgida ning 
@@ -52,20 +53,40 @@ uuendada". - Protsessikirjelduste koostamine ja kättesaadavaks tegemine on palj
 
 **Indrek - Mõõtmistulemiste raportite käsitlemise protsess
 
+
 **Annika, Julia - Hambakliiniku äriprotsess
 1) See on hea analüüs. Ettepanekud on sisukad ja neid on veenvalt hinnatud.
 
 **Hanna - Kliendi tellimuse täitmise protsess raamatukirjastuses
-
-**Tanel - Tugijaama valimise ja käivitamise protsess
-
-**Marion - Koolitusprogramm startup-ettevõttes
 OK
 
+**Tanel - Tugijaama valimise ja käivitamise protsess
+1) See, mida olete kirjeldanud, on suur tegevuste kompleks, millel on nii protsessi kui ka projekti omadusi. Püstitate väga olulise, kuid raske küsimuse: kuidas teha nii suur protsess optimaalseks?
+
+**Marion - Koolitusprogramm startup-ettevõttes
+1) OK
+Kirjapandu on mahult piisav, isegi ületab seda - ja käsitleb - niipalju, kui oskan hinnata - kõiki olulisi aspekte. Kiirustamise märgid (õigekirjavead), aga kui teete reaalset startup-i, siis ongi loomulik, et on kiire.
+2) Iseõppimise koolitusprogrammidega on mitmeid riske. Head veebipõhist iseõppimisprogrammi ei olegi nii kerge teha. Võib-olla õpimaterjalide kvaliteet polegi nii oluline, kui tegutsemise litsentsinõue ei ole adekvaatne? S.t kas alal tegutsemiseks ikka on vaja kaheaastast kutseharidust?
+
 **Jaanus - Laevaoperaatori suhtlusprotsess teiste osapooltega
+1) Teil on huviga loetav, põhjalik kirjeldus. Küsite mitmeid küsimusi, mida tavaliselt peetakse teisejärgulisteks, kuid mille mõju igapäevase tööprotsessi osana organisatsiooni koguefektiivsusele on suur.
+2) e-kirjade suur osakaal ilmselt näitab, et alternatiivset teabevahetus- ja -töötlussüsteemi ei ole lihtne kujundada. Võib ette kujutada kanban-süsteemi, mis koondaks teabe tellimuste kaupa. Sissetuleva e-kirjavoo jaotamiseks on kindlasti võimalusi. Kahjuks nõuab see nii tehnilist arendustööd kui ka organisatsioonilisi ümberkorraldusi.
 
 **Taavi - Kaubaveo tellimuse täitmine
+Rohkem konkreetsust.
 
 **Kristo, Katrin - Praamipileti muutmise protsessi automatiseerimine virtuaalagendi abil
+1) See on hea kirjeldus, mis demonstreerib klassifitseerimise kui meetodi võimsust. Masinõppe algoritmid põhinevad suuresti klassifitseerimisel.
+2) Vastuste andmebaas võiks olla vajalik ka inimteenindaja puhul.
 
 **Siiri - 
+1) Töökäsu väljastamine suuliselt - see on võib-olla liiga kauge analoogia, kuid agiilses tarkvaraarenduses on jõutud tõdemuseni, et töökorralduse, kokkulepped või ka plaanid ei pea tingimata olema kirja pandud (dokumenteeritud). See võib tunduda paradoksaalne ja kehtida ainult väikestes, tihedalt koos töötavates tiimides. Kui see väärib tähelepanu. Ma olen oma organisatsiooni (tegeleme tarkvaraarendusega, infosüsteemide halduse ja IT-teenuste osutamisega) mitmesuguste juhtidega sellel teemal rääkinud. Miks ülesannete dokumenteerimist peetakse oluliseks? Näen kolme põhjust: 1) juhi (alateadlik) hirm, et kui ülesanded ei ole kirjalikult fikseeritud, siis ta on liiga vähe "juhtinud"; kogemuse põhjal või väita, et see ei pea alati paika; töö kulgeb kõige paremini, kui ülesanded on inimestel pidevalt "peas" s.t neid ei olegi vaja üles kirjutada; dünaamilises keskkonnas võib ülesannete üleskirjutamine võib olla counter-productive - ülesandeid fikseeritakse nädala,   kvartali või tsükli perioodiga; asjaolud aga muutuvad oluliselt kiiremini; tulemuseks on takerdumine ülesannetesse, mis on asjaolude muutumise tõttu adekvaatsuse kaotanud; 2) organisatsiooni tahtmine end kaitsta, tarkvaraarenduses tähendab see seda, et kõik koosolekud ja üldse kogu suhtlus arenduspartneriga tuleb dokumenteerida; selleks kulub meeletu ressurss; milleks on protokollimine vajalik? töö edenemiseks? ei. Tõendusmaterjali olemasoluks, kui feilinud või altvedanud arendaja vastu minnakse kohtusse? Riik ei lähe tarkvaraarendaja vastu kohtusse. Protokolle aga sellest hoolimata vorbitakse; 3) organisatsiooni juhtkonna soov kaitsta end töötajate lahkumise või rivist väljalangemise vastu. "Priit, küsid, miks peab dokumenteerima? Mõtle, kuid ühel päeval sind enam siin pole, kas teine inimene saab sinu töö üle võtta?" Teadmustöö (ingl knowledge work) vallas on selline poliitika kahe teraga mõõk. Töötajatest tahetakse teha vahetatavaid mutrikesi. Kui juhtub olevat tõesti andekas IT-spetsialist (nn "10X more productive than you"-tüüp), siis selles nähakse ohtu. Martin on unikaalne programmeerija - talle ei olegi võimalik varumeest kõrvale tekitada - järelikult tuleb Martinist vabaneda! Võib-olla see ongi üks põhjus, miks Eestis on tohutu puudus kõrge kvalifikatsiooniga IT-spetsialistidest, samas aga parimad IT-spetsialistid otsivad tööd. 
+  See, et laadurijuht märgib töökäsu oma märkmikku võib olla täiesti OK. Saateleht seevastu - kuna see jõuab kliendini, kindlasti peaks olema väga korrektselt vormistatud.
+  Probleemide loetelus märgite, et teave jõuab ettevõtte infosüsteemi olulise viivitusega ja tööde planeerimine on ebaefektiivne. Neid aspekte tasuks lähemalt uurida. Laadurijuhil ei ole praegu häid ja mugavaid vahendeid teabe koheseks infosüsteemi hõivamiseks. Tal peaks olema mingi hästi lihtne teabe registreerimise vahend. Teda ei saa ka töö juurest liigselt kõrvale tõmmata. Infotöötluse vana tõde on, et andmehõive (andmete sisestamine infosüsteemi) ei tohi olla omaette tegevus, vaid peab olema lõimitud tööprotsessi. Laoseisu hinnangute andmekvaliteedi tõstmiseks ei saa laadurijuht ilma täiendavate mõõtmisvahenditeta midagi teha. Kui teabe varem infosüsteemi hõivatakse, kas siis keegi kasutaks seda ja milleks? Kas praegu teenuse osutamisega on probleeme (hilinemine)? Kui hilinemisi pole, siis ei saa väita, et planeerimissüsteem on ebaefektiivne?
+    Selge on aga ka see, et 1,5-nädalane "lõtk" müügitehingute ja teabe raamatupidamisse jõudmise vahel ei ole mingil juhul aktsepteeritav.
+  Mida siis tuleks teha? Tahvelarvutite kasutamise idee on mitmes töös. Vastava süsteemi tegemine ei tohiks olla liiga keeruline.
+  
+
+
+
+
