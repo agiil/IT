@@ -1,3 +1,11 @@
+Tere!
+
+Saadan kokkuvõtte ja tagasiside Harjutusülesandele III "Äriprotsessi parendamine IT abil".
+
+Lugesin teie tööd läbi ja saadan allpool kokkuvõtlikud kommentaarid ja märkused.
+
+Siinkohal tahan aga öelda, et protsessianalüüsis pean oluliseks järgida agiilarenduse põhimõtet "Individuals and interactions over processes and tools". Jah, protsesside kirjapanek, modelleerimine ja visuaalne esitamine on tähtis. Kuid kirjelduste ja mudelite hindamine on tunnetuslik protsess. Ei ole võimalik lugeda protsessi kirjeldust ja pelgalt selle alusel midagi sügavamat arvata. Kirjeldusi lugedes ma kõigepealt ütleks ehk "mhmh", küsiks midagi - ja vestlusest võiks midagi areneda. Praktika näitab, et koostatud kirjeldused tuleb rahulikult koos läbi arutada. Dialoogia tuleb välja uusi asju. Mitme ringiga on võimalik jõuda ühisele arusaamisele - mis tihti erineb kõvasti esimesena kirjapandust.
+
 **Helena, Renna, Triinu - Rõiva konstrueerimisteenus
 1) Kahtlane, kas telefonisuhtlust kliendiga õnnestub vältida. Oma soovi seletamine ainult e-kirja ja joonise abil võib olla ebapiisav. 
 2) Kui kliendi asukohaks võib olla kogu maailm, siis väljatrükkide postiga saatmise asemel võiks kiirem, odavam ja lihtsam olla kasutada kliendile lähemal olevat väljatrükiteenust?
