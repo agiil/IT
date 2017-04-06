@@ -1,3 +1,7 @@
+---
+title: H4N
+permalink: H4N
+---
 
 INF 731  Infotöötlus ettevõtjale          kevadsemester 2017
 
