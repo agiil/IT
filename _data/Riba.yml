@@ -66,8 +66,10 @@
       pub: true
     - title: "4.2 IT-teenuste, sh arendustööde sisseostmine"
       url: "/Sisseostmine"
+      pub: true
     - title: "4.3 IT protsessid ja teenused"
       url: "/IT-teenused"
+      pub: true
     - title: "4.4 IT-kompetentsid"
       url: "/Inimesed"
       pub: true  
@@ -79,6 +81,7 @@
       pub: true
     - title: "4.7 Arendustöö korraldamine. Agiilne arendus"
       url: "/Agiil"
+      pub: true
     - title: "4.8 IT töökindlus ja turve"
       url: "/Tookindlus"
       pub: true
