@@ -3,7 +3,7 @@ title: Mis on strateegia?
 permalink: MisOnStrateegia
 ---
 
-# Mis on strateegia?
+# 5.4 Mis on strateegia?
 
 __Strateegia__ võib tähendada:
 - pikaajalise, suure mõjuga otsuseid
