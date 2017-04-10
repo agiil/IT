@@ -3,7 +3,7 @@ title: Mis on strateegia?
 permalink: MisOnStrateegia
 ---
 
-## Mis on strateegia?
+# Mis on strateegia?
 
 __Strateegia__ võib tähendada:
 - pikaajalise, suure mõjuga otsuseid
@@ -66,7 +66,7 @@ Strateegiliste otsuste vajadus tuleb sellest, et IT-s sageli on tehtud valikuid 
 
 See on mõneti paradoksaalne, sest IT peaks olema plastiline. Põhimõtteliselt on kõik programmeerimiskeeled samaväärsed ([Turing-täielikud](https://en.wikipedia.org/wiki/Turing_completeness)) ja IT-s peaks saama iga asja lõputul arvul viisidel teha. Tegelikkuses on asi hõlpsast muudetavusest kaugel.
 
- ## Ühest ebaõnnestunud võrdlusest
+## Ühest ebaõnnestunud võrdlusest
 
 Maakri maja kerkib jõudsalt. Kuid kas oleks mõeldav, et kõrghoone ehitamise alustamisel ei ole teada, mitu korrust ehitatakse? Tõenäoliselt mitte. Plaanid ja joonised on tehtud, töövõtulepingud sõlmitud, betoon tellitud.
 

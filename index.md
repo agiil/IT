@@ -9,12 +9,12 @@ layout: Avaleht
   <i class="material-icons ikoon purple">account_circle</i>
 </p>
 
-<div style='border: 1px solid Black; margin-bottom: 2em; padding: 0 8px; '>
+<!-- div style='border: 1px solid Black; margin-bottom: 2em; padding: 0 8px; '>
   <p style='margin-bottom: 2px;'>
     <span class='uut'>Mis on uut?</span><br>
     Semestri algus 03.02.2017
   </p>
-</div>
+</div -->
 
 "Infotehnoloogia ettevõtjale" on
 
