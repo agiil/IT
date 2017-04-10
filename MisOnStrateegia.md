@@ -66,6 +66,12 @@ Strateegiliste otsuste vajadus tuleb sellest, et IT-s sageli on tehtud valikuid 
 
 See on mõneti paradoksaalne, sest IT peaks olema plastiline. Põhimõtteliselt on kõik programmeerimiskeeled samaväärsed ([Turing-täielikud](https://en.wikipedia.org/wiki/Turing_completeness)) ja IT-s peaks saama iga asja lõputul arvul viisidel teha. Tegelikkuses on asi hõlpsast muudetavusest kaugel.
 
+__Äriotsus või IT-otsus?__
+
+IT-firma puhul võib olla raske eristada äristrateegilisi (turule sisenemine, tootestrateegia jne) ja kitsalt tehnoloogilisi otsuseid.
+
+Vt nt: Shah H (2017) [Why Trello Failed to Build a $1 Billion+ Business](https://producthabits.com/why-trello-failed-to-build-a-1-billion-business/)
+
 ## Ühest ebaõnnestunud võrdlusest
 
 Maakri maja kerkib jõudsalt. Kuid kas oleks mõeldav, et kõrghoone ehitamise alustamisel ei ole teada, mitu korrust ehitatakse? Tõenäoliselt mitte. Plaanid ja joonised on tehtud, töövõtulepingud sõlmitud, betoon tellitud.
