@@ -3,42 +3,33 @@ title: IT valitsemine
 permalink: ITvalitsemine
 ---
 
-TL;DR
-
+<p class='tags'>TL;DR</p>
 „IT valitsemine“ osutub lähemal vaatlusel problemaatiliseks terminiks; seda tunnistavad ka termini propageerijad ise. Tegu võib olla ühe huvirühma loodud abstraktsiooniga, mille järele tegelikult pole erilist vajadust; samas võiks rohkem rääkida „IT korraldamisest“.
 
-# IT valitsemine, juhtimine, korraldamine
+# 5.3 IT valitsemine
+{: .no_toc}
 
-IT valitsemise mõiste (_IT governance_) vajab kahtlemata selgitamist.
+- TOC
+{:toc}
 
-Autoriteetne AKIT ütleb, et infotehnoloogia valitsemine on:
+IT valitsemise mõiste (_IT governance_) vajab selgitamist. Autoriteetne Andmekaitse ja infoturbe seletussõnastik [AKIT] ütleb, et infotehnoloogia valitsemine on:
 
 > “infotehnoloogiale, ta sooritusvõimele ja ta riskide haldusele keskenduv ettevõtte valitsemise alamdistsipliin; ITGI määratletuna: eestvedu, organisatsioonistruktuurid ja protsessid, millega tagada, et infotehnoloogia on organisatsiooni strateegiate ja eesmärkide tugi ja jätk; üldtunnustatud raamstruktuuri annavad eelkõige COBIT ja ISO/IEC 38500”
 
-ITGI on IT Governance Institute 1998. a. ISACA loodud asutus infotehnoloogia valitsemise uurimiseks ja arendamiseks. ISACA on IT audiitorite ühing. COBIT on hea valitsemis- (juhtimis-?)raamistik, kuid lähtub samuti auditeerimise vajadusest. Raamistikku hakati arendama, kuna finantsaudiitorid ei saanud IT-st aru.
+ITGI on IT Governance Institute 1998. a. ISACA loodud asutus infotehnoloogia valitsemise uurimiseks ja arendamiseks. ISACA on IT audiitorite ühing. COBIT (vt [4.3 IT protsessid ja teenused](https://agiil.github.io/IT/IT-teenused)) on hea valitsemis- (juhtimis-?)raamistik, kuid lähtub samuti auditeerimise vajadusest. Raamistikku hakati arendama, kuna finantsaudiitorid ei saanud IT-st aru.
 
 ## ISO 38500 Infotehnoloogia valitsemine
 
-IT valitsemise tähtsaim rahvusvaheline standard on ISO/IEC 38500 [ISO38500].
+IT valitsemise tähtsaim rahvusvaheline standard on ISO/IEC 38500 [ISO38500]. ISO 38500 on tõlgitud ka eesti keelde [ISO38500E].
 
-ISO 38500 on tõlgitud ka eesti keelde [ISO38500E].
+Standardi läbilugemine ei võta palju aega. Mille poolest on selle läbi võimalik targemaks saada? Lugejale antakse „sõnavara“, mille abil saab IT valitsemisest kõnelda, kuus põhimõtet, 
+kolm ülesannet („hinda“, „suuna“, „seira“) ja 30-40 juhist. Põhimõtteliselt on kõik arusaadav 
+ja ilmselt ka õige.
 
-“Infotehnoloogia valitsemine organisatsioonis” on “printsiibipõhine üldtasemel nõustav 
-standard”, öeldakse kümneleheküljelise standardi sissejuhatuses.
-
-Tegelikult pakub ISO/IEC 38500 enamat kui IT valitsemise printsiipe (etteruttavalt: neid printsiipe on kuus).
-
-Standard “loob IT valitsemise sõnavara” (lk 1), andes 18 termini määratlused.
-
-Näiteks organisatsiooni valitsemine (ingl _Corporate Governance_) defineeritakse kui „süsteem, 
-millega organisatsioone suunatakse ja reguleeritakse“.
-
-Rõhutatakse, et valitsemine ei ole ole sama, mis organisatsiooni juhtimine (_Management_).
+_Infotehnoloogia valitsemine organisatsioonis_ on “printsiibipõhine üldtasemel nõustav standard”, öeldakse kümneleheküljelise standardi sissejuhatuses. Tegelikult pakub ISO/IEC 38500 enamat kui IT valitsemise printsiipe (etteruttavalt: neid printsiipe on kuus). Standard “loob IT valitsemise sõnavara” (lk 1), andes 18 termini määratlused. Näiteks organisatsiooni valitsemine (ingl _Corporate Governance_) defineeritakse kui „süsteem, millega organisatsioone suunatakse ja reguleeritakse“. Rõhutatakse, et valitsemine ei ole ole sama, mis organisatsiooni juhtimine (_Management_).
 
 Standardi tuumaks on IT hea valitsemise kuue printsiibi sõnastused: 1) vastutus; 2) strateegia; 
-3) hankimine; 4) sooritusvõime; 5) vastavus; 6) inimkäitumine.
-
-Iga printsiip on kõigepealt avatud ühelauselise selgitusega ja standardi edasistes osades detailiseeritud suuniste abil. Näiteks sooritusvõime printsiip tähendab seda, et:
+3) hankimine; 4) sooritusvõime; 5) vastavus; 6) inimkäitumine. Iga printsiip on kõigepealt avatud ühelauselise selgitusega ja standardi edasistes osades detailiseeritud suuniste abil. Näiteks sooritusvõime printsiip tähendab seda, et:
 
 > „IT sobib oma otstarbega organisatsiooni toetamisel, tagades praeguste ja tulevaste ärinõuete rahuldamiseks vajalikud teenused, teenusetasemed ja teenuste kvaliteedi“.
 
@@ -51,10 +42,6 @@ on sõnastatud üks kuni viis juhist. Näiteks:
 > „Juhatajad peaksid seirama, millises ulatuses IT tegelikult toetab äritegevust“.
 
 Juhised on ISO/IEC 38500 kõige detailsemateks elementideks.
-
-Standardi läbilugemine ei võta palju aega. Mille poolest on selle läbi võimalik targemaks saada? Lugejale antakse „sõnavara“, mille abil saab IT valitsemisest kõnelda, kuus põhimõtet, 
-kolm ülesannet („hinda“, „suuna“, „seira“) ja 30-40 juhist. Põhimõtteliselt on kõik arusaadav 
-ja ilmselt ka õige.
 
 Juhatajad peaksid hindama IT-tegevusi, veendumaks, et inimkäitumised selgitatakse välja ja 
 võetakse asjakohaselt arvesse, soovitab üks juhistest. Kuid asju, mida peaks hindama, välja selgitama ja asjakohaselt arvesse võtma, on palju. Nii IT-ga seotuid kui ka mitteseotuid asju. Põhimõtteliselt on kõik kõigega seotud. Juhataja aeg ja mõtteenergia on alati piiratud. Standard paneb organisatsiooni juhatajale ainult kohustusi, kuid ei võta midagi vähemaks.
@@ -103,13 +90,7 @@ Masli et al [Masli2016] näitavad ulatusliku empiirilise andmestiku alusel, et t
 
 ## Mitu mudelit, mille vahel valida
 
-Võimalusi valitsemist, juhtimist ja teokstegemist (_Execution_) suhtestada ja loogilisse
-
-süsteemi seada, on niisiis mitu. Kuhugi peab ära mahtuma ka IT haldamine. Ärgem unustage
-
-ka IT strateegilist juhtimist (mida loogiliselt peaksid täiendama IT operatiivjuhtimine ja IT
-
-taktika). “Tort” tuleb mitmekihiline.
+Võimalusi valitsemist, juhtimist ja teokstegemist (_Execution_) suhtestada ja loogilisse süsteemi seada, on niisiis mitu. Kuhugi peab ära mahtuma ka IT haldamine. Ärgem unustage ka IT strateegilist juhtimist (mida loogiliselt peaksid täiendama IT operatiivjuhtimine ja IT taktika).
 
 ```
     Visioon            Valitsemine          Visiooni
@@ -124,15 +105,11 @@ taktika). “Tort” tuleb mitmekihiline.
        v                    v                   v
   Teokstegemine       Teokstegemine
    (Execution)
-
+```
 
 ## Korraldamine
 
-Sõnadel on oma elukäik ja staatus. Üks tõuseb, teine vajub. “Ärikorraldus” on eesti keeles vastanud inglise keele _Business Administration_-le. Juhtimise (ja valitsemise) leviku puhul tekib küsimus: juhte on palju, kes töö ära teeb? IT puhul on töö mitmeplaaniline ja kohati väga keeruline. Seda tööd on vaja muu kõrval ka korraldada. IT juhtimine kui IT inimeste juhtimine on vajalik, kuid keegi peab töö ka sisuliselt, tehnilises vaates ära korraldama.
-
-Sellised rollid on ilmunud: _Scrum Master_, _Lead Developer_.
-
-“IT korraldus” muude korralduste kõrvale:
+Sõnadel on oma elukäik ja staatus. Üks tõuseb, teine vajub. “Ärikorraldus” on eesti keeles vastanud inglise keele _Business Administration_-le. Juhtimise (ja valitsemise) leviku puhul tekib küsimus: juhte on palju, kes töö ära teeb? IT puhul on töö mitmeplaaniline ja kohati väga keeruline. Seda tööd on vaja muu kõrval ka korraldada. IT juhtimine kui IT inimeste juhtimine on vajalik, kuid keegi peab töö ka sisuliselt, tehnilises vaates ära korraldama. Sellised rollid on ilmunud: _Scrum Master_, _Lead Developer_. “IT korraldus” muude korralduste kõrvale:
 
 - ehituskorraldus (ehituse organiseerimine)
 - elukorraldus
@@ -144,9 +121,7 @@ Sellised rollid on ilmunud: _Scrum Master_, _Lead Developer_.
 - ärikorraldus
 - õppekorraldus.
 
-- “Arenduskorraldus” – aga mitte “arenduse juhtimine”.
-- “IT teenuste korraldamine” – aga mitte “IT teenuste haldamine”.
-- “IT korraldaja” (arenduskorraldaja) – jaamakorraldaja, juhtumikorraldaja, lendude korraldaja, liikluskorraldaja, maakorraldaja, müügikorraldaja, reisikorraldaja, suhtekorraldaja, veokorraldaja ja õppekorraldaja kõrvale.
+“Arenduskorraldus” – aga mitte “arenduse juhtimine”. “IT teenuste korraldamine” – aga mitte “IT teenuste haldamine”. “IT korraldaja” (arenduskorraldaja) – jaamakorraldaja, juhtumikorraldaja, lendude korraldaja, liikluskorraldaja, maakorraldaja, müügikorraldaja, reisikorraldaja, suhtekorraldaja, veokorraldaja ja õppekorraldaja kõrvale.
 
 ## Viited
 

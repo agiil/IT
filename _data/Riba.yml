@@ -94,6 +94,7 @@
       url: "/Innovatsioon"
     - title: "5.3 IT valitsemine"  
       url: "/ITvalitsemine"
+      pub: true
 - title: "Kirjandus"
   url: "/Kirjandus"
 
