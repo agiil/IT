@@ -12,21 +12,17 @@ permalink: ITvalitsemine
 - TOC
 {:toc}
 
-IT valitsemise mõiste (_IT governance_) vajab selgitamist. Autoriteetne Andmekaitse ja infoturbe seletussõnastik [AKIT] ütleb, et infotehnoloogia valitsemine on:
+## IT valitsemise mõiste
+
+IT valitsemise mõiste (_IT Governance_) vajab selgitamist. Autoriteetne Andmekaitse ja infoturbe seletussõnastik [AKIT] ütleb, et infotehnoloogia valitsemine on:
 
 > “infotehnoloogiale, ta sooritusvõimele ja ta riskide haldusele keskenduv ettevõtte valitsemise alamdistsipliin; ITGI määratletuna: eestvedu, organisatsioonistruktuurid ja protsessid, millega tagada, et infotehnoloogia on organisatsiooni strateegiate ja eesmärkide tugi ja jätk; üldtunnustatud raamstruktuuri annavad eelkõige COBIT ja ISO/IEC 38500”
 
-ITGI on IT Governance Institute 1998. a. ISACA loodud asutus infotehnoloogia valitsemise uurimiseks ja arendamiseks. ISACA on IT audiitorite ühing. COBIT (vt [4.3 IT protsessid ja teenused](https://agiil.github.io/IT/IT-teenused)) on hea valitsemis- (juhtimis-?)raamistik, kuid lähtub samuti auditeerimise vajadusest. Raamistikku hakati arendama, kuna finantsaudiitorid ei saanud IT-st aru.
+ITGI (IT Governance Institute) IT audiitorite ühingu ISACA 1998. a loodud asutus infotehnoloogia valitsemise uurimiseks ja arendamiseks. COBIT (vt [4.3 IT protsessid ja teenused](https://agiil.github.io/IT/IT-teenused)) on hea valitsemis- (juhtimis-?)raamistik, kuid lähtub samuti auditeerimise vajadusest. Raamistikku hakati arendama, kuna finantsaudiitorid avastasid, et organisatsiooni terviklikul auditeerimisel on IT ühest küljest nii oluline ja teisest küljest nii keeruline, et vajab eraldi käsitlust.
 
-## ISO 38500 Infotehnoloogia valitsemine
+## ISO standard 38500 "Infotehnoloogia valitsemine"
 
-IT valitsemise tähtsaim rahvusvaheline standard on ISO/IEC 38500 [ISO38500]. ISO 38500 on tõlgitud ka eesti keelde [ISO38500E].
-
-Standardi läbilugemine ei võta palju aega. Mille poolest on selle läbi võimalik targemaks saada? Lugejale antakse „sõnavara“, mille abil saab IT valitsemisest kõnelda, kuus põhimõtet, 
-kolm ülesannet („hinda“, „suuna“, „seira“) ja 30-40 juhist. Põhimõtteliselt on kõik arusaadav 
-ja ilmselt ka õige.
-
-_Infotehnoloogia valitsemine organisatsioonis_ on “printsiibipõhine üldtasemel nõustav standard”, öeldakse kümneleheküljelise standardi sissejuhatuses. Tegelikult pakub ISO/IEC 38500 enamat kui IT valitsemise printsiipe (etteruttavalt: neid printsiipe on kuus). Standard “loob IT valitsemise sõnavara” (lk 1), andes 18 termini määratlused. Näiteks organisatsiooni valitsemine (ingl _Corporate Governance_) defineeritakse kui „süsteem, millega organisatsioone suunatakse ja reguleeritakse“. Rõhutatakse, et valitsemine ei ole ole sama, mis organisatsiooni juhtimine (_Management_).
+IT valitsemise tähtsaim rahvusvaheline standard on ISO/IEC 38500 [ISO38500]. ISO 38500 on tõlgitud ka eesti keelde [ISO38500E]. Standardi läbilugemine ei võta palju aega. Mille poolest on selle läbi võimalik targemaks saada? Lugejale antakse „sõnavara“, mille abil saab IT valitsemisest kõnelda, kuus põhimõtet, kolm ülesannet („hinda“, „suuna“, „seira“) ja 30-40 juhist. Põhimõtteliselt on kõik arusaadav ja ilmselt ka õige. _Infotehnoloogia valitsemine organisatsioonis_ on “printsiibipõhine üldtasemel nõustav standard”, öeldakse kümneleheküljelise standardi sissejuhatuses. Tegelikult pakub ISO/IEC 38500 enamat kui IT valitsemise printsiipe (etteruttavalt: neid printsiipe on kuus). Standard “loob IT valitsemise sõnavara” (lk 1), andes 18 termini määratlused. Näiteks organisatsiooni valitsemine (ingl _Corporate Governance_) defineeritakse kui „süsteem, millega organisatsioone suunatakse ja reguleeritakse“. Rõhutatakse, et valitsemine ei ole ole sama, mis organisatsiooni juhtimine (_Management_).
 
 Standardi tuumaks on IT hea valitsemise kuue printsiibi sõnastused: 1) vastutus; 2) strateegia; 
 3) hankimine; 4) sooritusvõime; 5) vastavus; 6) inimkäitumine. Iga printsiip on kõigepealt avatud ühelauselise selgitusega ja standardi edasistes osades detailiseeritud suuniste abil. Näiteks sooritusvõime printsiip tähendab seda, et:
@@ -34,17 +30,12 @@ Standardi tuumaks on IT hea valitsemise kuue printsiibi sõnastused: 1) vastutus
 > „IT sobib oma otstarbega organisatsiooni toetamisel, tagades praeguste ja tulevaste ärinõuete rahuldamiseks vajalikud teenused, teenusetasemed ja teenuste kvaliteedi“.
 
 Kolmanda hüvena pakub standard kolmest üksteisega seotud osaülesandest („hinnata-suunata-
-seirata“) koosneva mudeli IT valitsemise teostamiseks.
-
-Kuus printsiipi ja kolm valitsemisülesannet annavad 18 kombinatsiooni, millest igaühe kohta 
+seirata“) koosneva mudeli IT valitsemise teostamiseks. Kuus printsiipi ja kolm valitsemisülesannet annavad 18 kombinatsiooni, millest igaühe kohta 
 on sõnastatud üks kuni viis juhist. Näiteks:
 
 > „Juhatajad peaksid seirama, millises ulatuses IT tegelikult toetab äritegevust“.
 
-Juhised on ISO/IEC 38500 kõige detailsemateks elementideks.
-
-Juhatajad peaksid hindama IT-tegevusi, veendumaks, et inimkäitumised selgitatakse välja ja 
-võetakse asjakohaselt arvesse, soovitab üks juhistest. Kuid asju, mida peaks hindama, välja selgitama ja asjakohaselt arvesse võtma, on palju. Nii IT-ga seotuid kui ka mitteseotuid asju. Põhimõtteliselt on kõik kõigega seotud. Juhataja aeg ja mõtteenergia on alati piiratud. Standard paneb organisatsiooni juhatajale ainult kohustusi, kuid ei võta midagi vähemaks.
+Juhised on ISO/IEC 38500 kõige detailsemateks elementideks. Juhatajad peaksid hindama IT-tegevusi, veendumaks, et inimkäitumised selgitatakse välja ja võetakse asjakohaselt arvesse, soovitab üks juhistest. Kuid asju, mida peaks hindama, välja selgitama ja asjakohaselt arvesse võtma, on palju. Nii IT-ga seotuid kui ka mitteseotuid asju. Põhimõtteliselt on kõik kõigega seotud. Juhataja aeg ja mõtteenergia on alati piiratud. Standard paneb organisatsiooni juhatajale ainult kohustusi, kuid ei võta midagi vähemaks.
 
 ## Valitsemine juhtimise üle
 
@@ -73,7 +64,7 @@ pole lihtne ja seetõttu nõuab tähelepanu juhtkonna tasandil, väidavad Toomey
 IT valitsemine peaks konkreetselt avalduma selles, et:
 - IT kasutamise aspekt on äristrateegia osa
 - IT-d ei võeta jooksva kuluna, investeeringuna; IT-investeering peab olema seotud 
-ärilise sooritusvõimega (_IT-Enabled Business Capability_)
+ärilise sooritusvõimega (_IT-Enabled Business Capability_).
 
 IT käitamist (_Operation_) võetakse igapäevase äri käitamise loomuliku osana.
 
