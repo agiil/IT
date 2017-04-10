@@ -95,6 +95,9 @@
     - title: "5.3 IT valitsemine"  
       url: "/ITvalitsemine"
       pub: true
+    - title: "Mis on strateegia?"
+      url: "/MisOnStrateegia"
+      pub: true  
 - title: "Kirjandus"
   url: "/Kirjandus"
 
