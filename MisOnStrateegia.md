@@ -1,3 +1,8 @@
+---
+title: Mis on strateegia?
+permalink: MisOnStrateegia
+---
+
 ## Mis on strateegia?
 
 __Strateegia__ võib tähendada:
