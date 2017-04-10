@@ -92,7 +92,8 @@
       pub: true
     - title: "5.2 Innovatsioon"
       url: "/Innovatsioon"
-
+    - title: "5.3 IT valitsemine"  
+      url: "/ITvalitsemine"
 - title: "Kirjandus"
   url: "/Kirjandus"
 
