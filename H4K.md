@@ -17,7 +17,7 @@ _Küsimused pakkujale_ sisaldavad selliseid, mis ei puutu otseselt asjasse. Tell
 
 _Vormistus_ on üldiselt hea. Võib teha veel paremaks, parandades mõningaid õigekirjavigu. Meie praktika avalikus sektoris aga näitab, et mida põhjalikum ja pikem lähteülesanne, seda kõrgemat hinda küsitakse.
 
-__Kui palju sellise lähteülesande koostamise eest küsida?__ Sisuliselt olete teinud analüüsi ja tegutsete ka arhitekti rollis. Pakun, et teie konsultatsioonitasu peaks olema vähemalt 10% projekti kogumahust.
+_Kui palju sellise lähteülesande koostamise eest küsida?_ Sisuliselt olete teinud analüüsi ja tegutsete ka arhitekti rollis. Pakun, et teie konsultatsioonitasu peaks olema vähemalt 10% projekti kogumahust.
 
 ## Priit, Kätlin - Kaamerate projekt ehitusmaterjalide tootmise ettevõttes
 
