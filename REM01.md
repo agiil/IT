@@ -4,12 +4,18 @@ permalink: REM01
 ---
 
 # Harjutus 5 IT ettevõtte strateegias
+{:.no_toc}
 
 Näidislahendus
+
+* TOC
+{:toc}
 
 ## Ülevaade
 
 Analüüsin nimesüsteemide kujundamisega seotud juhtimisväljakutseid ja sõnastan mõned strateegilised soovitused selles vallas.
+
+## Nimesüsteemid
 
 __Nimesüsteemi__  all pean silmas reeglite kogumit nimede (nimetuste) või  tähistuste moodustamiseks. Nimesüsteeme vajatakse paljudes kohtades. Näiteks:
 
@@ -60,15 +66,17 @@ Valdkonda tundmata julgen arvata, et Eestis võiks kindlasti olla ehitusliku pro
 ### Tehnoloogilised põhimõtted
 
 - Nimesüsteem ei tohi olla liiga jäik. Heaks võtteks on lubada alternatiivnimesid. Siiski peaks alternatiivide hulgas üks, kanooniline nimi.
-- Nimesüsteem peab olema laiendatav. Peavad olema reeglid või vihjed uute nimede moodustamiseks
-- Nimed peavad olema kataloogitud
+- Nimesüsteem peab olema laiendatav. Peavad olema reeglid või vihjed uute nimede moodustamiseks.
+- Nimed peavad olema kataloogitud.
 
-Märkus. 
+Märkus. Nt internetti haldav organisatsioon [IANA](https://www.iana.org/) (Internet Assigned Numbers Authority) peab nimekirja internetiliikluses tunnustatud [meediatüüpidest](https://www.iana.org/assignments/media-types/media-types.xhtml).
 
 ### Juhtimuslikud põhimõtted
 
-- Juhtimise tasandil peaks püüdma aru saada nimesüsteemide tähtsusest.
+- Juhtimise tasandil peaks püüdma aru saada nimesüsteemide tähtsusest. Keel mõjutab mõtlemist ja see, kuidas asju nimetame, mõjutab ka asju endid.
 
 Märkus. Tihti piirdub see arusaamine ettevõtte nime olulisuse mõistmisega (kui sedagi). Vrdl Paul Oberschneider nime Oberhaus valikust.
 
-- Nimesüsteeme jõuga kehtestades on suur oht tekitada rahulolematust või isegi sabotaaži. 
+- Nimesüsteeme jõuga kehtestades on suur oht tekitada rahulolematust või isegi sabotaaži. Seetõttu on äärmiselt olulised tutvustused, läbivaatused ja kaasamine.
+
+- Suur oht on teha liiga keerukaid, kohmakaid, pikkade nimedega süsteeme.
