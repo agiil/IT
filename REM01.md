@@ -1,3 +1,8 @@
+---
+title: Remark 01
+permalink: REM01
+---
+
 Harjutuse 2 ühes töös (Priit) märkisite, et ehitusettevõte sooviks, et projektdokumentatsioon tuleks projekteerimisbüroodest ühtlustatud kujul. Ka failinimed võiksid järgida ühtseid kokkuleppeid.
 
 Sattusin neil päevil rääkima kolleegiga, kes kurtis ehitisregistri absurdsetest nõuetest üleslaetavate failide nimedele. Failinimi pidavat olema kokku pandud kodeeritud osadest. Kui nimi ei vasta nõuetele, siis dokumenti üles laadida ei saa. Kõik see on liiga keeruline, aeganõudev ja stressi tekitav.
