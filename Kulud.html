@@ -34,9 +34,13 @@
 
   <script>
 
+    var  c1 = ['#FFF59D', '#FFCC80', '#FFC107', '#FF9800', '#FF5722'];
+    var  c2 = ['#90CAF9', '#80DEEA', '#03A9F4', '#00BCD4', '#009688'];
+    var  c3 = ['#FAFAFA', '#F5F5F5', '#EEEEEE', '#E0E0E0', '#BDBDBD'];
+    var  c4 = ['#ffcdd2', '#E1BEE7', '#f44336', '#E91E63', '#9C27B0'];
     // var colors = [ '#b30000', '#e34a33', '#fc8d59', '#fdcc8a', '#fef0d9' ];
     // var colors = [ '#FF8A65', '#FFD54F', '#FFF176', '#DCE775', '#80DEEA' ];
-    var colors = [ '#FFAB91', '#FFE082', '#E6EE9C', '#C8E6C9', '#B2DFDB' ];
+    // var colors = [ '#FFAB91', '#FFE082', '#E6EE9C', '#C8E6C9', '#B2DFDB' ];
     var pealkiri = { color: '#424242', fontName: 'Nova Mono', fontSize: 16, bold: false, italic: true };
     var legend = { color: '#424242', fontName: 'Nova Mono', fontSize: 24, bold: false, italic: false };
 
@@ -54,7 +58,7 @@
         dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel1',
         query: 'SELECT A, B',
         options: { // 'title': 'Kategooriad',
-          'colors': colors,
+          'colors': c1,
           'fontName': 'Nova Mono',
           'sliceVisibilityThreshold': .05,
           pieSliceBorderColor: 'Black',
@@ -72,7 +76,7 @@
         dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel2',
         query: 'SELECT A, B',
         options: { // 'title': 'Müüjad',
-          'colors': colors,
+          'colors': c2,
           'fontName': 'Nova Mono',
           'sliceVisibilityThreshold': .05,
           pieSliceBorderColor: 'Black',
@@ -90,7 +94,7 @@
         dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel3',
         query: 'SELECT A, B',
         options: { // 'title': 'Brändid',
-          'colors': colors,
+          'colors': c3,
           'fontName': 'Nova Mono',
           'sliceVisibilityThreshold': .05,
           pieSliceBorderColor: 'Black',
@@ -108,7 +112,7 @@
         dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel4',
         query: 'SELECT A, B',
         options: { // 'title': 'Maad',
-          'colors': colors,
+          'colors': c4,
           'fontName': 'Nova Mono',
           'sliceVisibilityThreshold': .05,
           pieSliceBorderColor: 'Black',
