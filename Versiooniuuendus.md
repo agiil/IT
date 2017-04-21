@@ -1,4 +1,9 @@
-Versiooniuuendus
+---
+title: Versiooniuuendus
+permalink: Versiooniuuendus
+---
+
+# Versiooniuuendus
 
 Aasta võis olla 1985. Olin just lõpetanud TPI (praeguse TTÜ) ja asunud samas tööle noorema teadusliku töötajana, palgaga oli vist 120 rubla kuus. Diplomitöö teemaks oli professor Leo Võhandu pakkunud uurida programmeerimiskeelt Forth. Forth on primitiivne, masinakeelele väga lähedane programmeerimiskeel. Mäletan, et Forth-keelne programm töötas üheainsa pinuga, vahetulemusi sinna salvestades ja edasistes arvutustes uuesti välja võttes. See jäi meie kui majandusinformaatikute erialast suhteliselt kaugele. Olime ju viis aastat õppinud majandusliku informatsiooni mehhaniseeritud töötlemise organiseerimist (selline oli eriala nimetus). Prof Võhandu saatis mind Küberneetika Instituuti Mati Räbovõitra juurde. Räbovõitra oli markantne mees, kes ajalooannaalidesse on jäänud millegipärast tolleaegsete arvutuskeskuste kokkutulekute "peoloomana" [1]. Kapitalismist võisime tollal lugeda ainult ajalehest, akadeemilisest kapitalismist (L. Lapini termin) polnud aga keegi kuulnudki. Küberneetika Instituut ei asunud TPI õppekorpustest kaugel. Külastasin Mati Räbovõitrat, ta rääkis mulle, et Forthi programmid nõuavad väga vähe põhimälu ja jooksevad ka väga primitiivse riistvara peal. Seetõttu kasutatakse Forthi seadmetes, mis "kusagil lendavates masinates". Sõjatööstusest ei tohtinud tollal sõnagi rääkida. Küberneetika Instituudis tegeldi ka "Elbrus" superarvutitega. Nüüd teame, et neid kasutati, võib-olla kasutatakse tänapäevalgi raketi- ja aatomirelvasüsteemides.
 
