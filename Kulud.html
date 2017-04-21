@@ -2,7 +2,7 @@
 <html>
   <head>
   <meta charset="utf-8"/>
-  <title>Kulustruktuur</title>
+  <title>Tarbimisstruktuur</title>
 
   <!-- JQuery -->
   <script src="https://code.jquery.com/jquery.min.js"></script>
@@ -23,15 +23,20 @@
   <!-- Stiilid ja skriptid -->
   <style>
     body {
+      padding: 2rem;
       font-family: 'Nova Mono', monospace;
     }
-    .diagramm { width: 800px; height: 600px; }
+    .diagramm { width: 800px; height: 500px; }
   </style>
 
   <!-- Google Charts Loader -->
   <script src="https://www.gstatic.com/charts/loader.js"></script>
 
   <script>
+
+    var colors = [ '#b30000', '#e34a33', '#fc8d59', '#fdcc8a', '#fef0d9' ];
+    var pealkiri = { color: '#424242', fontName: 'Nova Mono', fontSize: 24, bold: false, italic: true };
+    var legend = { color: '#424242', fontName: 'Nova Mono', fontSize: 24, bold: false, italic: false };
 
     function kujuta() {
       // Lae Google Charts
@@ -46,28 +51,64 @@
         chartType: 'PieChart',
         dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel1',
         query: 'SELECT A, B',
-        options: {'title': 'Kulud kategooriate lõikes',
-          'colors': ['#FFF9C4', '#FFECB3', '#FFE0B2', '#FFCCBC',
-          '#FFEB3B', '#FFC107', '#FF9800', '#FF5722'],
-          'fontName': 'Nova Mono'
+        options: {'title': 'Kategooriate lõikes',
+          'colors': colors,
+          'fontName': 'Nova Mono',
+          'sliceVisibilityThreshold': .05,
+          'titleTextStyle': pealkiri,
+          legend: { textStyle: legend }
         },
         containerId: 'D1'
       });
-      wrapperD1.draw()
+      wrapperD1.draw();
 
-      // Firmade lõikes
+      // Müüjate lõikes
       var wrapperD2 = new google.visualization.ChartWrapper({
         chartType: 'PieChart',
         dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel2',
         query: 'SELECT A, B',
-        options: {'title': 'Ostud firmade lõikes',
-          'colors': ['#FFF9C4', '#FFECB3', '#FFE0B2', '#FFCCBC',
-          '#FFEB3B', '#FFC107', '#FF9800', '#FF5722'],
-          'fontName': 'Nova Mono'
+        options: {'title': 'Müüjate lõikes',
+          'colors': colors,
+          'fontName': 'Nova Mono',
+          'sliceVisibilityThreshold': .05,
+          'titleTextStyle': pealkiri,
+          legend: { textStyle: legend }
         },
         containerId: 'D2'
       });
-      wrapperD2.draw()
+      wrapperD2.draw();
+
+      // Brändide lõikes
+      var wrapperD3 = new google.visualization.ChartWrapper({
+        chartType: 'PieChart',
+        dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel3',
+        query: 'SELECT A, B',
+        options: {'title': 'Brändide lõikes',
+          'colors': colors,
+          'fontName': 'Nova Mono',
+          'sliceVisibilityThreshold': .05,
+          'titleTextStyle': pealkiri,
+          legend: { textStyle: legend }
+        },
+        containerId: 'D3'
+      });
+      wrapperD3.draw();
+
+      // Maade lõikes
+      var wrapperD4 = new google.visualization.ChartWrapper({
+        chartType: 'PieChart',
+        dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel4',
+        query: 'SELECT A, B',
+        options: {'title': 'Maade lõikes',
+          'colors': colors,
+          'fontName': 'Nova Mono',
+          'sliceVisibilityThreshold': .05,
+          'titleTextStyle': pealkiri,
+          legend: { textStyle: legend }
+        },
+        containerId: 'D4'
+      });
+      wrapperD4.draw();
 
     }
 
@@ -81,11 +122,17 @@
   <div class='row'>
   <div class='col-md-12'>
 
+  <p>tehtud <a href='https://developers.google.com/chart/'>Google Charts</a>, <a href='http://colorbrewer2.org'>Color Brewer</a> ja Google Sheets abil</p>
+
+  <p><a href='https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?usp=sharing'>Andmed</a></p>
+
   <div id='D1' class='diagramm'></div>
 
   <div id='D2' class='diagramm'></div>
 
   <div id='D3' class='diagramm'></div>
+
+  <div id='D4' class='diagramm'></div>
 
   </div>
   </div>
