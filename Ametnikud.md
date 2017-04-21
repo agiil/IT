@@ -39,5 +39,6 @@ _Katrinile_
 
 *ingl swarming, võime moodustada teiste ametnikega sülemeid mingi küsimusi või probleemi lahendamiseks
 
-Virtuaalametnike müük · rent · liising · hooldus
-Kõigile mudelitele 5-aastane garantii
+Virtuaalametnike müük · rent · liising · hooldus.
+
+Kõigile mudelitele 5-aastane garantii!
