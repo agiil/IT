@@ -8,9 +8,9 @@ permalink: Ametnikud
 _Katrinile_
 
 "Getliin"
-- tšekkida e-posti
-- saata Outlook-is koosolekukutset
-- tšättida (Skype, Facebook)
+- tšekib e-posti
+- saadab Outlook-is koosolekukutseid
+- tšätib (Skype, Facebook)
 
 "Kaidi"
 - teeb menetlusotsusi: "kooskõlastan", "ei kooskõlasta", "jätan läbi vaatamata" - konfigureeritav
