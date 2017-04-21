@@ -26,3 +26,9 @@ Hea töö, ei oskagi ühtki puudust välja tuua. Äri- ja tehnilised nõuded on 
 ## Annika, Julia - Aja broneerimise protsessi parendamine - ettepanekute analüüs
 Head küsimused ja ka head vastused. Ma ise toetaks meeldetuletuste ideed. Eeldan, et paljud inimesed lükkavad hambaarstil käiku edasi, nad vajavad nüket. Pealegi saaks teavitustest loobuda. 
 
+- - -
+
+## Helena, Renna, Triinu - Rõivaste konstrueerimise teenus
+
+## Tauri - Apteegi süsteem
+
