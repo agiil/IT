@@ -34,8 +34,9 @@
 
   <script>
 
-    var colors = [ '#b30000', '#e34a33', '#fc8d59', '#fdcc8a', '#fef0d9' ];
-    var pealkiri = { color: '#424242', fontName: 'Nova Mono', fontSize: 24, bold: false, italic: true };
+    // var colors = [ '#b30000', '#e34a33', '#fc8d59', '#fdcc8a', '#fef0d9' ];
+    var colors = [ '#FF8A65', '#FFD54F', '#FFF176', '#DCE775', '#80DEEA' ];
+    var pealkiri = { color: '#424242', fontName: 'Nova Mono', fontSize: 16, bold: false, italic: true };
     var legend = { color: '#424242', fontName: 'Nova Mono', fontSize: 24, bold: false, italic: false };
 
     function kujuta() {
@@ -51,10 +52,12 @@
         chartType: 'PieChart',
         dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel1',
         query: 'SELECT A, B',
-        options: {'title': 'Kategooriate lõikes',
+        options: { // 'title': 'Kategooriad',
           'colors': colors,
           'fontName': 'Nova Mono',
           'sliceVisibilityThreshold': .05,
+          pieSliceBorderColor: 'Black',
+          pieSliceTextStyle: { color: 'Black'},
           'titleTextStyle': pealkiri,
           legend: { textStyle: legend }
         },
@@ -67,10 +70,12 @@
         chartType: 'PieChart',
         dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel2',
         query: 'SELECT A, B',
-        options: {'title': 'Müüjate lõikes',
+        options: { // 'title': 'Müüjad',
           'colors': colors,
           'fontName': 'Nova Mono',
           'sliceVisibilityThreshold': .05,
+          pieSliceBorderColor: 'Black',
+          pieSliceTextStyle: { color: 'Black'},
           'titleTextStyle': pealkiri,
           legend: { textStyle: legend }
         },
@@ -83,10 +88,12 @@
         chartType: 'PieChart',
         dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel3',
         query: 'SELECT A, B',
-        options: {'title': 'Brändide lõikes',
+        options: { // 'title': 'Brändid',
           'colors': colors,
           'fontName': 'Nova Mono',
           'sliceVisibilityThreshold': .05,
+          pieSliceBorderColor: 'Black',
+          pieSliceTextStyle: { color: 'Black'},
           'titleTextStyle': pealkiri,
           legend: { textStyle: legend }
         },
@@ -99,10 +106,12 @@
         chartType: 'PieChart',
         dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel4',
         query: 'SELECT A, B',
-        options: {'title': 'Maade lõikes',
+        options: { // 'title': 'Maad',
           'colors': colors,
           'fontName': 'Nova Mono',
           'sliceVisibilityThreshold': .05,
+          pieSliceBorderColor: 'Black',
+          pieSliceTextStyle: { color: 'Black'},
           'titleTextStyle': pealkiri,
           legend: { textStyle: legend }
         },
@@ -122,9 +131,7 @@
   <div class='row'>
   <div class='col-md-12'>
 
-  <p>tehtud <a href='https://developers.google.com/chart/'>Google Charts</a>, <a href='http://colorbrewer2.org'>Color Brewer</a> ja Google Sheets abil</p>
-
-  <p><a href='https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?usp=sharing'>Andmed</a></p>
+  <p>tehtud <a href='https://developers.google.com/chart/'>Google Charts</a>, <a href='http://colorbrewer2.org'>Color Brewer</a> ja Google Sheets abil | <a href='https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?usp=sharing'>Andmed</a></p>
 
   <div id='D1' class='diagramm'></div>
 
