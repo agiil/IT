@@ -15,7 +15,7 @@ Tagantjärele olen mõelnud, et need kolm kohatud inimest väljendasid päris se
 
 See oli siis. Nüüd on kõik teisiti. Uues ühiskonnaversioonis ühed võib-olla töötavad end surnuks. Eks selliseid ole igal ajal. Teised leiavad väljundi reisimisest. Kolmandad pühenduvad materialistlike küsimuste lahendamisele. Leidub ka aja surnukslööjaid. Aja surnukslöömise vormid on alati rafineeritud. Mõned üritavad teha teadust. 
 
-![](img/Kokkutulek.PNG)
+<img src='img/Kokkutulek.PNG' width=300 >
 
 Arvutuskeskuste kokkutulek Kose-Uuemõisas, vasakult: dots. L. Võhandu, grupijuht M. Räbovõitra, grupijuht T. Lume, 1974.a.
 
