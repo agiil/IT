@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8"/>
+  <title>Kulustruktuur</title>
+
+  <!-- JQuery -->
+  <script src="https://code.jquery.com/jquery.min.js"></script>
+
+  <!-- Material Design icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <!-- script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script -->
+  <!-- script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+  <!-- Nova Mono font -->
+  <link href="https://fonts.googleapis.com/css?family=Nova+Mono" rel="stylesheet"> 
+
+  <!-- Stiilid ja skriptid -->
+  <style>
+    body {
+      font-family: 'Nova Mono', monospace;
+    }
+    .diagramm { width: 800px; height: 600px; }
+  </style>
+
+  <!-- Google Charts Loader -->
+  <script src="https://www.gstatic.com/charts/loader.js"></script>
+
+  <script>
+
+    function kujuta() {
+      // Lae Google Charts
+      google.charts.load('current');
+      // Koosta diagrammid
+      google.charts.setOnLoadCallback(koostaDiagrammid);
+    }
+
+    function koostaDiagrammid() {
+      // Kategooriate lõikes
+      var wrapperD1 = new google.visualization.ChartWrapper({
+        chartType: 'PieChart',
+        dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel1',
+        query: 'SELECT A, B',
+        options: {'title': 'Kulud kategooriate lõikes',
+          'colors': ['#FFF9C4', '#FFECB3', '#FFE0B2', '#FFCCBC',
+          '#FFEB3B', '#FFC107', '#FF9800', '#FF5722'],
+          'fontName': 'Nova Mono'
+        },
+        containerId: 'D1'
+      });
+      wrapperD1.draw()
+
+      // Firmade lõikes
+      var wrapperD2 = new google.visualization.ChartWrapper({
+        chartType: 'PieChart',
+        dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1eWfIlscAOEc0mm8QJ3BYrsmR_9SWzUIfEfiLDVYxg0I/edit?sheet=Tabel2',
+        query: 'SELECT A, B',
+        options: {'title': 'Ostud firmade lõikes',
+          'colors': ['#FFF9C4', '#FFECB3', '#FFE0B2', '#FFCCBC',
+          '#FFEB3B', '#FFC107', '#FF9800', '#FF5722'],
+          'fontName': 'Nova Mono'
+        },
+        containerId: 'D2'
+      });
+      wrapperD2.draw()
+
+    }
+
+  </script>
+
+  </head>
+
+  <body onload="kujuta();">
+
+  <div class='container'>
+  <div class='row'>
+  <div class='col-md-12'>
+
+  <div id='D1' class='diagramm'></div>
+
+  <div id='D2' class='diagramm'></div>
+
+  <div id='D3' class='diagramm'></div>
+
+  </div>
+  </div>
+  </div>
+
+  </body>
+
+</html>
