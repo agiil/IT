@@ -32,3 +32,7 @@ Head küsimused ja ka head vastused. Ma ise toetaks meeldetuletuste ideed. Eelda
 
 ## Tauri - Apteegi süsteem
 
+## Margus, Pamela, Ivo - Pakkumiskeskkond
+
+## Marianne - Tellimuste kompleteerimine
+
