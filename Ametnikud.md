@@ -37,7 +37,7 @@ _Katrinile_
 "Rene"
 - ronimisvõimega (Boston Dynamics tehnoloogia)
 
-*ingl swarming, võime moodustada teiste ametnikega sülemeid mingi küsimusi või probleemi lahendamiseks
+*ingl swarming, võime moodustada teiste ametnikega sülemeid mingi küsimuse või probleemi lahendamiseks
 
 Virtuaalametnike müük · rent · liising · hooldus.
 
