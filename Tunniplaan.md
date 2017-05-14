@@ -5,7 +5,7 @@ permalink: Tunniplaan
 
 # Tunniplaanide varieeruvus ja regulaarsus
 
-Kirjutate, et Tallinna Tervishoiu Kõrgkool, Tallinna Tehnikakõrgkool ja Sisekaitseakadeemia arendavad ühiselt ÕIS-i. TTK arendas juba 10 aastat tagasi ÕIS-i, puutusin sellega kokku. Seal oli üks innukas noormees, kes sisuliselt üksinda kõike projekteeris ja programmeeris.
+Kirjutatakse, et Tallinna Tervishoiu Kõrgkool, Tallinna Tehnikakõrgkool ja Sisekaitseakadeemia arendavad ühiselt ÕIS-i. TTK arendas juba 10 aastat tagasi ÕIS-i, puutusin sellega kokku. Seal oli üks innukas noormees, kes sisuliselt üksinda kõike projekteeris ja programmeeris.
 
 Kardan, et nüüd võib olla sama häda, mis mitmete meie pärandvara (ingl _legacy_) süsteemide uuendamisega - tahetakse vana süsteemi paremaks teha, lähtudes samadest eeldustest. Aluseks olevat äriprotsessi ei muudeta. Radikaalseid ideid ei rakendata. 
 
@@ -27,13 +27,11 @@ See eeldab eesmärgipärasust. Sportlik eesmärk on sooritusvõime tõus. On pal
 
 Hariduse eesmärgid on samuti mitmesugused. Sportliku treeningu mudel on hästi kasutatav bakalaureuseõppes. Kui peaeesmärgiks on _employable_ noor mees või naine, siis see eeldab teatud oskusi, teatud sooritusvõimet. Identifitseerides sihtmärgiks võetava tööturu poolt esitatavad nõuded oskustele, saab üles ehitada loogilise ja fokusseeritud kursuse või õppekava.
 
-Magistriõppes on asi keerulisem. Bakalaureuseõppijad on homogeensemad. Reeglina puudub neil adekvaatne töökogemus sihttööturul - see on _huge difference_. Magistriõppijad on reeglina juba _employable_. Nad on juba tööelu "masinavärgis" sees ja probleem on tihti hoopis kuidas sellest välja saada. Magistriõppijate motiivid ja eesmärgid on mitmekesisemad. 
+Magistriõppes on asi keerulisem. Bakalaureuseõppijad on homogeensemad. Reeglina puudub neil adekvaatne töökogemus sihttööturul - see on _huge difference_. Magistriõppijad on reeglina juba _employable_. Nad on juba tööelu "masinavärgis" sees ja probleem on tihti hoopis kuidas sellest välja saada. Minu hüpotees on, et magistriõppijate motiivid ja eesmärgid on mitmekesisemad. 
 
-Seetõttu ei ole tõenäoliselt spordi analoogia rakendamine magistriõppijate puhul õige. Nad ei ole tingimata sportlased, kes sooritusvõimet lihvivad.
+Seetõttu ei ole tõenäoliselt spordi analoogia rakendamine magistriõppijate puhul õige. Nad ei ole tingimata sportlased, kes sooritusvõimet lihvivad. Sellele vaatamata on küsimus kas ja kuidas sportliku treeningu põhimõtted on hariduses rakendatavad, mulle intrigeeriv.
 
-Sellele vaatamata on küsimus kas ja kuidas sportliku treeningu põhimõtted on hariduses rakendatavad, mulle intrigeeriv.
-
-Regulaarsus mõistena on suhteliselt varjus. [Jaapani (aga mitte ainult Jaapani - rütmilise töö metoodikaid arendati ammu enne Jaapanit, juba 1920-ndatel USAs, Saksamaal Nõuk. Liidus) metoodikates (millest on välja kasvanud ka IT agiilarendus ja _Lean IT_)  on regulaarsus küll võtmesõna.] Palju räägitakse regulaarsuse vastandist - variatiivsusest.
+Regulaarsusest palju ei räägita. [Jaapani (aga mitte ainult Jaapani - rütmilise töö metoodikaid arendati ammu enne Jaapanit, juba 1920-ndatel USAs, Saksamaal Nõuk. Liidus) metoodikates (millest on välja kasvanud ka IT agiilarendus ja _Lean IT_)  on regulaarsus küll võtmesõna.] Seevastu räägitakse palju regulaarsuse vastandist - variatiivsusest.
 
 Kõrghariduses üks sagedasim müügiargument ongi variatiivsus. Paljud haridusasutused püüavad haridusturul eristuda võimalikult laia õppekavade valikuga. See ei ole ainus varieeruvus. Ülikool pakub vähemalt kaheksat liiki varieeruvust: 
 - õppejõudude varieeruvus - ühed ja samad õppejõud ei õpeta kõiki aineid;
@@ -47,11 +45,11 @@ Kõrghariduses üks sagedasim müügiargument ongi variatiivsus. Paljud haridusa
 
 Selles on omapäraselt segunenud intellektuaalne mitmekesisus ja teenusteportfelli mitmekesisus kui ärivõte. IT-s kui tormiliselt arenevas teadmisalas on palju alasisest varieeruvust. Tihti on see varieeruvus ohtlik. Programmeerimiskeeli, -raamistikke, platvorme, tarkvarapakette jne on tohutul arvul. Kõiki neid peaks teadma, kuid neid ei jõua õppida. Hulk lööb silme ees kirjuks. Vajalik on mingi fookus.
 
-Kogu selles varieeruvuses on siiski mõned asjad suhteliselt konstantsed. Näiteks õppetunni pikkus. Õppetundide algamine täistunnil (millele TLÜ-s lisandub nn akadeemiline veerandtund). Võiks küsida, miks see nii on ja kas uue tunniplaanisüsteemi tegemisel kaalutakse ka võimalust tundide algamiseks mittetäistunnil, samuti tunnipikkuste varieerumise võimalust. Sellega saaks kaotada kohvikujärjekorrad.   
+Kogu selles varieeruvuses on siiski mõned asjad suhteliselt konstantsed. Näiteks õppetunni pikkus. Õppetundide algamine täistunnil (millele TLÜ-s lisandub nn akadeemiline veerandtund). Võiks küsida, miks see nii on ja kas uue tunniplaanisüsteemi tegemisel kaalutakse ka võimalust tundide algamiseks mittetäistunnil, samuti tunnipikkuste varieerumise võimalust. Sellega saaks kaotada kohvikujärjekorrad.  Suhteliselt konstantsed on ka tundi kohaletulemise ja lahkumised tavad-reeglid.  
 
 Regulaarsus on oluline nii psühholoogiliselt kui ka sellepärast, et õpitegevuste gradatsiooni ehitamiseks peab olema mingi stabiilne alusstruktuur. Tunniplaani roll ongi see regulaarne alusstruktuur luua.
 
 Jõukohasusest. Agiilarenduse metoodikad on disainitud erilise tähelepanuga sellele, et tiimides ei võetaks eesmärke ja kohustusi, mida ei suudeta täita. Hariduses on tugeval positsioonil nn _waterfall_  e koskideoloogia. See avaldub selles, et õppekavad ja aineprogrammid tuleb reeglina enne protsessi algust "lukku lüüa". Seatud eesmärgid tuleb ka kõik täita, täitmise protsendid on fikseeritud hindamisskaalal jne. Kohandusi kahtlemata tehakse, kuid tõenäoliselt allpool ametlikku tasandit. Sellisel õppel on oma eelised, sh ökonoomiline - kord ettevalmistatud kava ja materjali saab "ette kanda" automaatsuseni viidud õppejõu poolt. Agiilharidus ei ole veel tekkinud.
 
-[1] Nõukogude spordimetoodikas tunti seda nn "kolme p" (vn k) printsiibina: постепенность, посильность, последовательность.
+[1] Nõukogude spordimetoodikas tunti seda nn "kolme p" (vn k) printsiibina: постепенность, посильность, последовательность.<br>
 [2] Vt nt http://skirun.ru/2010/07/12/base-of-training/ (vn k).
