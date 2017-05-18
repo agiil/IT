@@ -4,8 +4,6 @@ Kokkuvõtte ja tagasiside harjutusele 5
 
 ## Marion, Tauri - EBS tunniplaani alane IT-arendus
 
-Veelkord tunniplaanidest (Harjutus 5, Marion, Tauri - EBS tunniplaani alane IT-arendus)
-
  ## Priit, Kätlin - Üleminek BIM-le korporatsioonis 
 Potentsiaalne kirjutatakse t-ga!
 
@@ -23,5 +21,5 @@ Potentsiaalne kirjutatakse t-ga!
 
 ## Katrin, Kristo - IT investeeringute plaan
 
-
+## Siiri - IT ettevõtte strateegias
 
