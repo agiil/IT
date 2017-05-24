@@ -19,7 +19,7 @@ function kuvaDiagrammid() {
 
   // Lisa andmed
   data.addRows([
-    ['L1', 300], /
+    ['L1', 300], 
     ['l2', 8000]
   ]);
 
