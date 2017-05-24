@@ -3,7 +3,7 @@ title: Stiilijuhend
 permalink: Stiil
 ---
 
-# Stiilijuhis
+# Stiilijuhend
 
 - tekst
   - põhitekst: `Times New Roman 14pt`
