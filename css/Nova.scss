@@ -7,11 +7,11 @@ $bluegrey100: #CFD8DC;
 /* ---- Keha -------- */
 body {
   max-width: 50em; margin: 0 0; 
-  padding: 0.6em 1.5em 2em 2em; 
+  padding: 0.6em 1.5em 2em 8em; 
   line-height: 1.2;
-  font-family: 'Times New Roman', serif; 
+  font-family: 'Roboto', serif; 
   color: #333;
-  font-size: 12pt; 
+  font-size: 16pt; 
   }
 
 /* ---- Paigutus ---- */
@@ -25,10 +25,6 @@ body {
 #Tekst { max-width: 44rem; 
 }
 
-/* Statistikariba */
-.statistika { font-family: 'Roboto', sans-serif;
-  font-size: 13pt; margin-bottom: 8px; }
-
 /* Jaotisepealkiri */
 h1, h2 { font-size: 130%;
   line-height: 1.2;
@@ -39,10 +35,6 @@ h1, h2 { font-size: 130%;
 /* h2 { font-size: 12pt; 
   line-height: 1.2; text-decoration: underline;
   margin: 1.5em 0 0.2em 0; } */
-
-h3 { font-size: 12pt; font-style: italic; font-weight: normal;
-  line-height: 1.2; text-decoration: underline;
-  margin: 0.2em 0 0.2em 0; }  
 
 /* Tekstiparagrahv */
 p { margin: 0 0 1em 0; }
@@ -66,11 +58,6 @@ table, th, td { border: 1px solid black; }
 /* Tekst */
 .disabled { color:#000000; opacity:0.38; }
 .s { font-size: 10pt; }
-
-/* TOC genereeritud */
-#markdown-toc > li {
-  list-style: none;
-}
 
 /* Allkriipsutus */
 .u { text-decoration: underline; }
@@ -121,12 +108,3 @@ a[href]:active {
   border-color: #C00;
 }
 
-/* ======== Paneelid ======== */
-.action, .takeaway, .teade { border-radius: 8px; padding: 10px; }
-
-/* Tegevus */
-.action { border: 1px solid $bluegrey100; 
-  background-color: $bluegrey100; 
-}
-/* Kaasavõtmiseks */
-.noue { border: 1px solid Aquamarine; background-color: Azure; }
