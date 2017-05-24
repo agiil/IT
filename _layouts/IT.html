@@ -13,6 +13,11 @@
     <!-- JQuery -->
     <script src="https://code.jquery.com/jquery.min.js"></script>
 
+    {% if site.chart != null %}
+    <!--Load Google Charts AJAX API-->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    {% endif %}
+
     <link rel="stylesheet" href="{{ site.baseurl }}/css/IT.css">
     <script src='{{ site.baseurl }}/js/Utils.js'></script>
 
