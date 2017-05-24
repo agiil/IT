@@ -22,7 +22,11 @@
     <script src='{{ site.baseurl }}/js/Utils.js'></script>
 
   </head>
-  <body onload='init()'>
+  {% if site.chart != null %}
+    <body onload='kuvaDiagrammid()'>
+  {% else %}
+    <body onload='init()'>
+  {% endif %}  
     <p style='margin-bottom: 2em;'>
       <a href='{{ site.baseurl }}'>
         Infotehnoloogia ettevõtjale</a>

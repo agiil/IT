@@ -6,9 +6,11 @@ chart: yes
 
 # Koodistatistika
 
- <div id="chart_div" style='margin: 10px 0 40px 0px;'></div>
+ <div id="Diagramm1" style='margin: 10px 0 40px 0px;'></div>
 
 <script>
+
+function kuvaDiagrammid() {
 
   // Moodusta andmetabel
   var data = new google.visualization.DataTable();
@@ -36,9 +38,11 @@ chart: yes
   };
 
     // Alusta diagrammi
-    var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+    var chart = new google.visualization.PieChart(document.getElementById('Diagramm1'));
 
     // Joonista diagramm
     chart.draw(data, options);
+
+}
 
 </script>
