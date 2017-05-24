@@ -1,7 +1,7 @@
 ---
 title: Koodistatistika
 permalink: Koodistatistika
-chart: yes
+chart: true
 ---
 
 # Koodistatistika
