@@ -6,6 +6,19 @@ chart: true
 
 # Koodistatistika
 
+|             |  [RIHA-Frontend](https://github.com/e-gov/RIHA-Frontend) |  RIHA-UI |
+|----------| -------------------- | -------------------------------------------------------------------|
+| kaustu  |  65                      | 2 |  
+| faile     |  137 | ~ 10 |
+| koodiridu | 606 000 | | 
+| sh UI prototüüp (PHP) / HTML | 2200 | 300 | 
+| sh Sass (SCSS) / CSS | 3300 | 470 |  
+| stiiliraamat, lk | - | 31 |
+| infoarhitektuuri dokument, lk | - | ~ 5 | 
+
+ 
+
+
  <div id="Diagramm1" style='margin: 10px 0 40px 0px;'></div>
 
 <script>
@@ -20,15 +33,11 @@ function kuvaDiagrammid() {
   function kuva() {
 
     // Moodusta andmetabel
-    var data = new google.visualization.DataTable();
-    data.addColumn('string', 'Lahendus');
-    data.addColumn('number', 'LOC');
-
-    // Lisa andmed
-    data.addRows([
-      ['L1', 300], 
-      ['l2', 8000]
-    ]);
+    var data = google.visualization.arrayToDataTable(
+      ['Projekt', 'Stiilimääratlusi, LOC', 'Faile', { role: 'style' }],
+      ['Frontend', 3300, 137, 'gold'],
+      ['UI', 470, 10, 'silver']
+      );
 
     // Sea suvandid
     var options = {
@@ -36,12 +45,7 @@ function kuvaDiagrammid() {
       'width':800, 'height':500, 
       chartArea: { left:20, top:20, width: '100%', height: '100%' },
       legend: { position: 'top', textStyle: {color: 'DarkGray', fontSize: 14} },
-      colors: [
-      '#f44336', '#E91E63', '#9C27B0', '#673AB7', '#3F51B5',
-      '#2196F3', '#03A9F4', '#00BCD4', '#009688', '#4CAF50',
-      '#8BC34A', '#CDDC39', '#FFEB3B', '#FFC107', '#FF9800',
-      '#FF5722', '#795548', '#9E9E9E', '#607D8B'
-      ]
+
     };
 
     // Alusta diagrammi
