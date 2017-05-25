@@ -16,44 +16,44 @@ chart: true
 | stiiliraamat, lk | - | 31 |
 | infoarhitektuuri dokument, lk | - | ~ 5 | 
 
- 
-
-
  <div id="Diagramm1" style='margin: 10px 0 40px 0px;'></div>
 
 <script>
 
-function kuvaDiagrammid() {
+  function kuvaDiagrammid() {
 
-  // Load the Visualization API and the corechart package.
-  google.charts.load('current', {'packages':['corechart']});
-  // Set a callback to run when the Google Visualization API is loaded.
-  google.charts.setOnLoadCallback(kuva);
+    // Load the Visualization API and the corechart package.
+    google.charts.load('current', {'packages':['corechart']});
+    // Set a callback to run when the Google Visualization API is loaded.
+    google.charts.setOnLoadCallback(kuva);
 
-  function kuva() {
+    function kuva() {
 
-    // Moodusta andmetabel
-    var data = google.visualization.arrayToDataTable(
-      ['Projekt', 'Stiilimääratlusi, LOC', 'Faile', { role: 'style' }],
-      ['Frontend', 3300, 137, 'gold'],
-      ['UI', 470, 10, 'silver']
-      );
+      // Moodusta andmetabel
+      var data = new google.visualization.DataTable();
+      data.addColumn('string', 'Projekt');
+      data.addColumn('number', 'Stiilimääratlusi, LOC');
+      data.addColumn({type:'string', role:'style'});
+      data.addRows([
+        ['Frontend', 3300, 'color: gold'],
+        ['UI', 470, 'color: silver']
+      ]);
 
-    // Sea suvandid
-    var options = {
-      fontName: 'Anonymous Pro',
-      'width':600, 'height':300, 
-      chartArea: { left:20, top:20, width: '100%', height: '100%' },
-      legend: { position: 'top', textStyle: {color: 'DarkGray', fontSize: 14} },
+      // Sea suvandid
+      var options = {
+        fontName: 'Anonymous Pro',
+        'width':300, 'height':300, 
+        chartArea: { left:20, top:20, width: '100%', height: '100%' },
+        vAxis: { title: 'Stiilimääratlusi, LOC', }
 
-    };
+      };
 
-    // Alusta diagrammi
-    var chart = new google.visualization.ColumnChart(document.getElementById('Diagramm1'));
-    // Joonista diagramm
-    chart.draw(data, options);
+      // Alusta diagrammi
+      var chart = new google.visualization.ColumnChart(document.getElementById('Diagramm1'));
+      // Joonista diagramm
+      chart.draw(data, options);
+    }
+
   }
-
-}
 
 </script>
