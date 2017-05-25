@@ -42,14 +42,14 @@ function kuvaDiagrammid() {
     // Sea suvandid
     var options = {
       fontName: 'Anonymous Pro',
-      'width':800, 'height':500, 
+      'width':600, 'height':300, 
       chartArea: { left:20, top:20, width: '100%', height: '100%' },
       legend: { position: 'top', textStyle: {color: 'DarkGray', fontSize: 14} },
 
     };
 
     // Alusta diagrammi
-    var chart = new google.visualization.PieChart(document.getElementById('Diagramm1'));
+    var chart = new google.visualization.ColumnChart(document.getElementById('Diagramm1'));
     // Joonista diagramm
     chart.draw(data, options);
   }
