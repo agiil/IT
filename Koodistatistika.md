@@ -6,8 +6,8 @@ chart: true
 
 # Koodistatistika
 
-|             |  [RIHA-Frontend](https://github.com/e-gov/RIHA-Frontend) |  RIHA-UI |
-|----------| -------------------- | -------------------------------------------------------------------|
+|             |  [Frontend](https://github.com/e-gov/RIHA-Frontend) |  UI |
+|----------|:--------------------:|:------------------------------------------------------------------:|
 | kaustu  |  65                      | 2 |  
 | faile     |  137 | ~ 10 |
 | koodiridu | 606 000 | | 
