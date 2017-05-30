@@ -56,4 +56,14 @@ chart: true
 
   }
 
+|             |  [eIDAS Node](https://github.com/alphagov/eidas-reference) |  
+|----------|:--------------------:|:------------------------------------------------------------------:|
+| kaustu  |  65                      |  
+| faile     |  4000  | 
+| koodiridu, sh| 300 000 | 
+| -- originaalkood | 100 000 |
+| -- teegid | 200 000 |
+| dokumentatsioon, dokumente | 6 |
+| dokumentatsioon, lk | 270 | 
+
 </script>
