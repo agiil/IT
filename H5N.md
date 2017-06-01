@@ -1,6 +1,6 @@
 ---
-title: Remark 01
-permalink: REM01
+title: Harjutus 5 IT ettevõtte strateegias. Näidislahendus
+permalink: H5N
 ---
 
 # Harjutus 5 IT ettevõtte strateegias
