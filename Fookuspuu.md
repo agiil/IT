@@ -4,6 +4,8 @@ permalink: Fookuspuu
 layout: 
 ---
 
+_2 min lugemine_
+
 # Fookuspuu
 
 _"Omanikul võiks olla infosüsteemi eesmärk väga selge"_ -- RIHA võrgustiku seminari 25.05.2017 rühmatöö "Mida hindajad ootavad omanikelt?" kokkuvõttest
