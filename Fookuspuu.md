@@ -8,17 +8,20 @@ layout:
 
 _"Omanikul võiks olla infosüsteemi eesmärk väga selge"_ -- RIHA võrgustiku seminari 25.05.2017 rühmatöö "Mida hindajad ootavad omanikelt?" kokkuvõttest
 
-Kuid eesmärgid ei ole selged. Eesmärgid konkureerivad üksteisega. Eesmärke on liiga palju. Kirjapandud kasutuslugusid on 100+. Arenduspäevi on aga ainult 120.
+Kuid eesmärgid sageli ei ole selged - projektides, arendustes, süsteemides. Eesmärgid konkureerivad üksteisega. Eesmärke on liiga palju. Kirjapandud kasutuslugusid on 100+. Arenduspäevi on aga ainult 120.
 
-Eesmärgid on hägusas, laialivalguvad. Jne.
+Eesmärgid on hägusad, laialivalguvad. Jne.
 
 **Fookuspuu**
 
-Fookuspuu on hierarhiline eesmärkmudel, mis surub ebaülevaatliku ja vastuolulise eesmärkide kogumi rangesse vormi selle kaudu aitab luua tegevusele kindla aluse fookuse kaudu.
+Fookuspuu on hierarhiline eesmärkmudel, mis surub ebaülevaatliku ja vastuolulise eesmärkide kogumi rangesse vormi ja selle kaudu aitab luua tegevusele kindlamat alust - fookuse kaudu.
+
+_Näide tiimiarutelul kujundatud fookuspuust:_
 
 <img src='https://agiil.github.io/IT/img/Fookusmudel.jpg'  style='width: 400px; '>
 
-***Hierarhia***. Eesmärgid tuleb seada hierarhiasse. Hierarhia ülemine tipp on kõige tähtsam, peaeesmärk. Peaeesmärke saab olla ainult üks.
+***Hierarhia***. Eesmärgid tuleb seada hierarhiasse. Hierarhia ülemine tipp on kõige tähtsam, peaeesmärk.
+- Peaeesmärke saab olla ainult üks.
 - Hierarhiline esitus ei tähenda, et reaalsus ise oleks hierarhiline. ***NB! Reaalsus ei ole hierarhiline.*** Reaalsus on pigem võrkjas või üldse hägune. Hierarhia on reaalsusele peale surutud vorm.
 - Hierarhia eesmärk on jõuda produktiivse tegutsemiseni. Eesmärkide hierarhia ei taga optimaalsust, kuid annab sageli parima või vähemalt hea sihi ja suuna tegutsemisele.
 
