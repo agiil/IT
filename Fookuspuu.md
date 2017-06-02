@@ -1,7 +1,7 @@
 ---
 title: Fookuspuu
 permalink: Fookuspuu
-layout: 
+layout: Times
 ---
 
 _2 min lugemine_
