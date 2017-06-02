@@ -14,6 +14,8 @@ Eesmärgid on hägusas, laialivalguvad. Jne.
 
 **Fookuspuu**
 
+Fookuspuu on hierarhiline eesmärkmudel, mis surub ebaülevaatliku ja vastuolulise eesmärkide kogumi rangesse vormi selle kaudu aitab luua tegevusele kindla aluse fookuse kaudu.
+
 <img src='https://agiil.github.io/IT/img/Fookusmudel.jpg'  style='width: 400px; '>
 
 ***Hierarhia***. Eesmärgid tuleb seada hierarhiasse. Hierarhia ülemine tipp on kõige tähtsam, peaeesmärk. Peaeesmärke saab olla ainult üks.
