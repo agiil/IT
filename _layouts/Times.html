@@ -21,13 +21,13 @@
     <p style='margin-bottom: 2em;'>
 
       <span>
-        {% capture words %}
+      <!--  {% capture words %}
           {{ page.content | number_of_words | minus: 50 }}
         {% endcapture %}
         {% unless words contains "-" %}
           {{ words | plus: 50 | append: " sõna" }}
         {% endunless %}
-      </span>
+      </span> -->
       <!-- https://sacha.me/articles/jekyll-word-counts/#summing-it-up -->
 
     </p>  
