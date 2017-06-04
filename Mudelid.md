@@ -90,7 +90,7 @@ Ilma spetsifikatsioonide-mudeliteta-müügitekstideta ei saa rääkida kvaliteet
 
     <div class='d-flex flex-wrap align-items-center justify-content-center'>
         <div class='ruut d-inline'>
-            <p>(3)</p>
+            <p>(4)</p>
             <p>
                 <i class="ikoon material-icons">account_circle</i>
             </p>
@@ -100,7 +100,7 @@ Ilma spetsifikatsioonide-mudeliteta-müügitekstideta ei saa rääkida kvaliteet
             </p>
         </div>
         <div class='ruut d-inline'>
-            <p>(4)</p>
+            <p>(3)</p>
             <p>
                 <i class="ikoon material-icons">bug_report</i>
             </p>
