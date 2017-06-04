@@ -90,11 +90,9 @@ a[href]:active {
 }
 
 /* ======== Paneelid ======== */
-.action, .takeaway, .teade { border-radius: 8px; padding: 10px; }
-
-/* Tegevus */
-.action { border: 1px solid #CFD8DC; 
-  background-color: #CFD8DC; 
+.tldr {
+  border-radius: 8px;
+  padding: 10px;
+  border: 1px solid Aquamarine;
+  background-color: Azure;
 }
-/* Kaasavõtmiseks */
-.noue { border: 1px solid Aquamarine; background-color: Azure; }
