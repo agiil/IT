@@ -25,7 +25,7 @@ Agiilarenduses põimuvad arendustegevused üksteisega tihedalt. Võimalikuks saa
 
  Mis saab agiilses arenduskorralduses spetsifikatsioonidest, nõuetest, mudelitest, kirjeldustest, üldse dokumentatsioonist?
 
-Agiilarendus peab töötavat koodi (_working code_) tähtsamaks kui täielikku dokumentatsioon (_comprehensive documentation_) [1]. Tarkvara kasutajaid ja tarkvara reaalset kasutamist peetakse tähtsamaks protsessikirjeldustest ja tööriistadest [ibid.]. See on õige - kuid ainult reaktsioonina üleprojekteerimisele (__overengineering). See ei ole õige, kui agiilsus viib mudelite ja spetsifikatsioonide eitamisele.
+Agiilarendus peab töötavat koodi (_working code_) tähtsamaks kui täielikku dokumentatsioon (_comprehensive documentation_) [1]. Tarkvara kasutajaid ja tarkvara reaalset kasutamist peetakse tähtsamaks protsessikirjeldustest ja tööriistadest [ibid.]. See on õige - kuid ainult reaktsioonina üleprojekteerimisele (_overengineering_). See ei ole õige, kui agiilsus viib mudelite ja spetsifikatsioonide eitamisele.
 
 Programmeerimine tekkis 1950-ndatel ja oli algselt seotud matemaatilise tõestamisega. Programm loeti lõpetatuks alles siis, kui programmi käitumise nõutud omadused (invariandid) olid tõestatud. Programmi "tõestamine" sarnanes matemaatilise teoreemi tõestamisega. See protsess ei olnud automatiseeritud, kuid nõudis programmi oluliste omaduste täpset määratlemist, tavaliselt mõnes formaliseeritud tähistussüsteemis. Tõestamine seisnes loogilise arutluse kirjapanemises ja kontrollimises teise inimese poolt. Selline protsess oli loomulikult  töömahukas ja nõudis matemaatilise ettevalmistusega inimesi.
 
@@ -45,10 +45,10 @@ Ilma spetsifikatsioonide-mudeliteta-müügitekstideta ei saa rääkida kvaliteet
 
 <style>
     .ruut {
-        width: 40%;
+        width: 20%;
         padding: 1rem;
         margin: 1rem 1rem;
-        height: 12rem; 
+        height: 8rem; 
         text-align: center;
         border-radius: 8px;
         border: 1px solid darkgrey;
@@ -64,18 +64,16 @@ Ilma spetsifikatsioonide-mudeliteta-müügitekstideta ei saa rääkida kvaliteet
 <div class='paan dialoog'>
 
     <div class='d-flex flex-wrap align-items-center justify-content-center'>
-        <div class='ruut'>
+        <div class='ruut d-inline'>
             <p>(1)</p>
             <p>
                 <i class="ikoon material-icons">subject</i>
             </p>
             <p>
-                Mudel(id)<br>
-                Spetsifikatsioon(id)<br>
-                Müügitekst(id)
+                Mudelid, Spetsifikatsioonid
             </p>
         </div>
-        <div class='ruut'>
+        <div class='ruut d-inline'>
             <p>(2)</p>
             <p>
                 <i class="ikoon material-icons">code</i>
@@ -87,7 +85,7 @@ Ilma spetsifikatsioonide-mudeliteta-müügitekstideta ei saa rääkida kvaliteet
     </div>
 
     <div class='d-flex flex-wrap align-items-center justify-content-center'>
-        <div class='ruut'>
+        <div class='ruut d-inline'>
             <p>(3)</p>
             <p>
                 <i class="ikoon material-icons">account_circle</i>
@@ -97,7 +95,7 @@ Ilma spetsifikatsioonide-mudeliteta-müügitekstideta ei saa rääkida kvaliteet
                 Reaalne kasutamine
             </p>
         </div>
-        <div class='ruut'>
+        <div class='ruut d-inline'>
             <p>(4)</p>
             <p>
                 <i class="ikoon material-icons">bug_report</i>
