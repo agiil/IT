@@ -49,13 +49,13 @@ Ilma spetsifikatsioonide-mudeliteta-müügitekstideta ei saa rääkida kvaliteet
     .joonis {
         border-radius: 8px;
         border: 1px solid darkgrey;
-        margin 2rem 10%;
+        margin 2rem 8rem;
     }
     .ruut {
-        width: 20%;
+        width: 40%;
         padding: 1rem;
         margin: 1rem 1rem;
-        height: 8rem; 
+        height: 10rem; 
         text-align: center;
     }
     .ikoon {
