@@ -1,12 +1,14 @@
 ---
-title: 4Mudel
-permalink: 4Mudel
+title: Mudelid
+permalink: Mudelid
 layout: Times
 ---
 
 # Mudelid ja spetsifikatsioonid agiilarenduses
 
-<p class='tldr' style='border-radius: 8px;
+<p class='tldr' style='
+  margin: 2rem 8rem 2rem 2rem;
+  border-radius: 8px;
   padding: 10px;
   border: 1px solid Aquamarine;
   background-color: Azure;'>

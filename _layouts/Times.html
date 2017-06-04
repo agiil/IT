@@ -1,46 +1,45 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <!-- Material Design icons -->
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-        rel="stylesheet">
 
-    <!-- Fonts -->    
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> 
-    <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
-    
-    <!-- JQuery -->
-    <script src="https://code.jquery.com/jquery.min.js"></script>
+<!-- Lihtne, külgribata leht eraldiseisvate tekstide publitseerimiseks. -->
 
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/Times.css">
-    <script src='{{ site.baseurl }}/js/Utils.js'></script>
+<head>
+  <!-- Material Design icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-  </head>
-  <body onload='init()'>
-    <p style='margin-bottom: 2em;'>
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
 
-      <span>
-      <!--  {% capture words %}
-          {{ page.content | number_of_words | minus: 50 }}
-        {% endcapture %}
-        {% unless words contains "-" %}
-          {{ words | plus: 50 | append: " sõna" }}
-        {% endunless %}
-      </span> -->
-      <!-- https://sacha.me/articles/jekyll-word-counts/#summing-it-up -->
+  <!-- JQuery -->
+  <script src="https://code.jquery.com/jquery.min.js"></script>
 
-    </p>  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+    crossorigin="anonymous">
+  <!-- Tether on vaja tooltip-de jaoks -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" crossorigin="anonymous"></script>
 
-    <div id='Tekst'>
-      {{ content }}
-    </div>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/Times.css">
 
-    <!-- Footer -->
-    <div style='margin-top: 4rem;'>
-     &nbsp;
-    </div>
-  </body>
+</head>
+
+<body>
+  <p style='margin-bottom: 2em;'>
+    &nbsp;
+  </p>
+
+  <div id='Tekst'>
+    {{ content }}
+  </div>
+
+  <!-- Footer -->
+  <div style='margin: 4rem;'>
+    <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' data-toggle='tooltip' title='Litsents'>CC BY-NC-SA 4.0</a>
+    <a href='https://github.com/PriitParmakson'>Priit Parmakson</a> 2017 &nbsp;&nbsp;&nbsp;
+  </div>
+</body>
+
 </html>
-
-
