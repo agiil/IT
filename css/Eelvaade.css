@@ -1,0 +1,100 @@
+/* Laadileht Markdown-failide eelvaade kuvamiseks 
+   Visual Studio Code-is.
+*/
+
+/* ---- Keha -------- */
+body {
+  max-width: 50em;  
+  line-height: 1.2;
+  font-family: 'Times New Roman', serif; 
+  color: #333;
+  font-size: 12pt; 
+  }
+
+/* Jaotisepealkiri */
+h1 { font-size: 130%;
+  line-height: 1.2;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif; 
+  margin-top: 1em; }
+
+h2 { font-weight: bold; font-size: 100%; 
+  margin: 1em 0 1em 0; }    
+
+h3 { font-size: 12pt; font-style: italic; font-weight: normal;
+  line-height: 1.2; text-decoration: underline;
+  margin: 0.2em 0 0.2em 0; }   
+
+/* Tekstiparagrahv */
+p { margin: 0 0 1em 0; }
+
+/* Loetelud */
+#Tekst ul { list-style: none; margin: 0 0 1em 0;
+    padding-left: 1em; }
+#Tekst ul > li:before { display: inline-block;
+    content: "-"; width: 1em; margin-left: -1em; }
+
+/* Tabelid */
+table { table-layout: fixed;
+    width: 100%; margin: 0 4em 2em 0; }
+table { border-collapse: collapse; }
+table, th, td { border: 1px solid black; }
+
+/* Allkriipsutus */
+.u { text-decoration: underline; }
+
+/* Plokktsitaat */
+blockquote { 
+  font-style: italic; 
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 16px;
+  margin-left: 0;
+}
+
+/* Kood; asciiflow joonised */
+pre, code, samp {
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 16px; 
+  overflow-y: hidden; overflow-x: hidden;
+  page-break-inside: avoid; hyphens: none;
+  text-transform: none;
+}
+pre code,
+code code {
+  font-size: 100%;
+}
+pre { margin-top: 1em; margin-bottom: 1em; }
+
+/* Lingid */
+a[href] {
+  color: #607D8B;
+  text-decoration: none;
+  border-bottom: 1px solid #607D8B;
+  padding: 0 1px 0;
+  margin: 0 -1px 0;
+}
+a:visited {
+  border-bottom-color: #607D8B;
+}
+
+a[href]:focus,
+a[href]:hover {
+  background: #607D8B;
+  background: rgba(75%, 75%, 75%, .25);
+  border-bottom-width: 3px;
+  margin-bottom: -2px;
+}
+a[href]:active {
+  color: #C00;
+  border-color: #C00;
+}
+
+/* ======== Paneelid ======== */
+.action, .takeaway, .teade { border-radius: 8px; padding: 10px; }
+
+/* Tegevus */
+.action { border: 1px solid #CFD8DC; 
+  background-color: #CFD8DC; 
+}
+/* Kaasavõtmiseks */
+.noue { border: 1px solid Aquamarine; background-color: Azure; }
