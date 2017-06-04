@@ -46,16 +46,18 @@ Ilma spetsifikatsioonide-mudeliteta-müügitekstideta ei saa rääkida kvaliteet
 [1] Manifesto for Agile Software Development, [http://agilemanifesto.org/](http://agilemanifesto.org/) 
 
 <style>
+    .joonis {
+        border-radius: 8px;
+        border: 1px solid darkgrey;
+        margin 2rem 10%;
+    }
     .ruut {
         width: 20%;
         padding: 1rem;
         margin: 1rem 1rem;
         height: 8rem; 
         text-align: center;
-        border-radius: 8px;
-        border: 1px solid darkgrey;
     }
-
     .ikoon {
         font-family: 'Material Icons';
         font-size: 48px;
@@ -63,7 +65,7 @@ Ilma spetsifikatsioonide-mudeliteta-müügitekstideta ei saa rääkida kvaliteet
     }
 </style>
 
-<div class='paan dialoog'>
+<div class='joonis'>
 
     <div class='d-flex flex-wrap align-items-center justify-content-center'>
         <div class='ruut d-inline'>
