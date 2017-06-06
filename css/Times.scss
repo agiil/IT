@@ -121,11 +121,15 @@ a[href]:active {
 }
 
 /* ======== Paneelid ======== */
-.action, .note, .teade { border-radius: 8px; padding: 10px; }
+.action, .note, .teade { border-radius: 8px; padding: 1rem; }
 
 /* Tegevus */
 .action { border: 1px solid $bluegrey100; 
   background-color: $bluegrey100; 
 }
 /* Märkus */
-.note { border: 1px solid Aquamarine; background-color: Azure; }
+.note { 
+  border: 1px solid coral;
+  background-color: lavenderblush;
+  color: coral;
+}
