@@ -7,7 +7,7 @@ layout: Times
 # Mudelid ja spetsifikatsioonid agiilarenduses
 
 <p class='tldr'>
-_TL;DR;_ Iga pidu saab kord otsa. Agiilarendus on meeldiv, kuid mitte lõputu protsess. Tulemuse fikseerimisel on mudelitel ja spetsifikatsioonidel võtmeroll (reaalse kasutuse ja kasutajate arvamuse järel). Väljakutseks on aru saada, millal ja milliseid mudeleid ja spetsifikatsioone teha ning ajakohasena hoidmine.
+_TL;DR;_ Iga pidu saab kord otsa. Agiilarendus on meeldiv, kuid mitte lõputu protsess. <b>Tulemuse fikseerimisel on mudelitel ja spetsifikatsioonidel võtmeroll (reaalse kasutuse ja kasutajate arvamuse järel). Väljakutseks on aru saada, millal ja milliseid mudeleid ja spetsifikatsioone teha ning ajakohasena hoidmine.</b>
 </p>
 
 Agiilne mõtteviis muudab tarkvaraarenduse proportsioone. Nii mõnigi vaieldamatuks peetud eesmärk või töövõte kaotab tähtsuse või isegi heidetakse kõrvale kui eesmärkide saavutamisele vastutöötav. Seejuures ei tohi aga mittevajalikku minema visata.
