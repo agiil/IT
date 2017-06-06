@@ -12,7 +12,7 @@ layout: Times
   padding: 10px;
   border: 1px solid Aquamarine;
   background-color: Azure;'>
-_TL;DR;_ Iga pidu saab kord otsa. Agiilarendus on meeldiv, kuid mitte lõputu protsess. Tulemuse fikseerimisel on mudelitel ja spetsifikatsioonidel võtmeroll (reaalse kasutuse ja kasutajate arvamuse järel).
+_TL;DR;_ Iga pidu saab kord otsa. Agiilarendus on meeldiv, kuid mitte lõputu protsess. Tulemuse fikseerimisel on mudelitel ja spetsifikatsioonidel võtmeroll (reaalse kasutuse ja kasutajate arvamuse järel). Väljakutseks on aru saada, millal ja milliseid mudeleid ja spetsifikatsioone teha ning ajakohasena hoidmine.
 </p>
 
 Agiilne mõtteviis muudab tarkvaraarenduse proportsioone. Nii mõnigi vaieldamatuks peetud eesmärk või töövõte kaotab tähtsuse või isegi heidetakse kõrvale kui eesmärkide saavutamisele vastutöötav. Seejuures ei tohi aga mittevajalikku minema visata.
@@ -21,16 +21,14 @@ Agiilne mõtteviis muudab tarkvaraarenduse proportsioone. Nii mõnigi vaieldamat
 
 <style>
     .joonis {
-        border-radius: 8px;
-        border: 1px solid darkgrey;
-        margin 2rem 8rem;
     }
     .ruut {
-        width: 40%;
+        width: 20%;
         padding: 1rem;
-        margin: 1rem 1rem;
-        height: 10rem; 
+        margin: 1rem 2rem;
+        height: auto; 
         text-align: center;
+        font-family: 'Courier New', monospace;
     }
     .ikoon {
         font-family: 'Material Icons';
@@ -69,8 +67,7 @@ Agiilne mõtteviis muudab tarkvaraarenduse proportsioone. Nii mõnigi vaieldamat
                 <i class="ikoon material-icons">account_circle</i>
             </p>
             <p>
-                Kasutajakogemus<br>
-                Reaalne kasutamine
+                Kasutajakogemus, Reaalne kasutamine
             </p>
         </div>
         <div class='ruut d-inline'>
@@ -96,7 +93,7 @@ Agiilarenduses põimuvad arendustegevused üksteisega tihedalt. Võimalikuks saa
 
 Agiilarendus peab töötavat koodi (_working code_) tähtsamaks kui täielikku dokumentatsioon (_comprehensive documentation_) [1]. Tarkvara kasutajaid ja tarkvara reaalset kasutamist peetakse tähtsamaks protsessikirjeldustest ja tööriistadest [ibid.]. See on õige - kuid ainult reaktsioonina üleprojekteerimisele (_overengineering_). See ei ole õige, kui agiilsus viib mudelite ja spetsifikatsioonide eitamisele.
 
-Programmeerimine tekkis 1950-ndatel ja oli algselt seotud matemaatilise tõestamisega. Programm loeti lõpetatuks alles siis, kui programmi käitumise nõutud omadused (invariandid) olid tõestatud. Programmi "tõestamine" sarnanes matemaatilise teoreemi tõestamisega. See protsess ei olnud automatiseeritud, kuid nõudis programmi oluliste omaduste täpset määratlemist, tavaliselt mõnes formaliseeritud tähistussüsteemis. Tõestamine seisnes loogilise arutluse kirjapanemises ja kontrollimises teise inimese poolt. Selline protsess oli loomulikult  töömahukas ja nõudis matemaatilise ettevalmistusega inimesi.
+Programmeerimine tekkis 1950-ndatel ja oli algselt seotud matemaatilise tõestamisega. ***Programm loeti lõpetatuks alles siis, kui programmi käitumise nõutud omadused (invariandid) olid tõestatud.*** Programmi "tõestamine" sarnanes matemaatilise teoreemi tõestamisega. See protsess ei olnud automatiseeritud, kuid nõudis programmi oluliste omaduste täpset määratlemist, tavaliselt mõnes formaliseeritud tähistussüsteemis. Tõestamine seisnes loogilise arutluse kirjapanemises ja kontrollimises teise inimese poolt. Selline protsess oli loomulikult  töömahukas ja nõudis matemaatilise ettevalmistusega inimesi.
 
 Hiljem kasvas tormiliselt testimine ja eraldus omaette arendusalaks. Tänapäeval on testide täitmine suuresti automatiseeritud, testid on omaette programmid. Koodi ja testide (mõlemad on kood) proportsioon arendusprojektis võib olla 50:50 või isegi testide kasuks. Agiilarenduses tuleks hoiduda ohust, et tekib palju koodi ja palju teste - kood nagu töötaks ja testid ka töötavad - kuid pole spetsifikatsiooni.
 
@@ -114,4 +111,4 @@ Teine ja võib-olla suuremgi väljakutse on aru saada, et ***mitteajakohased spe
 
 [1] Manifesto for Agile Software Development, [http://agilemanifesto.org/](http://agilemanifesto.org/) 
 
-<img src='https://agiil.github.io/IT/img/VisuaalneHierarhia01.PNG' style='width: 400px;'>
+<img src='https://agiil.github.io/IT/img/VisuaalneHierarhia01.PNG' style='width: 550px;'>
