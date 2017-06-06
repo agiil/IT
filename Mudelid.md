@@ -6,12 +6,7 @@ layout: Times
 
 # Mudelid ja spetsifikatsioonid agiilarenduses
 
-<p class='tldr' style='
-  margin: 2rem 8rem 2rem 2rem;
-  border-radius: 8px;
-  padding: 10px;
-  border: 1px solid Aquamarine;
-  background-color: Azure;'>
+<p class='tldr'>
 _TL;DR;_ Iga pidu saab kord otsa. Agiilarendus on meeldiv, kuid mitte lõputu protsess. Tulemuse fikseerimisel on mudelitel ja spetsifikatsioonidel võtmeroll (reaalse kasutuse ja kasutajate arvamuse järel). Väljakutseks on aru saada, millal ja milliseid mudeleid ja spetsifikatsioone teha ning ajakohasena hoidmine.
 </p>
 
@@ -25,10 +20,11 @@ Agiilne mõtteviis muudab tarkvaraarenduse proportsioone. Nii mõnigi vaieldamat
     .ruut {
         width: 20%;
         padding: 1rem;
-        margin: 1rem 2rem;
+        margin: 0 2rem;
         height: auto; 
         text-align: center;
         font-family: 'Courier New', monospace;
+        font-size: 11pt;
     }
     .ikoon {
         font-family: 'Material Icons';
