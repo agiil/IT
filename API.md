@@ -4,8 +4,7 @@ title: API
 permalink: API
 ---
 
-
-# API disainijuhis
+# API-juhis
 {: .no_toc}
 
 v0.3 26.06.2017
@@ -84,7 +83,7 @@ API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud
 
 Peab selgelt dokumenteerima, kas ressursi ID moodustatakse kliendi (kasutaja) või serveri poolt (Google disainijuhend).
 
-Nimemustrite kujundamisel arvestada ka seda, et kasutajad mustrist aru saaksid.
+Nimemustri kujundamisel arvestada ka seda, et kasutajad mustrist aru saaksid.
 {: .noue}
 
 **Kogumressursi ID** (_collection ID_) peab olema mitmuses. Nt: `systems` (RIHA-s kirjeldatud infosüsteemide kogum). Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/design/resource_names). 
@@ -133,15 +132,23 @@ Andmete väljastamine leheküljeti tuleks teostada ka väikesemahuliste, kuid ka
 
 ## 13 Päringu samajõulisus
 
-Väga soovitav on teha päringud samajõuliseks (idempotentseteks). See tähendab, et sama päringut saab võrgutõrke korral ilma kahjulike kõrvalmõjudeta uuesti saata. Kui päringut ei saa teha idempotentseks, siis peab iga päringsõnum sisaldama unikaalset **idempotentsus-ID-d**. Vt: Leach (2017) [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency); Google disainijuhis, jaotis [Request Duplication](https://cloud.google.com/apis/design/design_patterns#sorting_order).
+Väga soovitav on teha päringud samajõuliseks (idempotentseteks). See tähendab, et sama päringut saab võrgutõrke korral ilma kahjulike kõrvalmõjudeta uuesti saata. Kui päringut ei saa teha idempotentseks, siis peaks iga päringsõnum sisaldama unikaalset **idempotentsus-ID-d**. Vt: Leach (2017) [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency); Google disainijuhis, jaotis [Request Duplication](https://cloud.google.com/apis/design/design_patterns#sorting_order).
 
 ## 14 API turvamine
 
-Reeglina tuleb API-d kaitsta TLS-ga, ka sisevõrgus. (See tähendab, et pöördumine toimub HTTPS-ga). Väliseks kasutuseks mõeldud päringud võivad olla kas piiramata või piiratud **autentimistokeni** abil, mis tuleb päringule kaasa panna kas ühe parameetri või HTTP päises oleva väärtusena. Eelistatud on JWT ([JSON Web Token](https://jwt.io/)) autentimine. Vt Stankovic (2016), [JWT Authentication Tutorial: An example using Spring Boot](http://www.svlada.com/jwt-token-authentication-with-spring-boot/). Siiski tuleb igal konkreetselt juhul selgitada, kas JWT kasutamine on arendajale jõukohane ja äriliselt ning tehniliselt põhjendatud.
+Reeglina tuleb API-d kaitsta TLS-ga, ka sisevõrgus. (See tähendab, et pöördumine toimub HTTPS-ga). 
+{: .noue}
+
+Juurdepääs väliseks kasutuseks mõeldud API-le võib olla kas piiramata või piiratud **autentimistokeni** abil, mis tuleb päringule kaasa panna kas ühe parameetri või HTTP päises oleva väärtusena. Eelistatud on JWT ([JSON Web Token](https://jwt.io/)) autentimine. Vt Stankovic (2016), [JWT Authentication Tutorial: An example using Spring Boot](http://www.svlada.com/jwt-token-authentication-with-spring-boot/). Siiski tuleb igal konkreetselt juhul selgitada, kas JWT kasutamine on arendajale jõukohane ja äriliselt ning tehniliselt põhjendatud.
 
 ### 15 API versioneerimine
 
-API-s tuleb kasutada [semantilist versioneerimist](http://semver.org/). Vt Google disainijuhis, jaotised [Compatibility](https://cloud.google.com/apis/design/compatibility) ja [Versioning](https://cloud.google.com/apis/design/versioning).
+API struktuuris tuleb taodelda stabiilsust.
+
+Kui on ette näha API muutumisvõimalust, siis tuleb API versioneerida.
+{: .noue}
+
+Versioneerimisel on otstarbekas kasutada [semantilist versioneerimist](http://semver.org/). Vt Google disainijuhis, jaotised [Compatibility](https://cloud.google.com/apis/design/compatibility) ja [Versioning](https://cloud.google.com/apis/design/versioning).
 
 ## 16 API disainimine
 
@@ -149,18 +156,39 @@ API-s tuleb kasutada [semantilist versioneerimist](http://semver.org/). Vt Googl
 
 ### 17 API spetsifitseerimine
 
-**Kirjelduse täielikkus**. Masinliides tuleb täielikult dokumenteerida. "Discovery-based documentation" (API käitumise väljaselgitamine katse-eksituse teel) ei ole aktsepteeritav. **Formalismi kasutamine**. Vajalik on formaalne kirjeldus, mis ühtlasi peab olema ka inimloetav. "Vabas vormis" dokumenteerimine on vastuvõetav ainult triviaalsete liideste puhul. Formaalne kirjeldamine ei ole eesmärk omaette, vaid vahend kirjelduse täielikkuse ja üheseltmõistetavuse saavutamiseks. REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit: 1) [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification), endise nimega **Swagger**, kasutab aluskeelena YAML-i või JSON-it; 2) [API Blueprint](https://apiblueprint.org/) kasutab aluskeelena Markdown-i ("_a powerful high-level API description language_"). Eelistatud on OpenAPI kirjelduskeele kasutamine. [Extended Backus-Naur Form (EBNF)](https://cloud.google.com/apis/design/design_patterns#grammar_syntax) on samuti hea formalism.
+**Kirjelduse täielikkus**. Masinliides tuleb täielikult dokumenteerida. "Discovery-based documentation" (API käitumise väljaselgitamine katse-eksituse teel) ei ole aktsepteeritav.
+{: .noue}
 
-**Näited**. Näite või näidete lisamine on tingimata vajalik. Seejuures kirjeldamine ainuüksi näite abil ei ole piisav. **Navigeeritavus**. API kirjeldus peab olema navigeeritav. **Avalikkus**. API kirjeldus tuleb avalikult publitseerida. **Ajakohasus**. API kirjeldust tuleb hoida ajakohasena. See tähendab, et API käitumine peab vastama kirjeldusele.
+**Formalismi kasutamine**. Vajalik on formaalne kirjeldus, mis ühtlasi peab olema ka inimloetav.
+
+"Vabas vormis" dokumenteerimine on vastuvõetav ainult triviaalsete liideste puhul.
+{: .noue}
+
+Formaalne kirjeldamine ei ole eesmärk omaette, vaid vahend kirjelduse täielikkuse ja üheseltmõistetavuse saavutamiseks. REST API-de dokumenteerimise kohta on kaks laialtlevinud standardit: 1) [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification), endise nimega **Swagger**, kasutab aluskeelena YAML-i või JSON-it; 2) [API Blueprint](https://apiblueprint.org/) kasutab aluskeelena Markdown-i ("_a powerful high-level API description language_"). Eelistatud on OpenAPI kirjelduskeele kasutamine. [Extended Backus-Naur Form (EBNF)](https://cloud.google.com/apis/design/design_patterns#grammar_syntax) on samuti hea formalism.
+
+**Näited**. Näite või näidete lisamine on tingimata vajalik. Seejuures kirjeldamine ainuüksi näite abil ei ole piisav.
+{: .noue}
+
+**Navigeeritavus**. API kirjeldus peaks olema navigeeritav.
+
+**Avalikkus**. API kirjeldus tuleb selgelt, tavaliselt avalikult, publitseerida. 
+{: .noue}
+
+**Ajakohasus**. API kirjeldust tuleb hoida ajakohasena. See tähendab, et API käitumine peab vastama kirjeldusele.
+{: .noue}
 
 ### 18 API tarkvaraline teostamine
 
-REST API-de tegemise vahendeid pakutakse paljudel platvormidel ja raamistikes. Mõnda platvormi on API-d vaikimisi sisse ehitatud. Nt: [Spring Boot](https://spring.io/guides/gs/actuator-service/); [PostgreSQL Restful API](https://www.postgresql.org/about/news/1616/); [Google Apps Script](https://trevorfox.com/2015/03/rest-api-with-google-apps-script/).
+REST API-de tegemise vahendeid pakutakse paljudel platvormidel ja raamistikes. Mõnda platvormi on API-d vaikimisi sisse ehitatud. Nt: [Spring Boot](https://spring.io/guides/gs/actuator-service/); [PostgreSQL Restful API](https://www.postgresql.org/about/news/1616/); [Google Apps Script](https://trevorfox.com/2015/03/rest-api-with-google-apps-script/). Vt ka jaotis "API tööriistad".
 
 ### 19 API testimine
 
-**Testide katvus**. Testid peavad hõlmama kõiki ressursitüüpe ja kõiki meetodeid. **Automatiseerimine**. API testid tuleb automatiseerida vähemalt testikogumit käitava skripti tasemel.
+**Testide katvus**. Testid peavad hõlmama kõiki ressursitüüpe ja kõiki meetodeid.
+{: .noue}
 
-### 20 API kasutamise mõõtmine
+**Automatiseerimine**. API testid tuleb automatiseerida vähemalt testikogumit käitava skripti tasemel.
+{: .noue}
 
-API kasutamise mõõtmise ja monitooringu võimalused tuleb ette näha juba API projekteerimisel.
+### 20 API kasutuse mõõtmine
+
+Ei ole mõtet teha liidest, mida keegi ei kasuta. API kasutuse mõõtmine (statistika kogumine) peaks olema API elutsükli standardne osa. Vajalik võib olla ka API kasutuse monitooring (turvakaalutlustel). Vastavad võimalused tuleks ette näha juba API kavandamisel.
