@@ -18,11 +18,11 @@ Juhis esitab terminoloogia, nõuded ja soovitused REST API-de projekteerimiseks,
 
 ## 1 API elutsükkel
 
-**API** (_application programming interface_) e **masinliides** on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja laiemalt võttes suur osa tänapäevasest infotöötlusest.
+**API** (_application programming interface_) e **masinliides** on eraldi käitatavate ja/või arendatavate süsteemide või komponentide sidumise viis. API-del põhineb süsteemide lõimimine (_systems integration_), hajusarhitektuursed lahendused, sh mikroteenused ja üldse suur osa tänapäevasest infotöötlusest.
 
-**API-põhine arhitektuur**, nn **API first** strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government), toob kaasa API-de arvu ja keerukuse kasvu. Moodsad süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Masinloetav API ja inimkasutaja liides toetavad ja täiendavad teineteist. Vt ka Kütt, A (2016) [Reference Architecture for Cloud-Ready Government Systems](https://github.com/e-gov/fox), nn "Rebaseregister".
+**API-põhine arhitektuur**, nn **API first** strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government), toob kaasa API-de arvu ja keerukuse kasvu. Süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Masinloetav API ja inimkasutaja liides toetavad ja täiendavad teineteist. Vt ka Kütt, A (2016) [Reference Architecture for Cloud-Ready Government Systems](https://github.com/e-gov/fox), nn "Rebaseregister".
 
-**API elutsükli** moodustavad hulk  tegevusi. Nende seas on: 
+**API elutsükli** moodustavad hulk  tegevusi: 
 
 - API kavandamine
 - API projekteerimine
@@ -38,21 +38,19 @@ Juhis esitab terminoloogia, nõuded ja soovitused REST API-de projekteerimiseks,
 
 API arendamisel tuleb kõiki neid aspekte adekvaatselt käsitleda.
 
-## 2 APIde disainijuhised
+## 2 API-juhised
 
-API disainimisel saab soovitada järgmisi allikaid.
+API kavandamisel saab eeskuju võtta muuhulgas järgmistest juhistest jm materjalidest:
 
-**Google API disainijuhis**, [Google API Design Guide](https://cloud.google.com/apis/design), avaldati 2017. a veeburaris. See on üks parimaid materjale REST API-de disaini vallas. Juhisesse on kogutud Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted. Seejuures on püütud ühtselt käsitleda REST ja RPC teenuseid. REST API-de kujundamisel on otstarbekas lähtuda eelkõige Google API disainijuhisest. Kuid tuleb arvestada, et kõik Google nõuded ei ole kohaldatavad. [APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea populaarne ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina. [Amazon API Gateway Developer Guide](http://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-dg.pdf) on Amazoni-spetsiifiline, kuid annab aimu API loomise ja haldamise erinevatest aspektidest. [White House Web API Standards](https://github.com/WhiteHouse/api-standards) on kompaktne, hea juhis REST API-de kujundamiseks. [Todo-backend](http://todobackend.com/) näitab kuidas lihtsat API-t (TO DO märkmed) teostada erinevate tehnoloogiatega.
+- Google API disainijuhis, [Google API Design Guide](https://cloud.google.com/apis/design), avaldati 2017. a veeburaris. See on üks parimaid materjale REST API-de disaini vallas. Juhisesse on kogutud Google-is 2014. a alates rakendatud API-de disaininõuded ja -põhimõtted. Seejuures on püütud ühtselt käsitleda REST ja RPC teenuseid. REST API-de kujundamisel on otstarbekas lähtuda eelkõige Google API disainijuhisest. Kuid tuleb arvestada, et kõik Google nõuded ei ole kohaldatavad.
+- [APIs for Dummies](http://www.appythings.nl/sites/default/files/api_for_dummies.pdf) on hea populaarne ülevaade ja sissejuhatus "API-majandusse" (_API economy_), kuid ei ole kasutatav disainijuhendina.
+- [Amazon API Gateway Developer Guide](http://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-dg.pdf) on Amazoni-spetsiifiline, kuid annab aimu API loomise ja haldamise erinevatest aspektidest.
+- [White House Web API Standards](https://github.com/WhiteHouse/api-standards) on kompaktne, hea juhis REST API-de kujundamiseks.
+- [Todo-backend](http://todobackend.com/) näitab kuidas lihtsat API-t (TO DO märkmed) teostada erinevate tehnoloogiatega.
 
-## 3 API disaini lähteparameetrid
+## 3 API kavandamise lähteparameetrid
 
-Disaini mõjutavad liidese kavandatavad kasutusparameetrid:
-
-- kas liides on avalik, kõigile vabalt kasutamiseks või on vaja ligipääsu piirata?
-- kas liides on mõeldud kasutamiseks turvatud sisevõrgus või avalikus internetis?
-- kas kasutatakse REST, SOAP või mõnda muud stiili? 
-
-Käesolev juhis keskendub [REST API](https://spring.io/understanding/REST)-dele.
+Kavandamist mõjutavad liidese kavandatavad kasutusparameetrid: 1) kas liides on avalik, kõigile vabalt kasutamiseks või on vaja ligipääsu piirata? 2) kas liides on mõeldud kasutamiseks turvatud sisevõrgus või avalikus internetis? 3) kas kasutatakse REST, SOAP või mõnda muud stiili? Käesolev juhis keskendub [REST API](https://spring.io/understanding/REST)-dele.
 
 ## 4 API tööriistad
 
@@ -69,7 +67,7 @@ API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud
 
 **API teenuse nimi** peab olema [RFC1035](https://www.ietf.org/rfc/rfc1035.txt) kohane domeeninimi, mis lahendub üheks või mitmeks võrguaadressiks. Nt `riha.eesti.ee`. Kui API kujundatakse mitmest teenusest koosnevana, siis peab teenusenimede valik toetama teenuste ülesleitavust. Mitut teenust saab ka pakkuda sama teenusenime all, esitades need pöördumistees teenuse versiooninumbri järel. Nt `riha.eesti.ee/v1/Producer` ja `riha.eesti.ee/v1/Publisher` (Google käsitlus). Vt Google disainijuhis, jaotis [Naming Conventions](https://cloud.google.com/apis/design/naming_convention#ListFilterField).
 
-### 6 Ressursid
+## 6 Ressursid
 
 **Ressursid** jagunevad **lihtressurssideks** (_simple resource_) ja **kogumressurssideks** (_collection resource_). Ressursil on **olek** (_state_) ja võivad olla **alamressursid** (_sub-resources_).
 
@@ -88,7 +86,7 @@ Nimemustri kujundamisel arvestada ka seda, et kasutajad mustrist aru saaksid.
 
 **Kogumressursi ID** (_collection ID_) peab olema mitmuses. Nt: `systems` (RIHA-s kirjeldatud infosüsteemide kogum). Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/design/resource_names). 
 
-### 7 Meetodid
+## 7 Meetodid
 
 **Meetodid** rakenduvad ressurssidele ja jagunevad standardmeetoditeks ja erimeetoditeks. **Standardmeetodid** Google käsitluses on `List`, `Get`, `Create`, `Update` ja `Delete`. Need esitatakse HTTP meetodite abil järgmiselt:
 
@@ -102,12 +100,12 @@ Nimemustri kujundamisel arvestada ka seda, et kasutajad mustrist aru saaksid.
 
 Nendest reeglitest on erisusi, vt Google disainijuhis, jaotis [Standard Methods](https://cloud.google.com/apis/design/standard_methods).
 
-**Erimeetod** on selline, mis kaldub kõrvale standardsest REST semantikast. Nt infosüsteemi omaniku vahetus. Kus vähegi võimalik, tuleks kasutada standardmeetodeid. Google disainijuhis, jaotis [Custom Methods](https://cloud.google.com/apis/design/custom_methods) pakub skeemi erimeetodite vormindamiseks (_custom verb_). Selle kasutamise otstarbekus vajab selgitamist.
+**Erimeetod** on selline, mis kaldub kõrvale standardsest REST semantikast. Nt infosüsteemi omaniku vahetus. Kus vähegi võimalik, tuleks kasutada standardmeetodeid. Google disainijuhis, jaotis [Custom Methods](https://cloud.google.com/apis/design/custom_methods) pakub skeemi erimeetodite vormindamiseks (_custom verb_).
 
-### 8 Protokollid
+## 8 Protokollid
 
 Arvestada turvatud HTTP protokolli kasutamisega (HTTPS, aga mitte näiteks [WebSocket](https://en.wikipedia.org/wiki/WebSocket). Viimane on uuem, TCP-põhine, veebisirvija ja -serveri vahel üheaegselt kahes suunas andmeedastust (full-duplex) võimaldav andmevahetusprotokoll).
-. 
+
 ## 9 Päringu moodustamine
 
 Andmete saatmiseks päringus on järgmised võimalused:
@@ -120,7 +118,7 @@ Andmete saatmiseks päringus on järgmised võimalused:
 
 ## 10 Filtreerimine ja sortimine
 
-Kui API pakub tulemuste nimekirja filtreerimist või sortimist, siis võiks järgida SQL süntaksit. Vt ka Google disainijuhend, jaotis [Sorting Order](https://cloud.google.com/apis/design/design_patterns#sorting_order) ja RIHA API spetsifikatsioon, jaotised "filter" ja "sort".
+Kui API pakub tulemuste nimekirja filtreerimist või sortimist, siis võiks järgida SQL süntaksit. Vt ka Google disainijuhend, jaotis [Sorting Order](https://cloud.google.com/apis/design/design_patterns#sorting_order).
 
 ## 11 Kauakestvad operatsioonid
 
@@ -141,7 +139,7 @@ Reeglina tuleb API-d kaitsta TLS-ga, ka sisevõrgus. (See tähendab, et pöördu
 
 Juurdepääs väliseks kasutuseks mõeldud API-le võib olla kas piiramata või piiratud **autentimistokeni** abil, mis tuleb päringule kaasa panna kas ühe parameetri või HTTP päises oleva väärtusena. Eelistatud on JWT ([JSON Web Token](https://jwt.io/)) autentimine. Vt Stankovic (2016), [JWT Authentication Tutorial: An example using Spring Boot](http://www.svlada.com/jwt-token-authentication-with-spring-boot/). Siiski tuleb igal konkreetselt juhul selgitada, kas JWT kasutamine on arendajale jõukohane ja äriliselt ning tehniliselt põhjendatud.
 
-### 15 API versioneerimine
+## 15 API versioneerimine
 
 API struktuuris tuleb taodelda stabiilsust.
 
@@ -154,7 +152,7 @@ Versioneerimisel on otstarbekas kasutada [semantilist versioneerimist](http://se
 
 [Google API Design Guide](https://cloud.google.com/apis/design/resources) soovitab järgmist tööde järjekorda (_design flow_): 1) määrata API-s pakutavad ressursitüübid (_resource types_); 2) määrata ressurssidevahelised seosed; 3)  määrata nimemustrid e -skeemid (_resource name schemes_); 4) määrata ressursiskeemid; 5) siduda minimaalne hulk meetodeid ressurssidega.
 
-### 17 API spetsifitseerimine
+## 17 API spetsifitseerimine
 
 **Kirjelduse täielikkus**. Masinliides tuleb täielikult dokumenteerida. "Discovery-based documentation" (API käitumise väljaselgitamine katse-eksituse teel) ei ole aktsepteeritav.
 {: .noue}
@@ -177,11 +175,11 @@ Formaalne kirjeldamine ei ole eesmärk omaette, vaid vahend kirjelduse täielikk
 **Ajakohasus**. API kirjeldust tuleb hoida ajakohasena. See tähendab, et API käitumine peab vastama kirjeldusele.
 {: .noue}
 
-### 18 API tarkvaraline teostamine
+## 18 API tarkvaraline teostamine
 
 REST API-de tegemise vahendeid pakutakse paljudel platvormidel ja raamistikes. Mõnda platvormi on API-d vaikimisi sisse ehitatud. Nt: [Spring Boot](https://spring.io/guides/gs/actuator-service/); [PostgreSQL Restful API](https://www.postgresql.org/about/news/1616/); [Google Apps Script](https://trevorfox.com/2015/03/rest-api-with-google-apps-script/). Vt ka jaotis "API tööriistad".
 
-### 19 API testimine
+## 19 API testimine
 
 **Testide katvus**. Testid peavad hõlmama kõiki ressursitüüpe ja kõiki meetodeid.
 {: .noue}
@@ -189,6 +187,6 @@ REST API-de tegemise vahendeid pakutakse paljudel platvormidel ja raamistikes. M
 **Automatiseerimine**. API testid tuleb automatiseerida vähemalt testikogumit käitava skripti tasemel.
 {: .noue}
 
-### 20 API kasutuse mõõtmine
+## 20 API kasutuse mõõtmine
 
 Ei ole mõtet teha liidest, mida keegi ei kasuta. API kasutuse mõõtmine (statistika kogumine) peaks olema API elutsükli standardne osa. Vajalik võib olla ka API kasutuse monitooring (turvakaalutlustel). Vastavad võimalused tuleks ette näha juba API kavandamisel.
