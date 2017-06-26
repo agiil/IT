@@ -10,6 +10,7 @@ Reeglid:
 
 - aktor (inimene) - "kriipsujukudena", roll tekstina all
 - inimene ütleb midagi (emotsionaalselt) - jutumull
+    - `*4@#!`
 - inimene mõtleb midagi - mõttemull 
 
 [xkcd](https://xkcd.com/) on veebis järjena ilmuv populaarne IT-koomiks.
