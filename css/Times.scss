@@ -55,7 +55,7 @@ p { margin: 0 0 1em 0; }
   display: inline-block;
   content: "-"; width: 1em; margin-left: -1em;
 }
-#markdown-toc ul { padding-left: 0 !important; }
+#markdown-toc { padding-left: 0 !important; }
 #markdown-toc li:before {
     content: none !important;
     margin-left: 0 !important;
