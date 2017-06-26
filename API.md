@@ -22,7 +22,7 @@ Juhis esitab terminoloogia, nõuded ja soovitused REST API-de projekteerimiseks,
 
 **API-põhine arhitektuur**, nn **API first** strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government), toob kaasa API-de arvu ja keerukuse kasvu. Süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Masinloetav API ja inimkasutaja liides toetavad ja täiendavad teineteist. Vt ka Kütt, A (2016) [Reference Architecture for Cloud-Ready Government Systems](https://github.com/e-gov/fox), nn "Rebaseregister".
 
-Süsteem peaks kogu oma andmestikku pakkuma masinloetaval kujul s.t APi kaudu.
+Süsteem peaks kogu oma andmestikku pakkuma masinloetaval kujul s.t API kaudu.
 {: .noue}
 
 **API elutsükli** moodustavad hulk  tegevusi: 
@@ -117,7 +117,7 @@ Google disainijuhis, jaotis [Custom Methods](https://cloud.google.com/apis/desig
 
 ## 8 Protokollid
 
-Arvestada turvatud HTTP protokolli kasutamisega (HTTPS, aga mitte näiteks [WebSocket](https://en.wikipedia.org/wiki/WebSocket). Viimane on uuem, TCP-põhine, veebisirvija ja -serveri vahel üheaegselt kahes suunas andmeedastust (full-duplex) võimaldav andmevahetusprotokoll).
+Arvestada turvatud HTTP protokolli kasutamisega (HTTPS, aga mitte näiteks [WebSocket](https://en.wikipedia.org/wiki/WebSocket). Viimane on uuem, TCP-põhine, veebisirvija ja -serveri vahel üheaegselt kahes suunas andmeedastust (_full-duplex_) võimaldav andmevahetusprotokoll).
 
 ## 9 Päringu moodustamine
 
@@ -167,7 +167,7 @@ Versioneerimisel on otstarbekas kasutada [semantilist versioneerimist](http://se
 
 ## 17 API spetsifitseerimine
 
-**Kirjelduse täielikkus**. Masinliides tuleb täielikult dokumenteerida. "Discovery-based documentation" (API käitumise väljaselgitamine katse-eksituse teel) ei ole aktsepteeritav.
+**Kirjelduse täielikkus**. Masinliides tuleb täielikult dokumenteerida. "_Discovery-based documentation_" (API käitumise väljaselgitamine katse-eksituse teel) ei ole aktsepteeritav.
 {: .noue}
 
 **Formalismi kasutamine**. Vajalik on formaalne kirjeldus, mis ühtlasi peab olema ka inimloetav.
