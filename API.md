@@ -22,6 +22,9 @@ Juhis esitab terminoloogia, nõuded ja soovitused REST API-de projekteerimiseks,
 
 **API-põhine arhitektuur**, nn **API first** strateegia [API First Government, Kütt 2016](https://www.slideshare.net/AndresKtt/api-first-government), toob kaasa API-de arvu ja keerukuse kasvu. Süsteemid, ka taristud, arenevad selles suunas, et kõik andmed ja kogu funktsionaalsus on kasutatavad API-de kaudu. Masinloetav API ja inimkasutaja liides toetavad ja täiendavad teineteist. Vt ka Kütt, A (2016) [Reference Architecture for Cloud-Ready Government Systems](https://github.com/e-gov/fox), nn "Rebaseregister".
 
+Süsteem peaks kogu oma andmestikku pakkuma masinloetaval kujul s.t APi kaudu.
+{: .noue}
+
 **API elutsükli** moodustavad hulk  tegevusi: 
 
 - API kavandamine
@@ -71,7 +74,12 @@ API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud
 
 **Ressursid** jagunevad **lihtressurssideks** (_simple resource_) ja **kogumressurssideks** (_collection resource_). Ressursil on **olek** (_state_) ja võivad olla **alamressursid** (_sub-resources_).
 
-**Ressursi nimi** moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest (Google käsitlus). Igal ressursil peab olema unikaalne nimi. Nt: `systems` (RIHA-s kirjeldatud infosüsteemide kogum) ja `systems/ETIS` (RIHAs kirjeldatud infosüsteem ETIS). 
+**Ressursi nimi** moodustub ressursi ID-st, vanemressursside ID-dest ja API teenuse nimest (Google käsitlus).
+
+Igal ressursil peab olema unikaalne nimi.
+{: .noue}
+
+Nt: `systems` (RIHA-s kirjeldatud infosüsteemide kogum) ja `systems/ETIS` (RIHAs kirjeldatud infosüsteem ETIS). 
 
 **Ressursi täisnimi** sarnaneb URL-le, kuid ei ole viimasega samaväärne, sest sama ressurss võib olla eksponeeritud mitme erineva protokolli ja API versiooni kaudu (Google käsitlus). Ressursi täisnimi moodustatakse järgmiselt: 1) lisada teenuse nime ette HTTPS skeem; 2) lisada ressursitee ette API major versioon; 3) kasutada URL-escape-i (%-encoding).
 
@@ -81,7 +89,7 @@ API-de arendamise, dokumenteerimise, testimise ja turvamise keerukus on tinginud
 
 Peab selgelt dokumenteerima, kas ressursi ID moodustatakse kliendi (kasutaja) või serveri poolt (Google disainijuhend).
 
-Nimemustri kujundamisel arvestada ka seda, et kasutajad mustrist aru saaksid.
+Nimemustri kujundamisel arvestada ka seda, et kasutajad mustrist aru saaksid ja nime oleks kerge kasutada.
 {: .noue}
 
 **Kogumressursi ID** (_collection ID_) peab olema mitmuses. Nt: `systems` (RIHA-s kirjeldatud infosüsteemide kogum). Vt Google disainijuhis, jaotis [Resource Names](https://cloud.google.com/apis/design/resource_names). 
@@ -100,7 +108,12 @@ Nimemustri kujundamisel arvestada ka seda, et kasutajad mustrist aru saaksid.
 
 Nendest reeglitest on erisusi, vt Google disainijuhis, jaotis [Standard Methods](https://cloud.google.com/apis/design/standard_methods).
 
-**Erimeetod** on selline, mis kaldub kõrvale standardsest REST semantikast. Nt infosüsteemi omaniku vahetus. Kus vähegi võimalik, tuleks kasutada standardmeetodeid. Google disainijuhis, jaotis [Custom Methods](https://cloud.google.com/apis/design/custom_methods) pakub skeemi erimeetodite vormindamiseks (_custom verb_).
+**Erimeetod** on selline, mis kaldub kõrvale standardsest REST semantikast. Nt infosüsteemi omaniku vahetus.
+
+Kus vähegi võimalik, tuleks kasutada REST standardmeetodeid.
+{: .noue}
+
+Google disainijuhis, jaotis [Custom Methods](https://cloud.google.com/apis/design/custom_methods) pakub skeemi erimeetodite vormindamiseks (_custom verb_).
 
 ## 8 Protokollid
 
