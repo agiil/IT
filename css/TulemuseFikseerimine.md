@@ -1,7 +1,7 @@
 ---
 layout: Times
-title: Kasutusvalmis tarkvara
-permalink: Kasutusvalmis
+title: Tulemuse fikseerimine
+permalink: TulemuseFikseerimine
 ---
 
 # Tulemuse fikseerimine
