@@ -6,9 +6,19 @@ permalink: TulemuseFikseerimine
 
 # Tulemuse fikseerimine
 
-Millal saame rääkida reaalsest tarkvarast? Minimaalne nõuete komplekt. Juhtmõte: Arendus peab olema agiilne, kuid tulemus tuleb fikseerida. 
+Millal saame rääkida reaalsest tarkvarast?
 
-Need 
+Lihtne vastus on, et ***reaalne tarkvara*** on selline, mida saab reaalselt kasutada. Kasutamine tähendab, mitte ainult seda, et kood kompileerub ja inimkasutada saab isegi midagi "näppida", vaid et:
+- tarkvarale saab tugineda, nii inimkasutamises kui ka liidestuste ja järgmiste tööde ettevalmistamisel;
+- eelneva tagamiseks - tarkvara väidab midagi (teenuse nimetuse, kasutusvoo kirjelduse, spetsifikatsiooni näol) ja väite kehtivuse kohta on objektiivseid tõendeid (testiraport ja -lood);
+- soovi korral saab arenduses teha pausi ja vahepeal ka produkti kasutamisega tegeleda; pärast pausi on arendus jätkatav, võimalik, et muutunud koosseisuga.
+- eelneva tagamiseks, repo põhjal, ilma arendamises osalenuid taga ajamata, mõistliku ajakuluga, on võimalik aru saada,  mida tarkvara teeb ja mida ei tee;
+
+Tarkvara, mis seda ei võimalda, on suuremal või vähemal määral ***viirastusvara*** (_phantomware_).
+
+Juhtmõte: Arendus peab olema agiilne, kuid tulemus tuleb fikseerida.
+
+Minimaalne nõuete komplekt, mille puhul saab rääkida reaalsest tarkvarast (kui õnnestub hoida asjad lihtsad, siis võib-olla on need ka piisavad): 
 
 | Nõutav omadus             | Selgitus |
 |-------------------|-----------|
@@ -22,15 +32,9 @@ Need
 | 7 Kood | Eraldi koodirepos. |
 | 8 Testidokumentatsioon | Peab olema arusaadav, mida ja mis tulemustega on testitud. Kuna testimine ei ole kunagi kattev, siis peab olema võimalik ka aru saada, mida ei ole testitud. Need eesmärgid saavutatakse tavaliselt testiraporti ja testilugude abil. Keerukamal juhul on vaja testistrateegiat, testimise arhitektuurijoonist, makettide kirjeldust jm. |
 | 9 Kood ja dokumentatsioon on kokku kogutud ja mittevajalikust eraldatud | Dokumentatsiooni hoitakse ka repos. Tavaliselt koos koodiga. Dokumentatsioon peab olema kokku kogutud, mitte erinevates kohtades laiali, uputatud muu teabe sisse. Mittevajalik on eraldi tõstetud. Valmis tarkvara juurde ei kuulu strateegiad, analüüsid, arhitektuurikavandid, arendusplaanid, ajakavad, edenemisaruanded, projektikoosolekute protokollid, memod, e-kirjad, nädalaaruanded, TODO-nimekirjad, Jira-taskid jne. Need on vajalikud arenduses oleva tarkvara puhul, samuti tarkvara edasiarendamisel. |
-| 10 Kood ja dokumentatsioon on ajakohane ja kooskõlas | |
-
-**Kasutamine** tähendab, et:
-- tarkvara väidab midagi (teenuse nimetuse, kasutusvoo kirjelduse, spetsifikatsiooni näol) ja väite kehtivuse kohta on objektiivseid tõendeid (testiraport ja -lood);
- tarkvarale saab tugineda, nii inimkasutamises kui ka liidestuste ja järgmiste tööde ettevalmistamisel;
-- repo põhjal, ilma arendamises osalenuid taga ajamata, mõistliku ajakuluga, on võimalik aru saada,  mida tarkvara teeb ja mida ei tee;
-- arenduses saab teha pausi ja vahepeal ka produkti kasutamisega tegeleda.
+| 10 Kood ja dokumentatsioon, sh testidokumentatsioon on ajakohane ja kooskõlas | |
 
 **Milleks see loetelu?** Tarkvaraarenduses on palju võimalusi enesepetmiseks ja soovmõtlemiseks, nii isiku, rühma kui ka organisatsiooni tasandil:
 - koodi on palju, see kompileerub (aga pole dokumenteeritud) -> palju tööd on tehtud
-- Confluence-is ja Outlook-is (aga koodi pole) -> palju tööd on tehtud
+- Confluence-is ja Outlook-is on palju dokumente ja kirju (aga koodi pole) -> palju tööd on tehtud
 - koosolekud toimuvad, kirjad liiguvad, projektiaruandluses on kõik OK, jne.
