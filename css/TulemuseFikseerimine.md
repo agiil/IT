@@ -9,7 +9,7 @@ permalink: TulemuseFikseerimine
 Millal saame rääkida reaalsest tarkvarast?
 
 Lihtne vastus: ***reaalne tarkvara*** on selline, mida saab reaalselt kasutada. Mitte ainult, et kood kompileerub ja saab isegi midagi "näppida", vaid et:
-- tarkvarale saab tugineda, nii inimkasutamises kui ka liidestamisel teiste tarkvradega ja järgmiste tööde ettevalmistamisel;
+- tarkvarale saab tugineda, nii inimkasutamises, teiste tarkvaradega liidestamisel kui ka järgmiste tööde ettevalmistamisel;
 - eelneva tagamiseks, tarkvara väidab midagi (teenuse nimetuse, kasutusvoo kirjelduse, spetsifikatsiooni näol) ja väite kehtivuse kohta on objektiivseid tõendeid (testiraport ja -lood);
 - soovi korral saab arenduses teha pausi ja vahepeal ka produkti kasutamisega tegeleda; pärast pausi on arendus jätkatav, võimalik, et teiste inimestega.
 - eelneva tagamiseks, repo põhjal, ilma arendamises osalenuid taga ajamata, mõistliku ajakuluga, on võimalik aru saada,  mida tarkvara teeb ja mida ei tee.
