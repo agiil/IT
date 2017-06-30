@@ -30,17 +30,17 @@ Minimaalne nõuete komplekt, mille puhul saab rääkida reaalsest tarkvarast (ku
 
 Artefaktid:
 
-- 0. Nimetus
-- 1. Ärikirjeldus
+- 0 Nimetus
+- 1 Ärikirjeldus
   - Teenuse nimetus
   - Sihtrühm
   - Kasutusvoo kirjeldus
-- 2. Tarkvara spetsifikatsioon
+- 2 Tarkvara spetsifikatsioon
   - Oluliste funktsionaalsete omaduste loetelu
   - Arhitektuurijoonis
   - Komponentskeem
-- 3. Kood
-- 4. Testidokumentatsioon
+- 3 Kood
+- 4 Testidokumentatsioon
   - Testiraport
   - Testilood.
 
