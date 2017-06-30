@@ -66,6 +66,7 @@ Omadused: Kood ja dokumentatsioon, sh testidokumentatsioon on:
 | Kood ja dokumentatsioon on kokku kogutud ja mittevajalikust eraldatud | Dokumentatsiooni hoitakse ka repos. Tavaliselt koos koodiga. Dokumentatsioon peab olema kokku kogutud, mitte erinevates kohtades laiali, uputatud muu teabe sisse. Mittevajalik on eraldi tõstetud. Valmis tarkvara juurde ei kuulu strateegiad, analüüsid, arhitektuurikavandid, arendusplaanid, ajakavad, edenemisaruanded, projektikoosolekute protokollid, memod, e-kirjad, nädalaaruanded, TODO-nimekirjad, Jira-taskid jne. Need on vajalikud arenduses oleva tarkvara puhul, samuti tarkvara edasiarendamisel. |
 
 **Milleks see loetelu?** Tarkvaraarenduses on palju võimalusi enesepetmiseks ja soovmõtlemiseks, nii isiku, rühma kui ka organisatsiooni tasandil:
-- koodi on palju, see kompileerub (aga pole dokumenteeritud) -> palju tööd on tehtud
-- Confluence-is ja Outlook-is on palju dokumente ja kirju (aga koodi pole) -> palju tööd on tehtud
-- koosolekud toimuvad, kirjad liiguvad, projektiaruandluses on kõik OK, jne -> palju tööd on tehtud.
+- koodi on palju, see kompileerub (aga pole dokumenteeritud) ⇒ palju tööd on tehtud
+- Confluence-is ja Outlook-is on palju dokumente ja kirju (aga koodi pole) ⇒ palju tööd on tehtud
+- koosolekud toimuvad, kirjad liiguvad, projektiaruandluses on kõik OK, jne ⇒ palju tööd on tehtud
+- tarkvara on põhimõtteliselt valmis, aga vaja veel testida (testimine käib juba pikemat aega) ⇒ palju tööd on tehtud.
