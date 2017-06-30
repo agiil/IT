@@ -46,9 +46,9 @@ Artefaktid:
 
 Omadused: Kood ja dokumentatsioon, sh testidokumentatsioon on:
 
-- 1. kokku kogutud või lingitud, kättesaadav ja navigeeritav
-- 2. eraldatud mittevajalikust teabest
-- 3. ajakohane ja kooskõlas.
+- 1 kokku kogutud või lingitud, kättesaadav ja navigeeritav
+- 2 eraldatud mittevajalikust teabest
+- 3 ajakohane ja kooskõlas.
 
 ## Selgitused
 
