@@ -24,19 +24,19 @@ permalink: Minisait
 
 `RÜHM`, kursusele registreerunud TUDENGIte kogum.
 
-`ÕPPEMATERJAL`, loengutekstid, juhendid, kood, kalender jm õppejõu poolt väljapandav tekstiline ja ka graafiline õppeteave.
+`ÕPPEMATERJAL`, loengutekstid, juhendid, koodinäited, kalender jm õppejõu poolt väljapandav tekstiline ja ka graafiline õppeteave.
 
 ## Kasutuslood
 
-`K1 materjalide ülespanemine` - ÕPPEJÕUD koostab loenguteksti, juhendi vm õppematerjali ja paneb KURSUSE MINISAIDILE üles (ülespanek võimalikult automatiseeritud)
+`K1 materjalide ülespanemine` - ÕPPEJÕUD koostab loenguteksti, juhendi vm õppematerjali ja paneb KURSUSE MINISAIDILE üles (ülespanek  automatiseeritud).
 
-`K2 töö esitamine` - TUDENG (töörühma üks liikmetest) saadab kirjaliku TÖÖ õppejõu Gmaili aadressile
+`K2 töö esitamine` - TUDENG (töörühma üks liikmetest) saadab kirjaliku TÖÖ õppejõu Gmaili aadressile.
 
 `K3 töö ettekandmine` - PRAKTIKUMIS TUDENG avab PROJEKTORiga ühendatud ÕPPEJÕUARVUTIs ÕPPEJÕU postkastis oma TÖÖ ja tutvustab seda RÜHMale.
 
-`K4 töö ettekandmise registreerimine` - TUDENG sisestab KURSUSE MINISAIDIL oma nime (typeahead), valib töö numbri ja märgib ettekandmise tehtuks.
+`K4 töö ettekandmise registreerimine` - TUDENG sisestab KURSUSE MINISAIDIL oma nime (see on kiire - typeahead-tehnoloogia), valib töö numbri ja märgib ettekandmise tehtuks.
 
-`K5 edenemise jälgimine` - RÜHMA liige või ÕPPEJÕUD, autenditult, vaatavad tabelit esitatud ja ettekantud tööde kohta (jooksvalt kujunevat hinnet)
+`K5 edenemise jälgimine` - RÜHMA liige või ÕPPEJÕUD, autenditult, vaatavad tabelit esitatud ja ettekantud tööde kohta (jooksvalt kujunevat hinnet).
 
 `K6 töö avamine` - TUDENG saab avada oma töö tutvumiseks teistele RÜHMA liikmetele. Selleks ta paneb oma töö pilve (nt Google Docs) ja annab KURSUSE MINISAIDIL teada töö aadressi.
 
