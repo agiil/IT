@@ -1,3 +1,8 @@
+---
+title: Kursuseprogramm
+permalink: Programm
+---
+
 IFI 6068 Sissejuhatus infosüsteemidesse | 2017 sügissemester
 
 # Kursuseprogramm
