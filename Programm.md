@@ -113,14 +113,17 @@ Kirjaliku eksami osas: 30% õigesti vastatud küsimusi vastab skaala `A`, `B`, `
 
 Lõpphinne moodustub ülesannete (iseseisva töö) ja kirjaliku eksami tulemuste summana. Ülesannete ja kirjaliku eksami tulemustel on lõpphindes osakaalud vastavalt 60% ja 40%.
 
-## Professionaalne käitumine
-Osalejatelt ootame korretset, tasakaalustatud, eetilist - ühesõnaga - IT asjatundjale kohast esinemist nii kõnes kui kirjas. Vastavaid küsimusi käsitleme ka loengutes.
+##	Eksam
+Eksam on kirjalik. Kõik alustavad koos. Eksamitöös tuleb vastata u 30 valikvastustega küsimusele, need kontrollivad loengus käsitletud teemade tundmist ja ka loogilise mõtlemise oskust. Eksamitöö tuleb teha iseseisvalt, mingeid kõrvalisi materjale või teiste abi kasutamata. 
 
-## Kursuse töökorralduse muutmine
+## Professionaalne käitumine
+Osalejatelt ootame korrektset, tasakaalustatud, eetilist - ühesõnaga - IT asjatundjale kohast esinemist nii kõnes kui kirjas. Vastavaid küsimusi käsitleme ka loengutes.
+
+## Töökorralduse muutmine
 Kursuses lähtume agiilarenduse filosoofiast. Töökorraldus ei ole kivisse raiutud. Tervitatavad on ettepanekud töökorralduse täiustamiseks. Kui need käivad kokku kursuse eesmärkidega, ülikooli õppekorralduse eeskirjaga ja akadeemilise tavaga ja teevad tööd lihtsamaks-paremaks, siis kindlasti.
 
 ## Kursuse veebileht
-Loengute ja praktikumide tekstid, samuti ülesanded jm kirjalik materjal avaldatakse kursuse veebilehel, mille aadress teatatakse esimeses loengus.
+Loengute ja praktikumide tekstid, samuti ülesanded jm kirjalik materjal avaldatakse kursuse veebilehel. Veebilehe aadress teatatakse esimeses loengus.
 
 ## Asenduskirjandus
 (üliõpilase poolt läbi töötatava kirjanduse loetelu, mis katab ainekursuse loengulist osa) Iga loengu kohta on veebilehel tekst. See ei ole sõna-sõnaline konspekt, kuid katab vähemalt punktidena loengus käsitletu. Igas loengutekstis on ka viited teemaga seotud olulisele kirjandusele. Tudeng, kes ei saa loengus osaleda, saab iseseisvalt teema läbi töötada, lugedes loenguteksti ja loengutekstis viidatud kirjandust.
