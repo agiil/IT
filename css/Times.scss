@@ -39,14 +39,14 @@ h1 { font-size: 130%;
 }
 
 h2 { font-weight: bold; font-size: 100%; 
-  margin: 1em 0 1em 0; }    
+  margin: 1em 0 0 0; }    
 
 h3 { font-size: 12pt; font-style: italic; font-weight: normal;
   line-height: 1.2; text-decoration: underline;
   margin: 0.2em 0 0.2em 0; }   
 
 /* Tekstiparagrahv */
-p { margin: 0 0 1em 0; }
+p { margin: 0; text-indent: 3rem; }
 
 /* Loetelud */
 #Tekst ul { list-style: none; margin: 0 0 1em 0;

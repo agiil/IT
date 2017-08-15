@@ -1,9 +1,12 @@
 ---
 title: Kursuseprogramm
 permalink: Programm
+layout: Times
 ---
 
-IFI 6068 Sissejuhatus infosüsteemidesse | 2017 sügissemester
+IFI 6068 Sissejuhatus infosüsteemidesse
+
+2017 sügissemester
 
 # Kursuseprogramm
 
@@ -53,21 +56,21 @@ Räägime ka arendaja elukutse võludest ja raskustest.
 
 ## Loengute ja praktikumide toimumise ajad, kohad ja teemad
 
-| Akadeemilise kalendri nädal/; Loengu (praktikumi) nr | Loengud:;  N 12:15 – 13:45 A-543 | Praktikumid:;  K 14:15 – 15:45 (rühm 1)  A-402 |  N 14:15 – 15:45 (rühm 2) A-402 |
+|: akadeemilise kalendri nädal/ loengu (praktikumi) nr :|: Loengud :| N 12:15 – 13:45 A-543 :|: Praktikumid :|: K 14:15 – 15:45 (rühm 1), N 14:15 – 15:45 (rühm 2) A-402 :|
 | 1/1  | 07.09 | Infokäitluse eesmärgid                       | 06(07).09 | Info kvaliteet|
 | 2/2  | 14.09 | Infosüsteemide üldised omadused ja tüpoloogia| 13(14).09 | Infovajadused|
 | 3/3  | 21.09 | Protsessid ja nende uurimine                 | 20(21).09    | Protsesside modelleerimine (IDEF0) |
 | 4/4  | 28.09 | Protsesside IT toetus; protsesside parendamine|27(28).09    | Protsesside modelleerimine (Swimlanes) |
 | 5/5  | 05.10 | Süsteemiarendus ja arendusmeetod             | 04(05).10    | Protsesside modelleerimine (versioon 2) |
-| 6/6  | 12.10 | Infoökonoomika | 11(12).10 | Maatriksmodelleerimine|
-| 7/7  | 19.10 | Infosüsteemide kaasusi| 18(19).10 | Maatriksmodelleerimine (tööde läbivaatus)|
+| 6/6  | 12.10 | Infoökonoomika | 11(12).10 | Maatriks- modelleerimine|
+| 7/7  | 19.10 | Infosüsteemide kaasusi| 18(19).10 | Maatriks- modelleerimine (tööde läbivaatus)|
 | 8    |       | Iseseisva töö nädal|
 | 9/8  | 02.11 | Eriteema ja/või vahekontrolltöö| 01(02).11 | Veel modelleerimismeetoditest|
 | 10/9 | 09.11 | Süsteemi arhitektuur | 08(09).11 | Süsteemi arhitektuuri kavandamine|
 | 11/10| 15.11 | Infosüsteemi füüsiline dimensioon | 15(16).11 | Infosüsteemi prototüüpimine|
 | 12/11| 23.11 | Andmete (info) roll infosüsteemis | 22(23).11 | Kontseptuaalne modelleerimine|
-| 13/12| 30.11 | Inimene ja infosüsteem | 29.11(30.11) | Nõuete dokumendi koostamine|
-| 14/13| 07.12 | Arendus- ja muutusprotsessid infosüsteemides | 06.12(07.12) | Infosüsteemi arendusplaani koostamine |
+| 13/12| 30.11 | Inimene ja infosüsteem | 29(30).11 | Nõuete dokumendi koostamine|
+| 14/13| 07.12 | Arendus- ja muutusprotsessid infosüsteemides | 06(07).12 | Infosüsteemi arendusplaani koostamine |
 | 15/14| 14.12 | Infosüsteemide arengutendentsidest | 13(14).12 | Infosüsteemi arendusplaani läbivaatus |
 
 ## Hindamismeetodid
