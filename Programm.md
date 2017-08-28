@@ -19,7 +19,7 @@ Eesmärgiks on ka propageerida ja sisse harjutada arenduses hädavajalikku töö
 
 ## Aine lühikirjeldus
 
-Uurimisobjektiks on IT rakendamine organisatsioonis, ettevõtte või asutuse äri- ja tegevuseesmärkide toetamiseks - nii, et arenduses õnnestuksid ja klient oleks rahul.
+Uurimisobjektiks on IT rakendamine organisatsioonis, ettevõtte või asutuse äri- ja tegevuseesmärkide toetamiseks - nii, et arendused õnnestuksid ja klient oleks rahul.
 
 Selleks, et IT-st organisatsioonis kasu oleks, ei piisa ainult programmeerimisest. Samavõrra olulised on: 1) oskus modelleerida (nii äriprotsesse kui ka tehnilisi lahendusi); 2) süsteemselt mõelda ja 3) innoveerida. Äärmiselt olulised on ka suhtlemisoskused - arendaja võimekus ärikasutajate ja kaasarendajate vajadustest aru saada ja oma töö tulemusi presenteerida.
 
